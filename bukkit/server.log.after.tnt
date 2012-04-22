@@ -1,0 +1,915 @@
+2012-03-21 02:08:17 [INFO] Starting minecraft server version 1.2.3
+2012-03-21 02:08:17 [INFO] Loading properties
+2012-03-21 02:08:17 [WARNING] server.properties does not exist
+2012-03-21 02:08:17 [INFO] Generating new properties file
+2012-03-21 02:08:17 [INFO] Starting Minecraft server on *:25565
+2012-03-21 02:08:17 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-21 02:08:17 [INFO] [Lockette] Loading Lockette v1.6
+2012-03-21 02:08:17 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
+2012-03-21 02:08:17 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
+2012-03-21 02:08:17 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ops.txt (No such file or directory)
+2012-03-21 02:08:17 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (No such file or directory)
+2012-03-21 02:08:18 [INFO] Preparing level "world"
+2012-03-21 02:08:18 [INFO] Converting map!
+2012-03-21 02:08:18 [INFO] Scanning folders...
+2012-03-21 02:08:18 [INFO] Total conversion count is 1
+2012-03-21 02:08:19 [INFO] Converting... 28%
+2012-03-21 02:08:19 [INFO] ----- Bukkit Auto Updater -----
+2012-03-21 02:08:19 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-03-21 02:08:19 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-03-21 02:08:19 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-03-21 02:08:19 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-03-21 02:08:19 [INFO] ----- ------------------- -----
+2012-03-21 02:08:20 [INFO] Converting... 53%
+2012-03-21 02:08:21 [INFO] Converting... 75%
+2012-03-21 02:08:21 [INFO] Default game type: 0
+2012-03-21 02:08:21 [INFO] Converting map!
+2012-03-21 02:08:21 [INFO] Scanning folders...
+2012-03-21 02:08:21 [INFO] Total conversion count is 4
+2012-03-21 02:08:22 [INFO] Converting... 26%
+2012-03-21 02:08:23 [INFO] Converting... 52%
+2012-03-21 02:08:25 [INFO] Converting... 95%
+2012-03-21 02:08:25 [INFO] Converting map!
+2012-03-21 02:08:25 [INFO] Scanning folders...
+2012-03-21 02:08:25 [INFO] Total conversion count is 4
+2012-03-21 02:08:26 [INFO] Converting... 51%
+2012-03-21 02:08:27 [INFO] Preparing start region for level 0 (Seed: -8039354424255375653)
+2012-03-21 02:08:27 [INFO] Preparing start region for level 1 (Seed: -8039354424255375653)
+2012-03-21 02:08:28 [INFO] Preparing spawn area: 12%
+2012-03-21 02:08:28 [INFO] Preparing start region for level 2 (Seed: -8039354424255375653)
+2012-03-21 02:08:29 [INFO] Preparing spawn area: 89%
+2012-03-21 02:08:29 [INFO] [Lockette] Enabling Lockette v1.6
+2012-03-21 02:08:29 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-03-21 02:08:29 [INFO] [Lockette] Detected craftbukkit build [2060] ok.
+2012-03-21 02:08:29 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-03-21 02:08:29 [INFO] [Lockette] Using ops file for admin permissions.
+2012-03-21 02:08:29 [INFO] [Lockette] Ready to protect your containers.
+2012-03-21 02:08:29 [INFO] Done (11.280s)! For help, type "help" or "?"
+2012-03-21 02:08:52 [INFO] CONSOLE: Turned off white-listing[0m
+2012-03-21 02:08:55 [INFO] CONSOLE: Opping lluoc[0m
+2012-03-21 02:09:02 [INFO] lluoc [/129.94.210.77:44624] logged in with entity id 153 at ([world] 242.5, 69.62000000476837, 275.5)
+2012-03-21 02:09:22 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-03-21 02:09:49 [INFO] Connection reset
+2012-03-21 02:09:49 [INFO] lluoc lost connection: disconnect.quitting
+2012-03-21 02:09:55 [INFO] lluoc [/129.94.210.77:44628] logged in with entity id 1444 at ([world] 247.6619269765107, 64.0, 265.8775780058871)
+2012-03-21 02:10:27 [INFO] [Lockette] lluoc has claimed a container.
+2012-03-21 02:10:34 [INFO] [Lockette] lluoc has released a container.
+2012-03-21 02:10:37 [INFO] lluoc lost connection: disconnect.quitting
+2012-03-21 02:10:37 [INFO] Connection reset
+2012-03-21 02:10:41 [INFO] CONSOLE: Stopping the server..[0m
+2012-03-21 02:10:41 [INFO] Stopping server
+2012-03-21 02:10:41 [INFO] [Lockette] Disabling Lockette v1.6
+2012-03-21 02:10:41 [INFO] Lockette is being disabled...  ;.;
+2012-03-21 02:10:41 [INFO] [Lockette] Closing all automatic doors.
+2012-03-21 02:10:41 [INFO] Saving chunks
+2012-03-21 02:10:42 [INFO] Stopping server
+2012-03-21 02:10:42 [INFO] Saving chunks
+2012-03-21 02:12:16 [INFO] Starting minecraft server version 1.2.3
+2012-03-21 02:12:16 [INFO] Loading properties
+2012-03-21 02:12:16 [INFO] Starting Minecraft server on *:25565
+2012-03-21 02:12:16 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-21 02:12:16 [INFO] [Lockette] Loading Lockette v1.6
+2012-03-21 02:12:16 [INFO] Preparing level "world"
+2012-03-21 02:12:17 [INFO] Default game type: 0
+2012-03-21 02:12:17 [INFO] ---- Migration of old nether folder required ----
+2012-03-21 02:12:17 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+2012-03-21 02:12:17 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2012-03-21 02:12:17 [INFO] Attempting to move world/DIM-1 to world_nether/DIM-1...
+2012-03-21 02:12:17 [INFO] Success! To restore nether in the future, simply move world_nether/DIM-1 to world/DIM-1
+2012-03-21 02:12:17 [INFO] ---- Migration of old nether folder complete ----
+2012-03-21 02:12:17 [INFO] ---- Migration of old the_end folder required ----
+2012-03-21 02:12:17 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+2012-03-21 02:12:17 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2012-03-21 02:12:17 [INFO] Attempting to move world/DIM1 to world_the_end/DIM1...
+2012-03-21 02:12:17 [INFO] Success! To restore the_end in the future, simply move world_the_end/DIM1 to world/DIM1
+2012-03-21 02:12:17 [INFO] ---- Migration of old the_end folder complete ----
+2012-03-21 02:12:17 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-03-21 02:12:18 [INFO] Preparing spawn area: 57%
+2012-03-21 02:12:18 [INFO] Preparing start region for level 1 (Seed: 4042483270677479659)
+2012-03-21 02:12:20 [INFO] Preparing spawn area: 16%
+2012-03-21 02:12:21 [INFO] Preparing spawn area: 93%
+2012-03-21 02:12:21 [INFO] Preparing start region for level 2 (Seed: 4042483270677479659)
+2012-03-21 02:12:22 [INFO] Preparing spawn area: 89%
+2012-03-21 02:12:22 [INFO] [Lockette] Enabling Lockette v1.6
+2012-03-21 02:12:22 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-03-21 02:12:22 [INFO] [Lockette] Detected craftbukkit build [2060] ok.
+2012-03-21 02:12:22 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-03-21 02:12:22 [INFO] [Lockette] Using ops file for admin permissions.
+2012-03-21 02:12:22 [INFO] [Lockette] Ready to protect your containers.
+2012-03-21 02:12:22 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-21 02:12:22 [INFO] Done (5.499s)! For help, type "help" or "?"
+2012-03-21 02:12:55 [INFO] lluoc [/129.94.210.77:44634] logged in with entity id 317 at ([world] -56.125, 85.0, -16.125)
+2012-03-21 02:13:30 [INFO] Connection reset
+2012-03-21 02:13:30 [INFO] lluoc lost connection: disconnect.quitting
+2012-03-21 02:13:32 [INFO] CONSOLE: Stopping the server..[0m
+2012-03-21 02:13:32 [INFO] Stopping server
+2012-03-21 02:13:32 [INFO] [Lockette] Disabling Lockette v1.6
+2012-03-21 02:13:32 [INFO] Lockette is being disabled...  ;.;
+2012-03-21 02:13:32 [INFO] [Lockette] Closing all automatic doors.
+2012-03-21 02:13:32 [INFO] Saving chunks
+2012-03-21 02:13:32 [INFO] Stopping server
+2012-03-21 02:13:32 [INFO] Saving chunks
+2012-03-21 02:13:57 [INFO] Starting minecraft server version 1.2.3
+2012-03-21 02:13:57 [INFO] Loading properties
+2012-03-21 02:13:57 [INFO] Starting Minecraft server on *:25565
+2012-03-21 02:13:57 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-21 02:13:58 [INFO] [Lockette] Loading Lockette v1.6
+2012-03-21 02:13:58 [INFO] Preparing level "world"
+2012-03-21 02:13:58 [INFO] Default game type: 0
+2012-03-21 02:13:58 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-03-21 02:13:59 [INFO] Preparing start region for level 1 (Seed: 4042483270677479659)
+2012-03-21 02:13:59 [INFO] Preparing spawn area: 4%
+2012-03-21 02:14:00 [INFO] Preparing start region for level 2 (Seed: 4042483270677479659)
+2012-03-21 02:14:00 [INFO] Preparing spawn area: 52%
+2012-03-21 02:14:00 [INFO] [Lockette] Enabling Lockette v1.6
+2012-03-21 02:14:00 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-03-21 02:14:00 [INFO] [Lockette] Detected craftbukkit build [2060] ok.
+2012-03-21 02:14:00 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-03-21 02:14:00 [INFO] [Lockette] Using ops file for admin permissions.
+2012-03-21 02:14:00 [INFO] [Lockette] Ready to protect your containers.
+2012-03-21 02:14:00 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-21 02:14:00 [INFO] Done (2.310s)! For help, type "help" or "?"
+2012-03-21 02:14:11 [INFO] lluoc [/129.94.210.77:48562] logged in with entity id 302 at ([world] -73.8210225180471, 92.0, -26.069167835767026)
+2012-03-21 02:15:00 [INFO] [Lockette] lluoc has claimed a container.
+2012-03-21 02:15:05 [INFO] [Lockette] lluoc has released a container.
+2012-03-21 02:15:17 [INFO] lluoc lost connection: disconnect.quitting
+2012-03-21 02:15:17 [INFO] Connection reset
+2012-03-21 02:19:29 [INFO] CONSOLE: Stopping the server..[0m
+2012-03-21 02:19:29 [INFO] Stopping server
+2012-03-21 02:19:29 [INFO] [Lockette] Disabling Lockette v1.6
+2012-03-21 02:19:29 [INFO] Lockette is being disabled...  ;.;
+2012-03-21 02:19:29 [INFO] [Lockette] Closing all automatic doors.
+2012-03-21 02:19:29 [INFO] Saving chunks
+2012-03-21 02:19:29 [INFO] Stopping server
+2012-03-21 02:20:39 [INFO] Starting minecraft server version 1.2.3
+2012-03-21 02:20:39 [INFO] Loading properties
+2012-03-21 02:20:39 [INFO] Starting Minecraft server on *:25565
+2012-03-21 02:20:39 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-21 02:20:40 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-03-21 02:20:40 [INFO] [Lockette] Loading Lockette v1.6
+2012-03-21 02:20:40 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-03-21 02:20:40 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-03-21 02:20:40 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-03-21 02:20:40 [INFO] Preparing level "world"
+2012-03-21 02:20:40 [INFO] Default game type: 0
+2012-03-21 02:20:40 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-03-21 02:20:41 [INFO] Preparing start region for level 1 (Seed: 4042483270677479659)
+2012-03-21 02:20:41 [INFO] Preparing spawn area: 0%
+2012-03-21 02:20:42 [INFO] Preparing start region for level 2 (Seed: 4042483270677479659)
+2012-03-21 02:20:42 [INFO] Preparing spawn area: 28%
+2012-03-21 02:20:42 [INFO] [Lockette] Enabling Lockette v1.6
+2012-03-21 02:20:42 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-03-21 02:20:42 [INFO] [Lockette] Detected craftbukkit build [2060] ok.
+2012-03-21 02:20:42 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-03-21 02:20:42 [INFO] [Lockette] Using ops file for admin permissions.
+2012-03-21 02:20:42 [INFO] [Lockette] Ready to protect your containers.
+2012-03-21 02:20:42 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-21 02:20:42 [INFO] Done (2.500s)! For help, type "help" or "?"
+2012-03-21 02:20:54 [INFO] lluoc [/129.94.210.77:53491] logged in with entity id 286 at ([world] -73.17916925957867, 89.0, -20.898436418954923)
+2012-03-21 02:21:00 [INFO] lluoc lost connection: disconnect.quitting
+2012-03-21 02:21:00 [INFO] Connection reset
+2012-03-21 02:21:02 [INFO] CONSOLE: Stopping the server..[0m
+2012-03-21 02:21:02 [INFO] Stopping server
+2012-03-21 02:21:02 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-03-21 02:21:02 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-03-21 02:21:02 [INFO] [Lockette] Disabling Lockette v1.6
+2012-03-21 02:21:02 [INFO] Lockette is being disabled...  ;.;
+2012-03-21 02:21:02 [INFO] [Lockette] Closing all automatic doors.
+2012-03-21 02:21:02 [INFO] Saving chunks
+2012-03-21 02:21:02 [INFO] Stopping server
+2012-03-21 02:22:44 [INFO] Starting minecraft server version 1.2.3
+2012-03-21 02:22:44 [INFO] Loading properties
+2012-03-21 02:22:44 [INFO] Starting Minecraft server on *:25565
+2012-03-21 02:22:44 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-21 02:22:44 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-03-21 02:22:44 [INFO] [Lockette] Loading Lockette v1.6
+2012-03-21 02:22:44 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-03-21 02:22:44 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-03-21 02:22:44 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-03-21 02:22:44 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-03-21 02:22:44 [INFO] Preparing level "world"
+2012-03-21 02:22:44 [INFO] Default game type: 0
+2012-03-21 02:22:44 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-03-21 02:22:45 [INFO] Preparing start region for level 1 (Seed: 4042483270677479659)
+2012-03-21 02:22:45 [INFO] Preparing spawn area: 3%
+2012-03-21 02:22:46 [INFO] Preparing start region for level 2 (Seed: 4042483270677479659)
+2012-03-21 02:22:46 [INFO] Preparing spawn area: 52%
+2012-03-21 02:22:46 [INFO] [Lockette] Enabling Lockette v1.6
+2012-03-21 02:22:46 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-03-21 02:22:46 [INFO] [Lockette] Detected craftbukkit build [2060] ok.
+2012-03-21 02:22:47 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-03-21 02:22:47 [INFO] [Lockette] Using ops file for admin permissions.
+2012-03-21 02:22:47 [INFO] [Lockette] Ready to protect your containers.
+2012-03-21 02:22:47 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-03-21 02:22:47 [INFO] [MobRider] Default config created successfully!
+2012-03-21 02:22:47 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-03-21 02:22:47 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-21 02:22:47 [INFO] Done (2.482s)! For help, type "help" or "?"
+2012-03-21 02:22:59 [INFO] lluoc [/129.94.210.77:53529] logged in with entity id 284 at ([world] -73.17916925957867, 89.0, -20.898436418954923)
+2012-03-21 02:26:16 [INFO] lluoc: Set time to 12[0m
+2012-03-21 02:31:38 [INFO] Connection reset
+2012-03-21 02:31:38 [INFO] lluoc lost connection: disconnect.quitting
+2012-03-21 02:32:20 [INFO] CONSOLE: Stopping the server..[0m
+2012-03-21 02:32:20 [INFO] Stopping server
+2012-03-21 02:32:20 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-03-21 02:32:20 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-03-21 02:32:20 [INFO] [Lockette] Disabling Lockette v1.6
+2012-03-21 02:32:20 [INFO] Lockette is being disabled...  ;.;
+2012-03-21 02:32:20 [INFO] [Lockette] Closing all automatic doors.
+2012-03-21 02:32:20 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-03-21 02:32:20 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-03-21 02:32:20 [INFO] Saving chunks
+2012-03-21 02:32:21 [INFO] Stopping server
+2012-03-21 02:36:06 [INFO] Starting minecraft server version 1.2.3
+2012-03-21 02:36:06 [INFO] Loading properties
+2012-03-21 02:36:06 [INFO] Starting Minecraft server on *:25565
+2012-03-21 02:36:06 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-21 02:36:07 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-03-21 02:36:07 [INFO] [Lockette] Loading Lockette v1.6
+2012-03-21 02:36:07 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-03-21 02:36:07 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-03-21 02:36:07 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-03-21 02:36:07 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-03-21 02:36:07 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-03-21 02:36:07 [INFO] Preparing level "world"
+2012-03-21 02:36:07 [INFO] Default game type: 0
+2012-03-21 02:36:07 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-03-21 02:36:08 [INFO] Preparing start region for level 1 (Seed: 4042483270677479659)
+2012-03-21 02:36:08 [INFO] Preparing spawn area: 0%
+2012-03-21 02:36:09 [INFO] Preparing start region for level 2 (Seed: 4042483270677479659)
+2012-03-21 02:36:09 [INFO] Preparing spawn area: 32%
+2012-03-21 02:36:09 [INFO] [Lockette] Enabling Lockette v1.6
+2012-03-21 02:36:09 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-03-21 02:36:09 [INFO] [Lockette] Detected craftbukkit build [2060] ok.
+2012-03-21 02:36:09 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-03-21 02:36:09 [INFO] [Lockette] Using ops file for admin permissions.
+2012-03-21 02:36:09 [INFO] [Lockette] Ready to protect your containers.
+2012-03-21 02:36:09 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-03-21 02:36:09 [INFO] PickBoat version 0.4 is enabled!
+2012-03-21 02:36:09 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-03-21 02:36:09 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-03-21 02:36:09 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-21 02:36:09 [INFO] Done (2.496s)! For help, type "help" or "?"
+2012-03-21 02:36:16 [INFO] lluoc [/129.94.210.77:59012] logged in with entity id 296 at ([world] -86.40243435137528, 63.0, 75.31781433680347)
+2012-03-21 02:36:59 [INFO] lluoc: Giving lluoc some 1 (STONE)[0m
+2012-03-21 02:37:19 [INFO] lluoc: Giving lluoc some 329 (SADDLE)[0m
+2012-03-21 02:39:11 [INFO] lluoc lost connection: disconnect.quitting
+2012-03-21 02:39:11 [INFO] Connection reset
+2012-03-21 02:39:15 [INFO] CONSOLE: Stopping the server..[0m
+2012-03-21 02:39:15 [INFO] Stopping server
+2012-03-21 02:39:15 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-03-21 02:39:15 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-03-21 02:39:15 [INFO] [Lockette] Disabling Lockette v1.6
+2012-03-21 02:39:15 [INFO] Lockette is being disabled...  ;.;
+2012-03-21 02:39:15 [INFO] [Lockette] Closing all automatic doors.
+2012-03-21 02:39:15 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-03-21 02:39:15 [INFO] Disabling PickBoat
+2012-03-21 02:39:15 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-03-21 02:39:15 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-03-21 02:39:15 [INFO] Saving chunks
+2012-03-21 02:39:15 [INFO] Stopping server
+2012-03-21 02:39:15 [INFO] Saving chunks
+2012-03-21 02:40:00 [INFO] Starting minecraft server version 1.2.3
+2012-03-21 02:40:00 [INFO] Loading properties
+2012-03-21 02:40:00 [INFO] Starting Minecraft server on *:25565
+2012-03-21 02:40:00 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-21 02:40:00 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-03-21 02:40:00 [INFO] [Lockette] Loading Lockette v1.6
+2012-03-21 02:40:00 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-03-21 02:40:00 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-03-21 02:40:00 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-03-21 02:40:00 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-03-21 02:40:00 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-03-21 02:40:01 [INFO] Preparing level "world"
+2012-03-21 02:40:01 [INFO] Default game type: 0
+2012-03-21 02:40:01 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-03-21 02:40:01 [INFO] Preparing start region for level 1 (Seed: 4042483270677479659)
+2012-03-21 02:40:02 [INFO] Preparing spawn area: 4%
+2012-03-21 02:40:02 [INFO] Preparing start region for level 2 (Seed: 4042483270677479659)
+2012-03-21 02:40:03 [INFO] Preparing spawn area: 48%
+2012-03-21 02:40:03 [INFO] [Lockette] Enabling Lockette v1.6
+2012-03-21 02:40:03 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-03-21 02:40:03 [INFO] [Lockette] Detected craftbukkit build [2060] ok.
+2012-03-21 02:40:03 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-03-21 02:40:03 [INFO] [Lockette] Using ops file for admin permissions.
+2012-03-21 02:40:03 [INFO] [Lockette] Ready to protect your containers.
+2012-03-21 02:40:03 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-03-21 02:40:03 [INFO] PickBoat version 0.4 is enabled!
+2012-03-21 02:40:03 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-03-21 02:40:03 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-03-21 02:40:03 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-21 02:40:03 [INFO] Done (2.474s)! For help, type "help" or "?"
+2012-03-21 02:40:07 [INFO] lluoc [/129.94.210.77:42296] logged in with entity id 295 at ([world] -51.075972548825696, 63.015625, 41.71096814593537)
+2012-03-21 02:41:24 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-03-21 02:42:23 [WARNING] [MobRider] Unknown creature net.minecraft.server.EntityEnderDragon@114
+2012-03-21 02:43:07 [INFO] <lluoc> gamemode lluoc 0[0m
+2012-03-21 02:43:48 [INFO] Read timed out
+2012-03-21 02:43:48 [INFO] lluoc lost connection: disconnect.endOfStream
+2012-03-21 02:45:02 [INFO] lluoc [/129.94.210.77:48490] logged in with entity id 3087 at ([world] -73.5, 80.0, -24.5)
+2012-03-21 02:45:07 [INFO] lluoc lost connection: disconnect.quitting
+2012-03-21 02:45:07 [INFO] Connection reset
+2012-03-21 02:47:02 [INFO] CONSOLE: Stopping the server..[0m
+2012-03-21 02:47:02 [INFO] Stopping server
+2012-03-21 02:47:02 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-03-21 02:47:02 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-03-21 02:47:02 [INFO] [Lockette] Disabling Lockette v1.6
+2012-03-21 02:47:02 [INFO] Lockette is being disabled...  ;.;
+2012-03-21 02:47:02 [INFO] [Lockette] Closing all automatic doors.
+2012-03-21 02:47:02 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-03-21 02:47:02 [INFO] Disabling PickBoat
+2012-03-21 02:47:02 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-03-21 02:47:02 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-03-21 02:47:02 [INFO] Saving chunks
+2012-03-21 02:47:03 [INFO] Stopping server
+2012-03-21 02:50:11 [INFO] Starting minecraft server version 1.2.3
+2012-03-21 02:50:11 [INFO] Loading properties
+2012-03-21 02:50:11 [INFO] Starting Minecraft server on *:25565
+2012-03-21 02:50:11 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-21 02:50:12 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-03-21 02:50:12 [INFO] [Lockette] Loading Lockette v1.6
+2012-03-21 02:50:12 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-03-21 02:50:12 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-03-21 02:50:12 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-03-21 02:50:12 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-03-21 02:50:12 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-03-21 02:50:12 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (No such file or directory)
+2012-03-21 02:50:12 [INFO] Preparing level "world"
+2012-03-21 02:50:12 [INFO] Default game type: 0
+2012-03-21 02:50:12 [INFO] ---- Migration of old nether folder required ----
+2012-03-21 02:50:12 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+2012-03-21 02:50:12 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2012-03-21 02:50:12 [INFO] Attempting to move world/DIM-1 to world_nether/DIM-1...
+2012-03-21 02:50:12 [INFO] Success! To restore nether in the future, simply move world_nether/DIM-1 to world/DIM-1
+2012-03-21 02:50:12 [INFO] ---- Migration of old nether folder complete ----
+2012-03-21 02:50:12 [INFO] ---- Migration of old the_end folder required ----
+2012-03-21 02:50:12 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+2012-03-21 02:50:12 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2012-03-21 02:50:12 [INFO] Attempting to move world/DIM1 to world_the_end/DIM1...
+2012-03-21 02:50:12 [INFO] Success! To restore the_end in the future, simply move world_the_end/DIM1 to world/DIM1
+2012-03-21 02:50:12 [INFO] ---- Migration of old the_end folder complete ----
+2012-03-21 02:50:12 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-03-21 02:50:13 [INFO] Preparing spawn area: 73%
+2012-03-21 02:50:13 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-03-21 02:50:14 [INFO] Preparing spawn area: 48%
+2012-03-21 02:50:15 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-03-21 02:50:15 [INFO] [Lockette] Enabling Lockette v1.6
+2012-03-21 02:50:15 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-03-21 02:50:15 [INFO] [Lockette] Detected craftbukkit build [2060] ok.
+2012-03-21 02:50:15 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-03-21 02:50:15 [INFO] [Lockette] Using ops file for admin permissions.
+2012-03-21 02:50:15 [INFO] [Lockette] Ready to protect your containers.
+2012-03-21 02:50:15 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-03-21 02:50:15 [INFO] PickBoat version 0.4 is enabled!
+2012-03-21 02:50:15 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-03-21 02:50:15 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-03-21 02:50:15 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-21 02:50:15 [INFO] Done (3.256s)! For help, type "help" or "?"
+2012-03-21 02:50:25 [INFO] lluoc [/129.94.210.77:51024] logged in with entity id 316 at ([world] -56.125, 85.0, -16.125)
+2012-03-21 02:50:29 [INFO] Connection reset
+2012-03-21 02:50:29 [INFO] lluoc lost connection: disconnect.quitting
+2012-03-21 02:50:32 [INFO] CONSOLE: Stopping the server..[0m
+2012-03-21 02:50:32 [INFO] Stopping server
+2012-03-21 02:50:32 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-03-21 02:50:32 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-03-21 02:50:32 [INFO] [Lockette] Disabling Lockette v1.6
+2012-03-21 02:50:32 [INFO] Lockette is being disabled...  ;.;
+2012-03-21 02:50:32 [INFO] [Lockette] Closing all automatic doors.
+2012-03-21 02:50:32 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-03-21 02:50:32 [INFO] Disabling PickBoat
+2012-03-21 02:50:32 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-03-21 02:50:32 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-03-21 02:50:32 [INFO] Saving chunks
+2012-03-21 02:50:32 [INFO] Stopping server
+2012-03-21 02:50:32 [INFO] Saving chunks
+2012-03-21 02:54:20 [INFO] Starting minecraft server version 1.2.3
+2012-03-21 02:54:20 [INFO] Loading properties
+2012-03-21 02:54:20 [INFO] Starting Minecraft server on *:25565
+2012-03-21 02:54:20 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-21 02:54:20 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-03-21 02:54:20 [INFO] [Lockette] Loading Lockette v1.6
+2012-03-21 02:54:20 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-03-21 02:54:20 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-03-21 02:54:20 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-03-21 02:54:20 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-03-21 02:54:20 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-03-21 02:54:20 [INFO] Preparing level "world"
+2012-03-21 02:54:20 [INFO] Default game type: 0
+2012-03-21 02:54:20 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-03-21 02:54:21 [INFO] Preparing spawn area: 56%
+2012-03-21 02:54:22 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-03-21 02:54:22 [INFO] Preparing spawn area: 52%
+2012-03-21 02:54:23 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-03-21 02:54:23 [INFO] [Lockette] Enabling Lockette v1.6
+2012-03-21 02:54:23 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-03-21 02:54:23 [INFO] [Lockette] Detected craftbukkit build [2060] ok.
+2012-03-21 02:54:23 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-03-21 02:54:23 [INFO] [Lockette] Using ops file for admin permissions.
+2012-03-21 02:54:23 [INFO] [Lockette] Ready to protect your containers.
+2012-03-21 02:54:23 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-03-21 02:54:23 [INFO] PickBoat version 0.4 is enabled!
+2012-03-21 02:54:23 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-03-21 02:54:23 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-03-21 02:54:23 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-21 02:54:23 [INFO] Done (3.182s)! For help, type "help" or "?"
+2012-03-21 02:54:50 [INFO] lluoc [/129.94.210.77:58825] logged in with entity id 309 at ([world] -56.125, 85.0, -16.125)
+2012-03-21 02:54:56 [INFO] Connection reset
+2012-03-21 02:54:56 [INFO] lluoc lost connection: disconnect.quitting
+2012-03-21 02:59:11 [INFO] lluoc [/129.94.210.77:49665] logged in with entity id 335 at ([world] -56.125, 85.0, -16.125)
+2012-03-21 02:59:15 [INFO] Connection reset
+2012-03-21 02:59:15 [INFO] lluoc lost connection: disconnect.quitting
+2012-03-21 03:46:48 [INFO] Connection reset
+2012-03-21 04:30:26 [INFO] TrialZ [/129.94.125.243:41775] logged in with entity id 712 at ([world] 3924.0238246422023, 72.0, 3712.937818414288)
+2012-03-21 04:30:41 [SEVERE] java.net.SocketException: Socket closed
+2012-03-21 04:30:41 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+2012-03-21 04:30:41 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-03-21 04:30:41 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-03-21 04:30:41 [SEVERE] 	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2012-03-21 04:30:41 [SEVERE] 	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+2012-03-21 04:30:41 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-03-21 04:30:42 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-03-21 04:30:46 [INFO] TrialZ [/129.94.125.243:41786] logged in with entity id 1069 at ([world] 3924.0238246422023, 72.0, 3712.937818414288)
+2012-03-21 04:31:29 [INFO] Connection reset
+2012-03-21 04:31:29 [INFO] TrialZ lost connection: disconnect.quitting
+2012-03-21 04:52:35 [INFO] TrialZ [/129.94.125.243:42288] logged in with entity id 1425 at ([world] 3883.791739257018, 72.0, 3712.2307646214076)
+2012-03-21 04:52:54 [INFO] dahlukeh [/149.171.13.124:61790] logged in with entity id 1640 at ([world] 3862.7011818106484, 72.0, 3654.046479554057)
+2012-03-21 04:53:56 [INFO] Read timed out
+2012-03-21 04:53:56 [SEVERE] java.net.SocketException: Socket closed
+2012-03-21 04:53:56 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+2012-03-21 04:53:56 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-03-21 04:53:56 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-03-21 04:53:56 [SEVERE] 	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2012-03-21 04:53:56 [SEVERE] 	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+2012-03-21 04:53:56 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-03-21 04:53:56 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-03-21 04:54:15 [INFO] TrialZ [/129.94.125.243:42319] logged in with entity id 2286 at ([world] 3879.3125, 72.0, 3698.21875)
+2012-03-21 05:01:56 [INFO] Read timed out
+2012-03-21 05:01:56 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-03-21 05:02:09 [INFO] TrialZ [/129.94.125.243:42372] logged in with entity id 8964 at ([world] 3831.4375, 72.0, 3672.90625)
+2012-03-21 05:03:56 [INFO] Read timed out
+2012-03-21 05:03:56 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-03-21 05:05:55 [INFO] TrialZ [/149.171.50.23:41086] logged in with entity id 11137 at ([world] 3829.25, 71.0, 3689.125)
+2012-03-21 05:07:13 [INFO] Read timed out
+2012-03-21 05:07:13 [SEVERE] java.net.SocketException: Socket closed
+2012-03-21 05:07:13 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+2012-03-21 05:07:13 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-03-21 05:07:13 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-03-21 05:07:13 [SEVERE] 	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2012-03-21 05:07:13 [SEVERE] 	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+2012-03-21 05:07:13 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-03-21 05:07:13 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-03-21 05:07:38 [INFO] TrialZ [/129.94.125.243:42627] logged in with entity id 11712 at ([world] 3896.59375, 72.0, 3708.65625)
+2012-03-21 05:13:17 [INFO] minarwin [/60.240.32.175:41071] logged in with entity id 13827 at ([world] 3136.625, 85.0, 2184.6875)
+2012-03-21 05:13:21 [INFO] <dahlukeh> HEY[0m
+2012-03-21 05:13:24 [INFO] <TrialZ> yo yo[0m
+2012-03-21 05:13:26 [INFO] <minarwin> hyeh yehy heyeye[0m
+2012-03-21 05:13:28 [INFO] <dahlukeh> WHERE ATE YOU?[0m
+2012-03-21 05:13:31 [INFO] <minarwin> now to find my way back[0m
+2012-03-21 05:13:36 [INFO] <minarwin> 3k 2k[0m
+2012-03-21 05:13:41 [INFO] <dahlukeh> oh shit...[0m
+2012-03-21 05:17:04 [INFO] <minarwin> can you tell me the coords of the nether portal?[0m
+2012-03-21 05:17:05 [INFO] <dahlukeh> how ae you going>[0m
+2012-03-21 05:17:08 [INFO] <dahlukeh> whit one?[0m
+2012-03-21 05:17:09 [INFO] <minarwin> i am a little bit lost[0m
+2012-03-21 05:17:14 [INFO] <minarwin> the 4k 4k one[0m
+2012-03-21 05:17:57 [INFO] <TrialZ> SAY SOMETHING RUSSIAN[0m
+2012-03-21 05:18:57 [INFO] Read timed out
+2012-03-21 05:18:57 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-03-21 05:19:29 [INFO] TrialZ [/129.94.125.243:42725] logged in with entity id 20165 at ([world] 3850.84375, 72.0, 3664.0625)
+2012-03-21 05:22:00 [INFO] <minarwin> can you hear me?[0m
+2012-03-21 05:22:06 [INFO] <TrialZ> does your mic still work?[0m
+2012-03-21 05:22:07 [INFO] <minarwin> great[0m
+2012-03-21 05:22:11 [INFO] <TrialZ> can you hear us?[0m
+2012-03-21 05:24:58 [INFO] <minarwin> i do think i win at imposing my music choices on others[0m
+2012-03-21 05:25:03 [INFO] <minarwin> unless you mute me[0m
+2012-03-21 05:25:37 [INFO] Read timed out
+2012-03-21 05:25:37 [SEVERE] java.net.SocketException: Socket closed
+2012-03-21 05:25:37 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+2012-03-21 05:25:37 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-03-21 05:25:37 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-03-21 05:25:37 [SEVERE] 	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2012-03-21 05:25:37 [SEVERE] 	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+2012-03-21 05:25:37 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-03-21 05:25:37 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-03-21 05:25:58 [INFO] TrialZ [/129.94.125.243:42776] logged in with entity id 28649 at ([world] 3876.125, 72.0, 3711.84375)
+2012-03-21 05:26:13 [INFO] <minarwin> skyrim?[0m
+2012-03-21 05:26:19 [INFO] <minarwin> lol you guys[0m
+2012-03-21 05:26:34 [INFO] <minarwin> except done on a violin for the most part[0m
+2012-03-21 05:27:59 [INFO] <minarwin> know this one?>[0m
+2012-03-21 05:28:06 [INFO] <minarwin> yep[0m
+2012-03-21 05:28:16 [INFO] <minarwin> k[0m
+2012-03-21 05:37:08 [INFO] <minarwin> i herd him. like a herd.[0m
+2012-03-21 05:37:17 [INFO] duskxiv [/60.242.187.43:59961] logged in with entity id 38680 at ([world] 3923.2818954350996, 68.0, 3719.584441364774)
+2012-03-21 05:37:21 [INFO] <TrialZ> GILL[0m
+2012-03-21 05:37:21 [INFO] <dahlukeh> HEY JEU[0m
+2012-03-21 05:37:37 [INFO] <duskxiv> sup[0m
+2012-03-21 05:37:43 [INFO] <dahlukeh> get on skype[0m
+2012-03-21 05:37:47 [INFO] <minarwin> jeu[0m
+2012-03-21 05:37:50 [INFO] <minarwin> jeuu[0m
+2012-03-21 05:37:55 [INFO] <TrialZ> also, we think you left your charger here, gill[0m
+2012-03-21 05:38:03 [INFO] <minarwin> double-u[0m
+2012-03-21 05:38:04 [INFO] <minarwin> like a w[0m
+2012-03-21 05:38:06 [INFO] <duskxiv> unfortunately my windows disk isn't currently accessible, so no skype :([0m
+2012-03-21 05:38:18 [INFO] <duskxiv> and yeah, i was about to ask about the charger :P[0m
+2012-03-21 05:38:21 [INFO] <TrialZ> just install it[0m
+2012-03-21 05:38:28 [INFO] <duskxiv> ooh a creeper[0m
+2012-03-21 05:38:31 [INFO] <duskxiv> i shall kill it?[0m
+2012-03-21 05:38:32 [INFO] <minarwin> no noo nono onon ono[0m
+2012-03-21 05:38:53 [INFO] <minarwin> that's right[0m
+2012-03-21 05:38:54 [INFO] <minarwin> run away[0m
+2012-03-21 05:38:56 [INFO] <minarwin> :P[0m
+2012-03-21 05:39:02 [INFO] <duskxiv> yeah too hungry to fight[0m
+2012-03-21 05:39:04 [INFO] <duskxiv> yet[0m
+2012-03-21 05:40:32 [INFO] <minarwin> surprise creeper[0m
+2012-03-21 05:43:36 [INFO] Read timed out
+2012-03-21 05:43:36 [SEVERE] java.net.SocketException: Socket closed
+2012-03-21 05:43:36 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+2012-03-21 05:43:36 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-03-21 05:43:36 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-03-21 05:43:36 [SEVERE] 	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2012-03-21 05:43:36 [SEVERE] 	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+2012-03-21 05:43:36 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-03-21 05:43:36 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-03-21 05:43:50 [INFO] TrialZ [/129.94.125.243:42859] logged in with entity id 48046 at ([world] 3908.9375, 72.0, 3707.5)
+2012-03-21 05:46:24 [INFO] <minarwin> I AM TRYING TO IMPRESS GIRLS[0m
+2012-03-21 05:46:27 [INFO] <minarwin> >:[0m
+2012-03-21 05:46:29 [INFO] <minarwin> >:C[0m
+2012-03-21 05:49:52 [INFO] Connection reset
+2012-03-21 05:49:52 [INFO] duskxiv lost connection: disconnect.quitting
+2012-03-21 05:49:55 [INFO] duskxiv [/60.242.187.43:60158] logged in with entity id 58800 at ([world_nether] -3.441320948302746, 54.95744062351868, 1.0035861504729837)
+2012-03-21 05:50:48 [INFO] <minarwin> [] + {}[0m
+2012-03-21 05:51:00 [INFO] <minarwin> zerooooooooooo[0m
+2012-03-21 05:51:08 [INFO] <duskxiv> obviously[0m
+2012-03-21 05:51:08 [INFO] <minarwin> {} + [][0m
+2012-03-21 05:51:17 [INFO] <minarwin> {}[0m
+2012-03-21 05:51:18 [INFO] <TrialZ> GILL, GET SKYPE DAMMIT[0m
+2012-03-21 05:51:39 [INFO] <duskxiv> ooh its a powered railway[0m
+2012-03-21 05:51:42 [INFO] <duskxiv> with NO FUCKING TRAIL[0m
+2012-03-21 05:51:43 [INFO] <duskxiv> lol[0m
+2012-03-21 06:02:44 [INFO] Fetching addPacket for removed entity: CraftItem
+2012-03-21 06:03:10 [INFO] <TrialZ> gill, what are you doing?[0m
+2012-03-21 06:03:15 [INFO] <duskxiv> uhh[0m
+2012-03-21 06:03:18 [INFO] <duskxiv> exporing...[0m
+2012-03-21 06:03:21 [INFO] <TrialZ> aiite[0m
+2012-03-21 06:03:30 [INFO] <duskxiv> trying to climb this tree[0m
+2012-03-21 06:03:30 [INFO] <TrialZ> it would be cool if you were STREAMING[0m
+2012-03-21 06:03:33 [INFO] <duskxiv> its harder than it looks[0m
+2012-03-21 06:03:48 [INFO] <duskxiv> streaming will, unfortunately, be even harder[0m
+2012-03-21 06:03:56 [INFO] <duskxiv> fucking programs written for windows[0m
+2012-03-21 06:06:09 [INFO] <minarwin> {} + [][0m
+2012-03-21 06:06:22 [INFO] <minarwin> a = b[0m
+2012-03-21 06:06:29 [INFO] <minarwin> a = a[0m
+2012-03-21 06:06:50 [INFO] <minarwin> NIL[0m
+2012-03-21 06:06:56 [INFO] <TrialZ> "TWO"[0m
+2012-03-21 06:07:01 [INFO] <dahlukeh> no[0m
+2012-03-21 06:07:01 [INFO] <dahlukeh> 2[0m
+2012-03-21 06:07:10 [INFO] <TrialZ> oh, so "2"[0m
+2012-03-21 06:07:10 [INFO] <minarwin> 101010b[0m
+2012-03-21 06:07:15 [INFO] <dahlukeh> too?[0m
+2012-03-21 06:07:27 [INFO] <TrialZ> 5[0m
+2012-03-21 06:09:23 [INFO] minarwin lost connection: disconnect.quitting
+2012-03-21 06:09:23 [INFO] Connection reset
+2012-03-21 06:11:44 [INFO] <duskxiv> well that was inefficient[0m
+2012-03-21 06:11:55 [INFO] <duskxiv> alttab while swimmign[0m
+2012-03-21 06:12:01 [INFO] <TrialZ> so gill, why no skype?[0m
+2012-03-21 06:12:12 [INFO] <duskxiv> err[0m
+2012-03-21 06:12:14 [INFO] <duskxiv> i look[0m
+2012-03-21 06:12:16 [INFO] <duskxiv> in a sec[0m
+2012-03-21 06:12:31 [INFO] <duskxiv> aslo[0m
+2012-03-21 06:13:02 [INFO] <duskxiv> yay lan[0m
+2012-03-21 06:13:04 [INFO] <duskxiv> d[0m
+2012-03-21 06:13:08 [INFO] <dahlukeh> haha nice![0m
+2012-03-21 06:24:47 [INFO] <duskxiv> ffs since when is coal so rare...[0m
+2012-03-21 06:25:33 [INFO] <duskxiv> also, stream will have to wait for recompiling my kernel with support for a million random things[0m
+2012-03-21 06:25:48 [INFO] <duskxiv> and i'm slightly busy playing minecraft, so...[0m
+2012-03-21 06:30:44 [INFO] <duskxiv> wow this place is amazing.... like, underwater lava[0m
+2012-03-21 06:30:46 [INFO] <duskxiv> also, it has coal[0m
+2012-03-21 06:30:49 [INFO] <duskxiv> fuck yeah[0m
+2012-03-21 06:30:49 [INFO] <dahlukeh> :D[0m
+2012-03-21 06:30:51 [INFO] <dahlukeh> Coods?[0m
+2012-03-21 06:31:11 [INFO] <duskxiv> (3783, 28, 4684)[0m
+2012-03-21 06:31:17 [INFO] <dahlukeh> cool![0m
+2012-03-21 06:31:30 [INFO] <dahlukeh> You should put a marker, so we can see it on gmaps![0m
+2012-03-21 06:31:36 [INFO] <duskxiv> iu was just swimming along a bland oceanm then i saw a light[0m
+2012-03-21 06:31:52 [INFO] <duskxiv> underwater. what kind of marker do you mean?[0m
+2012-03-21 06:31:59 [INFO] <dahlukeh> hmmm[0m
+2012-03-21 06:32:01 [INFO] <dahlukeh> maybe...[0m
+2012-03-21 06:32:03 [INFO] <dahlukeh> no idea[0m
+2012-03-21 06:32:09 [INFO] <duskxiv> giant cobblestone tower do?[0m
+2012-03-21 06:35:41 [INFO] <TrialZ> weren't you in this giant underwater thingo?[0m
+2012-03-21 06:35:42 [INFO] <duskxiv> i guess now i have no coal[0m
+2012-03-21 06:35:42 [INFO] <TrialZ> how[0m
+2012-03-21 06:35:43 [INFO] <duskxiv> fml[0m
+2012-03-21 06:35:47 [INFO] <TrialZ> how'd that happen?[0m
+2012-03-21 06:35:49 [INFO] <duskxiv> underwater lava*[0m
+2012-03-21 06:35:59 [INFO] <duskxiv> and a key got stuck[0m
+2012-03-21 06:50:16 [INFO] <duskxiv> alas[0m
+2012-03-21 06:51:20 [INFO] nightkhaos [/121.210.117.118:49687] logged in with entity id 129847 at ([world] 4284.665015445173, 55.0, -784.3189530976354)
+2012-03-21 06:51:34 [INFO] <nightkhaos> duskxiv?[0m
+2012-03-21 06:51:37 [INFO] <dahlukeh> hey![0m
+2012-03-21 06:51:39 [INFO] <duskxiv> hey[0m
+2012-03-21 06:51:39 [INFO] <dahlukeh> its gill[0m
+2012-03-21 06:51:40 [INFO] <nightkhaos> hello[0m
+2012-03-21 06:51:48 [INFO] <nightkhaos> ahh... hi gill.[0m
+2012-03-21 06:51:57 [INFO] <duskxiv> who is gill?[0m
+2012-03-21 06:52:37 [INFO] <nightkhaos> Who are you then dusk?[0m
+2012-03-21 06:53:02 [INFO] <nightkhaos> have either of you seen Rowan on?[0m
+2012-03-21 06:53:24 [INFO] Connection reset
+2012-03-21 06:53:24 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-03-21 06:53:32 [INFO] dahlukeh [/149.171.13.124:62871] logged in with entity id 133182 at ([world] 3877.6016330471602, 72.0, 3661.5131042826697)
+2012-03-21 06:54:06 [INFO] <TrialZ> not over the last few hours[0m
+2012-03-21 06:55:39 [INFO] <nightkhaos> Hmm... I guess I'll talk to him tomorrow.[0m
+2012-03-21 06:59:17 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-03-21 07:05:36 [INFO] Connection reset
+2012-03-21 07:08:31 [INFO] Connection reset
+2012-03-21 07:08:31 [INFO] nightkhaos lost connection: disconnect.quitting
+2012-03-21 07:12:24 [INFO] <duskxiv> err... lol i seem to be surrounded by skeletons and they have the very high ground[0m
+2012-03-21 07:12:38 [INFO] <TrialZ> you cannot win, they have the high ground[0m
+2012-03-21 07:12:43 [INFO] <TrialZ> also, WHY NO SKYPE[0m
+2012-03-21 07:12:46 [INFO] <TrialZ> RAWR[0m
+2012-03-21 07:12:57 [INFO] <duskxiv> ah, yeah. :D I can download skype while i wait for them to burn[0m
+2012-03-21 07:33:16 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-03-21 07:33:16 [INFO] Connection reset
+2012-03-21 07:33:18 [INFO] Connection reset
+2012-03-21 07:33:18 [INFO] TrialZ lost connection: disconnect.quitting
+2012-03-21 07:39:34 [INFO] lluoc [/14.200.158.249:44379] logged in with entity id 197773 at ([world] -56.125, 85.0, -16.125)
+2012-03-21 07:39:45 [INFO] <lluoc> hey[0m
+2012-03-21 07:39:47 [INFO] <duskxiv> sup[0m
+2012-03-21 07:39:51 [INFO] <lluoc> new?[0m
+2012-03-21 07:39:56 [INFO] <duskxiv> not really[0m
+2012-03-21 07:39:59 [INFO] <duskxiv> play rarely though[0m
+2012-03-21 07:40:06 [INFO] <lluoc> ok[0m
+2012-03-21 07:40:08 [INFO] adrianjboyer [/121.209.248.181:51170] logged in with entity id 198514 at ([world] 3901.65625, 68.0, 3704.96875)
+2012-03-21 07:40:13 [INFO] <lluoc> hey[0m
+2012-03-21 07:40:22 [INFO] <adrianjboyer> hi[0m
+2012-03-21 07:40:44 [INFO] <lluoc> lockette is now installed btw[0m
+2012-03-21 07:40:59 [INFO] <adrianjboyer> sweet[0m
+2012-03-21 07:41:01 [INFO] <lluoc> and gtg[0m
+2012-03-21 07:41:02 [INFO] Connection reset
+2012-03-21 07:41:02 [INFO] lluoc lost connection: disconnect.quitting
+2012-03-21 07:47:56 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-03-21 07:47:56 [INFO] Connection reset
+2012-03-21 07:50:14 [INFO] Connection reset
+2012-03-21 07:50:14 [INFO] duskxiv lost connection: disconnect.quitting
+2012-03-21 08:20:13 [INFO] daevd [/123.243.194.223:64256] logged in with entity id 208586 at ([world] 3786.687389342446, 89.0, 3783.440711691947)
+2012-03-21 08:22:05 [INFO] nightkhaos [/121.210.117.118:50448] logged in with entity id 209806 at ([world] 4283.838771783623, 52.0, -805.9922143459916)
+2012-03-21 08:22:29 [INFO] Connection reset
+2012-03-21 08:22:29 [INFO] nightkhaos lost connection: disconnect.quitting
+2012-03-21 08:41:04 [INFO] Connection reset
+2012-03-21 08:41:04 [INFO] /202.171.168.114:65313 lost connection
+2012-03-21 08:41:14 [INFO] dahlukeh [/202.171.168.114:65333] logged in with entity id 226174 at ([world] 3892.188193223704, 68.0, 3717.980475171537)
+2012-03-21 08:44:17 [INFO] Connection reset
+2012-03-21 08:44:17 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-03-21 09:36:22 [INFO] Connection reset
+2012-03-21 09:36:22 [INFO] daevd lost connection: disconnect.quitting
+2012-03-21 19:23:58 [INFO] Connection reset
+2012-03-21 20:03:52 [INFO] duskxiv [/60.242.187.43:34784] logged in with entity id 277356 at ([world] 3825.78125, 43.0, 4371.0625)
+2012-03-21 20:03:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 21:13:14 [INFO] Connection reset
+2012-03-21 21:28:17 [INFO] adrianjboyer [/121.209.248.181:56537] logged in with entity id 305360 at ([world] 525.7159757904417, 80.0, -365.53850061885197)
+2012-03-21 21:31:26 [INFO] [Lockette] adrianjboyer has claimed a container.
+2012-03-21 21:33:20 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-03-21 21:33:20 [INFO] Connection reset
+2012-03-21 22:17:39 [INFO] Connection reset
+2012-03-21 22:17:39 [INFO] duskxiv lost connection: disconnect.quitting
+2012-03-21 22:25:39 [INFO] duskxiv [/60.242.187.43:35444] logged in with entity id 369611 at ([world] 3801.2188712274724, 63.0, 4382.7586796141895)
+2012-03-21 22:51:08 [INFO] daevd [/123.243.194.223:51208] logged in with entity id 381396 at ([world] 3952.416134281338, 72.0, 3729.4259570517224)
+2012-03-21 22:51:17 [INFO] <duskxiv> hey david[0m
+2012-03-21 22:51:29 [INFO] <daevd> sup[0m
+2012-03-21 23:10:48 [INFO] <duskxiv> ...[0m
+2012-03-21 23:10:54 [INFO] <duskxiv> that was a long way to travel to die[0m
+2012-03-21 23:10:57 [INFO] <duskxiv> :9[0m
+2012-03-21 23:25:16 [INFO] Connection reset
+2012-03-21 23:25:16 [INFO] duskxiv lost connection: disconnect.endOfStream
+2012-03-21 23:37:51 [INFO] duskxiv [/60.242.187.43:36063] logged in with entity id 439447 at ([world] -20.008799803610394, 69.0, -13.80387430552836)
+2012-03-22 00:19:57 [INFO] duskxiv lost connection: disconnect.quitting
+2012-03-22 00:19:57 [INFO] Connection reset
+2012-03-22 00:20:34 [INFO] duskxiv [/60.242.187.43:36266] logged in with entity id 513309 at ([world] -1090.6236852067968, 63.0, 15.536889769374094)
+2012-03-22 00:20:40 [INFO] Connection reset
+2012-03-22 00:20:40 [INFO] duskxiv lost connection: disconnect.quitting
+2012-03-22 00:20:51 [INFO] duskxiv [/60.242.187.43:36269] logged in with entity id 513858 at ([world] -1100.239763978603, 63.0, 14.915303622685203)
+2012-03-22 00:21:09 [INFO] <daevd> want me to sleep?[0m
+2012-03-22 00:21:19 [INFO] <duskxiv> i dont have a bed :P[0m
+2012-03-22 00:21:25 [INFO] <daevd> ill sleep, u dc[0m
+2012-03-22 00:21:31 [INFO] Connection reset
+2012-03-22 00:21:31 [INFO] duskxiv lost connection: disconnect.quitting
+2012-03-22 00:21:40 [INFO] duskxiv [/60.242.187.43:36274] logged in with entity id 515642 at ([world] -57.64223614147842, 63.5, -17.80000001192093)
+2012-03-22 00:21:46 [INFO] <daevd> oops just too soon[0m
+2012-03-22 00:21:47 [INFO] Connection reset
+2012-03-22 00:21:47 [INFO] duskxiv lost connection: disconnect.quitting
+2012-03-22 00:22:26 [INFO] duskxiv [/60.242.187.43:36283] logged in with entity id 516693 at ([world] -57.789413099440374, 65.0, -12.61343651241559)
+2012-03-22 00:22:39 [INFO] <duskxiv> should really remember to eat today. really didn't have to die then :([0m
+2012-03-22 00:34:11 [INFO] daevd lost connection: disconnect.quitting
+2012-03-22 00:34:11 [INFO] Connection reset
+2012-03-22 00:46:46 [INFO] dahlukeh [/149.171.15.159:62663] logged in with entity id 549268 at ([world] 3905.3841596713514, 77.0, 3713.8802716704613)
+2012-03-22 00:46:55 [INFO] <duskxiv> hey luke[0m
+2012-03-22 00:47:07 [INFO] <dahlukeh> hey gill[0m
+2012-03-22 00:47:11 [INFO] <dahlukeh> I have your charger here[0m
+2012-03-22 00:47:19 [INFO] <duskxiv> awesome :D[0m
+2012-03-22 00:47:30 [INFO] <duskxiv> how long will you be around for?[0m
+2012-03-22 00:47:37 [INFO] <dahlukeh> till 4:45[0m
+2012-03-22 00:49:03 [INFO] Connection reset
+2012-03-22 00:49:03 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-03-22 00:59:03 [INFO] Connection reset
+2012-03-22 00:59:03 [INFO] duskxiv lost connection: disconnect.endOfStream
+2012-03-22 01:31:17 [INFO] nightkhaos [/129.94.125.45:49837] logged in with entity id 560291 at ([world] 4283.420437301603, 52.0, -799.021362018871)
+2012-03-22 02:29:52 [INFO] duskxiv [/60.242.187.43:43163] logged in with entity id 603046 at ([world] -94.375, 66.0, 12.96875)
+2012-03-22 02:41:03 [INFO] Read timed out
+2012-03-22 02:41:03 [INFO] nightkhaos lost connection: disconnect.endOfStream
+2012-03-22 02:41:22 [INFO] nightkhaos [/129.94.125.45:50155] logged in with entity id 627308 at ([world] 4285.09375, 55.0, -812.625)
+2012-03-22 02:43:48 [INFO] Connection reset
+2012-03-22 02:43:48 [INFO] nightkhaos lost connection: disconnect.endOfStream
+2012-03-22 02:43:56 [INFO] nightkhaos [/129.94.125.45:50201] logged in with entity id 634262 at ([world] 4259.5, 55.0, -792.03125)
+2012-03-22 02:44:30 [INFO] Read timed out
+2012-03-22 02:44:30 [INFO] nightkhaos lost connection: disconnect.endOfStream
+2012-03-22 02:44:34 [INFO] nightkhaos [/129.94.125.45:50210] logged in with entity id 635592 at ([world] 4259.5, 55.0, -792.03125)
+2012-03-22 02:44:56 [INFO] <nightkhaos> what are you doing?[0m
+2012-03-22 02:45:04 [INFO] <duskxiv> hunting[0m
+2012-03-22 02:45:18 [INFO] <nightkhaos> are you getting lag?[0m
+2012-03-22 02:45:29 [INFO] <duskxiv> :@[0m
+2012-03-22 02:45:35 [INFO] <duskxiv> yeah... seems moderately laggy most of the day[0m
+2012-03-22 02:45:48 [INFO] Read timed out
+2012-03-22 02:45:48 [INFO] nightkhaos lost connection: disconnect.endOfStream
+2012-03-22 02:45:51 [INFO] nightkhaos [/129.94.125.45:50223] logged in with entity id 638453 at ([world] 4259.59375, 55.0, -806.625)
+2012-03-22 02:46:59 [INFO] Read timed out
+2012-03-22 02:46:59 [INFO] nightkhaos lost connection: disconnect.endOfStream
+2012-03-22 02:47:06 [INFO] nightkhaos [/129.94.125.45:50227] lost connection
+2012-03-22 02:47:18 [INFO] nightkhaos [/129.94.125.45:50231] logged in with entity id 640117 at ([world] 4256.28125, 55.0, -789.90625)
+2012-03-22 02:49:22 [INFO] Read timed out
+2012-03-22 02:49:22 [SEVERE] java.net.SocketException: Socket closed
+2012-03-22 02:49:22 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+2012-03-22 02:49:22 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-03-22 02:49:22 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-03-22 02:49:22 [SEVERE] 	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2012-03-22 02:49:22 [SEVERE] 	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+2012-03-22 02:49:22 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-03-22 02:49:22 [INFO] nightkhaos lost connection: disconnect.endOfStream
+2012-03-22 03:52:37 [INFO] Connection reset
+2012-03-22 03:52:37 [INFO] duskxiv lost connection: disconnect.quitting
+2012-03-22 04:37:22 [INFO] Connection reset
+2012-03-22 04:49:14 [INFO] duskxiv [/60.242.187.43:43571] logged in with entity id 690636 at ([world] -710.789118673771, 62.0, -4.776150484255355)
+2012-03-22 04:49:18 [INFO] duskxiv lost connection: disconnect.quitting
+2012-03-22 04:49:18 [INFO] Connection reset
+2012-03-22 05:56:50 [INFO] dahlukeh [/202.171.168.114:49872] logged in with entity id 690994 at ([world] 3881.0917181686978, 68.0, 3717.0384079308888)
+2012-03-22 06:00:17 [INFO] ozymandias12345 [/121.217.36.30:60422] logged in with entity id 696183 at ([world] -86.30000001192093, 5.0, -700.3351599887594)
+2012-03-22 06:03:42 [INFO] adrianjboyer [/121.209.248.181:57926] logged in with entity id 703264 at ([world] 4272.153949171561, 50.0, -800.4348239239209)
+2012-03-22 06:04:49 [INFO] Connection reset
+2012-03-22 06:04:49 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-03-22 06:07:00 [INFO] duskxiv [/60.242.187.43:43633] logged in with entity id 710786 at ([world] -710.789118673771, 62.0, -4.776150484255355)
+2012-03-22 06:07:18 [INFO] <dahlukeh> hey gill[0m
+2012-03-22 06:07:24 [INFO] <duskxiv> *explosion*[0m
+2012-03-22 06:07:25 [INFO] <duskxiv> sup[0m
+2012-03-22 06:07:27 [INFO] <duskxiv> how was tute?[0m
+2012-03-22 06:07:31 [INFO] <dahlukeh> decent[0m
+2012-03-22 06:07:38 [INFO] <dahlukeh> lots left early to the laser tag[0m
+2012-03-22 06:07:46 [INFO] <duskxiv> lol fair enouhg[0m
+2012-03-22 06:08:06 [INFO] <duskxiv> hopefullly no one slept in?[0m
+2012-03-22 06:08:17 [INFO] <dahlukeh> um... it was at 5pm?[0m
+2012-03-22 06:08:33 [INFO] <duskxiv> hey, i've done it once...[0m
+2012-03-22 06:08:38 [INFO] <duskxiv> but i'll take that as a no. good sign[0m
+2012-03-22 06:08:53 [INFO] <dahlukeh> yeah, nup[0m
+2012-03-22 06:10:59 [INFO] Connection reset
+2012-03-22 06:10:59 [INFO] duskxiv lost connection: disconnect.quitting
+2012-03-22 06:11:35 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-03-22 06:11:35 [INFO] Connection reset
+2012-03-22 06:12:49 [INFO] duskxiv [/60.242.187.43:43675] logged in with entity id 717479 at ([world] -691.441837243842, 63.0, -23.18623581115022)
+2012-03-22 06:12:51 [INFO] Connection reset
+2012-03-22 06:12:51 [INFO] duskxiv lost connection: disconnect.quitting
+2012-03-22 06:16:05 [INFO] duskxiv [/60.242.187.43:43697] logged in with entity id 723803 at ([world] -691.441837243842, 63.0, -23.18623581115022)
+2012-03-22 06:17:53 [INFO] Connection reset
+2012-03-22 06:17:53 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-03-22 06:20:32 [INFO] dahlukeh [/202.171.168.114:50271] logged in with entity id 735506 at ([world] 3873.937762107882, 78.0, 3689.475664690904)
+2012-03-22 06:20:56 [INFO] <duskxiv> the landscape looks so different now...[0m
+2012-03-22 06:21:02 [INFO] <duskxiv> after a night fighting creepers[0m
+2012-03-22 06:21:03 [INFO] <dahlukeh> really?[0m
+2012-03-22 06:21:05 [INFO] <dahlukeh> right[0m
+2012-03-22 06:21:10 [INFO] <dahlukeh> where are you?[0m
+2012-03-22 06:21:21 [INFO] <duskxiv> patch of grass not too far from spawn[0m
+2012-03-22 06:21:28 [INFO] <duskxiv> -706, ?, 8[0m
+2012-03-22 06:21:33 [INFO] <dahlukeh> hmmmm alright[0m
+2012-03-22 06:21:51 [INFO] <duskxiv> just killing some of the local wildife, you know[0m
+2012-03-22 06:25:54 [INFO] Connection reset
+2012-03-22 06:25:54 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-03-22 06:54:41 [INFO] adrianjboyer [/121.209.248.181:59092] logged in with entity id 766802 at ([world] 526.4768500297531, 84.0, -358.2042308427559)
+2012-03-22 07:00:48 [INFO] Connection reset
+2012-03-22 07:00:48 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-03-22 07:30:06 [INFO] minarwin [/60.240.32.175:62243] logged in with entity id 801666 at ([world] 3882.620942922811, 78.0, 3708.2790216614144)
+2012-03-22 07:30:12 [INFO] <minarwin> hey gill[0m
+2012-03-22 07:30:16 [INFO] <duskxiv> hey[0m
+2012-03-22 07:30:22 [INFO] <duskxiv> i've killed so many creepers tonight[0m
+2012-03-22 07:30:32 [INFO] <minarwin> YOU KILLED MY FAMILY >:C[0m
+2012-03-22 07:30:40 [INFO] <duskxiv> not entirely[0m
+2012-03-22 07:30:44 [INFO] <duskxiv> where are you?[0m
+2012-03-22 07:30:53 [INFO] <minarwin> at the testificate farm[0m
+2012-03-22 07:31:34 [INFO] <minarwin> imma gonna go code or smth[0m
+2012-03-22 07:31:37 [INFO] minarwin lost connection: disconnect.endOfStream
+2012-03-22 07:50:52 [INFO] Connection reset
+2012-03-22 07:50:52 [INFO] duskxiv lost connection: disconnect.endOfStream
+2012-03-22 09:32:47 [INFO] Connection reset
+2012-03-22 09:43:41 [INFO] nightkhaos [/121.210.117.118:56322] logged in with entity id 818368 at ([world] 4270.28125, 55.0, -808.71875)
+2012-03-22 10:15:40 [INFO] nightkhaos lost connection: disconnect.quitting
+2012-03-22 10:15:40 [INFO] Connection reset
+2012-03-22 17:10:22 [INFO] Disconnecting adrianjboyer [/121.209.248.181:64253]: Outdated server!
+2012-03-22 17:55:42 [INFO] Disconnecting adrianjboyer [/121.209.248.181:49313]: Outdated server!
+2012-03-22 19:37:12 [INFO] Disconnecting lluoc [/14.200.158.249:51220]: Outdated server!
+2012-03-22 20:39:09 [INFO] CONSOLE: Forcing save..[0m
+2012-03-22 20:39:09 [INFO] CONSOLE: Save complete.[0m
+2012-03-22 20:44:31 [INFO] CONSOLE: Stopping the server..[0m
+2012-03-22 20:44:31 [INFO] Stopping server
+2012-03-22 20:44:31 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-03-22 20:44:31 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-03-22 20:44:31 [INFO] [Lockette] Disabling Lockette v1.6
+2012-03-22 20:44:31 [INFO] Lockette is being disabled...  ;.;
+2012-03-22 20:44:31 [INFO] [Lockette] Closing all automatic doors.
+2012-03-22 20:44:31 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-03-22 20:44:31 [INFO] Disabling PickBoat
+2012-03-22 20:44:31 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-03-22 20:44:31 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-03-22 20:44:31 [INFO] Saving chunks
+2012-03-22 20:44:32 [INFO] Stopping server
+2012-03-22 20:44:32 [INFO] Saving chunks
+2012-03-22 21:42:26 [INFO] Starting minecraft server version 1.2.3
+2012-03-22 21:42:26 [INFO] Loading properties
+2012-03-22 21:42:26 [INFO] Starting Minecraft server on *:25565
+2012-03-22 21:42:26 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-22 21:42:27 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-03-22 21:42:27 [INFO] [Lockette] Loading Lockette v1.6
+2012-03-22 21:42:27 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-03-22 21:42:27 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-03-22 21:42:27 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-03-22 21:42:27 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-03-22 21:42:27 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-03-22 21:42:27 [INFO] Preparing level "world"
+2012-03-22 21:42:27 [INFO] Default game type: 0
+2012-03-22 21:42:27 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-03-22 21:42:28 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-03-22 21:42:28 [INFO] Preparing spawn area: 4%
+2012-03-22 21:42:29 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-03-22 21:42:29 [INFO] Preparing spawn area: 44%
+2012-03-22 21:42:29 [INFO] [Lockette] Enabling Lockette v1.6
+2012-03-22 21:42:29 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-03-22 21:42:29 [INFO] [Lockette] Detected craftbukkit build [2060] ok.
+2012-03-22 21:42:29 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-03-22 21:42:29 [INFO] [Lockette] Using ops file for admin permissions.
+2012-03-22 21:42:29 [INFO] [Lockette] Ready to protect your containers.
+2012-03-22 21:42:29 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-03-22 21:42:29 [INFO] PickBoat version 0.4 is enabled!
+2012-03-22 21:42:29 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-03-22 21:42:29 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-03-22 21:42:29 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-22 21:42:30 [INFO] Done (2.740s)! For help, type "help" or "?"
+2012-03-22 21:42:44 [INFO] CONSOLE: Stopping the server..[0m
+2012-03-22 21:42:44 [INFO] Stopping server
+2012-03-22 21:42:44 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-03-22 21:42:44 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-03-22 21:42:44 [INFO] [Lockette] Disabling Lockette v1.6
+2012-03-22 21:42:44 [INFO] Lockette is being disabled...  ;.;
+2012-03-22 21:42:44 [INFO] [Lockette] Closing all automatic doors.
+2012-03-22 21:42:44 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-03-22 21:42:44 [INFO] Disabling PickBoat
+2012-03-22 21:42:44 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-03-22 21:42:44 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-03-22 21:42:44 [INFO] Saving chunks
+2012-03-22 21:42:45 [INFO] Stopping server
+2012-03-22 21:43:34 [INFO] Starting minecraft server version 1.2.3
+2012-03-22 21:43:34 [INFO] Loading properties
+2012-03-22 21:43:34 [INFO] Starting Minecraft server on *:25565
+2012-03-22 21:43:34 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-22 21:43:35 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-03-22 21:43:35 [INFO] [Lockette] Loading Lockette v1.6
+2012-03-22 21:43:35 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-03-22 21:43:35 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-03-22 21:43:35 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-03-22 21:43:35 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-03-22 21:43:35 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-03-22 21:43:35 [INFO] Preparing level "world"
+2012-03-22 21:43:35 [INFO] Default game type: 0
+2012-03-22 21:43:35 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-03-22 21:43:36 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-03-22 21:43:36 [INFO] Preparing spawn area: 8%
+2012-03-22 21:43:37 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-03-22 21:43:37 [INFO] Preparing spawn area: 65%
+2012-03-22 21:43:37 [INFO] [Lockette] Enabling Lockette v1.6
+2012-03-22 21:43:37 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-03-22 21:43:37 [INFO] [Lockette] Detected craftbukkit build [2060] ok.
+2012-03-22 21:43:37 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-03-22 21:43:37 [INFO] [Lockette] Using ops file for admin permissions.
+2012-03-22 21:43:37 [INFO] [Lockette] Ready to protect your containers.
+2012-03-22 21:43:37 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-03-22 21:43:37 [INFO] PickBoat version 0.4 is enabled!
+2012-03-22 21:43:37 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-03-22 21:43:37 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-03-22 21:43:37 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-22 21:43:37 [INFO] Done (2.332s)! For help, type "help" or "?"
+2012-03-22 22:31:19 [INFO] Connection reset
+2012-03-22 22:57:49 [INFO] CONSOLE: Stopping the server..[0m
+2012-03-22 22:57:49 [INFO] Stopping server
+2012-03-22 22:57:49 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-03-22 22:57:49 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-03-22 22:57:49 [INFO] [Lockette] Disabling Lockette v1.6
+2012-03-22 22:57:49 [INFO] Lockette is being disabled...  ;.;
+2012-03-22 22:57:49 [INFO] [Lockette] Closing all automatic doors.
+2012-03-22 22:57:49 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-03-22 22:57:49 [INFO] Disabling PickBoat
+2012-03-22 22:57:49 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-03-22 22:57:49 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-03-22 22:57:49 [INFO] Saving chunks

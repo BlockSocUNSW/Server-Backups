@@ -16333,3 +16333,514 @@
 2012-04-22 12:57:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2012-04-22 13:01:48 [INFO] CONSOLE: Forcing save..[0m
 2012-04-22 13:01:48 [INFO] CONSOLE: Save complete.[0m
+2012-04-22 13:07:31 [INFO] Connection reset
+2012-04-22 13:07:31 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-22 13:07:34 [INFO] Mondoza [/203.129.52.205:1076] logged in with entity id 2985610 at ([world] -5391.199999988079, 74.49520087700593, -1555.7344485976364)
+2012-04-22 13:07:46 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-22 13:07:49 [INFO] CONSOLE: Forcing save..[0m
+2012-04-22 13:07:49 [INFO] CONSOLE: Save complete.[0m
+2012-04-22 13:07:52 [INFO] Connected players: minarwin, Mondoza[0m
+2012-04-22 13:10:26 [INFO] [35m[Server] Starting backup.[0m
+2012-04-22 13:10:26 [INFO] CONSOLE: Forcing save..[0m
+2012-04-22 13:10:26 [INFO] CONSOLE: Save complete.[0m
+2012-04-22 13:10:26 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-22 13:11:44 [INFO] lluoc [/14.200.158.249:52631] logged in with entity id 2989674 at ([world_the_end] 355.66201297069125, 82.0, 8.856630214022003)
+2012-04-22 13:12:16 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-22 13:12:16 [INFO] CONSOLE: Forcing save..[0m
+2012-04-22 13:12:17 [INFO] CONSOLE: Save complete.[0m
+2012-04-22 13:12:17 [INFO] [35m[Server] Backup complete.[0m
+2012-04-22 13:14:06 [INFO] Connection reset
+2012-04-22 13:14:06 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-22 13:48:41 [INFO] minarwin lost connection: disconnect.quitting
+2012-04-22 13:48:41 [INFO] Connection reset
+2012-04-22 13:49:18 [INFO] minarwin [/60.240.32.175:54464] logged in with entity id 3145764 at ([world_nether] -188.89794369668695, 37.0, -252.57244075565484)
+2012-04-22 13:58:21 [INFO] H4ZM4T [/60.241.170.155:51461] logged in with entity id 3177724 at ([world] -233.59505077727272, 107.0, 69.06988569518913)
+2012-04-22 13:58:27 [INFO] <H4ZM4T> hai[0m
+2012-04-22 13:58:37 [INFO] <minarwin> greetings[0m
+2012-04-22 13:58:39 [INFO] <H4ZM4T> how are we all?[0m
+2012-04-22 13:59:28 [INFO] <minarwin> i think that answers that :P[0m
+2012-04-22 13:59:36 [INFO] <H4ZM4T> indeed[0m
+2012-04-22 13:59:50 [INFO] <H4ZM4T> mondoza, mind if I come and build with you and russ?[0m
+2012-04-22 14:00:04 [INFO] Connected players: Mondoza, minarwin, H4ZM4T[0m
+2012-04-22 14:00:06 [INFO] <Mondoza> if you want, sure :)[0m
+2012-04-22 14:00:11 [INFO] <H4ZM4T> :D[0m
+2012-04-22 14:00:21 [INFO] <Mondoza> i welcome neighbours[0m
+2012-04-22 14:00:30 [INFO] <minarwin> damn spiders[0m
+2012-04-22 14:00:33 [INFO] <minarwin> broke my pants[0m
+2012-04-22 14:00:40 [INFO] <Mondoza> but you should clear it with russ first, i was his guest[0m
+2012-04-22 14:00:46 [INFO] [35m[Server] Hey nelly, just so you know I started looking at getting a Bioshpere map working because of your post last night[0m
+2012-04-22 14:00:58 [INFO] <H4ZM4T> ooooh shiny[0m
+2012-04-22 14:01:39 [INFO] [35m[Server] just trying to make it work better with the 256 height level but I can get it to work.[0m
+2012-04-22 14:01:57 [INFO] <H4ZM4T> makes sense[0m
+2012-04-22 14:02:08 [INFO] [35m[Server] and for the record, I am editing java machine code for you.[0m
+2012-04-22 14:02:14 [INFO] <H4ZM4T> :D[0m
+2012-04-22 14:02:19 [INFO] <H4ZM4T> many thanks[0m
+2012-04-22 14:02:27 [INFO] <H4ZM4T> but you know it will be awesome[0m
+2012-04-22 14:02:38 [INFO] <minarwin> protip: light up your spawners when working on them[0m
+2012-04-22 14:02:39 [INFO] <minarwin> :-;[0m
+2012-04-22 14:02:43 [INFO] <minarwin> :;_; *[0m
+2012-04-22 14:02:44 [INFO] <H4ZM4T> kekekek[0m
+2012-04-22 14:02:49 [INFO] <minarwin> ....you know what i mean[0m
+2012-04-22 14:05:05 [INFO] <minarwin> i thought spiders could not climb soulsand?[0m
+2012-04-22 14:05:13 [INFO] <H4ZM4T> iono[0m
+2012-04-22 14:05:23 [INFO] <minarwin> magic.[0m
+2012-04-22 14:05:29 [INFO] <minarwin> they are on the ceiling[0m
+2012-04-22 14:05:35 [INFO] <minarwin> with soulsand[0m
+2012-04-22 14:05:36 [INFO] <minarwin> ;_;[0m
+2012-04-22 14:05:40 [INFO] [35m[Server] why are you mixing soulsand and spawners...[0m
+2012-04-22 14:05:52 [INFO] <minarwin> because i am noob and don't know how to make a spider grinder[0m
+2012-04-22 14:07:49 [INFO] [35m[Server] why are you makuing a spider grinder?[0m
+2012-04-22 14:08:02 [INFO] <minarwin> because my house is situated right above 3 spawners[0m
+2012-04-22 14:08:10 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-22 14:08:14 [INFO] [35m[Server] ...[0m
+2012-04-22 14:08:15 [INFO] <minarwin> the closest one happens to be a spider spawner[0m
+2012-04-22 14:08:28 [INFO] [35m[Server] you know silk touch can pick them up now[0m
+2012-04-22 14:08:32 [INFO] <minarwin> yeah[0m
+2012-04-22 14:08:39 [INFO] [35m[Server] ... and I have silk touch[0m
+2012-04-22 14:08:45 [INFO] <minarwin> meh[0m
+2012-04-22 14:08:50 [INFO] <H4ZM4T> I love the abandoned house  mondoza[0m
+2012-04-22 14:08:50 [INFO] [35m[Server] sigh.[0m
+2012-04-22 14:08:53 [INFO] <minarwin> it's more fun this way[0m
+2012-04-22 14:17:34 [INFO] <H4ZM4T> I really like the house designs[0m
+2012-04-22 14:17:44 [INFO] <H4ZM4T> though they are not for the OCD[0m
+2012-04-22 14:18:07 [INFO] <Mondoza> lol[0m
+2012-04-22 14:18:18 [INFO] <Mondoza> did you use the railway to get here?[0m
+2012-04-22 14:18:26 [INFO] <H4ZM4T> although, I note that the metal doors have only an exit button[0m
+2012-04-22 14:18:29 [INFO] <H4ZM4T> no way to enter[0m
+2012-04-22 14:18:36 [INFO] <H4ZM4T> I ran across the railway[0m
+2012-04-22 14:18:48 [INFO] <Mondoza> only one way to enter, mwahaahahahahahaahaha[0m
+2012-04-22 14:18:53 [INFO] <H4ZM4T> uh[0m
+2012-04-22 14:18:59 [INFO] <H4ZM4T> I think I can enter irrelevant[0m
+2012-04-22 14:19:09 [INFO] <H4ZM4T> watch[0m
+2012-04-22 14:19:23 [INFO] <H4ZM4T> :D[0m
+2012-04-22 14:19:31 [INFO] <Mondoza> oh thats right, i forgot about the enderpearls[0m
+2012-04-22 14:19:59 [INFO] <Mondoza> i usually play creative, so the new developments i often forget about[0m
+2012-04-22 14:20:07 [INFO] <H4ZM4T> makes sense[0m
+2012-04-22 14:20:42 [INFO] <Mondoza> thanks for the pearls[0m
+2012-04-22 14:20:53 [INFO] <H4ZM4T> heh[0m
+2012-04-22 14:21:03 [INFO] <H4ZM4T> we have 16 double chests of the things back at the grinder[0m
+2012-04-22 14:21:17 [INFO] <H4ZM4T> my inventory is half full of them[0m
+2012-04-22 14:21:31 [INFO] <Mondoza> out here in the wildlands they're hard to come by[0m
+2012-04-22 14:21:36 [INFO] <H4ZM4T> :)[0m
+2012-04-22 14:22:52 [INFO] <H4ZM4T> we are quite far out aren't we[0m
+2012-04-22 14:23:03 [INFO] <Mondoza> its nice and scenic[0m
+2012-04-22 14:24:06 [INFO] <Mondoza> wood is a bit of an issue, its annoying to collect[0m
+2012-04-22 14:24:13 [INFO] <H4ZM4T> uh[0m
+2012-04-22 14:24:20 [INFO] <H4ZM4T> you have a jungle right over there[0m
+2012-04-22 14:24:23 [INFO] <H4ZM4T> sooooo much wood[0m
+2012-04-22 14:24:35 [INFO] <Mondoza> yeah, thats why i constructed the railway[0m
+2012-04-22 14:24:51 [INFO] <H4ZM4T> I can go mine for you for a bit[0m
+2012-04-22 14:27:45 [INFO] <H4ZM4T> so uh[0m
+2012-04-22 14:27:50 [INFO] <H4ZM4T> don't go out at night[0m
+2012-04-22 14:29:02 [INFO] Connection reset
+2012-04-22 14:29:02 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-22 14:39:12 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 44 in world, 3.3 blocks from Mondoza
+2012-04-22 14:40:04 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 38 in world, 4.8 blocks from Mondoza
+2012-04-22 14:41:25 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 51 in world, 6.7 blocks from Mondoza
+2012-04-22 14:42:53 [INFO] Connected players: Mondoza, minarwin[0m
+2012-04-22 14:43:30 [INFO] Connection reset
+2012-04-22 14:43:30 [INFO] minarwin lost connection: disconnect.quitting
+2012-04-22 14:43:56 [INFO] Connected players: Mondoza[0m
+2012-04-22 14:53:34 [INFO] nightkhaos [/121.210.117.118:50671] logged in with entity id 3405711 at ([world_the_end] 353.3055816151938, 5.0, -0.4425392256713883)
+2012-04-22 15:07:19 [INFO] nightkhaos lost connection: disconnect.quitting
+2012-04-22 15:07:19 [INFO] Connection reset
+2012-04-22 15:08:40 [INFO] daevd [/49.2.2.132:55279] logged in with entity id 3426293 at ([world_the_end] 353.58145818332537, 5.0, -7.300000011920915)
+2012-04-22 15:09:06 [INFO] daevd [/49.2.2.132:55283] logged in with entity id 3426788 at ([world_the_end] 353.58145818332537, 5.0, -7.300000011920915)
+2012-04-22 15:09:06 [INFO] Fetching addPacket for removed entity: CraftPlayer{name=daevd}
+2012-04-22 15:09:08 [SEVERE] java.net.SocketException: Socket closed
+2012-04-22 15:09:08 [INFO] Connection reset
+2012-04-22 15:09:08 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+2012-04-22 15:09:08 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-04-22 15:09:08 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-04-22 15:09:08 [SEVERE] 	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2012-04-22 15:09:08 [SEVERE] 	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+2012-04-22 15:09:08 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-04-22 15:09:37 [INFO] Read timed out
+2012-04-22 15:09:37 [SEVERE] java.net.SocketException: Socket closed
+2012-04-22 15:09:37 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+2012-04-22 15:09:37 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-04-22 15:09:37 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-04-22 15:09:37 [SEVERE] 	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2012-04-22 15:09:37 [SEVERE] 	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+2012-04-22 15:09:37 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-04-22 15:09:37 [INFO] daevd lost connection: disconnect.endOfStream
+2012-04-22 15:09:43 [INFO] daevd [/49.2.2.132:55291] logged in with entity id 3427354 at ([world_the_end] 353.58145818332537, 5.0, -7.300000011920915)
+2012-04-22 15:10:14 [INFO] Read timed out
+2012-04-22 15:10:14 [SEVERE] java.net.SocketException: Socket closed
+2012-04-22 15:10:14 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+2012-04-22 15:10:14 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-04-22 15:10:14 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-04-22 15:10:14 [SEVERE] 	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2012-04-22 15:10:14 [SEVERE] 	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+2012-04-22 15:10:14 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-04-22 15:10:14 [INFO] daevd lost connection: disconnect.endOfStream
+2012-04-22 15:14:31 [INFO] Connection reset
+2012-04-22 15:14:31 [INFO] Mondoza lost connection: disconnect.endOfStream
+2012-04-22 15:15:07 [INFO] Mondoza [/203.129.52.205:1096] logged in with entity id 3430958 at ([world] -4953.803223974263, 62.38169525976292, -1224.9740137360075)
+2012-04-22 15:21:15 [INFO] Connection reset
+2012-04-22 15:21:15 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-22 15:21:18 [INFO] Mondoza [/203.129.52.205:1101] logged in with entity id 3434533 at ([world] -4830.17771926947, 71.0, -1410.300000011921)
+2012-04-22 15:25:53 [INFO] daevd [/49.2.2.132:55488] logged in with entity id 3438704 at ([world_the_end] 353.58145818332537, 5.0, -7.300000011920915)
+2012-04-22 15:34:08 [INFO] daevd lost connection: disconnect.quitting
+2012-04-22 15:34:08 [INFO] Connection reset
+2012-04-22 15:34:16 [INFO] daevd [/49.2.2.132:55511] logged in with entity id 3451882 at ([world] 674.848683967255, 34.53584062504456, 106.30727239511907)
+2012-04-22 15:34:28 [INFO] Connection reset
+2012-04-22 15:34:28 [INFO] daevd lost connection: disconnect.quitting
+2012-04-22 15:34:45 [INFO] Read timed out
+2012-04-22 15:34:45 [INFO] Mondoza lost connection: disconnect.endOfStream
+2012-04-22 15:35:36 [INFO] Mondoza [/203.129.52.205:1115] logged in with entity id 3452355 at ([world] -4390.19652164799, 62.413630880594056, -1820.790033754789)
+2012-04-22 15:35:38 [INFO] /203.129.52.205:1109 lost connection
+2012-04-22 15:37:38 [INFO] Connection reset
+2012-04-22 15:37:38 [INFO] Mondoza lost connection: disconnect.endOfStream
+2012-04-22 15:37:39 [INFO] Connection reset
+2012-04-22 15:37:39 [INFO] Mondoza [/203.129.52.205:1118] logged in with entity id 3454210 at ([world] -4269.650397970383, 63.0, -1790.6129201619842)
+2012-04-22 15:41:47 [WARNING] Mondoza moved too quickly!
+2012-04-22 15:41:54 [INFO] Mondoza [/203.129.52.205:1121] logged in with entity id 3458868 at ([world] -5020.562024600675, 62.38512191888678, -1360.2108381673195)
+2012-04-22 15:51:02 [INFO] Connection reset
+2012-04-22 15:51:02 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-22 16:27:16 [INFO] daevd [/49.2.2.132:55729] logged in with entity id 3463165 at ([world] 674.9332696432248, 34.533732416589096, 106.13328817300498)
+2012-04-22 16:27:47 [INFO] Read timed out
+2012-04-22 16:27:47 [INFO] daevd lost connection: disconnect.endOfStream
+2012-04-22 16:28:00 [INFO] ozymandias12345 [/121.217.194.167:50556] logged in with entity id 3463443 at ([world] -153.70981935445403, 69.0, -700.8972992635793)
+2012-04-22 16:34:26 [INFO] nightkhaos [/121.210.117.118:64285] logged in with entity id 3467523 at ([world_the_end] 353.30000001192093, 5.0, -4.832072878741736)
+2012-04-22 16:34:34 [INFO] <nightkhaos> hey adam[0m
+2012-04-22 16:34:38 [INFO] <nightkhaos> thanks for the redstone[0m
+2012-04-22 16:34:41 [INFO] <ozymandias12345> hey there[0m
+2012-04-22 16:34:57 [INFO] <ozymandias12345> no problem im mining some more out right now[0m
+2012-04-22 16:37:18 [INFO] <nightkhaos> do you know if the iron grinder is up and runnign yet?[0m
+2012-04-22 16:37:26 [INFO] <ozymandias12345> i dont think so[0m
+2012-04-22 16:37:39 [INFO] <ozymandias12345> but i havent checked recently[0m
+2012-04-22 16:37:56 [INFO] <ozymandias12345> also i like fortune 3 6 blocks = 40 redstone dust[0m
+2012-04-22 16:38:11 [INFO] <nightkhaos> crap.. I'll need another 34 iron to do another layer. :([0m
+2012-04-22 16:38:33 [INFO] <ozymandias12345> i can get you that[0m
+2012-04-22 16:38:49 [INFO] <ozymandias12345> can you come to my place[0m
+2012-04-22 16:44:50 [WARNING] nightkhaos moved wrongly!
+2012-04-22 16:44:50 [INFO] Got position 356.3304616682614, 82.0, 5.9573211373011175
+2012-04-22 16:44:50 [INFO] Expected 357.30000001192093, 82.0, 5.9573211373011175
+2012-04-22 16:46:44 [INFO] <ozymandias12345> oh my[0m
+2012-04-22 16:46:48 [INFO] <nightkhaos> son of a[0m
+2012-04-22 16:46:57 [INFO] <ozymandias12345> lose anything good?[0m
+2012-04-22 16:47:01 [INFO] <nightkhaos> not sure[0m
+2012-04-22 16:47:13 [INFO] <nightkhaos> depends if they let me take my stuff back[0m
+2012-04-22 16:49:45 [INFO] <nightkhaos> nope got everything[0m
+2012-04-22 16:49:54 [INFO] <ozymandias12345> cool[0m
+2012-04-22 16:53:51 [INFO] <ozymandias12345> still need iron?[0m
+2012-04-22 16:53:57 [INFO] <nightkhaos> yep[0m
+2012-04-22 16:54:09 [INFO] <ozymandias12345> need stone brick?[0m
+2012-04-22 16:54:17 [INFO] <nightkhaos> helpful[0m
+2012-04-22 16:54:37 [INFO] <ozymandias12345> im on my way[0m
+2012-04-22 16:54:42 [INFO] <nightkhaos> 87... woo[0m
+2012-04-22 16:54:51 [INFO] <ozymandias12345> z level?[0m
+2012-04-22 16:54:56 [INFO] <nightkhaos> y[0m
+2012-04-22 16:55:07 [INFO] <ozymandias12345> only 10 layers to go?[0m
+2012-04-22 16:55:37 [WARNING] nightkhaos moved wrongly!
+2012-04-22 16:55:37 [INFO] Got position 359.58789261890183, 70.0, -0.7523897556627864
+2012-04-22 16:55:37 [INFO] Expected 358.69999998807907, 70.0, -0.7523897556627865
+2012-04-22 16:56:40 [INFO] <nightkhaos> hai[0m
+2012-04-22 16:56:56 [INFO] <ozymandias12345> special delivery[0m
+2012-04-22 16:57:00 [INFO] <nightkhaos> thanks[0m
+2012-04-22 16:57:42 [INFO] <ozymandias12345> i hate enders[0m
+2012-04-22 16:57:42 [INFO] <nightkhaos> Yep... maybe 11 layers to be awesome. :P[0m
+2012-04-22 16:57:53 [INFO] <nightkhaos> punch em. ;)[0m
+2012-04-22 16:58:11 [INFO] <ozymandias12345> nah i gotta go[0m
+2012-04-22 16:58:20 [INFO] Connection reset
+2012-04-22 16:58:20 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-04-22 17:00:13 [INFO] Connection reset
+2012-04-22 17:00:13 [INFO] nightkhaos lost connection: disconnect.quitting
+2012-04-22 17:44:11 [INFO] Mondoza [/203.129.52.205:1165] logged in with entity id 3502338 at ([world] -5056.805669427185, 90.0, -1329.699999988079)
+2012-04-22 17:46:34 [INFO] Connection reset
+2012-04-22 17:46:34 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-22 18:15:08 [INFO] minarwin [/60.240.32.175:44544] logged in with entity id 3503443 at ([world] -247.32830512867207, 72.0, 194.56645273954152)
+2012-04-22 18:31:16 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 74 in world, 2.8 blocks from minarwin
+2012-04-22 18:31:27 [INFO] <minarwin> asshat[0m
+2012-04-22 19:00:06 [INFO] Connection reset
+2012-04-22 19:00:06 [INFO] minarwin lost connection: disconnect.quitting
+2012-04-22 19:23:10 [INFO] minarwin [/60.240.32.175:51679] logged in with entity id 3633426 at ([world] -249.33837665403342, 72.0, 195.75418165163958)
+2012-04-22 19:47:29 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 26 in world, 1.5 blocks from minarwin
+2012-04-22 19:50:58 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 18 in world, 6.6 blocks from minarwin
+2012-04-22 19:53:51 [INFO] minarwin lost connection: disconnect.quitting
+2012-04-22 19:53:51 [INFO] Connection reset
+2012-04-22 20:22:23 [INFO] minarwin [/60.240.32.175:49916] logged in with entity id 3749665 at ([world] -299.1328183746199, 37.5, 210.66146953568975)
+2012-04-22 20:51:08 [INFO] minarwin lost connection: disconnect.quitting
+2012-04-22 20:51:08 [INFO] Connection reset
+2012-04-22 21:06:19 [INFO] ultrajono [/124.171.55.186:50019] logged in with entity id 3781914 at ([world] 624.6485068687076, 65.0, -332.5041877147078)
+2012-04-22 21:10:17 [INFO] adrianjboyer [/121.209.248.181:58751] logged in with entity id 3785987 at ([world] 484.69999998807907, 11.0, -340.8358551260813)
+2012-04-22 21:10:34 [INFO] <ultrajono> hullo :D[0m
+2012-04-22 21:10:39 [INFO] <adrianjboyer> hi[0m
+2012-04-22 21:10:50 [INFO] <adrianjboyer> just so you know[0m
+2012-04-22 21:10:52 [INFO] <ultrajono> meanign to ask you, do you have your own set of chucks?[0m
+2012-04-22 21:11:29 [INFO] <adrianjboyer> im extremely drunk and in no state to give advice[0m
+2012-04-22 21:11:41 [INFO] <ultrajono> so, a typical sunday?[0m
+2012-04-22 21:11:56 [INFO] <ultrajono> and what does that have to do with if you have your own nun-chucks?[0m
+2012-04-22 21:12:07 [INFO] <adrianjboyer> and no, i do not, but i am planing to make a set[0m
+2012-04-22 21:12:16 [INFO] <ultrajono> i'm thinkin of learning them[0m
+2012-04-22 21:12:30 [INFO] <adrianjboyer> ask morgn[0m
+2012-04-22 21:12:41 [INFO] <adrianjboyer> *morgan[0m
+2012-04-22 21:12:44 [INFO] <ultrajono> would, except he's barely there, is there a reason for drunkeness?[0m
+2012-04-22 21:13:08 [INFO] <adrianjboyer> but hres not at circus very often[0m
+2012-04-22 21:13:23 [INFO] <adrianjboyer> brother has mates overr[0m
+2012-04-22 21:13:39 [INFO] <ultrajono> i'm surprised YOU can get drunk, it seems to be your natural way :P[0m
+2012-04-22 21:14:20 [INFO] <adrianjboyer> to quot3e trekkie monster, YOU HAVER NO IDEA!!![0m
+2012-04-22 21:14:31 [INFO] <ultrajono> if you get teh chance, and if you can remember, come check out my new wheat farm, its crazy[0m
+2012-04-22 21:14:43 [INFO] <adrianjboyer> where?[0m
+2012-04-22 21:14:53 [INFO] <ultrajono> my place, i expanded the old one, its kidna bigger :P[0m
+2012-04-22 21:15:06 [INFO] <adrianjboyer> ill wridfe down coords and visit eventuslly[0m
+2012-04-22 21:15:18 [INFO] <ultrajono> you know my place man, you can see it from outside yours[0m
+2012-04-22 21:16:25 [INFO] <ultrajono> hello, you walked right past it[0m
+2012-04-22 21:16:27 [INFO] <ultrajono> this way[0m
+2012-04-22 21:16:36 [INFO] <ultrajono> ta da[0m
+2012-04-22 21:16:42 [INFO] <ultrajono> it used to be a third of this[0m
+2012-04-22 21:16:50 [INFO] <adrianjboyer> impractical[0m
+2012-04-22 21:16:55 [INFO] <ultrajono> ?[0m
+2012-04-22 21:17:22 [INFO] <adrianjboyer> such a large area, needs to be hand harvested[0m
+2012-04-22 21:17:37 [INFO] <ultrajono> i haven't been able to machien harvest my farms yet :P[0m
+2012-04-22 21:17:48 [INFO] <ultrajono> although iw ill be expanding my melon/pumpkin ones to somethign akin to the ones in the end[0m
+2012-04-22 21:18:12 [INFO] <ultrajono> oi, you need cane?[0m
+2012-04-22 21:18:22 [INFO] nightkhaos [/121.210.117.118:51098] logged in with entity id 3797955 at ([world_the_end] 360.4560238735663, 5.0, 4.024943429365925)
+2012-04-22 21:18:37 [INFO] <nightkhaos> hi#[0m
+2012-04-22 21:18:40 [INFO] <ultrajono> evenin[0m
+2012-04-22 21:18:59 [INFO] <ultrajono> adrian?[0m
+2012-04-22 21:21:06 [INFO] <ultrajono> expanding the grinder again?[0m
+2012-04-22 21:21:19 [INFO] <nightkhaos> always[0m
+2012-04-22 21:21:26 [INFO] <ultrajono> what do you need this time?[0m
+2012-04-22 21:21:44 [INFO] <nightkhaos> i think I actually have enough this time. xD[0m
+2012-04-22 21:21:53 [INFO] <ultrajono> holy crap![0m
+2012-04-22 21:35:47 [INFO] <ultrajono> whats doin taylor?[0m
+2012-04-22 21:35:56 [INFO] <nightkhaos> adding a layer[0m
+2012-04-22 21:36:03 [INFO] <ultrajono> need materials?[0m
+2012-04-22 21:36:10 [INFO] <nightkhaos> so far no[0m
+2012-04-22 21:37:33 [INFO] <ultrajono> how have i misplaced an iron axe?[0m
+2012-04-22 21:39:46 [INFO] <ultrajono> massive fucking glitch!![0m
+2012-04-22 21:39:49 [INFO] <ultrajono> holy crap thats annoying[0m
+2012-04-22 21:40:12 [INFO] <ultrajono> you dig through one layer of gravel, and like magic it appears, WTF!![0m
+2012-04-22 21:46:44 [INFO] <ultrajono> yo adrian?[0m
+2012-04-22 21:47:20 [INFO] <ultrajono> taylor, if youd ont' mind me asking, hwo are things progressing with your girl?[0m
+2012-04-22 21:47:39 [INFO] <nightkhaos> Alright... but slow[0m
+2012-04-22 21:47:52 [INFO] <ultrajono> feel free to tell me to shutup, i wasn't exactly the nicest of guys when people assumed stuff about[0m
+2012-04-22 21:47:58 [INFO] <ultrajono> which is why i am asking[0m
+2012-04-22 21:48:18 [INFO] <ultrajono> ok, i'm in a mine, and i'm hearing thunderstorms?[0m
+2012-04-22 21:49:50 [INFO] <ultrajono> you kids talk a lot?[0m
+2012-04-22 21:50:55 [INFO] adrianjboyer lost connection: disconnect.endOfStream
+2012-04-22 21:53:14 [INFO] <nightkhaos> We do.[0m
+2012-04-22 21:53:23 [INFO] <nightkhaos> All the time practically[0m
+2012-04-22 21:53:46 [INFO] <nightkhaos> right one layer down[0m
+2012-04-22 21:53:48 [INFO] <ultrajono> thsi is good, why a sad taylor?[0m
+2012-04-22 21:54:36 [INFO] <ultrajono> again, feel free to say simba shutup![0m
+2012-04-22 21:54:51 [INFO] <ultrajono> adrian went afk for al ittle while, so i enclosed him in cobble. . . .[0m
+2012-04-22 21:56:02 [INFO] <nightkhaos> okay I need 4 iron and some cobble now. *sigh*[0m
+2012-04-22 21:56:17 [INFO] <ultrajono> i'm going against one of the first rules of minecraft[0m
+2012-04-22 21:56:20 [INFO] <nightkhaos> second layer[0m
+2012-04-22 21:56:53 [INFO] <ultrajono> and that is why you never dig straight down[0m
+2012-04-22 21:59:13 [INFO] <nightkhaos> right going to enchant this pickaxe while then  go mine some stone[0m
+2012-04-22 21:59:45 [INFO] <ultrajono> i've got a butload you can have man[0m
+2012-04-22 22:00:04 [INFO] <nightkhaos> but this si more fun. :P[0m
+2012-04-22 22:00:24 [INFO] <ultrajono> i'd have thought a quick descent was an easy idea, apparently not[0m
+2012-04-22 22:01:02 [INFO] <nightkhaos> i'm killing them with their own pearls[0m
+2012-04-22 22:01:15 [INFO] <ultrajono> didn't take you to be a dirty dirty boy[0m
+2012-04-22 22:07:33 [INFO] <ultrajono> i'm guessing i'm soon to die from falling, lets see[0m
+2012-04-22 22:07:43 [INFO] <ultrajono> nope, =D[0m
+2012-04-22 22:09:00 [INFO] <nightkhaos> i should really be timing these[0m
+2012-04-22 22:09:04 [INFO] <ultrajono> timing what?[0m
+2012-04-22 22:09:12 [INFO] <nightkhaos> to level 50 grind times[0m
+2012-04-22 22:09:32 [INFO] <ultrajono> you get your cobble?[0m
+2012-04-22 22:09:37 [INFO] <nightkhaos> still grinding[0m
+2012-04-22 22:09:46 [INFO] <ultrajono> lvl?[0m
+2012-04-22 22:09:51 [INFO] <nightkhaos> 33[0m
+2012-04-22 22:11:15 [INFO] <ultrajono> i hate it when you have something in a diff chest, all the way away, and you need it for one signula[0m
+2012-04-22 22:11:20 [INFO] <ultrajono> singular thing, it pisses me off[0m
+2012-04-22 22:12:37 [INFO] <ultrajono> eh, fuck it i'll make another one, never enough buckets[0m
+2012-04-22 22:14:17 [INFO] <ultrajono> lvl?[0m
+2012-04-22 22:14:21 [INFO] <nightkhaos> 41[0m
+2012-04-22 22:15:26 [INFO] <nightkhaos> 42 hehe[0m
+2012-04-22 22:15:35 [INFO] <ultrajono> shakes head in shame[0m
+2012-04-22 22:15:52 [INFO] <ultrajono> how do people say stuff about themsleves? without writing it out?[0m
+2012-04-22 22:16:04 [INFO] <nightkhaos> i don't know[0m
+2012-04-22 22:17:12 [INFO] <ultrajono> megan be coming to circus tomorrow[0m
+2012-04-22 22:19:17 [INFO] <ultrajono> i need to figure out what i wnat to do with my patio outside my room in my place[0m
+2012-04-22 22:21:53 [INFO] <ultrajono> lvl?[0m
+2012-04-22 22:22:47 [INFO] <ultrajono> LVL!!!???!?!?!?!?!?!?![0m
+2012-04-22 22:23:44 [INFO] <nightkhaos> efficency IV! :)[0m
+2012-04-22 22:24:47 [INFO] <ultrajono> so you finished your grind[0m
+2012-04-22 22:25:07 [INFO] <ultrajono> i'm on my way there, need me to bring anything?[0m
+2012-04-22 22:25:53 [INFO] <ultrajono> to late[0m
+2012-04-22 22:27:15 [INFO] <ultrajono> got a cart?[0m
+2012-04-22 22:28:28 [INFO] <ultrajono> or not[0m
+2012-04-22 22:28:38 [INFO] <ultrajono> wow, that worked?[0m
+2012-04-22 22:28:42 [INFO] <nightkhaos> lol[0m
+2012-04-22 22:28:58 [INFO] <ultrajono> want me to send it up?[0m
+2012-04-22 22:29:02 [INFO] <nightkhaos> might as well[0m
+2012-04-22 22:29:10 [INFO] <ultrajono> i'll just walk it, fuck it[0m
+2012-04-22 22:29:41 [INFO] <ultrajono> ok, i'll be here till i get to 50, want to time me?[0m
+2012-04-22 22:29:49 [INFO] <nightkhaos> might as well[0m
+2012-04-22 22:29:56 [INFO] <ultrajono> and start[0m
+2012-04-22 22:30:02 [INFO] <nightkhaos> okayw[0m
+2012-04-22 22:30:32 [INFO] <ultrajono> i started from 0 btw[0m
+2012-04-22 22:30:37 [INFO] <nightkhaos> i guessed[0m
+2012-04-22 22:31:20 [INFO] <ultrajono> did you add that lvl with my ingredients?[0m
+2012-04-22 22:32:23 [INFO] <ultrajono> 15[0m
+2012-04-22 22:35:14 [INFO] <ultrajono> ?[0m
+2012-04-22 22:45:21 [INFO] <ultrajono> 40[0m
+2012-04-22 22:47:50 [INFO] <nightkhaos> you're up to 20 minutes now[0m
+2012-04-22 22:47:55 [INFO] <ultrajono> 44[0m
+2012-04-22 22:48:13 [INFO] <ultrajono> they were coming frequently, and now they are not[0m
+2012-04-22 22:48:37 [INFO] <nightkhaos> The spawning algorithm is still random[0m
+2012-04-22 22:48:45 [INFO] <ultrajono> how many more lvls did you want to get?[0m
+2012-04-22 22:48:53 [INFO] <nightkhaos> 50[0m
+2012-04-22 22:49:00 [INFO] <ultrajono> and the time to?[0m
+2012-04-22 22:49:11 [INFO] <nightkhaos> currently it's at 19 minutes[0m
+2012-04-22 22:49:22 [INFO] <ultrajono> uh, im only a 45 and over 20 min here?[0m
+2012-04-22 22:49:48 [INFO] <nightkhaos> you started at 10:25, it's 10:44 by my clock... almost 20 minutes[0m
+2012-04-22 22:50:21 [INFO] <nightkhaos> it's fast, I'll give it that... just not as fast as we want it... :)[0m
+2012-04-22 22:50:23 [INFO] <ultrajono> what time do you WANT to get it to?[0m
+2012-04-22 22:50:37 [INFO] <nightkhaos> 5 minutes would be ideal, but because of some of the conessions we made[0m
+2012-04-22 22:50:54 [INFO] <nightkhaos> on account of materials, i.e. not using stikcy pistons, I expect it to be 7-12 minutes[0m
+2012-04-22 22:51:14 [INFO] <ultrajono> i can give more redstone?[0m
+2012-04-22 22:51:44 [INFO] <nightkhaos> That would be nice... but we won't know the full speed of the system until we[0m
+2012-04-22 22:51:48 [INFO] <nightkhaos> flood the roof[0m
+2012-04-22 22:52:00 [INFO] <ultrajono> and you'll only do that at 50 more lvls?[0m
+2012-04-22 22:52:26 [INFO] <nightkhaos> Ha no... when it gets to 128 blocks high we'll stop[0m
+2012-04-22 22:52:36 [INFO] <nightkhaos> we're at 87 iirc[0m
+2012-04-22 22:52:50 [INFO] <nightkhaos> about 10 more levels to go[0m
+2012-04-22 22:52:53 [INFO] <ultrajono> 50!!![0m
+2012-04-22 22:53:04 [INFO] <nightkhaos> okay, so that was 23 minutes by my recokening[0m
+2012-04-22 22:53:39 [INFO] <nightkhaos> can you send the cart up?[0m
+2012-04-22 22:53:46 [INFO] <ultrajono> i don't have it, i already sent it up[0m
+2012-04-22 22:54:01 [INFO] <nightkhaos> so you did, thanks[0m
+2012-04-22 22:54:11 [INFO] <nightkhaos> hai[0m
+2012-04-22 22:54:13 [INFO] <nightkhaos> arse[0m
+2012-04-22 22:54:14 [INFO] <ultrajono> what should i enchant now?[0m
+2012-04-22 22:54:24 [INFO] <nightkhaos> i dunno... armour? :P[0m
+2012-04-22 22:54:40 [INFO] <ultrajono> bwahahahahaha[0m
+2012-04-22 22:54:48 [INFO] <ultrajono> and whats the point. . . .[0m
+2012-04-22 22:54:56 [INFO] <nightkhaos> better armour?[0m
+2012-04-22 22:55:03 [INFO] <ultrajono> yeh, but when do i ever need it?[0m
+2012-04-22 22:55:07 [INFO] <nightkhaos> if you get boots of featherfall[0m
+2012-04-22 22:55:16 [INFO] <nightkhaos> you can spam pearls[0m
+2012-04-22 22:55:21 [INFO] <ultrajono> ?[0m
+2012-04-22 22:55:50 [INFO] <nightkhaos> negates 2.5 hearts falling damage... equal to what perls do[0m
+2012-04-22 22:56:39 [INFO] <ultrajono> hmm, what else would you recommend?[0m
+2012-04-22 22:56:59 [INFO] <ultrajono> i've already got 2 diamond axes, each with double enchantments and one has 3[0m
+2012-04-22 22:57:04 [INFO] <ultrajono> bow/sword perhaps?[0m
+2012-04-22 22:57:10 [INFO] <nightkhaos> bow yeah[0m
+2012-04-22 22:57:14 [INFO] <nightkhaos> try and get infinity[0m
+2012-04-22 22:58:02 [INFO] <ultrajono> at home, i have nearly 2 full double chests of pearls[0m
+2012-04-22 22:58:54 [INFO] <ultrajono> power 5[0m
+2012-04-22 22:59:56 [INFO] <nightkhaos> right gtg[0m
+2012-04-22 23:00:00 [INFO] <nightkhaos> ttyl[0m
+2012-04-22 23:00:02 [INFO] Connection reset
+2012-04-22 23:00:02 [INFO] nightkhaos lost connection: disconnect.quitting
+2012-04-22 23:00:04 [INFO] <ultrajono> cya tomorrow[0m
+2012-04-22 23:01:06 [INFO] Connection reset
+2012-04-22 23:01:06 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-23 00:40:34 [INFO] /14.200.158.249:57678 lost connection
+2012-04-23 01:37:10 [INFO] /14.200.158.249:58095 lost connection
+2012-04-23 08:00:02 [INFO] [35m[Server] Starting backup.[0m
+2012-04-23 08:00:02 [INFO] CONSOLE: Forcing save..[0m
+2012-04-23 08:00:02 [INFO] CONSOLE: Save complete.[0m
+2012-04-23 08:00:02 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-23 08:00:17 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-23 08:00:17 [INFO] CONSOLE: Forcing save..[0m
+2012-04-23 08:00:17 [INFO] CONSOLE: Save complete.[0m
+2012-04-23 09:31:06 [INFO] ultrajono [/58.6.47.79:49435] logged in with entity id 3952161 at ([world] 626.9996580203549, 60.0, -320.7201868206008)
+2012-04-23 10:01:16 [INFO] Mondoza [/203.129.52.205:1061] logged in with entity id 3999036 at ([world] -5063.6186077805205, 90.0, -1303.6294976670615)
+2012-04-23 10:01:28 [INFO] <ultrajono> mornin[0m
+2012-04-23 10:01:34 [INFO] <Mondoza> sup[0m
+2012-04-23 10:04:53 [INFO] H4ZM4T [/124.168.1.184:49357] logged in with entity id 4004682 at ([world] -5060.010999270118, 59.0, -1317.585017134908)
+2012-04-23 10:05:08 [INFO] <H4ZM4T> hai gais[0m
+2012-04-23 10:05:13 [INFO] <ultrajono> hey nellie, how you doin?[0m
+2012-04-23 10:05:37 [INFO] <H4ZM4T> I am le well[0m
+2012-04-23 10:05:41 [INFO] <H4ZM4T> and you?[0m
+2012-04-23 10:05:53 [INFO] <ultrajono> keep on running into lava in my mine, but aside from that i'm ok[0m
+2012-04-23 10:06:02 [INFO] <ultrajono> tired, and sore, gym at 6:30 again this morning[0m
+2012-04-23 10:06:22 [INFO] <H4ZM4T> kekeke[0m
+2012-04-23 10:06:32 [INFO] <ultrajono> ok, something happened to my bed, i just spawned near lluocs?[0m
+2012-04-23 10:06:47 [INFO] <ultrajono> how is that even possible?[0m
+2012-04-23 10:07:05 [INFO] <H4ZM4T> kekeke?[0m
+2012-04-23 10:07:09 [INFO] <H4ZM4T> wut[0m
+2012-04-23 10:07:17 [INFO] <H4ZM4T> is your bed destroyed or blocked?[0m
+2012-04-23 10:07:26 [INFO] <ultrajono> it says it was either missing or obstructed?[0m
+2012-04-23 10:07:47 [INFO] <H4ZM4T> mondoza, can has 5 iron to go make a minecart to gets you some wood[0m
+2012-04-23 10:08:02 [INFO] <Mondoza> sure go for it[0m
+2012-04-23 10:08:17 [INFO] <ultrajono> how far out are you guys mondoza?[0m
+2012-04-23 10:08:24 [INFO] <H4ZM4T> a loooooooong way[0m
+2012-04-23 10:08:29 [INFO] <ultrajono> damn, had an iron pick, grr[0m
+2012-04-23 10:08:32 [INFO] <ultrajono> nellie, i can give you 5 iron?[0m
+2012-04-23 10:08:39 [INFO] <ultrajono> and wood[0m
+2012-04-23 10:09:09 [INFO] <ultrajono> i use the grinder a fair bit, and will continue to do so, so giving materials isn't a problem for me[0m
+2012-04-23 10:09:30 [INFO] <H4ZM4T> I am a billion miles away[0m
+2012-04-23 10:09:40 [INFO] <ultrajono> holy crap, a billion?[0m
+2012-04-23 10:09:42 [INFO] <H4ZM4T> that is why I need one, to get back, get wood and then go back to mondoza[0m
+2012-04-23 10:09:47 [INFO] <H4ZM4T> no, but you know what I mean[0m
+2012-04-23 10:09:52 [INFO] <ultrajono> ok, my bed is right here?[0m
+2012-04-23 10:10:11 [INFO] <ultrajono> lost some redstone and an iron pick, meh[0m
+2012-04-23 10:10:17 [INFO] Connection reset
+2012-04-23 10:10:17 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-23 10:10:20 [INFO] <ultrajono> my wheat farm has now been trippled nellie :D[0m
+2012-04-23 10:10:21 [INFO] Mondoza [/203.129.52.205:1071] logged in with entity id 4013860 at ([world] -5106.544065833636, 6.0, -1362.199122017447)
+2012-04-23 10:10:24 [INFO] <H4ZM4T> wheeeeeeeeee[0m
+2012-04-23 10:10:25 [INFO] <H4ZM4T> nice[0m
+2012-04-23 10:10:34 [INFO] <ultrajono> its crazy[0m
+2012-04-23 10:11:19 [INFO] <ultrajono> my aim is to harvest 3 x 64 wheat so i can make 64 bread in one hit[0m
+2012-04-23 10:11:25 [INFO] <H4ZM4T> indeed[0m
+2012-04-23 10:11:43 [INFO] <ultrajono> i like being self sufficeint :D[0m
+2012-04-23 10:12:29 [INFO] <ultrajono> i just hope it stops raining by 5[0m
+2012-04-23 10:14:46 [INFO] <ultrajono> is it worth making a quick drop next to my water elevator only because i can?[0m
+2012-04-23 10:14:53 [INFO] <H4ZM4T> yeah[0m
+2012-04-23 10:14:55 [INFO] <H4ZM4T> fats[0m
+2012-04-23 10:14:58 [INFO] <H4ZM4T> *fast[0m
+2012-04-23 10:15:11 [INFO] <ultrajono> yeh, but i can sort stuff and talk in elevator[0m
+2012-04-23 10:15:25 [INFO] <ultrajono> fuck it, i'll do it, why not[0m
+2012-04-23 10:15:33 [INFO] <ultrajono> made one for easier access to my mine :D[0m
+2012-04-23 10:17:24 [INFO] <ultrajono> besides, not entirely hard to do :D[0m
+2012-04-23 10:22:30 [INFO] <ultrajono> well, i'll probably die now[0m
+2012-04-23 10:22:38 [INFO] <ultrajono> hey, i survived :D[0m
+2012-04-23 10:22:41 [INFO] <H4ZM4T> :D[0m
+2012-04-23 10:22:49 [INFO] <ultrajono> sweet[0m
+2012-04-23 10:25:39 [INFO] <ultrajono> and to test a second time[0m
+2012-04-23 10:25:50 [INFO] <ultrajono> nope, flying humans work[0m
+2012-04-23 10:27:05 [INFO] <ultrajono> you still comin even if it rains?[0m
+2012-04-23 10:28:03 [INFO] <H4ZM4T> well, hopefully, if people are paying attention, we shall get the roundhouse[0m
+2012-04-23 10:29:06 [INFO] <ultrajono> again with my bed?[0m
+2012-04-23 10:29:15 [INFO] <H4ZM4T> is it blocked[0m
+2012-04-23 10:29:32 [INFO] <ultrajono> dont' think so, i moved it but i don't think so[0m
+2012-04-23 10:29:45 [INFO] <H4ZM4T> you have to sleep in it again[0m
+2012-04-23 10:29:47 [INFO] <ultrajono> i can sleep in it as usual?[0m
+2012-04-23 10:30:30 [INFO] <ultrajono> all i can say is thank you for nether portals[0m
+2012-04-23 10:30:41 [INFO] <H4ZM4T> tis no problem[0m
+2012-04-23 10:31:05 [INFO] <ultrajono> so much easier, through lluocs, down the quick way, down the path you made adn i'm home[0m
+2012-04-23 10:35:02 [INFO] <ultrajono> ok, i'm in bed[0m
+2012-04-23 10:38:13 [INFO] <ultrajono> do you know why some of my soil isn't well hydrated, even though i made sure it was the same[0m
+2012-04-23 10:38:23 [INFO] <ultrajono> lvl deep all the way through? just some in random parts aren't as moist?[0m
+2012-04-23 10:42:51 [INFO] Connection reset
+2012-04-23 10:42:51 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-23 10:43:28 [INFO] <ultrajono> holy crap[0m
+2012-04-23 10:43:31 [INFO] <ultrajono> e[0m
+2012-04-23 10:43:53 [INFO] <ultrajono> my wheat farm is big enough to make 64 bread in one hit, and have 1 and a half to make another set[0m
+2012-04-23 10:46:31 [INFO] Connection reset
+2012-04-23 10:46:31 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-23 10:57:29 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-23 10:57:29 [INFO] Connection reset
+2012-04-23 11:01:31 [INFO] ultrajono [/58.6.47.79:49577] logged in with entity id 4098367 at ([world] 630.0548032438901, 60.0, -322.0952577684953)
+2012-04-23 11:36:51 [INFO] Connection reset
+2012-04-23 11:36:51 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-23 11:44:39 [INFO] Connected players: [0m
+2012-04-23 11:44:43 [INFO] CONSOLE: Forcing save..[0m
+2012-04-23 11:44:43 [INFO] CONSOLE: Save complete.[0m
+2012-04-23 11:44:47 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-23 11:44:47 [INFO] Stopping server
+2012-04-23 11:44:47 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-04-23 11:44:47 [INFO] SilkSpawners disabled
+2012-04-23 11:44:47 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-04-23 11:44:47 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-04-23 11:44:47 [INFO] [Lockette] Disabling Lockette v1.6
+2012-04-23 11:44:47 [INFO] Lockette is being disabled...  ;.;
+2012-04-23 11:44:47 [INFO] [Lockette] Closing all automatic doors.
+2012-04-23 11:44:47 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-04-23 11:44:47 [INFO] Disabling PickBoat
+2012-04-23 11:44:47 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-04-23 11:44:47 [INFO] [CreeperMess v1.2] Disabled!
+2012-04-23 11:44:47 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-04-23 11:44:47 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-04-23 11:44:47 [INFO] Saving chunks
+2012-04-23 11:44:48 [INFO] Stopping server
+2012-04-23 11:44:48 [INFO] Saving chunks

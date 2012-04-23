@@ -22,9 +22,12 @@ echo "Commiting under name: ${name}" >> backup_log 2>&1
 git commit  -m "${name}" >> backup_log 2>&1
 
 echo "Pushing to github" >> backup_log 2>&1
-git remote add origin git@github.com:BlockSocUNSW/Server-Backups.git >> backup_log 2>&1
+#git remote add origin git@github.com:BlockSocUNSW/Server-Backups.git >> backup_log 2>&1
 git push -u origin master >> backup_log 2>&1
-
+echo "Cleaning" >> backup_log 2>&1
+git gc
+echo "Repo size:" >> backup_log 2>&1
+git count-objects >> backup_log 2>&1
 echo "Returning to original directory." >> backup_log 2>&1
 
 cd ${current_dir} 

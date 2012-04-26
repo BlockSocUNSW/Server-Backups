@@ -17390,3 +17390,45 @@
 2012-04-26 10:34:05 [INFO] Saving chunks
 2012-04-26 10:34:05 [INFO] Stopping server
 2012-04-26 10:34:05 [INFO] Saving chunks
+2012-04-26 10:47:43 [INFO] Starting minecraft server version 1.2.5
+2012-04-26 10:47:43 [INFO] Loading properties
+2012-04-26 10:47:43 [INFO] Starting Minecraft server on *:25564
+2012-04-26 10:47:44 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-04-26 10:47:44 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-04-26 10:47:44 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-04-26 10:47:44 [INFO] [Lockette] Loading Lockette v1.6
+2012-04-26 10:47:44 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-04-26 10:47:44 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-04-26 10:47:44 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-04-26 10:47:44 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-04-26 10:47:44 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-04-26 10:47:44 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-04-26 10:47:44 [INFO] Preparing level "world"
+2012-04-26 10:47:44 [INFO] Default game type: 0
+2012-04-26 10:47:45 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-04-26 10:47:45 [WARNING] ----- Bukkit Auto Updater -----
+2012-04-26 10:47:45 [WARNING] Your version of CraftBukkit is out of date. Version 1.2.5-R1.3 (build #2169) was released on Wed Apr 25 17:43:42 EST 2012.
+2012-04-26 10:47:45 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/01053_1.2.5-R1.3/
+2012-04-26 10:47:45 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/01053_1.2.5-R1.3/craftbukkit-dev.jar
+2012-04-26 10:47:45 [WARNING] ----- ------------------- -----
+2012-04-26 10:47:46 [INFO] Preparing spawn area: 56%
+2012-04-26 10:47:46 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-04-26 10:47:47 [INFO] Preparing spawn area: 52%
+2012-04-26 10:47:47 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-04-26 10:47:48 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-04-26 10:47:48 [INFO] SilkSpawners enabled
+2012-04-26 10:47:48 [INFO] [Lockette] Enabling Lockette v1.6
+2012-04-26 10:47:48 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-04-26 10:47:48 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-04-26 10:47:48 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-04-26 10:47:48 [INFO] [Lockette] Using ops file for admin permissions.
+2012-04-26 10:47:48 [INFO] [Lockette] Ready to protect your containers.
+2012-04-26 10:47:48 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-04-26 10:47:48 [INFO] PickBoat version 0.4 is enabled!
+2012-04-26 10:47:48 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-04-26 10:47:48 [INFO] [CreeperMess v1.2] Enabled!
+2012-04-26 10:47:48 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-04-26 10:47:48 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-04-26 10:47:48 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-26 10:47:48 [INFO] Done (3.528s)! For help, type "help" or "?"
+2012-04-26 10:48:00 [INFO] Connected players: [0m

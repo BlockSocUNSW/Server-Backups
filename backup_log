@@ -173,3 +173,314 @@ Backup: Mon Apr 23 11:45:05 EST 2012
 Origin directory: /home/minecraft/server
 Moved to: /home/minecraft/server
 Adding all updates.
+Commiting under name: Mon Apr 23 11:45:05 EST 2012
+[master e2db506] Mon Apr 23 11:45:05 EST 2012
+ 98 files changed, 742 insertions(+), 1343 deletions(-)
+ rewrite backup_log (75%)
+ delete mode 100644 bukkit/server.log.lck
+ rewrite bukkit/world/data/map_0.dat (100%)
+ rewrite bukkit/world/data/map_1.dat (100%)
+ create mode 100644 bukkit/world/data/map_2.dat
+ rewrite bukkit/world/level.dat (100%)
+ rewrite bukkit/world/level.dat_old (100%)
+ rewrite bukkit/world/players/H4ZM4T.dat (100%)
+ rewrite bukkit/world/players/Mondoza.dat (100%)
+ rewrite bukkit/world/players/adrianjboyer.dat (100%)
+ rewrite bukkit/world/players/daevd.dat (100%)
+ rewrite bukkit/world/players/lluoc.dat (100%)
+ rewrite bukkit/world/players/minarwin.dat (100%)
+ rewrite bukkit/world/players/nightkhaos.dat (100%)
+ rewrite bukkit/world/players/ozymandias12345.dat (100%)
+ rewrite bukkit/world/players/ultrajono.dat (100%)
+ create mode 100644 bukkit/world/region/r.-10.-2.mca
+ copy bukkit/{world_nether/DIM-1/region/r.-1.-1.mca => world/region/r.-10.-3.mca} (50%)
+ copy bukkit/{world_nether/DIM-1/region/r.0.-1.mca => world/region/r.-10.-4.mca} (51%)
+ create mode 100644 bukkit/world/region/r.-11.-2.mca
+ create mode 100644 bukkit/world/region/r.-8.-3.mca
+ copy bukkit/world/region/{r.-10.-4.mca => r.-8.-4.mca} (50%)
+ create mode 100644 bukkit/world/region/r.-9.-2.mca
+ copy bukkit/{world_nether/DIM-1/region/r.0.-1.mca => world/region/r.-9.-3.mca} (50%)
+ copy bukkit/{world_nether/DIM-1/region/r.0.-1.mca => world/region/r.-9.-4.mca} (54%)
+ create mode 100644 final.tar
+ delete mode 100644 logs/proxy.log
+ delete mode 100644 plugins/adminmsg.py
+ delete mode 100644 plugins/bad_cmd.py
+ delete mode 100644 plugins/bad_cmd.pyc
+ delete mode 100644 plugins/log_all.py
+ delete mode 100644 plugins/log_all.pyc
+ delete mode 100644 plugins/log_sorted.py
+ delete mode 100644 plugins/log_sorted.pyc
+ delete mode 100644 plugins/menu_test.py
+ delete mode 100644 plugins/menus.py
+ delete mode 100644 plugins/menus.pyc
+ delete mode 100644 plugins/no_changes.py
+ delete mode 100644 plugins/no_changes.pyc
+ delete mode 100644 plugins/persistent_store.py
+ delete mode 100644 plugins/player_cmd.py
+ delete mode 100644 plugins/player_cmd.pyc
+ delete mode 100644 plugins/plugin_helpers.py
+ delete mode 100644 plugins/schedule.py
+ delete mode 100644 plugins/schedule.pyc
+ delete mode 100644 plugins/slimeballs.py
+ delete mode 100644 plugins/sp_opcolor.py
+ delete mode 100644 plugins/sp_opcolor.pyc
+ delete mode 100644 plugins/sp_zone.py
+ delete mode 100644 plugins/testing.py
+ delete mode 100644 plugins/usercolors.py
+ delete mode 100644 plugins/usercolors.pyc
+ delete mode 100644 plugins/usernames.py
+ delete mode 100644 plugins/usernames.pyc
+ delete mode 100644 plugins/welcome.py
+ delete mode 100644 plugins/welcome.pyc
+Pushing to github
+To git@github.com:BlockSocUNSW/Server-Backups.git
+   141bee2..e2db506  master -> master
+Branch master set up to track remote branch master from origin.
+Cleaning
+Repo size:
+14 objects, 4192 kilobytes
+Returning to original directory.
+
+Backup: Tue Apr 24 08:00:01 EST 2012
+Origin directory: /home/minecraft
+Moved to: /home/minecraft/server
+Adding all updates.
+fatal: confused by unstable object source data for 0b6738a688fc23fde8b51ca4c1d50cdffc05bf42
+Commiting under name: Tue Apr 24 08:00:01 EST 2012
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   MCProxy
+#	modified:   backup_log
+#	modified:   bukkit/server.log
+#	modified:   bukkit/server.properties
+#	modified:   bukkit/world/data/map_1.dat
+#	modified:   bukkit/world/data/map_2.dat
+#	modified:   bukkit/world/level.dat
+#	modified:   bukkit/world/level.dat_old
+#	modified:   bukkit/world/players/H4ZM4T.dat
+#	modified:   bukkit/world/players/Mondoza.dat
+#	modified:   bukkit/world/players/The_Whistler.dat
+#	modified:   bukkit/world/players/adrianjboyer.dat
+#	modified:   bukkit/world/players/lluoc.dat
+#	modified:   bukkit/world/players/ozymandias12345.dat
+#	modified:   bukkit/world/region/r.-1.-1.mca
+#	modified:   bukkit/world/region/r.-1.-2.mca
+#	modified:   bukkit/world/region/r.-1.0.mca
+#	modified:   bukkit/world/region/r.-10.-3.mca
+#	modified:   bukkit/world/region/r.-10.-4.mca
+#	modified:   bukkit/world/region/r.-11.-3.mca
+#	modified:   bukkit/world/region/r.-11.-4.mca
+#	modified:   bukkit/world/region/r.0.-1.mca
+#	modified:   bukkit/world/region/r.0.-2.mca
+#	modified:   bukkit/world/region/r.0.0.mca
+#	modified:   bukkit/world/region/r.1.-1.mca
+#	modified:   bukkit/world/region/r.1.-2.mca
+#	modified:   bukkit/world/region/r.7.6.mca
+#	modified:   bukkit/world/region/r.7.7.mca
+#	modified:   bukkit/world/session.lock
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.-2.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.0.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-2.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-2.-2.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.0.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.1.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.1.0.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.1.1.mca
+#	modified:   bukkit/world_nether/level.dat
+#	modified:   bukkit/world_nether/level.dat_old
+#	modified:   bukkit/world_nether/session.lock
+#	modified:   bukkit/world_the_end/DIM1/region/r.-1.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.-1.0.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.0.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.0.0.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.1.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.1.0.mca
+#	modified:   bukkit/world_the_end/level.dat
+#	modified:   bukkit/world_the_end/level.dat_old
+#	modified:   bukkit/world_the_end/session.lock
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	bukkit/server.log.lck
+no changes added to commit (use "git add" and/or "git commit -a")
+Pushing to github
+Everything up-to-date
+Branch master set up to track remote branch master from origin.
+Cleaning
+Repo size:
+27 objects, 4488 kilobytes
+Returning to original directory.
+
+Backup: Wed Apr 25 08:00:01 EST 2012
+Origin directory: /home/minecraft
+Moved to: /home/minecraft/server
+Adding all updates.
+fatal: confused by unstable object source data for 85041491f6fe4d7e6a94900150c7fa2ed9bfd5db
+Commiting under name: Wed Apr 25 08:00:01 EST 2012
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   MCProxy
+#	modified:   backup_log
+#	modified:   bukkit/server.log
+#	modified:   bukkit/server.properties
+#	modified:   bukkit/world/data/map_0.dat
+#	modified:   bukkit/world/data/map_1.dat
+#	modified:   bukkit/world/data/map_2.dat
+#	modified:   bukkit/world/level.dat
+#	modified:   bukkit/world/level.dat_old
+#	modified:   bukkit/world/players/H4ZM4T.dat
+#	modified:   bukkit/world/players/Mondoza.dat
+#	modified:   bukkit/world/players/The_Whistler.dat
+#	modified:   bukkit/world/players/adrianjboyer.dat
+#	modified:   bukkit/world/players/lluoc.dat
+#	modified:   bukkit/world/players/ozymandias12345.dat
+#	modified:   bukkit/world/region/r.-1.-1.mca
+#	modified:   bukkit/world/region/r.-1.-2.mca
+#	modified:   bukkit/world/region/r.-1.0.mca
+#	modified:   bukkit/world/region/r.-10.-2.mca
+#	modified:   bukkit/world/region/r.-10.-3.mca
+#	modified:   bukkit/world/region/r.-10.-4.mca
+#	modified:   bukkit/world/region/r.-11.-2.mca
+#	modified:   bukkit/world/region/r.-11.-3.mca
+#	modified:   bukkit/world/region/r.-11.-4.mca
+#	modified:   bukkit/world/region/r.0.-1.mca
+#	modified:   bukkit/world/region/r.0.-2.mca
+#	modified:   bukkit/world/region/r.0.0.mca
+#	modified:   bukkit/world/region/r.1.-1.mca
+#	modified:   bukkit/world/region/r.1.-2.mca
+#	modified:   bukkit/world/region/r.1.0.mca
+#	modified:   bukkit/world/region/r.7.6.mca
+#	modified:   bukkit/world/region/r.7.7.mca
+#	modified:   bukkit/world/session.lock
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.-2.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.0.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-2.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-2.-2.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.0.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.1.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.1.0.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.1.1.mca
+#	modified:   bukkit/world_nether/level.dat
+#	modified:   bukkit/world_nether/level.dat_old
+#	modified:   bukkit/world_nether/session.lock
+#	modified:   bukkit/world_the_end/DIM1/region/r.-1.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.-1.0.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.0.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.0.0.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.1.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.1.0.mca
+#	modified:   bukkit/world_the_end/level.dat
+#	modified:   bukkit/world_the_end/level.dat_old
+#	modified:   bukkit/world_the_end/session.lock
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	bukkit/server.log.lck
+no changes added to commit (use "git add" and/or "git commit -a")
+Pushing to github
+Everything up-to-date
+Branch master set up to track remote branch master from origin.
+Cleaning
+Repo size:
+37 objects, 4776 kilobytes
+Returning to original directory.
+
+Backup: Thu Apr 26 08:00:01 EST 2012
+Origin directory: /home/minecraft
+Moved to: /home/minecraft/server
+Adding all updates.
+fatal: confused by unstable object source data for aff3be9e7c420a5d8a936fda25e578ad582b6f95
+Commiting under name: Thu Apr 26 08:00:01 EST 2012
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   MCProxy
+#	modified:   backup_log
+#	modified:   bukkit/server.log
+#	modified:   bukkit/server.properties
+#	modified:   bukkit/world/data/map_0.dat
+#	modified:   bukkit/world/data/map_1.dat
+#	modified:   bukkit/world/data/map_2.dat
+#	modified:   bukkit/world/level.dat
+#	modified:   bukkit/world/level.dat_old
+#	modified:   bukkit/world/players/H4ZM4T.dat
+#	modified:   bukkit/world/players/Mondoza.dat
+#	modified:   bukkit/world/players/The_Whistler.dat
+#	modified:   bukkit/world/players/adrianjboyer.dat
+#	modified:   bukkit/world/players/lluoc.dat
+#	modified:   bukkit/world/players/ozymandias12345.dat
+#	modified:   bukkit/world/region/r.-1.-1.mca
+#	modified:   bukkit/world/region/r.-1.-2.mca
+#	modified:   bukkit/world/region/r.-1.0.mca
+#	modified:   bukkit/world/region/r.-10.-2.mca
+#	modified:   bukkit/world/region/r.-10.-3.mca
+#	modified:   bukkit/world/region/r.-10.-4.mca
+#	modified:   bukkit/world/region/r.-11.-2.mca
+#	modified:   bukkit/world/region/r.-11.-3.mca
+#	modified:   bukkit/world/region/r.-11.-4.mca
+#	modified:   bukkit/world/region/r.0.-1.mca
+#	modified:   bukkit/world/region/r.0.-2.mca
+#	modified:   bukkit/world/region/r.0.0.mca
+#	modified:   bukkit/world/region/r.1.-1.mca
+#	modified:   bukkit/world/region/r.1.-2.mca
+#	modified:   bukkit/world/region/r.1.0.mca
+#	modified:   bukkit/world/region/r.7.6.mca
+#	modified:   bukkit/world/region/r.7.7.mca
+#	modified:   bukkit/world/session.lock
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.-2.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.0.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-2.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-2.-2.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.0.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.1.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.1.0.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.1.1.mca
+#	modified:   bukkit/world_nether/level.dat
+#	modified:   bukkit/world_nether/level.dat_old
+#	modified:   bukkit/world_nether/session.lock
+#	modified:   bukkit/world_the_end/DIM1/region/r.-1.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.-1.0.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.0.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.0.0.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.1.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.1.0.mca
+#	modified:   bukkit/world_the_end/level.dat
+#	modified:   bukkit/world_the_end/level.dat_old
+#	modified:   bukkit/world_the_end/session.lock
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	bukkit/server.log.lck
+no changes added to commit (use "git add" and/or "git commit -a")
+Pushing to github
+Everything up-to-date
+Branch master set up to track remote branch master from origin.
+Cleaning
+Repo size:
+45 objects, 5056 kilobytes
+Returning to original directory.
+
+Backup: Thu Apr 26 10:36:39 EST 2012
+Origin directory: /home/minecraft/server
+Moved to: /home/minecraft/server
+Adding all updates.

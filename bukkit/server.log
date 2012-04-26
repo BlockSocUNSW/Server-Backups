@@ -16844,3 +16844,549 @@
 2012-04-23 11:44:47 [INFO] Saving chunks
 2012-04-23 11:44:48 [INFO] Stopping server
 2012-04-23 11:44:48 [INFO] Saving chunks
+2012-04-23 11:50:06 [INFO] Starting minecraft server version 1.2.5
+2012-04-23 11:50:06 [INFO] Loading properties
+2012-04-23 11:50:06 [INFO] Starting Minecraft server on *:25564
+2012-04-23 11:50:07 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-04-23 11:50:07 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-04-23 11:50:07 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-04-23 11:50:07 [INFO] [Lockette] Loading Lockette v1.6
+2012-04-23 11:50:07 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-04-23 11:50:07 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-04-23 11:50:07 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-04-23 11:50:07 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-04-23 11:50:07 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-04-23 11:50:07 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-04-23 11:50:07 [INFO] Preparing level "world"
+2012-04-23 11:50:07 [INFO] Default game type: 0
+2012-04-23 11:50:08 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-04-23 11:50:08 [WARNING] ----- Bukkit Auto Updater -----
+2012-04-23 11:50:08 [WARNING] Your version of CraftBukkit is out of date. Version 1.2.5-R1.2 (build #2157) was released on Sun Apr 22 03:58:38 EST 2012.
+2012-04-23 11:50:08 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/01039_1.2.5-R1.2/
+2012-04-23 11:50:08 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/01039_1.2.5-R1.2/craftbukkit-dev.jar
+2012-04-23 11:50:08 [WARNING] ----- ------------------- -----
+2012-04-23 11:50:09 [INFO] Preparing spawn area: 61%
+2012-04-23 11:50:09 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-04-23 11:50:10 [INFO] Preparing spawn area: 53%
+2012-04-23 11:50:10 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-04-23 11:50:10 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-04-23 11:50:11 [INFO] SilkSpawners enabled
+2012-04-23 11:50:11 [INFO] [Lockette] Enabling Lockette v1.6
+2012-04-23 11:50:11 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-04-23 11:50:11 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-04-23 11:50:11 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-04-23 11:50:11 [INFO] [Lockette] Using ops file for admin permissions.
+2012-04-23 11:50:11 [INFO] [Lockette] Ready to protect your containers.
+2012-04-23 11:50:11 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-04-23 11:50:11 [INFO] PickBoat version 0.4 is enabled!
+2012-04-23 11:50:11 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-04-23 11:50:11 [INFO] [CreeperMess v1.2] Enabled!
+2012-04-23 11:50:11 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-04-23 11:50:11 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-04-23 11:50:11 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-23 11:50:11 [INFO] Done (3.515s)! For help, type "help" or "?"
+2012-04-23 11:50:54 [INFO] lluoc [/127.0.0.1:46638] logged in with entity id 498 at ([world_the_end] 362.61660385823876, 5.0, 9.70246541594923)
+2012-04-23 11:51:04 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[0m
+2012-04-23 11:51:20 [INFO] Connection reset
+2012-04-23 11:51:20 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-23 11:51:24 [INFO] lluoc [/127.0.0.1:46642] logged in with entity id 831 at ([world_the_end] 352.30000001192093, 5.0, 8.598592936659843)
+2012-04-23 11:51:43 [INFO] * lluoc test[0m
+2012-04-23 11:51:50 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-23 11:51:50 [INFO] Connection reset
+2012-04-23 11:54:36 [INFO] lluoc [/127.0.0.1:46646] logged in with entity id 1148 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-23 11:56:36 [INFO] Connection reset
+2012-04-23 11:56:36 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-23 11:58:52 [INFO] lluoc [/127.0.0.1:46651] logged in with entity id 2589 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-23 11:59:15 [INFO] Connection reset
+2012-04-23 11:59:15 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-23 12:07:56 [INFO] lluoc [/127.0.0.1:46657] logged in with entity id 2984 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-23 12:08:32 [INFO] Connection reset
+2012-04-23 12:08:32 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-23 12:10:57 [INFO] lluoc [/127.0.0.1:46663] logged in with entity id 3487 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-23 12:11:04 [INFO] <lluoc> a[0m
+2012-04-23 12:12:31 [INFO] Connection reset
+2012-04-23 12:12:31 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-23 14:36:16 [INFO] Mondoza [/127.0.0.1:46688] logged in with entity id 5321 at ([world] -5059.4202000764135, 90.0, -1321.2598435421778)
+2012-04-23 14:51:00 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 43 in world, 5.7 blocks from Mondoza
+2012-04-23 14:52:46 [INFO] The_Whistler [/127.0.0.1:46694] logged in with entity id 19839 at ([world] -5059.879566504495, 71.0, -1397.8356908996136)
+2012-04-23 14:52:55 [INFO] <Mondoza> sup[0m
+2012-04-23 14:53:00 [INFO] <The_Whistler> hey man[0m
+2012-04-23 14:53:07 [INFO] <The_Whistler> just come in to check what' youv'e done[0m
+2012-04-23 14:54:21 [INFO] <Mondoza> ive just been mining[0m
+2012-04-23 14:54:43 [INFO] <Mondoza> below us, there's a huge complex mine system that leads to the ravine back at the portal[0m
+2012-04-23 14:54:56 [INFO] <Mondoza> folo me[0m
+2012-04-23 14:56:11 [INFO] <The_Whistler> I still have all those resources back at my places[0m
+2012-04-23 14:57:19 [INFO] <Mondoza> if you want to move you can use the rail system[0m
+2012-04-23 14:57:53 [INFO] <The_Whistler> I will. it'll take time though[0m
+2012-04-23 14:58:12 [INFO] <Mondoza> you like the house?[0m
+2012-04-23 14:58:17 [INFO] <The_Whistler> indeed[0m
+2012-04-23 14:58:44 [INFO] <Mondoza> btw, you'll find fencing on the 3rd block of my doorways[0m
+2012-04-23 14:58:57 [INFO] <The_Whistler> yeah I noticed[0m
+2012-04-23 14:59:08 [INFO] <Mondoza> they're there to prevent endermen from moving around the house[0m
+2012-04-23 15:04:24 [INFO] <The_Whistler> where is the origional station? I am at britanian station and I cann't find the homeland[0m
+2012-04-23 15:05:02 [INFO] <Mondoza> the track with the torch next to it will take you to the portal place[0m
+2012-04-23 15:06:14 [INFO] <Mondoza> ocuh[0m
+2012-04-23 15:06:26 [INFO] <The_Whistler> no problem[0m
+2012-04-23 15:07:05 [INFO] <The_Whistler> how did your inn back here get destroyed btw? did you set it on fire?[0m
+2012-04-23 15:07:27 [INFO] <Mondoza> nah, i just made it look delapidated[0m
+2012-04-23 15:08:20 [INFO] <The_Whistler> nyehehehehe[0m
+2012-04-23 15:08:40 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-04-23 15:08:40 [INFO] Connection reset
+2012-04-23 15:27:27 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in world, 4.4 blocks from Mondoza
+2012-04-23 15:29:43 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 5.1 blocks from Mondoza
+2012-04-23 15:31:24 [INFO] H4ZM4T [/127.0.0.1:46702] logged in with entity id 51813 at ([world] 428.66251434780884, 64.0, -426.3331543474247)
+2012-04-23 15:33:18 [INFO] <H4ZM4T> testing[0m
+2012-04-23 15:33:35 [INFO] <H4ZM4T> Hrmmm.. Why it no give me CAPS[0m
+2012-04-23 15:40:22 [INFO] Connection reset
+2012-04-23 15:40:22 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-23 15:42:15 [INFO] Mondoza [/127.0.0.1:46707] logged in with entity id 76901 at ([world] -5054.42112087186, 90.0, -1314.2808099873337)
+2012-04-23 15:42:20 [INFO] <H4ZM4T> hai[0m
+2012-04-23 15:42:26 [INFO] <Mondoza> sup[0m
+2012-04-23 15:42:30 [INFO] <H4ZM4T> is my colour red?[0m
+2012-04-23 15:42:36 [INFO] <Mondoza> grey[0m
+2012-04-23 15:42:40 [INFO] <H4ZM4T> dang[0m
+2012-04-23 15:43:14 [INFO] Connection reset
+2012-04-23 15:43:14 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-23 15:51:05 [INFO] Connection reset
+2012-04-23 15:51:05 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-23 16:02:16 [INFO] H4ZM4T [/127.0.0.1:46713] logged in with entity id 82373 at ([world_nether] -188.63028217287507, 55.0, -179.3867160204537)
+2012-04-23 16:03:36 [INFO] Connection reset
+2012-04-23 16:03:36 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-23 16:04:27 [INFO] H4ZM4T [/127.0.0.1:46717] logged in with entity id 82864 at ([world_nether] -334.3271372562967, 68.0, -333.1621563029564)
+2012-04-23 16:05:24 [INFO] Connection reset
+2012-04-23 16:05:24 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-23 16:06:25 [INFO] H4ZM4T [/127.0.0.1:46721] logged in with entity id 83142 at ([world_nether] -449.69999998807907, 32.0, -307.4201180333617)
+2012-04-23 16:14:52 [INFO] Connection reset
+2012-04-23 16:14:52 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-23 16:23:06 [INFO] Connected players: [0m
+2012-04-23 17:42:36 [INFO] Mondoza [/127.0.0.1:46737] logged in with entity id 91994 at ([world] -5080.668227098496, 102.0, -1271.2062924856368)
+2012-04-23 17:53:33 [INFO] Connection reset
+2012-04-23 17:53:33 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-23 17:53:47 [INFO] Mondoza [/127.0.0.1:46743] logged in with entity id 97618 at ([world] -5059.45455584941, 83.0, -1286.2538573886256)
+2012-04-23 17:55:06 [INFO] Connection reset
+2012-04-23 17:55:06 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-23 21:12:13 [INFO] ozymandias12345 [/127.0.0.1:46769] logged in with entity id 99524 at ([world_the_end] 361.70793824820464, 5.0, 7.641486097863042)
+2012-04-23 21:12:53 [INFO] The_Whistler [/127.0.0.1:46773] logged in with entity id 100133 at ([world] -5356.82253789579, 64.0, -1600.9560329426818)
+2012-04-23 21:13:17 [INFO] <ozymandias12345> hello thar[0m
+2012-04-23 21:13:20 [INFO] <The_Whistler> hihi[0m
+2012-04-23 21:14:13 [INFO] <ozymandias12345> say whats your handel on lol i just started playing so i suck pretty bad but its good fun[0m
+2012-04-23 21:14:39 [INFO] <The_Whistler> I am ranked in LoL. I play most characters.[0m
+2012-04-23 21:14:43 [INFO] <The_Whistler> what's up?[0m
+2012-04-23 21:15:30 [INFO] <ozymandias12345> no no whats your id?[0m
+2012-04-23 21:15:38 [INFO] <The_Whistler> whistler11[0m
+2012-04-23 21:15:41 [INFO] <ozymandias12345> right[0m
+2012-04-23 21:18:21 [INFO] <The_Whistler> did you just add me?[0m
+2012-04-23 21:18:42 [INFO] <ozymandias12345> nah im in the grinder and i dont have good enough internet here for lol[0m
+2012-04-23 21:20:13 [INFO] <The_Whistler> who do you mainly play?[0m
+2012-04-23 21:20:20 [INFO] <The_Whistler> oh and someone just added me so I was confused[0m
+2012-04-23 21:20:55 [INFO] <ozymandias12345> right i've played a few games with master yi but im rather bad[0m
+2012-04-23 21:25:38 [INFO] <The_Whistler> master yi is hard.[0m
+2012-04-23 21:25:42 [INFO] <The_Whistler> so don't get yourself down[0m
+2012-04-23 21:25:48 [INFO] <The_Whistler> it's all about learning to farm[0m
+2012-04-23 21:25:52 [INFO] <The_Whistler> once you learn that[0m
+2012-04-23 21:25:56 [INFO] <The_Whistler> you can own any game[0m
+2012-04-23 21:26:10 [INFO] <The_Whistler> but laning is the most important part, I am good at teamfights, but laning.. not so[0m
+2012-04-23 21:26:43 [INFO] <ozymandias12345> yeh i dont know why ethen suggested master yi, i proably should have gone for a ranged champ[0m
+2012-04-23 21:27:03 [INFO] <The_Whistler> AD ranged is the hardest to play.[0m
+2012-04-23 21:27:15 [INFO] <The_Whistler> because you need all the farm.[0m
+2012-04-23 21:27:31 [INFO] <ozymandias12345> but it seems so much safer[0m
+2012-04-23 21:27:38 [INFO] <The_Whistler> support is easy, tank is simple once you know about the damage ratios. AP is difficult and jungle is[0m
+2012-04-23 21:27:42 [INFO] <The_Whistler> the hardest.[0m
+2012-04-23 21:27:49 [INFO] <ozymandias12345> right[0m
+2012-04-23 21:28:04 [INFO] <The_Whistler> AD and AP carry are the hardest. I would suggest someone like Annie. because she's a basic mage[0m
+2012-04-23 21:28:09 [INFO] <The_Whistler> and she is good at what she does.[0m
+2012-04-23 21:28:35 [INFO] <The_Whistler> if you really wanna AD, then go with someone like Yi, but try and play smart.[0m
+2012-04-23 21:28:45 [INFO] <ozymandias12345> i also had to purchase a cheap champ and to be fair master yi is fun to play[0m
+2012-04-23 21:29:01 [INFO] <The_Whistler> most AD characters that aren't ranged go top lane.[0m
+2012-04-23 21:29:07 [INFO] <The_Whistler> with the ranged on bot lane.[0m
+2012-04-23 21:29:26 [INFO] <The_Whistler> at top you want to be tanky and have a good poke.[0m
+2012-04-23 21:29:27 [INFO] <ozymandias12345> also playing it AP with him was kinda hillarious[0m
+2012-04-23 21:29:39 [INFO] <The_Whistler> yi has not much of either, and his sustain isn't very good.[0m
+2012-04-23 21:31:40 [INFO] <ozymandias12345> also who is a good tank[0m
+2012-04-23 21:32:01 [INFO] <The_Whistler> it varies. most tanks end up in the jungle these days[0m
+2012-04-23 21:32:11 [INFO] <The_Whistler> so Shen, Rammus,[0m
+2012-04-23 21:32:15 [INFO] <The_Whistler> Galio,[0m
+2012-04-23 21:32:26 [INFO] <The_Whistler> tanks will either end up supporting or jungling.[0m
+2012-04-23 21:32:31 [INFO] <The_Whistler> I tank with shen and Leona.[0m
+2012-04-23 21:32:38 [INFO] <The_Whistler> both as supports[0m
+2012-04-23 21:32:43 [INFO] <The_Whistler> sometimes Lee Sin.[0m
+2012-04-23 21:32:53 [INFO] <The_Whistler> if you can master Lee Sin, people will love you.[0m
+2012-04-23 21:32:56 [INFO] <ozymandias12345> a played aginst a galio, he didnt seem that tanky[0m
+2012-04-23 21:33:14 [INFO] <ozymandias12345> i am very far from mastering anyone[0m
+2012-04-23 21:33:51 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-04-23 21:33:51 [INFO] Connection reset
+2012-04-23 21:57:19 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 75 in world, 5.9 blocks from The_Whistler
+2012-04-23 21:57:56 [INFO] <The_Whistler> aw[0m
+2012-04-23 22:15:50 [INFO] Connection reset
+2012-04-23 22:15:50 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-04-23 22:22:58 [INFO] ozymandias12345 [/127.0.0.1:46784] logged in with entity id 152054 at ([world_the_end] 362.8745905552998, 5.0, -1.4819536466831793)
+2012-04-23 22:23:47 [INFO] Connection reset
+2012-04-23 22:23:47 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-04-23 22:23:50 [INFO] ozymandias12345 [/127.0.0.1:46788] logged in with entity id 152727 at ([world_the_end] 362.8745905552998, 5.0, -1.4819536466831793)
+2012-04-23 22:24:31 [INFO] Connection reset
+2012-04-23 22:24:31 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-04-23 22:24:36 [INFO] ozymandias12345 [/127.0.0.1:46792] logged in with entity id 153323 at ([world_the_end] 362.8745905552998, 5.0, -1.4819536466831793)
+2012-04-23 22:25:26 [INFO] Connection reset
+2012-04-23 22:25:26 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-04-23 22:26:49 [INFO] ozymandias12345 [/127.0.0.1:46796] logged in with entity id 153905 at ([world_the_end] 356.2755981866619, 5.0, 6.571845968301435)
+2012-04-23 22:27:22 [INFO] Connection reset
+2012-04-23 22:27:22 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-04-23 22:29:37 [INFO] ozymandias12345 [/127.0.0.1:46801] logged in with entity id 153991 at ([world_the_end] 356.2755981866619, 4.535840625044555, 6.571845968301435)
+2012-04-23 22:29:57 [INFO] Connection reset
+2012-04-23 22:29:57 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-04-23 22:30:10 [INFO] ozymandias12345 [/121.217.194.167:56119] logged in with entity id 154125 at ([world_the_end] 356.2755981866619, 90.07168125008911, 6.571845968301435)
+2012-04-23 22:30:25 [INFO] Connection reset
+2012-04-23 22:30:25 [SEVERE] java.net.SocketException: Broken pipe
+2012-04-23 22:30:25 [SEVERE] 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+2012-04-23 22:30:25 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+2012-04-23 22:30:25 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-04-23 22:30:25 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-04-23 22:30:25 [SEVERE] 	at java.io.BufferedOutputStream.write(BufferedOutputStream.java:95)
+2012-04-23 22:30:25 [SEVERE] 	at java.io.DataOutputStream.writeInt(DataOutputStream.java:197)
+2012-04-23 22:30:25 [SEVERE] 	at net.minecraft.server.Packet28EntityVelocity.a(SourceFile:42)
+2012-04-23 22:30:25 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:110)
+2012-04-23 22:30:25 [SEVERE] 	at net.minecraft.server.NetworkManager.g(NetworkManager.java:107)
+2012-04-23 22:30:25 [SEVERE] 	at net.minecraft.server.NetworkManager.d(NetworkManager.java:272)
+2012-04-23 22:30:25 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:99)
+2012-04-23 22:30:25 [INFO] ozymandias12345 lost connection: disconnect.endOfStream
+2012-04-23 23:12:29 [INFO] ozymandias12345 [/121.216.16.226:56641] logged in with entity id 154425 at ([world_the_end] 356.2755981866619, 90.07168125008911, 6.571845968301435)
+2012-04-23 23:32:06 [INFO] adrianjboyer [/127.0.0.1:46817] logged in with entity id 204135 at ([world] 602.9250000119209, 63.0, -327.30000001192093)
+2012-04-23 23:33:32 [INFO] Connection reset
+2012-04-23 23:33:32 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-04-23 23:35:17 [INFO] Connection reset
+2012-04-23 23:35:17 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-04-24 00:00:38 [INFO] lluoc [/127.0.0.1:46825] logged in with entity id 206583 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-24 00:00:44 [INFO] <lluoc> test[0m
+2012-04-24 00:00:47 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-24 00:00:47 [INFO] Connection reset
+2012-04-24 00:03:52 [INFO] lluoc [/127.0.0.1:46829] logged in with entity id 206756 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-24 00:04:18 [INFO] Connection reset
+2012-04-24 00:04:18 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-24 00:05:34 [INFO] lluoc [/127.0.0.1:46834] logged in with entity id 207121 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-24 00:05:39 [INFO] <lluoc> list[0m
+2012-04-24 00:05:42 [INFO] Connection reset
+2012-04-24 00:05:42 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-24 00:10:31 [INFO] lluoc [/127.0.0.1:46839] logged in with entity id 207309 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-24 00:10:48 [INFO] Connection reset
+2012-04-24 00:10:48 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-24 00:11:49 [INFO] lluoc [/127.0.0.1:46843] logged in with entity id 207538 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-24 00:11:52 [INFO] <lluoc> say[0m
+2012-04-24 00:11:56 [INFO] Connection reset
+2012-04-24 00:11:56 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-24 00:12:06 [INFO] lluoc [/127.0.0.1:46847] logged in with entity id 207740 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-24 00:12:13 [INFO] lluoc: De-opping lluoc[0m
+2012-04-24 00:12:16 [INFO] <lluoc> he[0m
+2012-04-24 00:12:19 [INFO] Connection reset
+2012-04-24 00:12:19 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-24 00:12:25 [INFO] lluoc [/127.0.0.1:46851] logged in with entity id 207970 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-24 00:12:28 [INFO] <lluoc> hey[0m
+2012-04-24 00:12:30 [INFO] Connection reset
+2012-04-24 00:12:30 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-24 00:12:47 [INFO] CONSOLE: Opping lluoc[0m
+2012-04-24 00:15:14 [INFO] lluoc [/127.0.0.1:46855] logged in with entity id 208154 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-24 00:15:21 [INFO] Connection reset
+2012-04-24 00:15:21 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-24 08:00:01 [INFO] [35m[Server] Starting backup.[0m
+2012-04-24 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-04-24 08:00:01 [INFO] CONSOLE: Save complete.[0m
+2012-04-24 08:00:01 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-24 08:01:06 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-24 08:01:06 [INFO] CONSOLE: Forcing save..[0m
+2012-04-24 08:01:06 [INFO] CONSOLE: Save complete.[0m
+2012-04-24 08:01:06 [INFO] [35m[Server] Backup complete.[0m
+2012-04-24 08:17:24 [INFO] Mondoza [/127.0.0.1:46915] logged in with entity id 210391 at ([world] -5062.300000011921, 78.0, -1284.27096884156)
+2012-04-24 08:57:02 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 75 in world, 3.2 blocks from Mondoza
+2012-04-24 09:12:57 [INFO] Connection reset
+2012-04-24 09:12:57 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-24 11:48:39 [INFO] H4ZM4T [/127.0.0.1:46941] logged in with entity id 241256 at ([world] -5054.168392525159, 94.0, -1322.0650195092012)
+2012-04-24 11:50:26 [INFO] Connection reset
+2012-04-24 11:50:26 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-24 11:56:19 [INFO] H4ZM4T [/127.0.0.1:46947] logged in with entity id 241974 at ([world] -5062.31497268228, 98.0, -1302.820720991192)
+2012-04-24 11:56:38 [INFO] <H4ZM4T> testing[0m
+2012-04-24 11:56:41 [INFO] <H4ZM4T> hrmm[0m
+2012-04-24 12:12:22 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-24 12:12:22 [INFO] Connection reset
+2012-04-24 13:14:00 [INFO] adrianjboyer [/127.0.0.1:46961] logged in with entity id 254136 at ([world] 602.402536974202, 64.0, -346.92616055612837)
+2012-04-24 13:14:51 [INFO] Connection reset
+2012-04-24 13:14:51 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-04-24 13:58:50 [INFO] H4ZM4T [/127.0.0.1:46969] logged in with entity id 255386 at ([world] -5057.702747061733, 75.0, -1317.6185062808368)
+2012-04-24 14:09:30 [INFO] Connection reset
+2012-04-24 14:09:30 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-24 14:54:16 [INFO] Mondoza [/127.0.0.1:46979] logged in with entity id 263121 at ([world] -5065.524133781943, 96.5, -1299.895429779331)
+2012-04-24 15:01:30 [INFO] Connection reset
+2012-04-24 15:01:30 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-24 15:01:39 [INFO] Mondoza [/127.0.0.1:46984] logged in with entity id 268515 at ([world] -5065.677693880281, 6.0, -1327.886281223211)
+2012-04-24 15:13:26 [INFO] H4ZM4T [/127.0.0.1:46989] logged in with entity id 275479 at ([world] -5055.000575502292, 104.0, -1325.428605437769)
+2012-04-24 15:13:31 [INFO] <H4ZM4T> eeevening[0m
+2012-04-24 15:13:53 [INFO] <H4ZM4T> have some wood[0m
+2012-04-24 15:13:59 [INFO] <Mondoza> awesome thanks![0m
+2012-04-24 15:18:12 [INFO] Connection reset
+2012-04-24 15:18:12 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-24 15:35:56 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-24 15:35:56 [INFO] Connection reset
+2012-04-24 16:59:36 [INFO] Connection reset
+2012-04-24 17:06:19 [INFO] ozymandias12345 [/129.94.12.136:60937] logged in with entity id 294093 at ([world] -164.89345129689787, 68.0, -700.5757793109276)
+2012-04-24 17:17:50 [INFO] Mondoza [/127.0.0.1:47008] logged in with entity id 300415 at ([world] -5046.300000011921, 63.0, -1202.699999988079)
+2012-04-24 17:37:32 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-24 17:37:32 [INFO] Connection reset
+2012-04-24 17:37:59 [INFO] H4ZM4T [/127.0.0.1:47014] logged in with entity id 327989 at ([world] -5382.538309897989, 67.0, -1560.4335139105453)
+2012-04-24 17:48:24 [INFO] Mondoza [/127.0.0.1:47019] logged in with entity id 345809 at ([world] -5399.745545627682, 96.0, -1122.5877894991945)
+2012-04-24 17:49:43 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 95 in world, 6.6 blocks from Mondoza
+2012-04-24 17:49:50 [INFO] <H4ZM4T> hai[0m
+2012-04-24 17:50:01 [INFO] <ozymandias12345> hai hai[0m
+2012-04-24 17:50:30 [INFO] <H4ZM4T> wut[0m
+2012-04-24 17:50:34 [INFO] <ozymandias12345> shoulda had fether fall[0m
+2012-04-24 17:50:46 [INFO] <H4ZM4T> I just insta gibbed[0m
+2012-04-24 17:51:03 [INFO] <ozymandias12345> sucks to be you then[0m
+2012-04-24 17:55:24 [INFO] Connection reset
+2012-04-24 17:55:24 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-04-24 17:57:39 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-24 17:57:39 [INFO] Connection reset
+2012-04-24 17:58:49 [INFO] <H4ZM4T> gorram it[0m
+2012-04-24 17:59:48 [INFO] Connection reset
+2012-04-24 17:59:48 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-04-24 18:07:09 [INFO] Mondoza [/127.0.0.1:47026] logged in with entity id 367247 at ([world] -5055.520681951146, 90.0, -1320.642277555763)
+2012-04-24 18:07:23 [INFO] ozymandias12345 [/121.216.16.226:61236] logged in with entity id 367512 at ([world_the_end] 358.2420815573901, 4.0, -1.3914868030386653)
+2012-04-24 18:15:40 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-04-24 18:15:40 [INFO] Connection reset
+2012-04-24 18:19:00 [INFO] Connection reset
+2012-04-24 18:19:00 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-24 18:34:22 [INFO] Mondoza [/127.0.0.1:47035] logged in with entity id 381488 at ([world] -5053.753794059672, 94.0, -1323.665761292433)
+2012-04-24 18:36:17 [INFO] Connection reset
+2012-04-24 18:36:17 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-24 18:53:26 [INFO] ozymandias12345 [/121.216.16.226:61577] logged in with entity id 384940 at ([world] -148.42500001192093, 84.0, -700.2703707717493)
+2012-04-24 19:02:04 [INFO] Connection reset
+2012-04-24 19:02:04 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-04-25 02:24:13 [INFO] Connection reset
+2012-04-25 08:00:01 [INFO] [35m[Server] Starting backup.[0m
+2012-04-25 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-04-25 08:00:02 [INFO] CONSOLE: Save complete.[0m
+2012-04-25 08:00:02 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-25 08:01:23 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-25 08:01:24 [INFO] CONSOLE: Forcing save..[0m
+2012-04-25 08:01:24 [INFO] CONSOLE: Save complete.[0m
+2012-04-25 08:01:24 [INFO] [35m[Server] Backup complete.[0m
+2012-04-25 10:57:12 [INFO] lluoc [/127.0.0.1:47149] logged in with entity id 396500 at ([world_the_end] 353.030544557476, 9.0, 4.7970917851711)
+2012-04-25 10:58:20 [INFO] Connection reset
+2012-04-25 10:58:20 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-25 10:58:28 [INFO] adrianjboyer [/127.0.0.1:47153] logged in with entity id 398736 at ([world] 527.6999999880791, 80.0, -355.75114380120755)
+2012-04-25 10:59:23 [INFO] Connection reset
+2012-04-25 10:59:23 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-04-25 14:59:03 [INFO] Connection reset
+2012-04-25 14:59:11 [INFO] Mondoza [/127.0.0.1:47186] logged in with entity id 400466 at ([world] -5379.076052201552, 54.0, -1392.5)
+2012-04-25 14:59:52 [INFO] Connection reset
+2012-04-25 14:59:52 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-25 16:00:10 [INFO] Mondoza [/127.0.0.1:47197] logged in with entity id 400861 at ([world] -5350.693303842815, 54.0, -1392.5320750113976)
+2012-04-25 16:02:54 [INFO] Connection reset
+2012-04-25 16:02:54 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-25 16:19:25 [INFO] Mondoza [/127.0.0.1:47203] logged in with entity id 402869 at ([world] -5056.38356056098, 90.0, -1324.9217143888911)
+2012-04-25 16:20:17 [INFO] Connection reset
+2012-04-25 16:20:17 [INFO] Mondoza lost connection: disconnect.endOfStream
+2012-04-25 16:56:32 [INFO] The_Whistler [/127.0.0.1:47211] logged in with entity id 403336 at ([world] -5065.290990295261, 98.0, -1398.1310064715315)
+2012-04-25 17:01:48 [INFO] The_Whistler lost connection: disconnect.endOfStream
+2012-04-25 17:21:02 [INFO] Mondoza [/127.0.0.1:47218] logged in with entity id 405599 at ([world] -5056.699999988079, 90.0, -1316.2423143204555)
+2012-04-25 17:24:32 [INFO] Connection reset
+2012-04-25 17:24:32 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-25 19:00:37 [INFO] Connection reset
+2012-04-25 19:00:37 [INFO] Connection reset
+2012-04-25 21:50:11 [SEVERE] java.lang.NullPointerException
+2012-04-25 21:50:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-25 21:50:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-25 21:50:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-25 21:50:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-25 21:50:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-25 22:00:19 [SEVERE] java.lang.NullPointerException
+2012-04-25 22:00:19 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-25 22:00:19 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-25 22:00:19 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-25 22:00:19 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-25 22:00:19 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-25 22:10:12 [SEVERE] java.lang.NullPointerException
+2012-04-25 22:10:12 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-25 22:10:12 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-25 22:10:12 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-25 22:10:12 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-25 22:10:12 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-25 22:20:11 [SEVERE] java.lang.NullPointerException
+2012-04-25 22:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-25 22:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-25 22:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-25 22:20:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-25 22:20:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-25 22:30:11 [SEVERE] java.lang.NullPointerException
+2012-04-25 22:30:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-25 22:30:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-25 22:30:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-25 22:30:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-25 22:30:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-25 22:40:11 [SEVERE] java.lang.NullPointerException
+2012-04-25 22:40:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-25 22:40:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-25 22:40:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-25 22:40:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-25 22:40:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-25 23:10:19 [SEVERE] java.lang.NullPointerException
+2012-04-25 23:10:19 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-25 23:10:19 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-25 23:10:19 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-25 23:10:19 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-25 23:10:19 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-25 23:20:11 [SEVERE] java.lang.NullPointerException
+2012-04-25 23:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-25 23:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-25 23:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-25 23:20:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-25 23:20:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-25 23:30:11 [SEVERE] java.lang.NullPointerException
+2012-04-25 23:30:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-25 23:30:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-25 23:30:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-25 23:30:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-25 23:30:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 00:00:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 00:00:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 00:00:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 00:00:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 00:00:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 00:00:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 00:20:16 [SEVERE] java.lang.NullPointerException
+2012-04-26 00:20:16 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 00:20:16 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 00:20:16 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 00:20:16 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 00:20:16 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 00:30:15 [SEVERE] java.lang.NullPointerException
+2012-04-26 00:30:15 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 00:30:15 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 00:30:15 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 00:30:15 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 00:30:15 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 00:40:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 00:40:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 00:40:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 00:40:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 00:40:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 00:40:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 00:50:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 00:50:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 00:50:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 00:50:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 00:50:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 00:50:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 01:10:12 [SEVERE] java.lang.NullPointerException
+2012-04-26 01:10:12 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 01:10:12 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 01:10:12 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 01:10:12 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 01:10:12 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 01:20:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 01:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 01:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 01:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 01:20:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 01:20:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 01:30:12 [SEVERE] java.lang.NullPointerException
+2012-04-26 01:30:12 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 01:30:12 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 01:30:12 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 01:30:12 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 01:30:12 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 01:40:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 01:40:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 01:40:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 01:40:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 01:40:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 01:40:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 02:00:12 [SEVERE] java.lang.NullPointerException
+2012-04-26 02:00:12 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 02:00:12 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 02:00:12 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 02:00:12 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 02:00:12 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 02:10:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 02:10:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 02:10:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 02:10:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 02:10:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 02:10:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 02:20:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 02:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 02:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 02:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 02:20:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 02:20:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 02:30:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 02:30:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 02:30:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 02:30:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 02:30:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 02:30:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 02:50:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 02:50:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 02:50:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 02:50:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 02:50:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 02:50:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 03:00:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 03:00:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 03:00:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 03:00:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 03:00:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 03:00:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 03:10:12 [SEVERE] java.lang.NullPointerException
+2012-04-26 03:10:12 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 03:10:12 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 03:10:12 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 03:10:12 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 03:10:12 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 03:20:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 03:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 03:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 03:20:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 03:20:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 03:20:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 03:30:15 [SEVERE] java.lang.NullPointerException
+2012-04-26 03:30:15 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 03:30:15 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 03:30:15 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 03:30:15 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 03:30:15 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 03:40:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 03:40:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 03:40:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 03:40:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 03:40:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 03:40:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 03:50:11 [SEVERE] java.lang.NullPointerException
+2012-04-26 03:50:11 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-26 03:50:11 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-26 03:50:11 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-26 03:50:11 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-26 03:50:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-26 08:00:01 [INFO] [35m[Server] Starting backup.[0m
+2012-04-26 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 08:00:01 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 08:00:01 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-26 08:01:25 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-26 08:01:25 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 08:01:25 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 10:33:58 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 10:33:58 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 10:34:05 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-26 10:34:05 [INFO] Stopping server
+2012-04-26 10:34:05 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-04-26 10:34:05 [INFO] SilkSpawners disabled
+2012-04-26 10:34:05 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-04-26 10:34:05 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-04-26 10:34:05 [INFO] [Lockette] Disabling Lockette v1.6
+2012-04-26 10:34:05 [INFO] Lockette is being disabled...  ;.;
+2012-04-26 10:34:05 [INFO] [Lockette] Closing all automatic doors.
+2012-04-26 10:34:05 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-04-26 10:34:05 [INFO] Disabling PickBoat
+2012-04-26 10:34:05 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-04-26 10:34:05 [INFO] [CreeperMess v1.2] Disabled!
+2012-04-26 10:34:05 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-04-26 10:34:05 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-04-26 10:34:05 [INFO] Saving chunks
+2012-04-26 10:34:05 [INFO] Stopping server
+2012-04-26 10:34:05 [INFO] Saving chunks

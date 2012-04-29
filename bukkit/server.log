@@ -17432,3 +17432,1640 @@
 2012-04-26 10:47:48 [INFO] Server permissions file permissions.yml is empty, ignoring it
 2012-04-26 10:47:48 [INFO] Done (3.528s)! For help, type "help" or "?"
 2012-04-26 10:48:00 [INFO] Connected players: [0m
+2012-04-26 11:43:46 [INFO] [35m[Server] Starting backup.[0m
+2012-04-26 11:43:46 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 11:43:46 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 11:43:46 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-26 11:44:59 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-26 11:50:17 [INFO] [35m[Server] Starting backup.[0m
+2012-04-26 11:50:17 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 11:50:17 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 11:50:17 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-26 11:50:40 [INFO] [35m[Server] WARNING: Server backup failed. Contact admin.[0m
+2012-04-26 11:50:40 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-26 11:50:40 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 11:50:40 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 11:50:40 [INFO] [35m[Server] Backup complete.[0m
+2012-04-26 11:51:25 [INFO] Connected players: [0m
+2012-04-26 12:00:02 [INFO] [35m[Server] Starting backup.[0m
+2012-04-26 12:00:02 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:00:02 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:00:02 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-26 12:00:09 [INFO] [35m[Server] WARNING: Server backup failed. Contact admin.[0m
+2012-04-26 12:00:09 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-26 12:00:09 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:00:09 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:00:09 [INFO] [35m[Server] Backup complete.[0m
+2012-04-26 12:03:47 [INFO] [35m[Server] Starting backup.[0m
+2012-04-26 12:03:47 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:03:47 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:03:47 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-26 12:03:50 [INFO] [35m[Server] WARNING: Server backup failed. Contact admin.[0m
+2012-04-26 12:03:50 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-26 12:03:50 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:03:50 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:03:50 [INFO] [35m[Server] Backup complete.[0m
+2012-04-26 12:06:02 [INFO] [35m[Server] Starting backup.[0m
+2012-04-26 12:06:02 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:06:02 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:06:02 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-26 12:06:02 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-26 12:06:02 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:06:02 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:06:02 [INFO] [35m[Server] Backup complete.[0m
+2012-04-26 12:07:18 [INFO] [35m[Server] Starting backup.[0m
+2012-04-26 12:07:18 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:07:18 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:07:18 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-26 12:07:18 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-26 12:07:18 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:07:18 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:07:18 [INFO] [35m[Server] Backup complete.[0m
+2012-04-26 12:08:18 [INFO] [35m[Server] Starting backup.[0m
+2012-04-26 12:08:18 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:08:18 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:08:18 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-26 12:08:37 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-26 12:08:37 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:08:37 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:08:37 [INFO] [35m[Server] Backup complete.[0m
+2012-04-26 12:11:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-26 12:11:24 [INFO] [35m[Server] Starting backup.[0m
+2012-04-26 12:11:24 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:11:24 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:11:24 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-26 12:11:56 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-26 12:11:56 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:11:56 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:11:56 [INFO] [35m[Server] Backup complete.[0m
+2012-04-26 12:15:34 [INFO] [35m[Server] Starting backup.[0m
+2012-04-26 12:15:34 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:15:34 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:15:34 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-26 12:15:50 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-26 12:15:50 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 12:15:50 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 12:15:50 [INFO] [35m[Server] Backup complete.[0m
+2012-04-26 12:22:28 [INFO] Mondoza [/203.129.52.205:2223] logged in with entity id 809 at ([world] -5074.667692424508, 6.0, -1332.9374581554052)
+2012-04-26 12:47:50 [INFO] Connection reset
+2012-04-26 12:47:50 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-26 17:25:48 [INFO] Mondoza [/203.129.52.205:3581] logged in with entity id 19000 at ([world] -5055.645789602244, 90.0, -1322.240315724227)
+2012-04-26 17:30:48 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-26 17:30:48 [INFO] Connection reset
+2012-04-26 18:04:17 [INFO] TrialZ [/127.0.0.1:47435] logged in with entity id 22699 at ([world] 3888.5, 68.0, 3672.699999988079)
+2012-04-26 18:04:17 [INFO] Connection reset
+2012-04-26 18:04:17 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-04-26 18:04:21 [INFO] TrialZ [/127.0.0.1:47439] logged in with entity id 22917 at ([world] 3888.5, 68.0, 3672.699999988079)
+2012-04-26 18:04:22 [INFO] Connection reset
+2012-04-26 18:04:22 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-04-26 18:04:29 [INFO] TrialZ [/127.0.0.1:47441] logged in with entity id 23204 at ([world] 3888.5, 68.0, 3672.699999988079)
+2012-04-26 18:04:30 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-04-26 18:04:31 [INFO] dahlukeh [/127.0.0.1:47445] logged in with entity id 23424 at ([world_the_end] 355.72207959461934, 5.0, 2.6274615753620445)
+2012-04-26 18:04:32 [INFO] dahlukeh lost connection: disconnect.endOfStream
+2012-04-26 18:04:37 [INFO] dahlukeh [/127.0.0.1:47448] logged in with entity id 23605 at ([world_the_end] 355.72207959461934, 5.0, 2.6274615753620445)
+2012-04-26 18:04:38 [INFO] dahlukeh lost connection: disconnect.endOfStream
+2012-04-26 18:04:41 [INFO] TrialZ [/127.0.0.1:47452] logged in with entity id 23774 at ([world] 3888.5, 68.0, 3672.699999988079)
+2012-04-26 18:04:42 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-04-26 18:04:43 [INFO] dahlukeh [/127.0.0.1:47453] logged in with entity id 23994 at ([world_the_end] 355.72207959461934, 5.0, 2.6274615753620445)
+2012-04-26 18:04:43 [INFO] dahlukeh lost connection: disconnect.endOfStream
+2012-04-26 18:44:14 [INFO] Mondoza [/203.129.52.205:3598] logged in with entity id 24325 at ([world] -5066.229179831946, 89.0, -1315.46091033535)
+2012-04-26 19:13:47 [INFO] ozymandias12345 [/124.169.9.177:50219] logged in with entity id 44763 at ([world_the_end] 353.4819065537283, 5.0, -8.817194769676226)
+2012-04-26 19:22:09 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 68 in world, 2.7 blocks from ozymandias12345
+2012-04-26 19:22:16 [INFO] <Mondoza> taking fire?[0m
+2012-04-26 19:22:25 [INFO] <ozymandias12345> the fuck[0m
+2012-04-26 19:24:23 [INFO] Connection reset
+2012-04-26 19:24:23 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-26 19:24:26 [INFO] ozymandias12345 lost connection: disconnect.quitting
+2012-04-26 19:24:26 [INFO] Connection reset
+2012-04-26 19:40:30 [INFO] Mondoza [/203.129.52.205:3607] logged in with entity id 56459 at ([world] -5055.650273222569, 94.0, -1323.7923939576053)
+2012-04-26 19:56:01 [INFO] Connected players: Mondoza[0m
+2012-04-26 20:00:03 [INFO] [35m[Server] Starting backup.[0m
+2012-04-26 20:00:03 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 20:00:03 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 20:00:03 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-26 20:00:22 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-26 20:00:22 [INFO] CONSOLE: Forcing save..[0m
+2012-04-26 20:00:22 [INFO] CONSOLE: Save complete.[0m
+2012-04-26 20:00:22 [INFO] [35m[Server] Backup complete.[0m
+2012-04-26 20:04:26 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 86 in world, 4.3 blocks from Mondoza
+2012-04-26 20:11:21 [INFO] Connection reset
+2012-04-26 20:11:21 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-26 20:47:31 [INFO] H4ZM4T [/127.0.0.1:47487] logged in with entity id 80420 at ([world] -5044.90791165241, 81.5, -1315.1726141854747)
+2012-04-26 20:47:41 [INFO] <H4ZM4T> testing[0m
+2012-04-26 20:48:15 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-04-26 20:51:40 [INFO] Connected players: [0m
+2012-04-26 21:00:43 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-26 21:00:43 [INFO] Stopping server
+2012-04-26 21:00:43 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-04-26 21:00:43 [INFO] SilkSpawners disabled
+2012-04-26 21:00:43 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-04-26 21:00:43 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-04-26 21:00:43 [INFO] [Lockette] Disabling Lockette v1.6
+2012-04-26 21:00:43 [INFO] Lockette is being disabled...  ;.;
+2012-04-26 21:00:43 [INFO] [Lockette] Closing all automatic doors.
+2012-04-26 21:00:43 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-04-26 21:00:43 [INFO] Disabling PickBoat
+2012-04-26 21:00:43 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-04-26 21:00:43 [INFO] [CreeperMess v1.2] Disabled!
+2012-04-26 21:00:43 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-04-26 21:00:43 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-04-26 21:00:43 [INFO] Saving chunks
+2012-04-26 21:01:10 [INFO] Starting minecraft server version 1.2.5
+2012-04-26 21:01:10 [INFO] Loading properties
+2012-04-26 21:01:10 [INFO] Starting Minecraft server on *:25564
+2012-04-26 21:01:10 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-04-26 21:01:11 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-04-26 21:01:11 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-04-26 21:01:11 [INFO] [Lockette] Loading Lockette v1.6
+2012-04-26 21:01:11 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-04-26 21:01:11 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-04-26 21:01:11 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-04-26 21:01:11 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-04-26 21:01:11 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-04-26 21:01:11 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-04-26 21:01:11 [INFO] Preparing level "world"
+2012-04-26 21:01:11 [INFO] Default game type: 0
+2012-04-26 21:01:11 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-04-26 21:01:12 [WARNING] ----- Bukkit Auto Updater -----
+2012-04-26 21:01:12 [WARNING] Your version of CraftBukkit is out of date. Version 1.2.5-R1.3 (build #2170) was released on Thu Apr 26 03:18:18 EST 2012.
+2012-04-26 21:01:12 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/01054_1.2.5-R1.3/
+2012-04-26 21:01:12 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/01054_1.2.5-R1.3/craftbukkit-dev.jar
+2012-04-26 21:01:12 [WARNING] ----- ------------------- -----
+2012-04-26 21:01:12 [INFO] Preparing spawn area: 69%
+2012-04-26 21:01:13 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-04-26 21:01:13 [INFO] Preparing spawn area: 81%
+2012-04-26 21:01:14 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-04-26 21:01:14 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-04-26 21:01:14 [INFO] SilkSpawners enabled
+2012-04-26 21:01:14 [INFO] [Lockette] Enabling Lockette v1.6
+2012-04-26 21:01:14 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-04-26 21:01:14 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-04-26 21:01:14 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-04-26 21:01:14 [INFO] [Lockette] Using ops file for admin permissions.
+2012-04-26 21:01:14 [INFO] [Lockette] Ready to protect your containers.
+2012-04-26 21:01:14 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-04-26 21:01:14 [INFO] PickBoat version 0.4 is enabled!
+2012-04-26 21:01:14 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-04-26 21:01:14 [INFO] [CreeperMess v1.2] Enabled!
+2012-04-26 21:01:14 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-04-26 21:01:14 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-04-26 21:01:14 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-26 21:01:14 [INFO] Done (3.090s)! For help, type "help" or "?"
+2012-04-26 22:55:33 [INFO] ultrajono [/127.0.0.1:47517] logged in with entity id 838 at ([world] -22.788857047954824, 69.0, -15.086199409894244)
+2012-04-26 22:55:56 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-04-26 22:58:06 [INFO] <ultrajono> slimeballs[0m
+2012-04-26 22:58:14 [INFO] <ultrajono> hello?[0m
+2012-04-26 23:30:58 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 5 in world, 5.6 blocks from ultrajono
+2012-04-26 23:41:40 [INFO] Read timed out
+2012-04-26 23:41:40 [INFO] ultrajono lost connection: disconnect.endOfStream
+2012-04-26 23:58:47 [INFO] Connected players: [0m
+2012-04-27 05:11:18 [SEVERE] java.lang.NullPointerException
+2012-04-27 05:11:18 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-27 05:11:18 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-27 05:11:18 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-27 05:11:18 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-27 05:11:18 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-27 05:21:15 [SEVERE] java.lang.NullPointerException
+2012-04-27 05:21:15 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-27 05:21:15 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-27 05:21:15 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-27 05:21:15 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-27 05:21:15 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-27 05:31:21 [SEVERE] java.lang.NullPointerException
+2012-04-27 05:31:21 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-27 05:31:21 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-27 05:31:21 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-27 05:31:21 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-27 05:31:21 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-27 05:41:36 [SEVERE] java.lang.NullPointerException
+2012-04-27 05:41:36 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-27 05:41:36 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-27 05:41:36 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-27 05:41:36 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-27 05:41:36 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-27 05:51:15 [SEVERE] java.lang.NullPointerException
+2012-04-27 05:51:15 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-27 05:51:15 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-27 05:51:15 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-27 05:51:15 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-27 05:51:15 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-27 06:01:18 [SEVERE] java.lang.NullPointerException
+2012-04-27 06:01:18 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-27 06:01:18 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-27 06:01:18 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-27 06:01:18 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-27 06:01:18 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-27 06:22:01 [SEVERE] java.lang.NullPointerException
+2012-04-27 06:22:01 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-27 06:22:01 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-27 06:22:01 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-27 06:22:01 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-27 06:22:01 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-27 06:31:15 [SEVERE] java.lang.NullPointerException
+2012-04-27 06:31:15 [SEVERE] 	at net.milkbowl.vault.Metrics.postPlugin(Metrics.java:335)
+2012-04-27 06:31:15 [SEVERE] 	at net.milkbowl.vault.Metrics.access$100(Metrics.java:62)
+2012-04-27 06:31:15 [SEVERE] 	at net.milkbowl.vault.Metrics$4.run(Metrics.java:245)
+2012-04-27 06:31:15 [SEVERE] 	at org.bukkit.craftbukkit.scheduler.CraftWorker.run(CraftWorker.java:34)
+2012-04-27 06:31:15 [SEVERE] 	at java.lang.Thread.run(Thread.java:636)
+2012-04-27 08:00:02 [INFO] [35m[Server] Starting backup.[0m
+2012-04-27 08:00:02 [INFO] CONSOLE: Forcing save..[0m
+2012-04-27 08:00:02 [INFO] CONSOLE: Save complete.[0m
+2012-04-27 08:00:02 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-27 08:00:21 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-27 08:00:21 [INFO] CONSOLE: Forcing save..[0m
+2012-04-27 08:00:21 [INFO] CONSOLE: Save complete.[0m
+2012-04-27 08:55:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-27 09:10:26 [INFO] adrianjboyer [/127.0.0.1:47605] logged in with entity id 47210 at ([world] 525.6856756533113, 84.0, -355.52972004975163)
+2012-04-27 09:10:53 [INFO] CONSOLE: Giving adrianjboyer some 341 (SLIME_BALL)[0m
+2012-04-27 09:13:37 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 109 in world, 4.5 blocks from adrianjboyer
+2012-04-27 09:54:43 [INFO] Connection reset
+2012-04-27 09:54:43 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-04-27 10:04:27 [INFO] Mondoza [/203.129.52.205:1066] logged in with entity id 81851 at ([world] -5048.917087910314, 90.0, -1306.2542129265134)
+2012-04-27 10:22:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-27 10:32:22 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-27 10:32:22 [INFO] Connection reset
+2012-04-27 10:32:27 [INFO] Mondoza [/203.129.52.205:1080] logged in with entity id 95986 at ([world] -5054.150602395701, 90.0, -1313.8155005548533)
+2012-04-27 10:35:18 [INFO] Connection reset
+2012-04-27 10:35:18 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-27 12:18:42 [INFO] Connection reset
+2012-04-27 13:01:43 [INFO] The_Whistler [/127.0.0.1:47648] logged in with entity id 97027 at ([world] -5091.2241320701005, 66.0, -1244.6650468452347)
+2012-04-27 13:14:59 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 72 in world, 5.8 blocks from The_Whistler
+2012-04-27 13:15:48 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 71 in world, 6.7 blocks from The_Whistler
+2012-04-27 13:15:58 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 69 in world, 4.5 blocks from The_Whistler
+2012-04-27 13:34:43 [INFO] lluoc [/127.0.0.1:47655] logged in with entity id 113431 at ([world] -74.54174777586152, 80.0, -20.666718124063177)
+2012-04-27 13:35:08 [INFO] <lluoc> hey[0m
+2012-04-27 13:35:11 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[0m
+2012-04-27 13:35:14 [INFO] <The_Whistler> hi[0m
+2012-04-27 13:35:30 [INFO] <lluoc> ahh... your name is in lower case.[0m
+2012-04-27 13:35:44 [INFO] <lluoc> hmm...[0m
+2012-04-27 13:35:47 [INFO] <The_Whistler> so?[0m
+2012-04-27 13:36:07 [INFO] <lluoc> It's a problem with MCProxy. I just wasn't sure how far it extended[0m
+2012-04-27 13:36:31 [INFO] <The_Whistler> I see...[0m
+2012-04-27 13:36:36 [INFO] <The_Whistler> but don't really understand[0m
+2012-04-27 13:37:05 [INFO] <lluoc> don't worry.[0m
+2012-04-27 13:38:19 [INFO] Mondoza [/203.129.52.205:1288] logged in with entity id 119078 at ([world] -5056.699999988079, 90.0, -1308.3054296033074)
+2012-04-27 13:38:49 [INFO] <The_Whistler> *new mails has been recieved at the trans-forest railway*[0m
+2012-04-27 13:39:04 [INFO] <Mondoza> roger that[0m
+2012-04-27 13:39:29 [INFO] <lluoc> ?[0m
+2012-04-27 13:39:42 [INFO] <lluoc> ok and your name shouldn't be that color...[0m
+2012-04-27 13:39:55 [INFO] <Mondoza> additionally, whislter there's a guest house in my homestead[0m
+2012-04-27 13:40:02 [INFO] <The_Whistler> i realised[0m
+2012-04-27 13:40:58 [INFO] <The_Whistler> i am collecting glowstone, do you want some?[0m
+2012-04-27 13:41:28 [INFO] <Mondoza> nah thanks, but i did some collecting earlier, i got plenty[0m
+2012-04-27 13:41:55 [INFO] <lluoc> Oh by the way, where are you two living?[0m
+2012-04-27 13:42:08 [INFO] <The_Whistler> out past the yonder hill[0m
+2012-04-27 13:43:26 [INFO] <lluoc> would this younder hill be at about -5000,-1000 ?[0m
+2012-04-27 13:43:51 [INFO] <The_Whistler> punching ghasts, brb[0m
+2012-04-27 13:44:45 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-04-27 13:45:02 [INFO] lluoc: Setting lluoc to game mode 0[0m
+2012-04-27 13:45:46 [INFO] <The_Whistler> i am in the nether rignht now so I don't know where are co-ords exactly are[0m
+2012-04-27 13:46:16 [INFO] <lluoc> Is it on an island with a jungle and a really tall tree?[0m
+2012-04-27 13:46:23 [INFO] <The_Whistler> yep[0m
+2012-04-27 13:46:34 [INFO] <lluoc> I can see it on the map[0m
+2012-04-27 13:46:39 [INFO] <The_Whistler> i know[0m
+2012-04-27 13:46:59 [INFO] <The_Whistler> i don't know whether we want our location public though yet[0m
+2012-04-27 13:47:00 [INFO] <lluoc> How do you get there anyway?[0m
+2012-04-27 13:47:06 [INFO] <The_Whistler> a lot of running[0m
+2012-04-27 13:47:22 [INFO] <lluoc> You can see the nether portal as well...[0m
+2012-04-27 13:47:34 [INFO] <The_Whistler> that's where I am now[0m
+2012-04-27 13:47:45 [INFO] <Mondoza> WHISTLER: do you want me to put the goods into my warehouse?[0m
+2012-04-27 13:47:59 [INFO] <The_Whistler> indeed, better where it is safe[0m
+2012-04-27 13:48:20 [INFO] <The_Whistler> also, they aren't in the mailboxes, but in the case in my room, there is a lot of diamond, if you[0m
+2012-04-27 13:48:26 [INFO] <The_Whistler> could secure it I would be much appreciated[0m
+2012-04-27 13:49:20 [INFO] <The_Whistler> also what is with the creeper invasion of my mine?[0m
+2012-04-27 13:50:11 [INFO] <lluoc> Umm, going to bring the server down for a few seconds[0m
+2012-04-27 13:50:19 [INFO] <lluoc> Need to disable a plugin,[0m
+2012-04-27 13:50:20 [INFO] <The_Whistler> backup?[0m
+2012-04-27 13:50:36 [INFO] <lluoc> ?[0m
+2012-04-27 13:50:48 [INFO] <lluoc> this shouldn't take long[0m
+2012-04-27 13:50:52 [INFO] CONSOLE: Forcing save..[0m
+2012-04-27 13:50:53 [INFO] CONSOLE: Save complete.[0m
+2012-04-27 13:50:56 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-27 13:50:56 [INFO] Stopping server
+2012-04-27 13:50:56 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-04-27 13:50:56 [INFO] SilkSpawners disabled
+2012-04-27 13:50:56 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-04-27 13:50:56 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-04-27 13:50:56 [INFO] [Lockette] Disabling Lockette v1.6
+2012-04-27 13:50:56 [INFO] Lockette is being disabled...  ;.;
+2012-04-27 13:50:56 [INFO] [Lockette] Closing all automatic doors.
+2012-04-27 13:50:56 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-04-27 13:50:56 [INFO] Disabling PickBoat
+2012-04-27 13:50:56 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-04-27 13:50:56 [INFO] [CreeperMess v1.2] Disabled!
+2012-04-27 13:50:56 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-04-27 13:50:56 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-04-27 13:50:56 [INFO] Saving chunks
+2012-04-27 13:50:58 [INFO] Stopping server
+2012-04-27 13:50:58 [INFO] Saving chunks
+2012-04-27 13:51:33 [INFO] Starting minecraft server version 1.2.5
+2012-04-27 13:51:33 [INFO] Loading properties
+2012-04-27 13:51:33 [INFO] Starting Minecraft server on *:25564
+2012-04-27 13:51:33 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-04-27 13:51:34 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-04-27 13:51:34 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-04-27 13:51:34 [INFO] [Lockette] Loading Lockette v1.6
+2012-04-27 13:51:34 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-04-27 13:51:34 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-04-27 13:51:34 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-04-27 13:51:34 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-04-27 13:51:34 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-04-27 13:51:34 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-04-27 13:51:34 [INFO] Preparing level "world"
+2012-04-27 13:51:35 [INFO] Default game type: 0
+2012-04-27 13:51:35 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-04-27 13:51:35 [WARNING] ----- Bukkit Auto Updater -----
+2012-04-27 13:51:35 [WARNING] Your version of CraftBukkit is out of date. Version 1.2.5-R1.3 (build #2170) was released on Thu Apr 26 03:18:18 EST 2012.
+2012-04-27 13:51:35 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/01054_1.2.5-R1.3/
+2012-04-27 13:51:35 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/01054_1.2.5-R1.3/craftbukkit-dev.jar
+2012-04-27 13:51:35 [WARNING] ----- ------------------- -----
+2012-04-27 13:51:36 [INFO] Preparing spawn area: 57%
+2012-04-27 13:51:36 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-04-27 13:51:37 [INFO] Preparing spawn area: 73%
+2012-04-27 13:51:37 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-04-27 13:51:38 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-04-27 13:51:38 [INFO] SilkSpawners enabled
+2012-04-27 13:51:38 [INFO] [Lockette] Enabling Lockette v1.6
+2012-04-27 13:51:38 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-04-27 13:51:38 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-04-27 13:51:38 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-04-27 13:51:38 [INFO] [Lockette] Using ops file for admin permissions.
+2012-04-27 13:51:38 [INFO] [Lockette] Ready to protect your containers.
+2012-04-27 13:51:38 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-04-27 13:51:38 [INFO] PickBoat version 0.4 is enabled!
+2012-04-27 13:51:38 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-04-27 13:51:38 [INFO] [CreeperMess v1.2] Enabled!
+2012-04-27 13:51:38 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-04-27 13:51:38 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-04-27 13:51:38 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-27 13:51:38 [INFO] Done (3.345s)! For help, type "help" or "?"
+2012-04-27 13:51:38 [INFO] Connection reset
+2012-04-27 13:51:46 [INFO] The_Whistler [/127.0.0.1:47671] logged in with entity id 273 at ([world_nether] -479.6637551662319, 38.0, -296.6206887626558)
+2012-04-27 13:51:55 [INFO] Mondoza [/203.129.52.205:1322] logged in with entity id 398 at ([world] -5395.699999988079, 54.0, -1474.1620563734666)
+2012-04-27 13:52:00 [INFO] lluoc [/127.0.0.1:47675] logged in with entity id 853 at ([world] 86.67123921000781, 117.0, 1914.2997068056309)
+2012-04-27 13:52:06 [INFO] <The_Whistler> what did you change?[0m
+2012-04-27 13:52:07 [INFO] <lluoc> ok[0m
+2012-04-27 13:52:21 [INFO] <lluoc> Disabled the username coloring plugin[0m
+2012-04-27 13:52:25 [INFO] <The_Whistler> oh i see[0m
+2012-04-27 13:52:29 [INFO] <The_Whistler> but I liked the colour[0m
+2012-04-27 13:52:36 [INFO] <lluoc> I'll need to work out why it's making everything lower case[0m
+2012-04-27 13:52:46 [INFO] <lluoc> so did I... by the way, what color was I[0m
+2012-04-27 13:52:49 [INFO] <lluoc> ?[0m
+2012-04-27 13:52:54 [INFO] <The_Whistler> red I think[0m
+2012-04-27 13:53:12 [INFO] <lluoc> yay. That worked at least[0m
+2012-04-27 13:53:16 [INFO] <The_Whistler> i think I was teal[0m
+2012-04-27 13:53:26 [INFO] <lluoc> Teal is the color you see yourself.[0m
+2012-04-27 13:53:40 [INFO] <The_Whistler> what was I then?[0m
+2012-04-27 13:53:42 [INFO] <lluoc> everyone else sees you differently[0m
+2012-04-27 13:53:51 [INFO] <lluoc> a light grey I think.[0m
+2012-04-27 13:54:06 [INFO] <lluoc> When I get some time I'll work on expanding it[0m
+2012-04-27 13:54:43 [INFO] <lluoc> also mondoza was dark grey which shouldn't be used for unless you arn't online[0m
+2012-04-27 13:54:57 [INFO] <lluoc> I think... Mike's code. not mine[0m
+2012-04-27 13:55:01 [INFO] <The_Whistler> he was brown to me[0m
+2012-04-27 13:55:06 [INFO] <Mondoza> all i see is white[0m
+2012-04-27 13:55:10 [INFO] <lluoc> ...[0m
+2012-04-27 13:55:13 [INFO] <The_Whistler> now yeah[0m
+2012-04-27 13:55:17 [INFO] <The_Whistler> he got rid of it[0m
+2012-04-27 13:55:23 [INFO] <The_Whistler> mondoza was brown on my screen[0m
+2012-04-27 13:55:37 [INFO] <lluoc> Yeah, I'll try to get it working then, I was getting dark grey for mondoza...[0m
+2012-04-27 13:56:07 [INFO] <The_Whistler> coming back through the railway[0m
+2012-04-27 13:56:39 [INFO] <The_Whistler> you've extended the railway stops?[0m
+2012-04-27 13:56:59 [INFO] <Mondoza> ive removed the spaces, allowing constant travel[0m
+2012-04-27 13:57:08 [INFO] <Mondoza> to aid in the post[0m
+2012-04-27 13:57:08 [INFO] <The_Whistler> and put up signs.[0m
+2012-04-27 13:58:25 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 13:58:25 [INFO] Connection reset
+2012-04-27 14:00:22 [INFO] <Mondoza> btw man, there's now an enchanting table in my homestead[0m
+2012-04-27 14:00:29 [INFO] <The_Whistler> i noticed[0m
+2012-04-27 14:00:39 [INFO] <The_Whistler> not fully operational, but getting there[0m
+2012-04-27 14:00:58 [INFO] <Mondoza> theres been a suger cane shortage[0m
+2012-04-27 14:01:08 [INFO] <The_Whistler> i brough a lot over[0m
+2012-04-27 14:02:21 [INFO] <The_Whistler> the lighthouse is complete. now Tim the lighthouseman has somewhere to live.[0m
+2012-04-27 14:02:31 [INFO] <Mondoza> nice[0m
+2012-04-27 14:02:45 [INFO] <Mondoza> i'll remove the temporary lighthouse[0m
+2012-04-27 14:03:00 [INFO] <The_Whistler> on it[0m
+2012-04-27 14:05:29 [INFO] <Mondoza> what are you looking for?[0m
+2012-04-27 14:05:39 [INFO] <The_Whistler> just putting things away[0m
+2012-04-27 14:06:01 [INFO] <Mondoza> folo me[0m
+2012-04-27 14:06:28 [INFO] <The_Whistler> for expensive stuff?[0m
+2012-04-27 14:06:29 [INFO] <Mondoza> secret stash[0m
+2012-04-27 14:06:31 [INFO] <Mondoza> yup[0m
+2012-04-27 14:06:52 [INFO] <The_Whistler> also, where do you keep your glowstone?[0m
+2012-04-27 14:07:13 [INFO] <Mondoza> hmmm[0m
+2012-04-27 14:07:17 [INFO] <Mondoza> i HAD glowstone...[0m
+2012-04-27 14:07:22 [INFO] <Mondoza> mustve used it all[0m
+2012-04-27 14:07:57 [INFO] <Mondoza> thx[0m
+2012-04-27 14:09:44 [INFO] <Mondoza> understand how i organise things?[0m
+2012-04-27 14:09:55 [INFO] <The_Whistler> redstone is a brilliant trading tool around this server btw[0m
+2012-04-27 14:09:59 [INFO] <The_Whistler> and yes I do understand[0m
+2012-04-27 14:13:02 [INFO] <Mondoza> im gonna transport some more stuff[0m
+2012-04-27 14:13:08 [INFO] <The_Whistler> ditto[0m
+2012-04-27 14:14:21 [INFO] <The_Whistler> nellie will occaisionally drop by with random deliveries[0m
+2012-04-27 14:26:34 [INFO] <Mondoza> enderman inside[0m
+2012-04-27 14:26:38 [INFO] <The_Whistler> what?![0m
+2012-04-27 14:26:43 [INFO] lluoc [/127.0.0.1:47689] logged in with entity id 32258 at ([world] 86.85574152519526, 117.0, 1914.84952369117)
+2012-04-27 14:26:47 [INFO] <Mondoza> nup he's gone[0m
+2012-04-27 14:26:56 [INFO] <lluoc> hey[0m
+2012-04-27 14:27:01 [INFO] <lluoc> 2 things[0m
+2012-04-27 14:27:18 [INFO] <lluoc> I'm going to put a fix on that user colors thing in a second[0m
+2012-04-27 14:27:35 [INFO] <lluoc> and also, If you don't know there is a semi-blocksoc event thing happening this sunday[0m
+2012-04-27 14:27:57 [INFO] <The_Whistler> i am busy but I think nellie told me[0m
+2012-04-27 14:28:33 [INFO] <Mondoza> what a grand view, all this is ours[0m
+2012-04-27 14:28:56 [INFO] <The_Whistler> where is that enderman though?[0m
+2012-04-27 14:29:01 [INFO] <The_Whistler> i feel slaughter coming on[0m
+2012-04-27 14:29:08 [INFO] <Mondoza> nah he's gone[0m
+2012-04-27 14:29:18 [INFO] <The_Whistler> must have heard that I was about[0m
+2012-04-27 14:30:24 [INFO] <lluoc> ok, gonna restart the server now[0m
+2012-04-27 14:30:29 [INFO] Connection reset
+2012-04-27 14:30:29 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-27 14:30:34 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-27 14:30:34 [INFO] Stopping server
+2012-04-27 14:30:34 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-04-27 14:30:34 [INFO] SilkSpawners disabled
+2012-04-27 14:30:34 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-04-27 14:30:34 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-04-27 14:30:34 [INFO] [Lockette] Disabling Lockette v1.6
+2012-04-27 14:30:34 [INFO] Lockette is being disabled...  ;.;
+2012-04-27 14:30:34 [INFO] [Lockette] Closing all automatic doors.
+2012-04-27 14:30:34 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-04-27 14:30:34 [INFO] Disabling PickBoat
+2012-04-27 14:30:34 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-04-27 14:30:34 [INFO] [CreeperMess v1.2] Disabled!
+2012-04-27 14:30:34 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-04-27 14:30:34 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-04-27 14:30:34 [INFO] Saving chunks
+2012-04-27 14:30:35 [INFO] Stopping server
+2012-04-27 14:30:45 [INFO] Starting minecraft server version 1.2.5
+2012-04-27 14:30:45 [INFO] Loading properties
+2012-04-27 14:30:45 [INFO] Starting Minecraft server on *:25564
+2012-04-27 14:30:45 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-04-27 14:30:45 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-04-27 14:30:45 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-04-27 14:30:45 [INFO] [Lockette] Loading Lockette v1.6
+2012-04-27 14:30:45 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-04-27 14:30:45 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-04-27 14:30:45 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-04-27 14:30:45 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-04-27 14:30:45 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-04-27 14:30:45 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-04-27 14:30:45 [INFO] Preparing level "world"
+2012-04-27 14:30:45 [INFO] Default game type: 0
+2012-04-27 14:30:45 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-04-27 14:30:46 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-04-27 14:30:46 [INFO] Preparing spawn area: 4%
+2012-04-27 14:30:47 [WARNING] ----- Bukkit Auto Updater -----
+2012-04-27 14:30:47 [WARNING] Your version of CraftBukkit is out of date. Version 1.2.5-R1.3 (build #2170) was released on Thu Apr 26 03:18:18 EST 2012.
+2012-04-27 14:30:47 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/01054_1.2.5-R1.3/
+2012-04-27 14:30:47 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/01054_1.2.5-R1.3/craftbukkit-dev.jar
+2012-04-27 14:30:47 [WARNING] ----- ------------------- -----
+2012-04-27 14:30:47 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-04-27 14:30:47 [INFO] Preparing spawn area: 52%
+2012-04-27 14:30:47 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-04-27 14:30:48 [INFO] SilkSpawners enabled
+2012-04-27 14:30:48 [INFO] [Lockette] Enabling Lockette v1.6
+2012-04-27 14:30:48 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-04-27 14:30:48 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-04-27 14:30:48 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-04-27 14:30:48 [INFO] [Lockette] Using ops file for admin permissions.
+2012-04-27 14:30:48 [INFO] [Lockette] Ready to protect your containers.
+2012-04-27 14:30:48 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-04-27 14:30:48 [INFO] PickBoat version 0.4 is enabled!
+2012-04-27 14:30:48 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-04-27 14:30:48 [INFO] [CreeperMess v1.2] Enabled!
+2012-04-27 14:30:48 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-04-27 14:30:48 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-04-27 14:30:48 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-27 14:30:48 [INFO] Done (2.399s)! For help, type "help" or "?"
+2012-04-27 14:30:59 [INFO] lluoc [/127.0.0.1:47699] logged in with entity id 248 at ([world] 86.85574152519526, 117.0, 1914.84952369117)
+2012-04-27 14:31:04 [INFO] <lluoc> test[0m
+2012-04-27 14:31:11 [INFO] lluoc lost connection: disconnect.endOfStream
+2012-04-27 14:31:16 [INFO] Mondoza [/203.129.52.205:1398] logged in with entity id 498 at ([world] -5055.11577996018, 70.0, -1316.9506963085862)
+2012-04-27 14:31:36 [INFO] lluoc [/127.0.0.1:47705] logged in with entity id 672 at ([world] 86.85574152519526, 117.0, 1914.84952369117)
+2012-04-27 14:31:41 [INFO] <lluoc> test[0m
+2012-04-27 14:31:48 [INFO] <lluoc> can you say something please[0m
+2012-04-27 14:31:48 [INFO] The_Whistler [/127.0.0.1:47709] logged in with entity id 927 at ([world] -5073.766255427648, 81.0, -1367.8380508081832)
+2012-04-27 14:31:52 [INFO] <Mondoza> i see white[0m
+2012-04-27 14:32:02 [INFO] CONSOLE: Giving The_Whistler some 341 (SLIME_BALL)[0m
+2012-04-27 14:32:03 [INFO] <lluoc> And you are capitalised again[0m
+2012-04-27 14:32:33 [INFO] <lluoc> Is your name capitalized?[0m
+2012-04-27 14:32:38 [INFO] <The_Whistler> probably[0m
+2012-04-27 14:32:43 [INFO] <lluoc> I mean is your name white?[0m
+2012-04-27 14:32:51 [INFO] <lluoc> are the user names colored I mean[0m
+2012-04-27 14:32:54 [INFO] <The_Whistler> mondoza is dark greay for me name[0m
+2012-04-27 14:33:09 [INFO] <Mondoza> to me, all text is white[0m
+2012-04-27 14:33:21 [INFO] <lluoc> ... ok that's odd[0m
+2012-04-27 14:33:27 [INFO] <lluoc> was it always white?[0m
+2012-04-27 14:33:57 [INFO] Connection reset
+2012-04-27 14:33:57 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-27 14:34:40 [INFO] <lluoc> gtg[0m
+2012-04-27 14:34:41 [INFO] Connection reset
+2012-04-27 14:34:41 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 14:40:54 [INFO] The_Whistler lost connection: disconnect.endOfStream
+2012-04-27 14:41:07 [INFO] The_Whistler [/127.0.0.1:47714] logged in with entity id 6318 at ([world] -5067.699999988079, 98.0, -1399.699999988079)
+2012-04-27 14:42:38 [INFO] The_Whistler lost connection: disconnect.endOfStream
+2012-04-27 14:42:49 [INFO] The_Whistler [/127.0.0.1:47718] logged in with entity id 7207 at ([world] -5065.04878469699, 73.0, -1372.2903483081284)
+2012-04-27 14:58:47 [INFO] Connection reset
+2012-04-27 14:58:47 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-04-27 15:29:30 [INFO] adrianjboyer [/127.0.0.1:47728] logged in with entity id 21739 at ([world_the_end] 353.2762863449943, 5.0, -1.3982762123212216)
+2012-04-27 15:32:12 [INFO] Connection reset
+2012-04-27 15:32:12 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-04-27 16:31:58 [INFO] /14.200.158.249:56029 lost connection
+2012-04-27 16:32:12 [INFO] lluoc [/127.0.0.1:47741] logged in with entity id 24275 at ([world] 86.85574152519526, 117.0, 1914.84952369117)
+2012-04-27 16:32:32 [INFO] Connection reset
+2012-04-27 16:32:32 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 16:45:57 [INFO] Connected players: [0m
+2012-04-27 16:46:00 [INFO] CONSOLE: Forcing save..[0m
+2012-04-27 16:46:00 [INFO] CONSOLE: Save complete.[0m
+2012-04-27 16:46:37 [INFO] lluoc [/127.0.0.1:47746] logged in with entity id 24917 at ([world] 85.51803801354355, 118.0, 1915.6230186377222)
+2012-04-27 16:46:58 [INFO] Connection reset
+2012-04-27 16:46:58 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 16:49:20 [INFO] lluoc [/127.0.0.1:47750] logged in with entity id 25477 at ([world] 85.51803801354355, 118.0, 1915.6230186377222)
+2012-04-27 16:49:30 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 16:49:30 [INFO] Connection reset
+2012-04-27 16:50:47 [INFO] lluoc [/127.0.0.1:47754] logged in with entity id 25871 at ([world] 85.51803801354355, 118.0, 1915.6230186377222)
+2012-04-27 16:51:00 [INFO] Connection reset
+2012-04-27 16:51:00 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 17:26:03 [INFO] lluoc [/127.0.0.1:47764] logged in with entity id 26205 at ([world] 85.51803801354355, 118.0, 1915.6230186377222)
+2012-04-27 17:26:25 [INFO] Mondoza [/203.129.52.205:1661] logged in with entity id 26575 at ([world] -5059.695946459782, 70.0, -1317.097533119503)
+2012-04-27 17:28:26 [INFO] <lluoc> hey[0m
+2012-04-27 17:28:40 [INFO] <Mondoza> wat up[0m
+2012-04-27 17:28:56 [INFO] <lluoc> building a fire temple[0m
+2012-04-27 17:35:16 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 72 in world, 3.6 blocks from Mondoza
+2012-04-27 17:35:48 [INFO] Connection reset
+2012-04-27 17:35:48 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-27 17:35:57 [INFO] Mondoza [/203.129.52.205:1668] logged in with entity id 38976 at ([world] -5102.903347038112, 69.0, -1282.1719780592969)
+2012-04-27 17:38:06 [INFO] Connection reset
+2012-04-27 17:38:06 [INFO] Mondoza lost connection: disconnect.endOfStream
+2012-04-27 17:42:33 [INFO] <lluoc> a[0m
+2012-04-27 17:42:33 [INFO] <lluoc> 10[0m
+2012-04-27 17:42:33 [INFO] <lluoc> a[0m
+2012-04-27 17:47:11 [INFO] <lluoc> keydown(sneak)[0m
+2012-04-27 17:47:11 [INFO] <lluoc> wait(100ms)[0m
+2012-04-27 17:47:11 [INFO] <lluoc> keyup(sneak)[0m
+2012-04-27 17:56:56 [INFO] The_Whistler [/127.0.0.1:47777] logged in with entity id 58799 at ([world] -5055.658502719005, 103.5, -1325.809155647145)
+2012-04-27 18:00:44 [INFO] <lluoc> $$q.txt[0m
+2012-04-27 18:02:44 [INFO] Connection reset
+2012-04-27 18:02:44 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 18:02:49 [INFO] lluoc [/127.0.0.1:47782] logged in with entity id 73576 at ([world] 55.513917655140816, 148.0, 1944.7646751536095)
+2012-04-27 18:04:00 [INFO] Connection reset
+2012-04-27 18:04:00 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-04-27 18:11:37 [INFO] Connection reset
+2012-04-27 18:11:37 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 18:11:38 [INFO] H4ZM4T [/127.0.0.1:47787] logged in with entity id 142600 at ([world] -5046.919855295816, 83.0, -1314.8783514512968)
+2012-04-27 18:11:46 [INFO] lluoc [/127.0.0.1:47791] logged in with entity id 143018 at ([world] 1.6352252815227775, 199.0, 1998.3734292367035)
+2012-04-27 18:11:50 [INFO] <lluoc> hey[0m
+2012-04-27 18:11:50 [INFO] CONSOLE: Giving H4ZM4T some 341 (SLIME_BALL)[0m
+2012-04-27 18:11:53 [INFO] <H4ZM4T> herro[0m
+2012-04-27 18:11:57 [INFO] <lluoc> like?[0m
+2012-04-27 18:12:04 [INFO] <H4ZM4T> sliiime balls[0m
+2012-04-27 18:12:06 [INFO] <H4ZM4T> and caps[0m
+2012-04-27 18:12:11 [INFO] <lluoc> ya[0m
+2012-04-27 18:12:16 [INFO] <H4ZM4T> testing[0m
+2012-04-27 18:12:16 [INFO] <lluoc> sorry about the caps[0m
+2012-04-27 18:12:31 [INFO] * H4ZM4T changed my colour[0m
+2012-04-27 18:12:32 [INFO] <lluoc> *teeny* code change[0m
+2012-04-27 18:12:44 [INFO] <lluoc> the color stuff isn't workong yet[0m
+2012-04-27 18:12:52 [INFO] <H4ZM4T> ah okay[0m
+2012-04-27 18:13:06 [INFO] <lluoc> It's some of Mikes code.[0m
+2012-04-27 18:13:17 [INFO] <lluoc> One of us will get it working some time.[0m
+2012-04-27 18:13:26 [INFO] <lluoc> Also: coming on sunday?[0m
+2012-04-27 18:13:35 [INFO] <H4ZM4T> can't[0m
+2012-04-27 18:13:40 [INFO] <H4ZM4T> helping my parents move stuff[0m
+2012-04-27 18:13:43 [INFO] <lluoc> aww[0m
+2012-04-27 18:14:21 [INFO] <H4ZM4T> I'd love to, but I can't[0m
+2012-04-27 18:15:07 [INFO] <lluoc> but I even put in a event message in the welcome text[0m
+2012-04-27 18:15:11 [INFO] <lluoc> in gold... GOLD[0m
+2012-04-27 18:15:27 [INFO] <H4ZM4T> and I had this booked in last week[0m
+2012-04-27 18:15:35 [INFO] <H4ZM4T> before the final date was decided[0m
+2012-04-27 18:15:47 [INFO] <lluoc> Ohm and about Biospheres. I know the exact variable to change but java byte code[0m
+2012-04-27 18:15:54 [INFO] <lluoc> isn't... nice.[0m
+2012-04-27 18:15:58 [INFO] <H4ZM4T> ehehe[0m
+2012-04-27 18:16:12 [INFO] <lluoc> So I need to get the mod source. Which  can but I can find no documentation on how[0m
+2012-04-27 18:16:16 [INFO] <lluoc> to compile all this.[0m
+2012-04-27 18:16:41 [INFO] <lluoc> Even though the mod loader is one of the most used loaders...[0m
+2012-04-27 18:16:48 [INFO] <lluoc> i don't even.[0m
+2012-04-27 18:17:33 [INFO] <lluoc> Also: look up macro/keybind mod. You can make keys stick. like constant sneak[0m
+2012-04-27 18:17:37 [INFO] <lluoc> or constant walk[0m
+2012-04-27 18:17:46 [INFO] <H4ZM4T> oooooh[0m
+2012-04-27 18:17:58 [INFO] <H4ZM4T> could I do that with a macro on my keyboard?[0m
+2012-04-27 18:18:05 [INFO] <H4ZM4T> sleeepy?[0m
+2012-04-27 18:18:10 [INFO] <lluoc> you could[0m
+2012-04-27 18:18:12 [INFO] <lluoc> K, brb[0m
+2012-04-27 18:18:16 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 18:18:16 [INFO] Connection reset
+2012-04-27 18:22:04 [INFO] Connection reset
+2012-04-27 18:22:04 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-27 18:28:35 [INFO] lluoc [/127.0.0.1:47796] logged in with entity id 157765 at ([world] 2.7309671103801003, 199.0, 1996.9657433042012)
+2012-04-27 18:28:41 [INFO] Connection reset
+2012-04-27 18:28:41 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 18:29:06 [INFO] lluoc [/127.0.0.1:47800] logged in with entity id 159744 at ([world] 2.7309671103801003, 199.0, 1996.9657433042012)
+2012-04-27 18:38:57 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 18:38:57 [INFO] Connection reset
+2012-04-27 18:40:49 [INFO] lluoc [/127.0.0.1:47806] logged in with entity id 242634 at ([world] 29.43837150466456, 172.0, 1968.699999988079)
+2012-04-27 18:40:52 [INFO] ultrajono [/127.0.0.1:47810] logged in with entity id 242776 at ([world] 631.9017738459304, 60.0, -320.4863867814429)
+2012-04-27 18:40:56 [INFO] <lluoc> hey[0m
+2012-04-27 18:40:58 [INFO] <ultrajono> hey lluoc[0m
+2012-04-27 18:41:06 [INFO] <ultrajono> this is new[0m
+2012-04-27 18:41:09 [INFO] <lluoc> it is[0m
+2012-04-27 18:41:21 [INFO] <lluoc> see the welcome message.[0m
+2012-04-27 18:41:21 [INFO] <ultrajono> i'm blue, your red :P i'm guessing for you its the other way round?[0m
+2012-04-27 18:41:36 [INFO] <ultrajono> slimeballs ey?[0m
+2012-04-27 18:41:38 [INFO] <lluoc> nope. your grey. I'm red because I'm op[0m
+2012-04-27 18:41:47 [INFO] <lluoc> try it[0m
+2012-04-27 18:42:02 [INFO] <ultrajono> any idea why when i die it says my bed was obstructed, even though it hasnt' moved?[0m
+2012-04-27 18:42:09 [INFO] <ultrajono> i already have, and put em away :D[0m
+2012-04-27 18:42:31 [INFO] <lluoc> nope. try sleeping in your bed again.[0m
+2012-04-27 18:42:47 [INFO] <ultrajono> whats been happenin man?[0m
+2012-04-27 18:43:06 [INFO] <lluoc> not much. Work and what time I have for minecraft has been admin related[0m
+2012-04-27 18:43:16 [INFO] <lluoc> but... end grinder and also fire temple[0m
+2012-04-27 18:43:21 [INFO] <ultrajono> ouch, fire temptle?[0m
+2012-04-27 18:43:30 [INFO] <lluoc> Seen it?[0m
+2012-04-27 18:43:49 [INFO] <ultrajono> nope, did i mention i'm happy to give resources to help make grinder more efficient?[0m
+2012-04-27 18:44:11 [INFO] <lluoc> Honestly I haven't been on properly in a week. I hjave no idea what is going on with that[0m
+2012-04-27 18:44:29 [INFO] <lluoc> but I think taylor would be happy for  more.[0m
+2012-04-27 18:44:43 [INFO] <ultrajono> he would be, i've already given him redstone and such[0m
+2012-04-27 18:45:04 [INFO] <lluoc> I'm effectively out of, well, everything.[0m
+2012-04-27 18:45:08 [INFO] <lluoc> except netherrack[0m
+2012-04-27 18:45:16 [INFO] <lluoc> hence, fire temple[0m
+2012-04-27 18:45:18 [INFO] <ultrajono> you? you have like an army worth of stuff?[0m
+2012-04-27 18:45:58 [INFO] <lluoc> Yeah... I haven't exactly been mining much this year[0m
+2012-04-27 18:46:22 [INFO] <ultrajono> whenever i'm on, i mine everything i have available and add it to my collection,a nd then make shit[0m
+2012-04-27 18:46:59 [INFO] <lluoc> by the way. If you want to see what I am building then the coords are 0,2000.[0m
+2012-04-27 18:47:02 [INFO] <lluoc> look on the map[0m
+2012-04-27 18:47:08 [INFO] <ultrajono> there's a map?[0m
+2012-04-27 18:47:16 [INFO] <lluoc> gamer.gg in a browser[0m
+2012-04-27 18:47:38 [INFO] <ultrajono> shiny[0m
+2012-04-27 18:47:48 [INFO] <lluoc> updates each day around 8[0m
+2012-04-27 18:47:51 [INFO] <lluoc> am[0m
+2012-04-27 18:48:37 [INFO] <ultrajono> fuckin hell man[0m
+2012-04-27 18:48:42 [INFO] <lluoc> ?[0m
+2012-04-27 18:48:48 [INFO] <ultrajono> we, nerd of the earth[0m
+2012-04-27 18:49:01 [INFO] <lluoc> ??[0m
+2012-04-27 18:49:09 [INFO] <ultrajono> the map is intense[0m
+2012-04-27 18:49:13 [INFO] <lluoc> Also, did you note the event notice in the welcome?[0m
+2012-04-27 18:49:25 [INFO] <ultrajono> event notice? no i'm sad to say i did not[0m
+2012-04-27 18:49:38 [INFO] <lluoc> heh, you want intense. Look up the example page of minecraft overviewer. Google it[0m
+2012-04-27 18:49:49 [INFO] <lluoc> Event thingi this sunday. kinda[0m
+2012-04-27 18:50:20 [INFO] <ultrajono> oh, i read about that on the group, work[0m
+2012-04-27 18:50:32 [INFO] <lluoc> just checking... aww.[0m
+2012-04-27 18:50:43 [INFO] mebeme [/127.0.0.1:47812] logged in with entity id 255587 at ([world] -26.293544355052266, 73.0, 86.81784042383794)
+2012-04-27 18:50:43 [INFO] mebeme lost connection: disconnect.endOfStream
+2012-04-27 18:50:45 [INFO] <ultrajono> double time, or minecraft stuff. . . .[0m
+2012-04-27 18:50:49 [INFO] <lluoc> ...[0m
+2012-04-27 18:50:55 [INFO] mebeme [/127.0.0.1:47817] logged in with entity id 256014 at ([world] -26.293544355052266, 73.0, 86.81784042383794)
+2012-04-27 18:50:56 [INFO] mebeme lost connection: disconnect.endOfStream
+2012-04-27 18:50:58 [INFO] <ultrajono> .2000 yeh?[0m
+2012-04-27 18:51:00 [INFO] <lluoc> umm[0m
+2012-04-27 18:51:06 [INFO] <ultrajono> firetemple?[0m
+2012-04-27 18:51:12 [INFO] <lluoc> 0,2000[0m
+2012-04-27 18:51:21 [INFO] <lluoc> there is a quick path via the nether[0m
+2012-04-27 18:51:39 [INFO] <lluoc> or just look on the map for an idea of scale[0m
+2012-04-27 18:51:52 [INFO] <lluoc> you can't actually see all of it in the client[0m
+2012-04-27 18:52:17 [INFO] <ultrajono> i saw some of that when i was in the nether, something about south side?[0m
+2012-04-27 18:55:09 [INFO] <lluoc> umm, the access is near my home portal[0m
+2012-04-27 18:55:17 [INFO] <ultrajono> yeh, i saw that[0m
+2012-04-27 18:55:23 [INFO] <lluoc> the path is up some vines and along the only path that is marked[0m
+2012-04-27 18:55:44 [INFO] <ultrajono> then yes, i've seen that, when i died and respawned i was next to yours, so i went through your port[0m
+2012-04-27 18:55:54 [INFO] <ultrajono> portal, and saw that, went for a bit of an explore, whats the aim?[0m
+2012-04-27 18:56:10 [INFO] <lluoc> temple at each point, 2000 out[0m
+2012-04-27 18:56:23 [INFO] <lluoc> fire temepl here, air, earch and water at the other points[0m
+2012-04-27 18:56:35 [INFO] <ultrajono> you realise you are insane, yes?[0m
+2012-04-27 18:56:53 [INFO] <lluoc> Know what I am doing for earth. Convinently over ocean so floating island[0m
+2012-04-27 18:57:04 [INFO] <lluoc> and taylor is making a scale version of Atlantis.[0m
+2012-04-27 18:57:09 [INFO] <lluoc> I think I am sane[0m
+2012-04-27 18:57:17 [INFO] <ultrajono> yeh, he says he is, i've yet to see much of it[0m
+2012-04-27 18:57:39 [INFO] <lluoc> Actually most of his resources are going to the end grinder. The payoff of easy xp[0m
+2012-04-27 18:57:43 [INFO] <lluoc> will pay of in the end.[0m
+2012-04-27 18:57:58 [INFO] <ultrajono> which is why i'm happy to give resources, i'll use the grinder a fuckload[0m
+2012-04-27 18:58:30 [INFO] <lluoc> It sure is faster than my old zombie grinder[0m
+2012-04-27 18:58:47 [INFO] <ultrajono> i founbd a sapwner, and was in the process of making it into a grinder, why bother now[0m
+2012-04-27 18:59:02 [INFO] <lluoc> Well, don't destroy it.[0m
+2012-04-27 18:59:12 [INFO] <ultrajono> i haven't, not going to, its close to my place to meh[0m
+2012-04-27 18:59:21 [INFO] <lluoc> silkspawners lets us pic it up[0m
+2012-04-27 18:59:22 [INFO] <ultrajono> do we have enough enderpearls yet though? i dunno[0m
+2012-04-27 18:59:34 [INFO] <lluoc> Never neough pearls[0m
+2012-04-27 18:59:57 [INFO] <ultrajono> its a spider spawner so you know[0m
+2012-04-27 19:00:22 [INFO] <lluoc> still usefull[0m
+2012-04-27 19:00:38 [INFO] <lluoc> If I can get enought then I can make a mob grinder that will be many times more efficient[0m
+2012-04-27 19:00:43 [INFO] <lluoc> than the drop grinders[0m
+2012-04-27 19:01:17 [INFO] <ultrajono> well let me know, and il'l show you where it is[0m
+2012-04-27 19:02:29 [INFO] <ultrajono> still going to the island?[0m
+2012-04-27 19:02:38 [INFO] <lluoc> not really.[0m
+2012-04-27 19:02:44 [INFO] <lluoc> soon after the jungle opened up[0m
+2012-04-27 19:02:54 [INFO] <lluoc> though i did finish my house[0m
+2012-04-27 19:03:03 [INFO] <lluoc> heh. Did you see the tnt event map of the island?[0m
+2012-04-27 19:03:11 [INFO] <ultrajono> tnt event map?[0m
+2012-04-27 19:03:26 [INFO] <lluoc> Oh, you missedthe TNT event didn;'t you... damn[0m
+2012-04-27 19:03:44 [INFO] <lluoc> after I  took over and we moved from Server craft I took a copy of the map[0m
+2012-04-27 19:03:47 [INFO] <ultrajono> son of a bitch, let me guess, you blew up everything?[0m
+2012-04-27 19:03:50 [INFO] <lluoc> and set everyone to creative[0m
+2012-04-27 19:03:58 [INFO] <lluoc> and everyone had tnt...[0m
+2012-04-27 19:04:07 [INFO] <lluoc> look at the maps for what happened[0m
+2012-04-27 19:04:54 [INFO] <ultrajono> i'm guessing nothing was left?[0m
+2012-04-27 19:05:44 [INFO] <lluoc> Kindof... The lag when we took out the island was so bad[0m
+2012-04-27 19:05:52 [INFO] <ultrajono> was it synched?[0m
+2012-04-27 19:05:54 [INFO] <lluoc> that it took over 10 minutes for it to all explode[0m
+2012-04-27 19:05:58 [INFO] <lluoc> no. just covered[0m
+2012-04-27 19:06:10 [INFO] <lluoc> but one ring would explode.[0m
+2012-04-27 19:06:25 [INFO] <lluoc> and then about 30 seconds later the next ring would realise it had been activated[0m
+2012-04-27 19:06:28 [INFO] <lluoc> and explode....[0m
+2012-04-27 19:06:36 [INFO] <lluoc> Sooooo slow.[0m
+2012-04-27 19:06:42 [INFO] <ultrajono> even on creative, that woudl've taken a while to do[0m
+2012-04-27 19:06:58 [INFO] <lluoc> 5 minutes flying[0m
+2012-04-27 19:07:10 [INFO] <lluoc> not 'covered' covered, but enought to remove the rop layer[0m
+2012-04-27 19:07:27 [INFO] <lluoc> sleep?[0m
+2012-04-27 19:07:34 [INFO] <ultrajono> in a mine, i can dc for you?[0m
+2012-04-27 19:07:39 [INFO] <lluoc> please[0m
+2012-04-27 19:07:41 [INFO] Connection reset
+2012-04-27 19:07:41 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-27 19:07:49 [INFO] ultrajono [/127.0.0.1:47822] logged in with entity id 281785 at ([world] 438.30000001192093, 7.0, -337.69999998807907)
+2012-04-27 19:07:52 [INFO] <ultrajono> work?[0m
+2012-04-27 19:07:58 [INFO] <lluoc> yeah[0m
+2012-04-27 19:08:04 [INFO] <ultrajono> i'll be helping science :D[0m
+2012-04-27 19:08:09 [INFO] <lluoc> you should really get a mini mapper working[0m
+2012-04-27 19:08:16 [INFO] <lluoc> ya.[0m
+2012-04-27 19:08:25 [INFO] <ultrajono> which woudl you recommend?[0m
+2012-04-27 19:08:28 [INFO] <lluoc> Reis[0m
+2012-04-27 19:08:32 [INFO] <lluoc> Rei's[0m
+2012-04-27 19:08:34 [INFO] <ultrajono> hard to set up?[0m
+2012-04-27 19:08:59 [INFO] <lluoc> Depends on how good at computers you are[0m
+2012-04-27 19:09:20 [INFO] <ultrajono> i turn it on by presing the big button, and the internet is now on computers, did ya know?[0m
+2012-04-27 19:09:46 [INFO] <lluoc> oh dear[0m
+2012-04-27 19:09:46 [INFO] <ultrajono> i tried rei's, it just fucked up for me, and i had taylor help me instlal[0m
+2012-04-27 19:10:05 [INFO] <lluoc> Ok, if you google how to install mods in minecraft then it will be explained better than I can[0m
+2012-04-27 19:10:13 [INFO] <lluoc> It's pretty easy.[0m
+2012-04-27 19:10:36 [INFO] <ultrajono> i'm such a frackin horder, i end up going out of my way to collect coal, everytime[0m
+2012-04-27 19:10:52 [INFO] <lluoc> Same. And with fourtune...[0m
+2012-04-27 19:10:59 [INFO] <lluoc> I love fortune[0m
+2012-04-27 19:11:00 [INFO] <ultrajono> yeh, i really want a fortune one[0m
+2012-04-27 19:11:04 [INFO] <lluoc> also, gtg[0m
+2012-04-27 19:11:05 [INFO] Connection reset
+2012-04-27 19:11:05 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 19:35:06 [INFO] Connection reset
+2012-04-27 19:35:06 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-27 19:50:15 [INFO] lluoc [/127.0.0.1:47830] logged in with entity id 302332 at ([world] 98.83772335701508, 105.0, 1901.6680748088709)
+2012-04-27 19:56:45 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-04-27 19:56:45 [INFO] SilkSpawners disabled
+2012-04-27 19:56:45 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-04-27 19:56:45 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-04-27 19:56:45 [INFO] [Lockette] Disabling Lockette v1.6
+2012-04-27 19:56:45 [INFO] Lockette is being disabled...  ;.;
+2012-04-27 19:56:45 [INFO] [Lockette] Closing all automatic doors.
+2012-04-27 19:56:45 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-04-27 19:56:45 [INFO] Disabling PickBoat
+2012-04-27 19:56:45 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-04-27 19:56:45 [INFO] [CreeperMess v1.2] Disabled!
+2012-04-27 19:56:45 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-04-27 19:56:45 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-04-27 19:56:45 [INFO] 182 recipes
+2012-04-27 19:56:45 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-04-27 19:56:45 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-04-27 19:56:45 [INFO] [Lockette] Loading Lockette v1.6
+2012-04-27 19:56:45 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-04-27 19:56:45 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-04-27 19:56:45 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-04-27 19:56:45 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-04-27 19:56:45 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-04-27 19:56:45 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-04-27 19:56:45 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-04-27 19:56:45 [INFO] SilkSpawners enabled
+2012-04-27 19:56:45 [INFO] [Lockette] Enabling Lockette v1.6
+2012-04-27 19:56:45 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-04-27 19:56:45 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-04-27 19:56:45 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-04-27 19:56:45 [INFO] [Lockette] Using ops file for admin permissions.
+2012-04-27 19:56:45 [INFO] [Lockette] Ready to protect your containers.
+2012-04-27 19:56:45 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-04-27 19:56:45 [INFO] PickBoat version 0.4 is enabled!
+2012-04-27 19:56:45 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-04-27 19:56:45 [INFO] [CreeperMess v1.2] Enabled!
+2012-04-27 19:56:45 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-04-27 19:56:45 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-04-27 19:56:45 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-27 19:56:45 [INFO] [32mReload complete.[0m
+2012-04-27 19:56:49 [INFO] Connection reset
+2012-04-27 19:56:49 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 19:56:51 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-27 19:56:51 [INFO] Stopping server
+2012-04-27 19:56:51 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-04-27 19:56:51 [INFO] SilkSpawners disabled
+2012-04-27 19:56:51 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-04-27 19:56:51 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-04-27 19:56:51 [INFO] [Lockette] Disabling Lockette v1.6
+2012-04-27 19:56:51 [INFO] Lockette is being disabled...  ;.;
+2012-04-27 19:56:51 [INFO] [Lockette] Closing all automatic doors.
+2012-04-27 19:56:51 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-04-27 19:56:51 [INFO] Disabling PickBoat
+2012-04-27 19:56:51 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-04-27 19:56:51 [INFO] [CreeperMess v1.2] Disabled!
+2012-04-27 19:56:51 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-04-27 19:56:51 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-04-27 19:56:51 [INFO] Saving chunks
+2012-04-27 19:56:53 [INFO] Stopping server
+2012-04-27 19:56:53 [INFO] Saving chunks
+2012-04-27 19:56:57 [INFO] Starting minecraft server version 1.2.5
+2012-04-27 19:56:57 [INFO] Loading properties
+2012-04-27 19:56:57 [INFO] Starting Minecraft server on *:25564
+2012-04-27 19:56:57 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-04-27 19:56:57 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-04-27 19:56:57 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-04-27 19:56:57 [INFO] [Lockette] Loading Lockette v1.6
+2012-04-27 19:56:57 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-04-27 19:56:57 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-04-27 19:56:57 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-04-27 19:56:57 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-04-27 19:56:57 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-04-27 19:56:57 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-04-27 19:56:57 [INFO] Preparing level "world"
+2012-04-27 19:56:57 [INFO] Default game type: 0
+2012-04-27 19:56:57 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-04-27 19:56:58 [WARNING] ----- Bukkit Auto Updater -----
+2012-04-27 19:56:58 [WARNING] Your version of CraftBukkit is out of date. Version 1.2.5-R1.3 (build #2170) was released on Thu Apr 26 03:18:18 EST 2012.
+2012-04-27 19:56:58 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/01054_1.2.5-R1.3/
+2012-04-27 19:56:58 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/01054_1.2.5-R1.3/craftbukkit-dev.jar
+2012-04-27 19:56:58 [WARNING] ----- ------------------- -----
+2012-04-27 19:56:58 [INFO] Preparing spawn area: 89%
+2012-04-27 19:56:58 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-04-27 19:56:59 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-04-27 19:56:59 [INFO] Preparing spawn area: 0%
+2012-04-27 19:57:00 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-04-27 19:57:00 [INFO] SilkSpawners enabled
+2012-04-27 19:57:00 [INFO] [Lockette] Enabling Lockette v1.6
+2012-04-27 19:57:00 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-04-27 19:57:00 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-04-27 19:57:00 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-04-27 19:57:00 [INFO] [Lockette] Using ops file for admin permissions.
+2012-04-27 19:57:00 [INFO] [Lockette] Ready to protect your containers.
+2012-04-27 19:57:00 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-04-27 19:57:00 [INFO] PickBoat version 0.4 is enabled!
+2012-04-27 19:57:00 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-04-27 19:57:00 [INFO] [CreeperMess v1.2] Enabled!
+2012-04-27 19:57:00 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-04-27 19:57:00 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-04-27 19:57:00 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-27 19:57:00 [INFO] Done (2.667s)! For help, type "help" or "?"
+2012-04-27 19:57:05 [INFO] lluoc [/127.0.0.1:47843] logged in with entity id 337 at ([world] 67.30000001192093, 136.0, 1932.4324233633156)
+2012-04-27 19:57:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-27 19:58:04 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-04-27 19:58:40 [INFO] lluoc: Set time to 0[0m
+2012-04-27 19:59:12 [INFO] lluoc: Setting lluoc to game mode 0[0m
+2012-04-27 20:05:17 [INFO] Connection reset
+2012-04-27 20:05:17 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 20:05:35 [INFO] lluoc [/127.0.0.1:47847] logged in with entity id 27045 at ([world] 86.44894624835055, 117.0, 1913.699999988079)
+2012-04-27 20:07:26 [INFO] Connection reset
+2012-04-27 20:07:26 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 20:49:48 [INFO] lluoc [/127.0.0.1:47856] logged in with entity id 40434 at ([world] 1.5339366901685394, 199.0, 2000.6519548820027)
+2012-04-27 20:50:09 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 20:50:09 [INFO] Connection reset
+2012-04-27 20:52:14 [INFO] lluoc [/127.0.0.1:47861] logged in with entity id 47343 at ([world] -3.6169026504701014, 199.0, 2003.9674594288567)
+2012-04-27 20:55:16 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 20:55:16 [INFO] Connection reset
+2012-04-27 20:59:08 [INFO] lluoc [/127.0.0.1:47867] logged in with entity id 59695 at ([world] 3.1904029519017523, 67.0, 1997.699583532503)
+2012-04-27 21:02:47 [INFO] Connection reset
+2012-04-27 21:02:47 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 21:03:12 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-27 21:03:12 [INFO] Stopping server
+2012-04-27 21:03:12 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-04-27 21:03:12 [INFO] SilkSpawners disabled
+2012-04-27 21:03:12 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-04-27 21:03:12 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-04-27 21:03:12 [INFO] [Lockette] Disabling Lockette v1.6
+2012-04-27 21:03:12 [INFO] Lockette is being disabled...  ;.;
+2012-04-27 21:03:12 [INFO] [Lockette] Closing all automatic doors.
+2012-04-27 21:03:12 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-04-27 21:03:12 [INFO] Disabling PickBoat
+2012-04-27 21:03:12 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-04-27 21:03:12 [INFO] [CreeperMess v1.2] Disabled!
+2012-04-27 21:03:12 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-04-27 21:03:12 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-04-27 21:03:12 [INFO] Saving chunks
+2012-04-27 21:03:12 [INFO] Stopping server
+2012-04-27 21:03:18 [INFO] Starting minecraft server version 1.2.5
+2012-04-27 21:03:18 [INFO] Loading properties
+2012-04-27 21:03:18 [INFO] Starting Minecraft server on *:25564
+2012-04-27 21:03:18 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-04-27 21:03:18 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-04-27 21:03:18 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-04-27 21:03:18 [INFO] [Lockette] Loading Lockette v1.6
+2012-04-27 21:03:18 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-04-27 21:03:18 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-04-27 21:03:18 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-04-27 21:03:18 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-04-27 21:03:18 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-04-27 21:03:18 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-04-27 21:03:18 [INFO] Preparing level "world"
+2012-04-27 21:03:18 [INFO] Default game type: 0
+2012-04-27 21:03:18 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-04-27 21:03:19 [WARNING] ----- Bukkit Auto Updater -----
+2012-04-27 21:03:19 [WARNING] Your version of CraftBukkit is out of date. Version 1.2.5-R1.3 (build #2170) was released on Thu Apr 26 03:18:18 EST 2012.
+2012-04-27 21:03:19 [WARNING] Details: http://dl.bukkit.org/downloads/craftbukkit/view/01054_1.2.5-R1.3/
+2012-04-27 21:03:19 [WARNING] Download: http://dl.bukkit.org/downloads/craftbukkit/get/01054_1.2.5-R1.3/craftbukkit-dev.jar
+2012-04-27 21:03:19 [WARNING] ----- ------------------- -----
+2012-04-27 21:03:19 [INFO] Preparing spawn area: 93%
+2012-04-27 21:03:19 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-04-27 21:03:20 [INFO] Preparing spawn area: 97%
+2012-04-27 21:03:20 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-04-27 21:03:21 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-04-27 21:03:21 [INFO] SilkSpawners enabled
+2012-04-27 21:03:21 [INFO] [Lockette] Enabling Lockette v1.6
+2012-04-27 21:03:21 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-04-27 21:03:21 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-04-27 21:03:21 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-04-27 21:03:21 [INFO] [Lockette] Using ops file for admin permissions.
+2012-04-27 21:03:21 [INFO] [Lockette] Ready to protect your containers.
+2012-04-27 21:03:21 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-04-27 21:03:21 [INFO] PickBoat version 0.4 is enabled!
+2012-04-27 21:03:21 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-04-27 21:03:21 [INFO] [CreeperMess v1.2] Enabled!
+2012-04-27 21:03:21 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-04-27 21:03:21 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-04-27 21:03:21 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-27 21:03:21 [INFO] Done (2.664s)! For help, type "help" or "?"
+2012-04-27 21:04:11 [INFO] lluoc [/127.0.0.1:47877] logged in with entity id 294 at ([world] 0.7266995400735365, 199.0, 1999.1630469753818)
+2012-04-27 21:28:25 [INFO] ultrajono [/127.0.0.1:47884] logged in with entity id 212270 at ([world] -22.5, 69.0, -13.5)
+2012-04-27 21:28:31 [INFO] <ultrajono> hello again[0m
+2012-04-27 21:32:13 [INFO] <ultrajono> try nto to do that[0m
+2012-04-27 21:32:30 [INFO] <lluoc> oh hey, didn't notice you there[0m
+2012-04-27 21:32:37 [INFO] <ultrajono> and i said hello too :P[0m
+2012-04-27 21:32:40 [INFO] <ultrajono> all good, hows it goin?[0m
+2012-04-27 21:32:46 [INFO] <lluoc> sorry, was afk.[0m
+2012-04-27 21:32:50 [INFO] <ultrajono> all good[0m
+2012-04-27 21:32:52 [INFO] <lluoc> I finished the temple arms[0m
+2012-04-27 21:32:59 [INFO] <lluoc> umm, sleep/dis please?[0m
+2012-04-27 21:33:06 [INFO] <ultrajono> fine[0m
+2012-04-27 21:33:07 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-27 21:33:07 [INFO] Connection reset
+2012-04-27 21:33:14 [INFO] ultrajono [/127.0.0.1:47888] logged in with entity id 222561 at ([world] 629.0855177448796, 6.0, -328.0480527933381)
+2012-04-27 21:33:24 [INFO] <lluoc> ...[0m
+2012-04-27 21:33:26 [INFO] <lluoc> thanks[0m
+2012-04-27 21:33:28 [INFO] <ultrajono> didnt' work?[0m
+2012-04-27 21:33:32 [INFO] <lluoc> it did[0m
+2012-04-27 21:33:35 [INFO] <ultrajono> whats up?[0m
+2012-04-27 21:34:00 [INFO] <lluoc> Building the portal entrance into the shrine. Then the shiny mystic stuff[0m
+2012-04-27 21:34:01 [INFO] <ultrajono> i died in a cave by a zombie i think, didn't revive my possesions, ended uploosing a fuckload of red[0m
+2012-04-27 21:34:05 [INFO] <ultrajono> stone[0m
+2012-04-27 21:34:13 [INFO] <lluoc> aww[0m
+2012-04-27 21:36:18 [INFO] <ultrajono> shiny mystic?[0m
+2012-04-27 21:36:27 [INFO] <lluoc> lava. lots of lava[0m
+2012-04-27 21:37:11 [INFO] <ultrajono> i'm in the process of running away from that[0m
+2012-04-27 21:37:17 [INFO] <lluoc> heh[0m
+2012-04-27 21:38:15 [INFO] <lluoc> don't you hate it when you're ages from home. And you need a single iron...[0m
+2012-04-27 21:38:42 [INFO] <lluoc> and then, even though you are capable of super powered diamond equipemnt[0m
+2012-04-27 21:38:48 [INFO] <lluoc> you go back to stone tools...[0m
+2012-04-27 21:39:02 [INFO] <ultrajono> i frequently use stone tools, but yes, i get the irony, it sucks balls[0m
+2012-04-27 21:39:15 [INFO] <lluoc> yay, iron[0m
+2012-04-27 21:39:21 [INFO] <ultrajono> yay sarcasm?[0m
+2012-04-27 21:39:29 [INFO] <lluoc> no as in i found some[0m
+2012-04-27 21:39:38 [INFO] <ultrajono> oh, yay[0m
+2012-04-27 21:39:49 [INFO] <ultrajono> last time i was mining here, i found like 30[0m
+2012-04-27 21:40:08 [INFO] <lluoc> I beleive this story goes 'and then i died'[0m
+2012-04-27 21:40:17 [INFO] <ultrajono> i believe SHUTUP[0m
+2012-04-27 21:40:31 [INFO] <lluoc> If we ever get a golem grider up then iron minig will be irrelavant[0m
+2012-04-27 21:40:33 [INFO] <lluoc> heh[0m
+2012-04-27 21:40:52 [INFO] <ultrajono> stupid stupid lava in mines, what business do you have being underground[0m
+2012-04-27 21:41:32 [INFO] <lluoc> lava : "Oh I'm sorry. It's not like this entire world is made alsmot entierly of old me"[0m
+2012-04-27 21:42:24 [INFO] <ultrajono> way to take my side man :P[0m
+2012-04-27 21:42:29 [INFO] <lluoc> heh[0m
+2012-04-27 21:42:56 [INFO] <ultrajono> what pick do you usually use?[0m
+2012-04-27 21:43:00 [INFO] <lluoc> Screw you.[0m
+2012-04-27 21:43:06 [INFO] <lluoc> I was on a giant ladder[0m
+2012-04-27 21:43:15 [INFO] <lluoc> and then I said 'heh'[0m
+2012-04-27 21:43:22 [INFO] <lluoc> and I nearly died[0m
+2012-04-27 21:43:23 [INFO] <ultrajono> well that wasnt' smart[0m
+2012-04-27 21:43:46 [INFO] <lluoc> umm, diamond with some form of efficnecy/unbreaking[0m
+2012-04-27 21:43:53 [INFO] <ultrajono> thats your usual one?[0m
+2012-04-27 21:44:06 [INFO] <lluoc> with a fourtune pick for when i see something it works on.[0m
+2012-04-27 21:44:14 [INFO] <lluoc> yeah... what, that's not yours?[0m
+2012-04-27 21:44:23 [INFO] <ultrajono> i've been tempted to use one like that[0m
+2012-04-27 21:44:32 [INFO] <ultrajono> my usual is stone man, with an iron one for iron/gold[0m
+2012-04-27 21:44:40 [INFO] <lluoc> are you still using stone instead of iron?[0m
+2012-04-27 21:44:45 [INFO] <ultrajono> i have both[0m
+2012-04-27 21:44:49 [INFO] <lluoc> use at lease iron.[0m
+2012-04-27 21:44:52 [INFO] <lluoc> you mine faster[0m
+2012-04-27 21:44:57 [INFO] <ultrajono> yeh i know[0m
+2012-04-27 21:45:11 [INFO] <ultrajono> but iron isn't exactly the easiest thing to find, you can't really run out of stone[0m
+2012-04-27 21:45:33 [INFO] <lluoc> Actually if you are mining then iron should be found faster with an iron pick[0m
+2012-04-27 21:45:37 [INFO] <lluoc> with less picks[0m
+2012-04-27 21:45:42 [INFO] <lluoc> it really is faster.[0m
+2012-04-27 21:45:44 [INFO] <ultrajono> i always seem to find a fuckload of iron[0m
+2012-04-27 21:45:55 [INFO] <lluoc> try it. You won't go back.[0m
+2012-04-27 21:45:58 [INFO] <ultrajono> so you don't use stone at all?[0m
+2012-04-27 21:46:18 [INFO] <lluoc> no[0m
+2012-04-27 21:46:29 [INFO] <lluoc> not unless there is no other choice[0m
+2012-04-27 21:46:40 [INFO] <ultrajono> your main is diamond?[0m
+2012-04-27 21:46:46 [INFO] <lluoc> ya.[0m
+2012-04-27 21:46:56 [INFO] <ultrajono> was saving it, but i guess whats the point[0m
+2012-04-27 21:46:56 [INFO] <lluoc> If you have fourtune then diamond stops being as rare[0m
+2012-04-27 21:47:06 [INFO] <lluoc> how many do you have?[0m
+2012-04-27 21:47:08 [INFO] <ultrajono> i dont' have fortune[0m
+2012-04-27 21:47:21 [INFO] <ultrajono> i has 2 enchanted diamond picks, and i'm unsure about my amount of diamond[0m
+2012-04-27 21:47:33 [INFO] <lluoc> you shouldn't mine diamond unless you have fourne[0m
+2012-04-27 21:47:46 [INFO] <lluoc> as you can get much more diamond.[0m
+2012-04-27 21:47:49 [INFO] <ultrajono> nellie doesn't like anyone using his :P[0m
+2012-04-27 21:48:04 [INFO] <lluoc> the first time I used it it was on 4 blocks[0m
+2012-04-27 21:48:09 [INFO] <ultrajono> you got?[0m
+2012-04-27 21:48:11 [INFO] <lluoc> I got 16 diamond out of it[0m
+2012-04-27 21:48:23 [INFO] <ultrajono> thats nuts[0m
+2012-04-27 21:48:24 [INFO] <lluoc> Never happened in that amount again. But that can happen[0m
+2012-04-27 21:48:36 [INFO] <lluoc> generally you get at least double with fourtune III.[0m
+2012-04-27 21:48:53 [INFO] <lluoc> If you want, go enchant a pile of iron picks with the grinder[0m
+2012-04-27 21:49:08 [INFO] <ultrajono> wait for em to be lvl 50? or lower ones?[0m
+2012-04-27 21:50:04 [INFO] <ultrajono> just got 11 iron, not bad[0m
+2012-04-27 21:50:21 [INFO] <lluoc> try to aim for lvl 46+.[0m
+2012-04-27 21:50:30 [INFO] <lluoc> 50 was really rare. Only ever got it twice[0m
+2012-04-27 21:50:35 [INFO] <lluoc> but that may have changed[0m
+2012-04-27 21:50:35 [INFO] <ultrajono> i got 2 49's[0m
+2012-04-27 21:50:46 [INFO] <lluoc> Yeah, they are easier.[0m
+2012-04-27 21:51:02 [INFO] <lluoc> with your actualy level, try to get to level 60 something[0m
+2012-04-27 21:51:02 [INFO] <ultrajono> 14 iron[0m
+2012-04-27 21:51:13 [INFO] <lluoc> much higher chance of getting multiple good enchantments[0m
+2012-04-27 21:51:36 [INFO] <ultrajono> hmm, tempted to lvl up some iron axes[0m
+2012-04-27 21:51:50 [INFO] <lluoc> heh. I enchanted a diamond ace[0m
+2012-04-27 21:51:59 [INFO] <lluoc> ... I got silk touch for the second time ever[0m
+2012-04-27 21:52:10 [INFO] <lluoc> silk touch... on an axe[0m
+2012-04-27 21:52:19 [INFO] <lluoc> fucking worthless[0m
+2012-04-27 21:52:19 [INFO] <ultrajono> what teh fuck?[0m
+2012-04-27 21:53:05 [INFO] <ultrajono> home time[0m
+2012-04-27 21:53:19 [INFO] <ultrajono> my mine is fairly cool i thinks[0m
+2012-04-27 21:53:24 [INFO] <ultrajono> i keep it organised[0m
+2012-04-27 21:54:18 [INFO] <ultrajono> any idea why my quick drop kills me from my water elevator, but not from my mine?[0m
+2012-04-27 21:55:20 [INFO] <lluoc> are you using ladders?[0m
+2012-04-27 21:55:25 [INFO] <ultrajono> yup, on both[0m
+2012-04-27 21:55:31 [INFO] <lluoc> that might be it[0m
+2012-04-27 21:55:46 [INFO] <lluoc> they got their hit boxes back in a recent patch[0m
+2012-04-27 21:55:53 [INFO] <ultrajono> but it works in my mine?[0m
+2012-04-27 21:56:03 [INFO] <lluoc> so if you hit fall on the ladder side they hurt you[0m
+2012-04-27 21:56:21 [INFO] <lluoc> but if you fall on the non ladder side you don't get hurt[0m
+2012-04-27 21:56:37 [INFO] <ultrajono> ah, but a vine would be ok regardless[0m
+2012-04-27 21:56:39 [INFO] <lluoc> Vines on the other hand don't have that problem. They stop you and have no hit box[0m
+2012-04-27 21:56:45 [INFO] <lluoc> yup[0m
+2012-04-27 21:56:46 [INFO] <ultrajono> i must get some vines[0m
+2012-04-27 21:57:17 [INFO] <ultrajono> to the vine tree. . . . .goes and hums theme song[0m
+2012-04-27 21:57:27 [INFO] <lluoc> theme song?[0m
+2012-04-27 21:57:34 [INFO] <ultrajono> just being an idiot[0m
+2012-04-27 21:57:42 [INFO] <lluoc> like always[0m
+2012-04-27 21:58:31 [INFO] <ultrajono> thats just not nice[0m
+2012-04-27 21:58:35 [INFO] <lluoc> heh[0m
+2012-04-27 21:58:45 [INFO] <ultrajono> in your opinion, is it worth having multiple enchanting tables? or just one for 50?[0m
+2012-04-27 22:00:47 [INFO] <lluoc> Umm, book cases are kiond of hard to make[0m
+2012-04-27 22:00:52 [INFO] <ultrajono> not fo rme[0m
+2012-04-27 22:00:56 [INFO] <lluoc> also you can just move your table around[0m
+2012-04-27 22:01:05 [INFO] <lluoc> sooo,... just one i guess.[0m
+2012-04-27 22:01:07 [INFO] <ultrajono> bookcases are shit easy for me[0m
+2012-04-27 22:01:24 [INFO] <ultrajono> :D[0m
+2012-04-27 22:01:53 [INFO] <lluoc> really...[0m
+2012-04-27 22:01:54 [INFO] <lluoc> gtg[0m
+2012-04-27 22:01:55 [INFO] Connection reset
+2012-04-27 22:01:55 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 22:13:18 [INFO] lluoc [/127.0.0.1:47896] logged in with entity id 287932 at ([world] -1.0753089730997518, 189.0, 1998.9263722662952)
+2012-04-27 22:13:24 [INFO] <lluoc> hey[0m
+2012-04-27 22:13:35 [INFO] <ultrajono> hello, vines work wonders :D[0m
+2012-04-27 22:13:40 [INFO] <lluoc> heh[0m
+2012-04-27 22:14:00 [INFO] <ultrajono> got another one for you, oh minecraft lord[0m
+2012-04-27 22:14:12 [INFO] <lluoc> ?[0m
+2012-04-27 22:14:27 [INFO] <ultrajono> i've trippled the size of my wheat farm yeh, making sure all of it was underwater[0m
+2012-04-27 22:14:36 [INFO] <lluoc> under water?[0m
+2012-04-27 22:14:38 [INFO] <ultrajono> but some of it isn't well hydrated, and some is, even though its all above one or 2 blocks of water[0m
+2012-04-27 22:15:01 [INFO] <ultrajono> you know the one you have at the island, i made a fucking huge version of that, but not all of it is[0m
+2012-04-27 22:15:04 [INFO] <ultrajono> hydrated[0m
+2012-04-27 22:15:33 [INFO] <lluoc> It has to either be at the same level or 1 below the water I think.[0m
+2012-04-27 22:15:55 [INFO] <ultrajono> i made it above the ocean, and made sure it was ALL one above the water[0m
+2012-04-27 22:16:06 [INFO] <lluoc> there's your problem[0m
+2012-04-27 22:16:17 [INFO] <lluoc> it has to be level or below the water[0m
+2012-04-27 22:16:20 [INFO] <lluoc> I think[0m
+2012-04-27 22:16:34 [INFO] <ultrajono> do you remember my old one?[0m
+2012-04-27 22:16:43 [INFO] <lluoc> ummmm, no sorry.[0m
+2012-04-27 22:18:02 [INFO] <lluoc> wait, the one inside your house?[0m
+2012-04-27 22:18:08 [INFO] <ultrajono> no, it was outside[0m
+2012-04-27 22:18:14 [INFO] <lluoc> ahh... sorry[0m
+2012-04-27 22:18:18 [INFO] <ultrajono> and i made thsi one the exact same all around, but not all of it is hydrated[0m
+2012-04-27 22:18:38 [INFO] <lluoc> have you looked the hydration algorithm on the wiki[0m
+2012-04-27 22:18:52 [INFO] <ultrajono> nah, hasnt' really bothered me till nwo[0m
+2012-04-27 22:21:26 [INFO] <ultrajono> my farm, makes me 4 stacks of 64 wheat, and one of 45 in one hit[0m
+2012-04-27 22:21:36 [INFO] <lluoc> nice[0m
+2012-04-27 22:22:02 [INFO] <ultrajono> its a bitch to farm, but hey, its 64 and a half bread each turn[0m
+2012-04-27 22:22:20 [INFO] <lluoc> And that's why I turned to mellon.[0m
+2012-04-27 22:22:27 [INFO] <ultrajono> oh, i have a mellon farm as well[0m
+2012-04-27 22:22:36 [INFO] <lluoc> no where near the food capasity but atuo farming WOO[0m
+2012-04-27 22:22:58 [INFO] <ultrajono> and what i was saying before, i have a full half chest of cane, i wiki'd a cane farm and BOOM![0m
+2012-04-27 22:23:34 [INFO] <ultrajono> mind if i use teh grinder?[0m
+2012-04-27 22:23:45 [INFO] <lluoc> which grider[0m
+2012-04-27 22:23:50 [INFO] <ultrajono> ender[0m
+2012-04-27 22:24:07 [INFO] <lluoc> It's not mine. It's a server wide project. Go ahead[0m
+2012-04-27 22:24:15 [INFO] <ultrajono> wasn't sure if you were using it is all[0m
+2012-04-27 22:24:35 [INFO] <ultrajono> taylor has me clocked at 23 min from 0 till 50[0m
+2012-04-27 22:24:46 [INFO] <ultrajono> and it bugs me when i'm using it and someone comes along and starts, it slows me down[0m
+2012-04-27 22:25:05 [INFO] <lluoc> mutiple people using it... yeah that would slow it down[0m
+2012-04-27 22:25:20 [INFO] <ultrajono> which is why i ask :D[0m
+2012-04-27 22:25:24 [INFO] <lluoc> also 23 minutes... Must not be finished yet[0m
+2012-04-27 22:25:32 [INFO] <ultrajono> nah, about halfway[0m
+2012-04-27 22:30:07 [INFO] <ultrajono> if i was to move my whole portal one thing forward, would that screw up where i landed in the nether[0m
+2012-04-27 22:30:08 [INFO] <ultrajono> ?[0m
+2012-04-27 22:31:34 [INFO] <lluoc> umm, portal physics is weird[0m
+2012-04-27 22:31:54 [INFO] <lluoc> normally it should be fine. It looks for the closes portal within range and the range should[0m
+2012-04-27 22:32:12 [INFO] <lluoc> be large enought that 1 block movment won't change anything[0m
+2012-04-27 22:32:14 [INFO] <ultrajono> we need to leave a chest with a cart in the ender grinder[0m
+2012-04-27 22:32:19 [INFO] <ultrajono> thats what i thought[0m
+2012-04-27 22:32:30 [INFO] <lluoc> on the other hand. you some times end up a mile away at a different portal[0m
+2012-04-27 22:32:38 [INFO] <ultrajono> not gonna risk it, screw it[0m
+2012-04-27 22:32:38 [INFO] <lluoc> why?[0m
+2012-04-27 22:32:54 [INFO] <ultrajono> i'm liking quick drops, and i'm using them in my house, including to my portal[0m
+2012-04-27 22:33:04 [INFO] <lluoc> maybe if you test with just moving the portal once.[0m
+2012-04-27 22:33:17 [INFO] <ultrajono> except, at my portal, i have a few stacks of nether on fire, and when you drop, you land right[0m
+2012-04-27 22:33:22 [INFO] <lluoc> also, you can put a chest cart on the rails in the end[0m
+2012-04-27 22:33:25 [INFO] <ultrajono> next to one on fire, it kinda looses the whole magical bit[0m
+2012-04-27 22:33:34 [INFO] <ultrajono> chest cart?[0m
+2012-04-27 22:33:41 [INFO] <ultrajono> a cart with a chest i'm guessin?[0m
+2012-04-27 22:35:52 [INFO] <lluoc> wiki it[0m
+2012-04-27 22:36:02 [INFO] <ultrajono> and i'm already lvl 14, love this thing[0m
+2012-04-27 22:37:40 [INFO] <lluoc> heh[0m
+2012-04-27 22:38:30 [INFO] <ultrajono> this trackwork makes no sense[0m
+2012-04-27 22:38:47 [INFO] <lluoc> taylor is doing something with it. i'm not sure what[0m
+2012-04-27 22:38:58 [INFO] <ultrajono> i thought he was just making a loop, but that isn't this[0m
+2012-04-27 22:42:46 [INFO] <ultrajono> the only thing i haven't really takena  stab in yet is potion making[0m
+2012-04-27 22:43:02 [INFO] <lluoc> good luck. They are more complicated than enchantments[0m
+2012-04-27 22:43:10 [INFO] <ultrajono> i first need to find a blaze[0m
+2012-04-27 22:43:36 [INFO] <ultrajono> enchantments are easy, just a bitch to get to that lvl and then guessing what your gonna get[0m
+2012-04-27 22:44:50 [INFO] <lluoc> Once you have a grider up though it's kind of straigh foward.[0m
+2012-04-27 22:44:59 [INFO] <ultrajono> enchanting you mean?[0m
+2012-04-27 22:45:06 [INFO] <lluoc> potions require you to find a blaze...[0m
+2012-04-27 22:45:11 [INFO] <lluoc> yeah[0m
+2012-04-27 22:45:21 [INFO] <ultrajono> blaze for a rod for the table, yup[0m
+2012-04-27 22:45:23 [INFO] <lluoc> conviniently all the preruisits are done for you.[0m
+2012-04-27 22:45:41 [INFO] <lluoc> there is a blaze spawner near the island portal.[0m
+2012-04-27 22:45:58 [INFO] <lluoc> continue up from the portal room and turn right one.[0m
+2012-04-27 22:45:59 [INFO] <ultrajono> and once a blaze rod is obtained?[0m
+2012-04-27 22:46:11 [INFO] <lluoc> wiki[0m
+2012-04-27 22:46:31 [INFO] <ultrajono> yeh, i know[0m
+2012-04-27 22:47:24 [INFO] <ultrajono> btw, if you ever need a fuckload of cane, let me know yeh?[0m
+2012-04-27 22:48:27 [INFO] <lluoc> heh, ok[0m
+2012-04-27 22:50:49 [INFO] <ultrajono> lvl 44, but i gtg[0m
+2012-04-27 22:51:05 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-27 22:51:05 [INFO] Connection reset
+2012-04-27 22:51:35 [INFO] Connection reset
+2012-04-27 22:51:35 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 22:51:43 [INFO] lluoc [/127.0.0.1:47905] logged in with entity id 645769 at ([world] 3.6860615262653282, 119.60925992073925, 1994.3589926006919)
+2012-04-27 22:51:46 [INFO] Connection reset
+2012-04-27 22:51:46 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 22:51:51 [INFO] lluoc [/127.0.0.1:47909] logged in with entity id 646612 at ([world] 3.6860615262653282, 73.58916859475933, 1994.3589926006919)
+2012-04-27 23:01:03 [INFO] Connection reset
+2012-04-27 23:01:03 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 23:24:34 [INFO] daevd [/127.0.0.1:47917] logged in with entity id 777121 at ([world] 674.9332696432248, 34.76525621417611, 106.13328817300498)
+2012-04-27 23:25:08 [INFO] lluoc [/127.0.0.1:47921] logged in with entity id 777497 at ([world] -0.03905077718326824, 197.0, 2008.698670042072)
+2012-04-27 23:25:15 [INFO] <lluoc> hey[0m
+2012-04-27 23:25:18 [INFO] <daevd> hi[0m
+2012-04-27 23:25:33 [INFO] CONSOLE: Giving daevd some 341 (SLIME_BALL)[0m
+2012-04-27 23:25:37 [INFO] <lluoc> heh[0m
+2012-04-27 23:25:43 [INFO] <lluoc> like?[0m
+2012-04-27 23:25:44 [INFO] <daevd> slime balls aye[0m
+2012-04-27 23:27:35 [INFO] <daevd> i dont know where i am or what to do[0m
+2012-04-27 23:27:44 [INFO] <lluoc> ?[0m
+2012-04-27 23:27:54 [INFO] <daevd> i have no purpose[0m
+2012-04-27 23:28:17 [INFO] <lluoc> ... go make a golem grinder.[0m
+2012-04-27 23:32:27 [INFO] ultrajono [/127.0.0.1:47925] logged in with entity id 831076 at ([world_the_end] 362.2808652914635, 5.0, -12.699999988079075)
+2012-04-27 23:32:32 [INFO] <ultrajono> hello all[0m
+2012-04-27 23:32:34 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-04-27 23:32:35 [INFO] <daevd> hihi[0m
+2012-04-27 23:32:45 [INFO] <lluoc> wait, did you get slime balls already[0m
+2012-04-27 23:32:50 [INFO] <ultrajono> just did, why?[0m
+2012-04-27 23:32:56 [INFO] <lluoc> I mean before that.[0m
+2012-04-27 23:33:01 [INFO] <ultrajono> once, but not today[0m
+2012-04-27 23:33:06 [INFO] <lluoc> ... ok[0m
+2012-04-27 23:33:12 [INFO] * lluoc suspisious[0m
+2012-04-27 23:33:13 [INFO] <ultrajono> why?[0m
+2012-04-27 23:33:26 [INFO] <lluoc> Sware I saw you get some today already.[0m
+2012-04-27 23:33:27 [INFO] <ultrajono> i got em before, i forgot i got em before i spoke to you first time[0m
+2012-04-27 23:33:40 [INFO] <ultrajono> it said i had to get some in 24 hours, i forgot i already had gotten 2[0m
+2012-04-27 23:33:56 [INFO] * lluoc even more suspisious...[0m
+2012-04-27 23:34:01 [INFO] <lluoc> heh, never mind[0m
+2012-04-27 23:34:24 [INFO] <ultrajono> whats with the free slime anyway? not that i'm complaining[0m
+2012-04-27 23:34:44 [INFO] <lluoc> It was a plugin that mike had for MCProxy.[0m
+2012-04-27 23:34:58 [INFO] <lluoc> Got it working again and put it on as it seems like a neat idea[0m
+2012-04-27 23:35:12 [INFO] <ultrajono> hello sticky pistons :D[0m
+2012-04-27 23:35:18 [INFO] <lluoc> exactly[0m
+2012-04-27 23:35:29 [INFO] <lluoc> I did ask if anyone would object...[0m
+2012-04-27 23:35:37 [INFO] <ultrajono> i object to only getting 2 :P[0m
+2012-04-27 23:35:42 [INFO] <lluoc> ...[0m
+2012-04-27 23:35:48 [INFO] <ultrajono> but if it was more, it would be to easy :P[0m
+2012-04-27 23:35:54 [INFO] <ultrajono> plus you know, its FREE[0m
+2012-04-27 23:36:17 [INFO] <lluoc> FREEEEE[0m
+2012-04-27 23:36:29 [INFO] <ultrajono> grinder is in excellent form today btw[0m
+2012-04-27 23:37:28 [INFO] Connection reset
+2012-04-27 23:37:28 [INFO] daevd lost connection: disconnect.quitting
+2012-04-27 23:39:19 [INFO] <ultrajono> would you object, if i left a chest at the top of the rails in the grinder, with a cart in it?[0m
+2012-04-27 23:39:41 [INFO] <lluoc> Group project. go ahead[0m
+2012-04-27 23:40:17 [INFO] <ultrajono> oh crap[0m
+2012-04-27 23:40:19 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-27 23:40:19 [INFO] Connection reset
+2012-04-27 23:40:23 [INFO] ultrajono [/127.0.0.1:47930] logged in with entity id 924095 at ([world_the_end] 355.5, 5.699999988079071, 0.5)
+2012-04-27 23:40:31 [INFO] <lluoc> ?[0m
+2012-04-27 23:40:42 [INFO] <ultrajono> i accidently put myself in the cart, when i hsouldn't have and almost died[0m
+2012-04-27 23:40:48 [INFO] <lluoc> ahh[0m
+2012-04-27 23:41:00 [INFO] <ultrajono> SONO F A BITCH[0m
+2012-04-27 23:41:02 [INFO] <lluoc> heh[0m
+2012-04-27 23:41:11 [INFO] <ultrajono> just got to 50[0m
+2012-04-27 23:41:25 [INFO] <ultrajono> son of a whore[0m
+2012-04-27 23:41:30 [INFO] <lluoc> You have my sympathy.[0m
+2012-04-27 23:41:36 [INFO] <lluoc> that happened to me so many times[0m
+2012-04-27 23:41:39 [INFO] <ultrajono> and my bed situation is still fucked[0m
+2012-04-27 23:41:53 [INFO] <ultrajono> all because i wanted to ride the cart up, stupid stupid[0m
+2012-04-27 23:43:15 [INFO] <ultrajono> hopefully i can still get my stuff[0m
+2012-04-27 23:43:27 [INFO] <lluoc> goodluck, gtg[0m
+2012-04-27 23:43:28 [INFO] Connection reset
+2012-04-27 23:43:28 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-27 23:45:12 [INFO] Connection reset
+2012-04-27 23:45:12 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-27 23:45:16 [INFO] ultrajono [/127.0.0.1:47935] logged in with entity id 944560 at ([world_the_end] 354.8350061542295, 5.535006142308589, 0.5)
+2012-04-27 23:45:43 [INFO] Connection reset
+2012-04-27 23:45:43 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-27 23:45:47 [INFO] ultrajono [/127.0.0.1:47939] logged in with entity id 944897 at ([world_the_end] 354.8131423150487, 5.513142303127779, 0.5)
+2012-04-28 00:06:49 [INFO] The_Whistler [/127.0.0.1:47946] logged in with entity id 962238 at ([world] -5054.224260993772, 94.0, -1325.8116377145413)
+2012-04-28 00:06:56 [INFO] <ultrajono> hi[0m
+2012-04-28 00:07:03 [INFO] <The_Whistler> hiii i am afk for a little[0m
+2012-04-28 00:07:12 [INFO] <ultrajono> all good, i'm about to go soon myself[0m
+2012-04-28 00:24:10 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-28 00:24:10 [INFO] Connection reset
+2012-04-28 01:02:12 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 97 in world, 6.1 blocks from The_Whistler
+2012-04-28 01:20:13 [INFO] lluoc [/127.0.0.1:47957] logged in with entity id 1010768 at ([world] -4.923807594721394, 197.0, 2018.266883046405)
+2012-04-28 01:21:31 [INFO] Connection reset
+2012-04-28 01:21:31 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-28 01:21:35 [INFO] lluoc [/127.0.0.1:47961] logged in with entity id 1015378 at ([world] -7.949542444404095, 68.0, 2009.388892932084)
+2012-04-28 01:22:17 [INFO] <The_Whistler> you're not having a good time[0m
+2012-04-28 01:22:29 [INFO] <lluoc> was using /kill[0m
+2012-04-28 01:22:42 [INFO] <lluoc> needed to get home[0m
+2012-04-28 01:30:03 [INFO] adrianjboyer [/127.0.0.1:47966] logged in with entity id 1023901 at ([world_the_end] 358.8059058368975, 5.0, -12.987578482012855)
+2012-04-28 01:30:16 [INFO] <lluoc> hey[0m
+2012-04-28 01:30:19 [INFO] <adrianjboyer> hi[0m
+2012-04-28 01:31:48 [INFO] <lluoc> hmm, maybe it;s not the best idea to be mining nether brick in a full suit of diamond[0m
+2012-04-28 01:31:53 [INFO] <lluoc> with sound muted...[0m
+2012-04-28 01:40:17 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-04-28 01:40:17 [INFO] Connection reset
+2012-04-28 01:42:54 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 78 in world, 6.0 blocks from The_Whistler
+2012-04-28 02:20:47 [INFO] <lluoc> umm, could you sleep/dis please.[0m
+2012-04-28 02:21:06 [INFO] <The_Whistler> let me find a bed[0m
+2012-04-28 02:21:27 [INFO] <lluoc> thanks[0m
+2012-04-28 02:21:45 [INFO] <The_Whistler> in bed[0m
+2012-04-28 02:21:51 [INFO] <lluoc> thanks[0m
+2012-04-28 02:35:45 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 66 in world, 5.3 blocks from The_Whistler
+2012-04-28 02:35:59 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 6.4 blocks from The_Whistler
+2012-04-28 02:36:03 [INFO] <lluoc> ....[0m
+2012-04-28 02:36:13 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 66 in world, 6.7 blocks from The_Whistler
+2012-04-28 02:36:24 [INFO] <lluoc> what are you doing?[0m
+2012-04-28 02:36:33 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 4.5 blocks from The_Whistler
+2012-04-28 02:36:42 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 66 in world, 5.0 blocks from The_Whistler
+2012-04-28 02:36:49 [INFO] <lluoc> .... !!![0m
+2012-04-28 02:37:05 [INFO] lluoc: Teleporting lluoc to The_Whistler[0m
+2012-04-28 02:37:21 [INFO] <lluoc> ...[0m
+2012-04-28 02:37:41 [INFO] <lluoc> sorry, had to check that...[0m
+2012-04-28 02:38:09 [INFO] <The_Whistler> sorry[0m
+2012-04-28 02:38:16 [INFO] <The_Whistler> little preoccupied running for my life[0m
+2012-04-28 02:38:22 [INFO] <lluoc> how many creepers was that?[0m
+2012-04-28 02:38:32 [INFO] <The_Whistler> 4-5 and there were another 7 there[0m
+2012-04-28 02:38:39 [INFO] <The_Whistler> more here too[0m
+2012-04-28 02:38:49 [INFO] <lluoc> ... good luck[0m
+2012-04-28 02:39:31 [INFO] <The_Whistler> I JUST WANNA BUILD SHIT GO AWAY[0m
+2012-04-28 02:39:44 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 92 in world, 6.7 blocks from The_Whistler
+2012-04-28 02:39:45 [INFO] <lluoc> to me or to the creepers?[0m
+2012-04-28 02:39:48 [INFO] <lluoc> wow.[0m
+2012-04-28 02:39:51 [INFO] <The_Whistler> HOW ARE YOU IN MY STAIRWELL[0m
+2012-04-28 02:40:16 [INFO] <lluoc> you mean the crater formally called a stairwell[0m
+2012-04-28 02:40:26 [INFO] <The_Whistler> T_T[0m
+2012-04-28 02:40:33 [INFO] <The_Whistler> this building is well lit, like wtf?![0m
+2012-04-28 02:40:43 [INFO] <lluoc> its day now[0m
+2012-04-28 02:40:47 [INFO] <lluoc> gtg[0m
+2012-04-28 02:40:49 [INFO] <lluoc> night[0m
+2012-04-28 02:40:50 [INFO] Connection reset
+2012-04-28 02:40:50 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-28 02:40:50 [INFO] <The_Whistler> ciao[0m
+2012-04-28 02:42:18 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 66 in world, 7.4 blocks from The_Whistler
+2012-04-28 02:58:45 [INFO] Connection reset
+2012-04-28 02:58:45 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-04-28 03:59:12 [INFO] lluoc [/127.0.0.1:47988] logged in with entity id 1124845 at ([world] 18.383453703441425, 68.0, 2004.4641747426117)
+2012-04-28 03:59:26 [INFO] Connection reset
+2012-04-28 03:59:26 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-28 04:03:06 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-28 04:03:08 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-04-28 04:03:08 [INFO] SilkSpawners disabled
+2012-04-28 04:03:08 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-04-28 04:03:08 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-04-28 04:03:08 [INFO] [Lockette] Disabling Lockette v1.6
+2012-04-28 04:03:08 [INFO] Lockette is being disabled...  ;.;
+2012-04-28 04:03:08 [INFO] [Lockette] Closing all automatic doors.
+2012-04-28 04:03:08 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-04-28 04:03:08 [INFO] Disabling PickBoat
+2012-04-28 04:03:08 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-04-28 04:03:08 [INFO] [CreeperMess v1.2] Disabled!
+2012-04-28 04:03:08 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-04-28 04:03:08 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-04-28 04:03:08 [INFO] 182 recipes
+2012-04-28 04:03:09 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-04-28 04:03:09 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-04-28 04:03:09 [INFO] [Lockette] Loading Lockette v1.6
+2012-04-28 04:03:09 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-04-28 04:03:09 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-04-28 04:03:09 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-04-28 04:03:09 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-04-28 04:03:09 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-04-28 04:03:09 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-04-28 04:03:09 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-04-28 04:03:09 [INFO] SilkSpawners enabled
+2012-04-28 04:03:09 [INFO] [Lockette] Enabling Lockette v1.6
+2012-04-28 04:03:09 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-04-28 04:03:09 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-04-28 04:03:09 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-04-28 04:03:09 [INFO] [Lockette] Using ops file for admin permissions.
+2012-04-28 04:03:09 [INFO] [Lockette] Ready to protect your containers.
+2012-04-28 04:03:09 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-04-28 04:03:09 [INFO] PickBoat version 0.4 is enabled!
+2012-04-28 04:03:09 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-04-28 04:03:09 [INFO] [CreeperMess v1.2] Enabled!
+2012-04-28 04:03:09 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-04-28 04:03:09 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-04-28 04:03:09 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-28 04:03:09 [INFO] [32mReload complete.[0m
+2012-04-28 04:03:15 [INFO] lluoc [/127.0.0.1:47994] logged in with entity id 1125364 at ([world] 9.341279328579802, 69.0, 1997.6710802910093)
+2012-04-28 04:03:19 [INFO] Connection reset
+2012-04-28 04:03:19 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-28 04:03:21 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-28 04:03:21 [INFO] Stopping server
+2012-04-28 04:03:21 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-04-28 04:03:21 [INFO] SilkSpawners disabled
+2012-04-28 04:03:21 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-04-28 04:03:21 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-04-28 04:03:21 [INFO] [Lockette] Disabling Lockette v1.6
+2012-04-28 04:03:21 [INFO] Lockette is being disabled...  ;.;
+2012-04-28 04:03:21 [INFO] [Lockette] Closing all automatic doors.
+2012-04-28 04:03:21 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-04-28 04:03:21 [INFO] Disabling PickBoat
+2012-04-28 04:03:21 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-04-28 04:03:21 [INFO] [CreeperMess v1.2] Disabled!
+2012-04-28 04:03:21 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-04-28 04:03:21 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-04-28 04:03:21 [INFO] Saving chunks
+2012-04-28 04:03:35 [INFO] Starting minecraft server version 1.2.5
+2012-04-28 04:03:35 [INFO] Loading properties
+2012-04-28 04:03:35 [INFO] Starting Minecraft server on *:25564
+2012-04-28 04:03:35 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-04-28 04:03:36 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-04-28 04:03:36 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-04-28 04:03:36 [INFO] [Lockette] Loading Lockette v1.6
+2012-04-28 04:03:36 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-04-28 04:03:36 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-04-28 04:03:36 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-04-28 04:03:36 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-04-28 04:03:36 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-04-28 04:03:36 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-04-28 04:03:37 [INFO] Preparing level "world"
+2012-04-28 04:03:37 [INFO] Default game type: 0
+2012-04-28 04:03:37 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-04-28 04:03:38 [INFO] Preparing spawn area: 69%
+2012-04-28 04:03:38 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-04-28 04:03:39 [INFO] Preparing spawn area: 48%
+2012-04-28 04:03:39 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-04-28 04:03:40 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-04-28 04:03:40 [INFO] SilkSpawners enabled
+2012-04-28 04:03:40 [INFO] [Lockette] Enabling Lockette v1.6
+2012-04-28 04:03:40 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-04-28 04:03:40 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-04-28 04:03:40 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-04-28 04:03:40 [INFO] [Lockette] Using ops file for admin permissions.
+2012-04-28 04:03:40 [INFO] [Lockette] Ready to protect your containers.
+2012-04-28 04:03:40 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-04-28 04:03:40 [INFO] PickBoat version 0.4 is enabled!
+2012-04-28 04:03:40 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-04-28 04:03:40 [INFO] [CreeperMess v1.2] Enabled!
+2012-04-28 04:03:40 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-04-28 04:03:40 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-04-28 04:03:40 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-28 04:03:40 [INFO] Done (3.344s)! For help, type "help" or "?"
+2012-04-28 04:03:45 [INFO] lluoc [/127.0.0.1:48001] logged in with entity id 298 at ([world] 9.341279328579802, 69.0, 1997.6710802910093)
+2012-04-28 04:04:05 [INFO] Connection reset
+2012-04-28 04:04:05 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-28 08:00:02 [INFO] [35m[Server] Starting backup.[0m
+2012-04-28 08:00:02 [INFO] CONSOLE: Forcing save..[0m
+2012-04-28 08:00:02 [INFO] CONSOLE: Save complete.[0m
+2012-04-28 08:00:02 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-28 08:00:22 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-28 08:00:22 [INFO] CONSOLE: Forcing save..[0m
+2012-04-28 08:00:22 [INFO] CONSOLE: Save complete.[0m
+2012-04-28 08:00:22 [INFO] [35m[Server] Backup complete.[0m
+2012-04-28 09:53:00 [INFO] Connection reset
+2012-04-28 14:54:27 [INFO] dahlukeh [/127.0.0.1:48080] logged in with entity id 3644 at ([world_the_end] 355.72207959461934, 5.0, 2.6274615753620445)
+2012-04-28 14:54:28 [INFO] Connection reset
+2012-04-28 14:54:28 [SEVERE] java.net.SocketException: Broken pipe
+2012-04-28 14:54:28 [SEVERE] 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+2012-04-28 14:54:28 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+2012-04-28 14:54:28 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-04-28 14:54:28 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-04-28 14:54:28 [SEVERE] 	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2012-04-28 14:54:28 [SEVERE] 	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+2012-04-28 14:54:28 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-04-28 14:54:28 [SEVERE] java.net.SocketException: Broken pipe
+2012-04-28 14:54:28 [SEVERE] 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+2012-04-28 14:54:28 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+2012-04-28 14:54:28 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-04-28 14:54:28 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-04-28 14:54:28 [SEVERE] 	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2012-04-28 14:54:28 [SEVERE] 	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+2012-04-28 14:54:28 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-04-28 14:54:28 [INFO] dahlukeh lost connection: disconnect.endOfStream
+2012-04-28 15:16:56 [INFO] Connection reset
+2012-04-28 17:51:26 [INFO] lluoc [/127.0.0.1:48109] logged in with entity id 4522 at ([world] 9.341279328579802, 69.0, 1997.6710802910093)
+2012-04-28 17:51:43 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[0m
+2012-04-28 17:53:09 [INFO] Connection reset
+2012-04-28 17:53:09 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-28 17:53:19 [INFO] lluoc [/127.0.0.1:48113] logged in with entity id 5674 at ([world] 9.341279328579802, 69.0, 1997.6710802910093)
+2012-04-28 17:53:26 [INFO] Connection reset
+2012-04-28 17:53:26 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-28 20:24:54 [INFO] minarwin [/127.0.0.1:48134] logged in with entity id 6541 at ([world] -247.72078467062533, 72.0, 196.69999998807907)
+2012-04-28 20:25:12 [INFO] CONSOLE: Giving minarwin some 341 (SLIME_BALL)[0m
+2012-04-28 20:27:48 [INFO] ultrajono [/127.0.0.1:48138] logged in with entity id 9724 at ([world] 623.2991515674428, 65.0, -332.00339402264683)
+2012-04-28 20:27:57 [INFO] <ultrajono> ello ello[0m
+2012-04-28 20:28:03 [INFO] <minarwin> ohai[0m
+2012-04-28 20:29:29 [INFO] <ultrajono> why does everyone say that like that?[0m
+2012-04-28 20:29:37 [INFO] <minarwin> i have no idea.[0m
+2012-04-28 20:29:59 [INFO] <ultrajono> everyone i know on here does, its strange[0m
+2012-04-28 20:33:59 [INFO] Connection reset
+2012-04-28 20:33:59 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-28 20:42:36 [INFO] H4ZM4T [/127.0.0.1:48143] logged in with entity id 25750 at ([world] -5067.699999988079, 98.0, -1399.699999988079)
+2012-04-28 20:42:42 [INFO] CONSOLE: Giving H4ZM4T some 341 (SLIME_BALL)[0m
+2012-04-28 20:42:46 [INFO] <H4ZM4T> herro[0m
+2012-04-28 20:42:50 [INFO] <minarwin> evenin'[0m
+2012-04-28 20:43:03 [INFO] <H4ZM4T> by gods my router is retarded[0m
+2012-04-28 20:43:17 [INFO] <minarwin> *i* am retarded[0m
+2012-04-28 20:43:31 [INFO] <minarwin> moving lava from the lake into a storage hole in my mines[0m
+2012-04-28 20:43:37 [INFO] <H4ZM4T> so I found out that the reason why I was getting so much lag, and running so slowly[0m
+2012-04-28 20:43:46 [INFO] <minarwin> ended up putting one of the blocks right where the lava was stored[0m
+2012-04-28 20:43:50 [INFO] <H4ZM4T> well....not the reason[0m
+2012-04-28 20:43:58 [INFO] <H4ZM4T> but how to fix it[0m
+2012-04-28 20:44:02 [INFO] <H4ZM4T> hehehe, well done dude[0m
+2012-04-28 20:44:41 [INFO] <H4ZM4T> turns out, simply logging in to 192.168.0.1, with the user and password my housemate set[0m
+2012-04-28 20:44:45 [INFO] <H4ZM4T> fixed my internets.[0m
+2012-04-28 20:44:48 [INFO] <H4ZM4T> any idea why[0m
+2012-04-28 20:44:50 [INFO] <H4ZM4T> ?[0m
+2012-04-28 20:44:54 [INFO] <minarwin> hahah nope[0m
+2012-04-28 20:46:27 [INFO] Connection reset
+2012-04-28 20:46:27 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-28 20:53:37 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 19 in world, 3.0 blocks from minarwin
+2012-04-28 20:53:52 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 19 in world, 6.9 blocks from minarwin
+2012-04-28 20:54:17 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 19 in world, 6.0 blocks from minarwin
+2012-04-28 20:54:53 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 19 in world, 5.6 blocks from minarwin
+2012-04-28 21:01:06 [INFO] Connection reset
+2012-04-28 21:01:06 [INFO] minarwin lost connection: disconnect.quitting
+2012-04-28 22:24:06 [INFO] Connected players: [0m
+2012-04-29 08:00:01 [INFO] [35m[Server] Starting backup.say Starting backup.[0m
+2012-04-29 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-04-29 08:00:01 [INFO] CONSOLE: Save complete.[0m
+2012-04-29 08:00:01 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-29 08:00:24 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-29 08:00:24 [INFO] CONSOLE: Forcing save..[0m
+2012-04-29 08:00:24 [INFO] CONSOLE: Save complete.[0m
+2012-04-29 11:08:41 [INFO] minarwin [/127.0.0.1:48245] logged in with entity id 46342 at ([world] -262.45705452640806, 70.0, 215.27728006850623)
+2012-04-29 11:33:01 [INFO] Connection reset
+2012-04-29 12:37:41 [INFO] Unknown command. Type "help" for help.[0m
+2012-04-29 12:37:41 [INFO] CONSOLE: Forcing save..[0m
+2012-04-29 12:37:41 [INFO] CONSOLE: Save complete.[0m
+2012-04-29 12:37:41 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-29 12:38:03 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-29 12:38:03 [INFO] CONSOLE: Forcing save..[0m
+2012-04-29 12:38:03 [INFO] CONSOLE: Save complete.[0m
+2012-04-29 12:38:03 [INFO] [35m[Server] Backup complete.[0m
+2012-04-29 12:43:42 [INFO] Mondoza [/203.129.52.205:1068] logged in with entity id 244198 at ([world] -5107.304388290462, 69.0, -1284.336821824324)
+2012-04-29 12:43:46 [INFO] lluoc [/127.0.0.1:48264] logged in with entity id 244842 at ([world] 9.341279328579802, 69.0, 1997.6710802910093)
+2012-04-29 12:43:49 [INFO] <minarwin> ohai[0m
+2012-04-29 12:44:02 [INFO] <lluoc> hey... come to CSE.[0m
+2012-04-29 12:44:09 [INFO] <Mondoza> where's that?[0m
+2012-04-29 12:44:10 [INFO] <minarwin> too far away :([0m
+2012-04-29 12:44:15 [INFO] <lluoc> .... come anyway[0m
+2012-04-29 12:45:07 [INFO] minarwin lost connection: disconnect.quitting
+2012-04-29 12:45:07 [INFO] Connection reset
+2012-04-29 12:47:01 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-29 12:47:01 [INFO] Connection reset
+2012-04-29 12:47:50 [INFO] lluoc [/127.0.0.1:48266] logged in with entity id 248665 at ([world] 48.76759658639433, 66.0, 1975.699999988079)
+2012-04-29 12:49:50 [INFO] Connection reset
+2012-04-29 12:49:50 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-29 12:56:37 [INFO] Connection reset
+2012-04-29 12:56:37 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-29 13:28:23 [INFO] The_Whistler [/127.0.0.1:48275] logged in with entity id 254321 at ([world] -5089.922136679479, 69.0, -1280.0275437755056)
+2012-04-29 13:33:23 [INFO] The_Whistler lost connection: disconnect.endOfStream
+2012-04-29 14:50:49 [INFO] The_Whistler [/127.0.0.1:48288] logged in with entity id 258907 at ([world] -5050.699999988079, 84.0, -1314.300000011921)
+2012-04-29 15:32:34 [INFO] Mondoza [/203.129.52.205:3351] logged in with entity id 288958 at ([world] -5054.944496155784, 90.0, -1314.8044356446921)
+2012-04-29 15:32:38 [INFO] <The_Whistler> yo[0m
+2012-04-29 15:32:43 [INFO] <Mondoza> ay\[0m
+2012-04-29 15:33:02 [INFO] <Mondoza> wats been happenin?[0m
+2012-04-29 15:34:35 [INFO] <Mondoza> you've been busy[0m
+2012-04-29 15:34:45 [INFO] <The_Whistler> not much bro. what about on your end?[0m
+2012-04-29 15:35:28 [INFO] <The_Whistler> girl just got a parking ticket..[0m
+2012-04-29 15:36:24 [INFO] <Mondoza> big house[0m
+2012-04-29 15:36:39 [INFO] <The_Whistler> look downstairs[0m
+2012-04-29 15:37:06 [INFO] <Mondoza> i see what you've done[0m
+2012-04-29 15:37:17 [INFO] <Mondoza> this was that cave[0m
+2012-04-29 15:37:27 [INFO] <The_Whistler> it's mine noa[0m
+2012-04-29 15:37:51 [INFO] <Mondoza> thats sick[0m
+2012-04-29 15:38:17 [INFO] <The_Whistler> out of wood though..[0m
+2012-04-29 15:38:23 [INFO] lluoc [/127.0.0.1:48300] logged in with entity id 292340 at ([world] 3.699999988079068, 67.0, 1997.300000011921)
+2012-04-29 15:38:28 [INFO] <Mondoza> theres the big forests near the beach[0m
+2012-04-29 15:38:44 [INFO] <The_Whistler> yeah, I'll head back there soon[0m
+2012-04-29 15:38:51 [INFO] <lluoc> hmm, should change the welcome message now.[0m
+2012-04-29 15:38:55 [INFO] <The_Whistler> I want to link my cave to your railway[0m
+2012-04-29 15:39:01 [INFO] <The_Whistler> how was the event?[0m
+2012-04-29 15:39:25 [INFO] <lluoc> ok. 8 people showed up and ben lioed about the pizza[0m
+2012-04-29 15:39:30 [INFO] <The_Whistler> xD[0m
+2012-04-29 15:43:43 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-29 15:43:43 [INFO] Connection reset
+2012-04-29 15:43:47 [INFO] Mondoza [/203.129.52.205:3360] logged in with entity id 300776 at ([world] -5048.253747370806, 81.0, -1286.2435437295162)
+2012-04-29 15:47:00 [INFO] <The_Whistler> antos, I have Laura here and she wants to hear harry potter pick-up lines[0m
+2012-04-29 15:47:16 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-29 15:47:16 [INFO] Connection reset
+2012-04-29 15:47:19 [INFO] <Mondoza> lol[0m
+2012-04-29 15:47:23 [INFO] <Mondoza> how romantic[0m
+2012-04-29 15:47:28 [INFO] <The_Whistler> =D[0m
+2012-04-29 15:47:33 [INFO] <Mondoza> 'hey baby, wanna minecraft?'[0m
+2012-04-29 15:47:39 [INFO] <Mondoza> mmmmmmmm yea[0m
+2012-04-29 15:47:43 [INFO] <Mondoza> smash that rock[0m
+2012-04-29 15:47:45 [INFO] <The_Whistler> she wants to put her basilisk in your chamber of secrets[0m
+2012-04-29 15:48:07 [INFO] <Mondoza> i would be quite concerned if she had a basilisk O.O[0m
+2012-04-29 15:48:22 [INFO] <The_Whistler> we're seeing a doctor about it later this week[0m
+2012-04-29 15:48:41 [INFO] <Mondoza> you know, Russ[0m
+2012-04-29 15:48:54 [INFO] <Mondoza> if you were a dementor, i would be a criminal to get your kiss[0m
+2012-04-29 15:49:10 [INFO] <The_Whistler> beautiful.[0m
+2012-04-29 15:49:39 [INFO] <Mondoza> hargrids not the only giant on campus, if you know what i mean[0m
+2012-04-29 15:50:05 [INFO] <The_Whistler> she's challenging you to a corny puickup line duel[0m
+2012-04-29 15:50:09 [INFO] <The_Whistler> do you accept?[0m
+2012-04-29 15:50:12 [INFO] <The_Whistler> <y/n>[0m
+2012-04-29 15:50:21 [INFO] <Mondoza> bring it[0m
+2012-04-29 15:51:08 [INFO] <The_Whistler> she's been whomping her willow thinking of you[0m
+2012-04-29 15:51:37 [INFO] <Mondoza> whomping your own willow?[0m
+2012-04-29 15:51:49 [INFO] <Mondoza> baby, why dont we go to the shrieking shack, we can do a bit of shrieking[0m
+2012-04-29 15:51:51 [INFO] <The_Whistler> she's flexible[0m
+2012-04-29 15:51:53 [INFO] <Mondoza> of our own[0m
+2012-04-29 15:52:19 [INFO] <The_Whistler> one night with her and they'll be calling you moaning myrtle.[0m
+2012-04-29 15:53:31 [INFO] <Mondoza> you're name must be luna, you sure know how to lovegood[0m
+2012-04-29 15:53:48 [INFO] <The_Whistler> she just groaned at that one[0m
+2012-04-29 15:54:01 [INFO] <Mondoza> and we havnt reached the shrieking shack yet[0m
+2012-04-29 15:54:26 [INFO] <Mondoza> i must be a grade A student, cause im winning in Charms[0m
+2012-04-29 15:54:35 [INFO] <Mondoza> that one didnt work so well[0m
+2012-04-29 15:54:57 [INFO] <Mondoza> ok listen[0m
+2012-04-29 15:55:01 [INFO] <The_Whistler> listening[0m
+2012-04-29 15:55:06 [INFO] <Mondoza> im not wearing an invisibility cloak[0m
+2012-04-29 15:55:14 [INFO] <Mondoza> but could i visit your restricted section tonight?[0m
+2012-04-29 15:57:26 [INFO] <The_Whistler> i think she surrenders[0m
+2012-04-29 15:57:39 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 82 in world, 6.3 blocks from The_Whistler
+2012-04-29 15:57:47 [INFO] <Mondoza> INCOMING!!![0m
+2012-04-29 15:57:56 [INFO] <The_Whistler> WE'RE UNDER FIRE[0m
+2012-04-29 15:58:05 [INFO] <Mondoza> MEDIC!!!![0m
+2012-04-29 16:11:48 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-29 16:11:48 [INFO] Connection reset
+2012-04-29 16:46:32 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 75 in world, 6.6 blocks from The_Whistler
+2012-04-29 16:49:43 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 94 in world, 2.8 blocks from The_Whistler
+2012-04-29 16:53:11 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 81 in world, 6.7 blocks from The_Whistler
+2012-04-29 17:03:25 [INFO] Connection reset
+2012-04-29 17:03:25 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-04-29 17:35:22 [INFO] The_Whistler [/127.0.0.1:48333] logged in with entity id 360910 at ([world] -5053.215066938335, 84.0, -1314.6623920668483)
+2012-04-29 17:35:26 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-04-29 17:35:26 [INFO] Connection reset
+2012-04-29 18:43:02 [INFO] minarwin [/127.0.0.1:48343] logged in with entity id 361232 at ([world] -273.69968572087333, 42.0, 182.35363608990568)
+2012-04-29 18:44:54 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 40 in world, 2.9 blocks from minarwin
+2012-04-29 18:44:59 [INFO] Read timed out
+2012-04-29 18:44:59 [INFO] minarwin lost connection: disconnect.endOfStream
+2012-04-29 19:13:04 [INFO] H4ZM4T [/127.0.0.1:48350] logged in with entity id 362718 at ([world] -5073.347464197629, 111.0, -1219.5155771699312)
+2012-04-29 19:23:53 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-04-29 20:32:13 [INFO] H4ZM4T [/127.0.0.1:48363] logged in with entity id 373878 at ([world] -55.98814758350072, 60.0, -17.69999998807907)
+2012-04-29 20:33:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-04-29 20:35:26 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-04-29 20:58:55 [INFO] minarwin [/127.0.0.1:48371] logged in with entity id 378484 at ([world] -273.3024551296369, 42.0, 174.6273047465104)
+2012-04-29 21:25:39 [INFO] Connection reset
+2012-04-29 21:25:39 [INFO] minarwin lost connection: disconnect.quitting
+2012-04-29 21:25:43 [INFO] minarwin [/127.0.0.1:48378] logged in with entity id 397366 at ([world] -261.6142047681358, 70.0, 218.887460080945)
+2012-04-29 21:41:03 [INFO] Connection reset
+2012-04-29 21:41:03 [INFO] minarwin lost connection: disconnect.quitting
+2012-04-29 21:48:43 [INFO] minarwin [/127.0.0.1:48384] logged in with entity id 409401 at ([world] -261.8949418719511, 70.0, 214.88671273123094)
+2012-04-29 21:48:55 [INFO] CONSOLE: Giving minarwin some 341 (SLIME_BALL)[0m
+2012-04-29 21:59:58 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 39 in world, 1.5 blocks from minarwin
+2012-04-29 22:20:10 [INFO] Connection reset
+2012-04-29 22:20:10 [INFO] minarwin lost connection: disconnect.quitting
+2012-04-29 23:45:11 [INFO] H4ZM4T [/127.0.0.1:48415] logged in with entity id 428452 at ([world] 551.7073647280207, 71.0, -445.04136814462123)
+2012-04-29 23:45:20 [INFO] CONSOLE: Giving H4ZM4T some 341 (SLIME_BALL)[0m
+2012-04-29 23:45:40 [INFO] Connection reset
+2012-04-29 23:45:40 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-04-30 00:08:39 [INFO] The_Whistler [/127.0.0.1:48424] logged in with entity id 428759 at ([world] -5053.215066938335, 84.0, -1314.6623920668483)
+2012-04-30 00:22:10 [INFO] Connected players: The_Whistler[0m
+2012-04-30 00:24:52 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 101 in world, 5.4 blocks from The_Whistler
+2012-04-30 00:25:20 [INFO] [35m[Server] Starting backup.[0m
+2012-04-30 00:25:41 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-30 00:26:38 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 82 in world, 7.6 blocks from The_Whistler
+2012-04-30 00:30:24 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in world, 5.1 blocks from The_Whistler
+2012-04-30 00:44:59 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 82 in world, 7.3 blocks from The_Whistler
+2012-04-30 00:51:48 [INFO] Connection reset
+2012-04-30 00:51:48 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-04-30 01:34:29 [INFO] The_Whistler [/127.0.0.1:48457] logged in with entity id 459368 at ([world] -5363.064710182839, 65.5, -1598.7744915241879)
+2012-04-30 02:14:31 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 91 in world, 4.6 blocks from The_Whistler
+2012-04-30 02:22:23 [WARNING] The_Whistler moved wrongly!
+2012-04-30 02:22:23 [INFO] Got position -5026.028232705363, 63.0, -1268.8916779649899
+2012-04-30 02:22:23 [INFO] Expected -5026.300000011921, 63.0, -1268.8916779649899
+2012-04-30 02:37:26 [INFO] Connection reset
+2012-04-30 02:37:26 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-04-30 08:00:02 [INFO] [35m[Server] Starting backup.[0m
+2012-04-30 08:00:02 [INFO] CONSOLE: Forcing save..[0m
+2012-04-30 08:00:02 [INFO] CONSOLE: Save complete.[0m
+2012-04-30 08:00:02 [INFO] CONSOLE: Disabling level saving..[0m

@@ -19069,3 +19069,547 @@
 2012-04-30 08:00:02 [INFO] CONSOLE: Forcing save..[0m
 2012-04-30 08:00:02 [INFO] CONSOLE: Save complete.[0m
 2012-04-30 08:00:02 [INFO] CONSOLE: Disabling level saving..[0m
+2012-04-30 08:02:17 [INFO] CONSOLE: Enabling level saving..[0m
+2012-04-30 08:02:17 [INFO] CONSOLE: Forcing save..[0m
+2012-04-30 08:02:17 [INFO] CONSOLE: Save complete.[0m
+2012-04-30 08:02:17 [INFO] [35m[Server] Backup complete.[0m
+2012-04-30 08:29:26 [INFO] adrianjboyer [/127.0.0.1:48508] logged in with entity id 511975 at ([world_the_end] 352.9894471410185, 5.0, 2.6598745147504976)
+2012-04-30 08:29:48 [INFO] CONSOLE: Giving adrianjboyer some 341 (SLIME_BALL)[0m
+2012-04-30 08:31:48 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-04-30 08:31:48 [INFO] Connection reset
+2012-04-30 10:44:15 [INFO] ultrajono [/127.0.0.1:48527] logged in with entity id 513902 at ([world] 631.611605411487, 60.0, -320.46692978041955)
+2012-04-30 10:44:25 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-04-30 10:53:07 [INFO] H4ZM4T [/127.0.0.1:48531] logged in with entity id 521666 at ([world] 545.3000000119209, 71.0, -449.07499998807907)
+2012-04-30 10:53:18 [INFO] <ultrajono> woof[0m
+2012-04-30 10:53:18 [INFO] Connection reset
+2012-04-30 10:53:18 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-04-30 11:24:52 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-30 11:24:52 [INFO] Connection reset
+2012-04-30 11:31:39 [INFO] ultrajono [/127.0.0.1:48539] logged in with entity id 558363 at ([world] 554.498557922604, 6.0, -342.30000001192093)
+2012-04-30 11:42:21 [INFO] Connection reset
+2012-04-30 11:42:21 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-30 11:42:49 [INFO] ultrajono [/127.0.0.1:48544] logged in with entity id 568447 at ([world] 554.6159747234557, 6.0, -342.65294548793634)
+2012-04-30 12:26:29 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 6 in world, 4.3 blocks from ultrajono
+2012-04-30 12:29:26 [INFO] Connection reset
+2012-04-30 12:29:26 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-30 14:25:29 [INFO] H4ZM4T [/127.0.0.1:48567] logged in with entity id 604154 at ([world] 545.3000000119209, 71.0, -449.07499998807907)
+2012-04-30 14:30:04 [INFO] <H4ZM4T> +s350eba33s[0m
+2012-04-30 14:41:33 [INFO] ultrajono [/127.0.0.1:48572] logged in with entity id 619902 at ([world] 618.5021969134303, 6.0, -322.8271765633802)
+2012-04-30 14:41:44 [INFO] <ultrajono> hey[0m
+2012-04-30 14:42:10 [INFO] <ultrajono> managed to get a lvl 50 enchantment, it lasted about 5 minutes, the fucker[0m
+2012-04-30 14:51:26 [INFO] Connection reset
+2012-04-30 14:51:26 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-30 14:55:23 [INFO] ultrajono [/127.0.0.1:48578] logged in with entity id 635869 at ([world] 461.3136318367062, 9.0, -416.4158629454921)
+2012-04-30 14:55:26 [INFO] <ultrajono> yo?[0m
+2012-04-30 15:00:02 [INFO] <H4ZM4T> hey[0m
+2012-04-30 15:00:10 [INFO] <H4ZM4T> why did it only last 5 minutes?[0m
+2012-04-30 15:00:22 [INFO] <ultrajono> it was only effiency 4, what a fucking waste[0m
+2012-04-30 15:00:50 [INFO] <ultrajono> pity there's no way to know what your gonna get[0m
+2012-04-30 15:05:43 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-04-30 15:16:57 [INFO] lluoc [/127.0.0.1:48584] logged in with entity id 665638 at ([world] -1.0687922760788462, 197.0, 2010.4414166076726)
+2012-04-30 15:17:13 [INFO] <ultrajono> hey man[0m
+2012-04-30 15:17:13 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[0m
+2012-04-30 15:17:16 [INFO] <lluoc> hey[0m
+2012-04-30 15:17:29 [INFO] <ultrajono> just found a massive diamond area[0m
+2012-04-30 15:17:36 [INFO] <lluoc> ? how many?[0m
+2012-04-30 15:17:40 [INFO] <ultrajono> 6 i think[0m
+2012-04-30 15:17:53 [INFO] <lluoc> woo. Want to lend a fortune pick?[0m
+2012-04-30 15:18:04 [INFO] <ultrajono> that would be awesome, meet you where?[0m
+2012-04-30 15:18:18 [INFO] <lluoc> umm, let me just get back to my house[0m
+2012-04-30 15:18:28 [INFO] <lluoc> ok[0m
+2012-04-30 15:19:03 [INFO] <ultrajono> got a lvl 50 enchantment[0m
+2012-04-30 15:19:12 [INFO] <ultrajono> lasted like 5 min[0m
+2012-04-30 15:19:17 [INFO] <lluoc> ?[0m
+2012-04-30 15:19:33 [INFO] <lluoc> what was it?[0m
+2012-04-30 15:19:44 [INFO] <ultrajono> efficiency 4, on a iron pick[0m
+2012-04-30 15:19:58 [INFO] <lluoc> ... that's a bad level 4[0m
+2012-04-30 15:20:18 [INFO] <ultrajono> trust me, i know, i was so hoping for fortune[0m
+2012-04-30 15:20:27 [INFO] <ultrajono> it seems like my  mine is fairly awesome[0m
+2012-04-30 15:20:31 [INFO] <lluoc> But yeah. Efficiency is kind of.... amazing[0m
+2012-04-30 15:20:35 [INFO] <ultrajono> now that i'm deeper into it[0m
+2012-04-30 15:20:45 [INFO] <lluoc> ok, where do i meet you?[0m
+2012-04-30 15:20:50 [INFO] <ultrajono> where are you?[0m
+2012-04-30 15:20:57 [INFO] <lluoc> my place[0m
+2012-04-30 15:21:14 [INFO] <ultrajono> hmm[0m
+2012-04-30 15:21:23 [INFO] <ultrajono> say where?[0m
+2012-04-30 15:21:25 [INFO] <lluoc> where are you?[0m
+2012-04-30 15:21:32 [INFO] <lluoc> Near spawn.[0m
+2012-04-30 15:21:47 [INFO] <ultrajono> yeh, i'm just at mine now[0m
+2012-04-30 15:21:56 [INFO] <lluoc> the one with the elevator?[0m
+2012-04-30 15:22:03 [INFO] <ultrajono> yup, i can meet you in nether?[0m
+2012-04-30 15:22:13 [INFO] <lluoc> k[0m
+2012-04-30 15:22:16 [INFO] <ultrajono> took your advice, using one of my enchanted diamond picks, love it![0m
+2012-04-30 15:22:47 [INFO] <ultrajono> gotta remember where diamond is :D[0m
+2012-04-30 15:23:10 [INFO] <lluoc> yo[0m
+2012-04-30 15:23:15 [INFO] <lluoc> oh hey[0m
+2012-04-30 15:23:18 [INFO] <ultrajono> ello[0m
+2012-04-30 15:23:23 [INFO] <lluoc> ... just a sec[0m
+2012-04-30 15:23:36 [INFO] <ultrajono> ?[0m
+2012-04-30 15:23:48 [INFO] <lluoc> dont see these veruy oftern[0m
+2012-04-30 15:23:53 [INFO] <ultrajono> what is it?[0m
+2012-04-30 15:24:05 [INFO] <ultrajono> slime?[0m
+2012-04-30 15:24:38 [INFO] <ultrajono> fuck, one in here[0m
+2012-04-30 15:24:43 [INFO] <lluoc> nope[0m
+2012-04-30 15:24:47 [INFO] <lluoc> ehh, lets go[0m
+2012-04-30 15:25:08 [INFO] <ultrajono> what was that?[0m
+2012-04-30 15:25:16 [INFO] <lluoc> never seen them before?[0m
+2012-04-30 15:25:22 [INFO] <ultrajono> nope[0m
+2012-04-30 15:25:24 [INFO] <lluoc> nether slime equivalent[0m
+2012-04-30 15:25:33 [INFO] <ultrajono> ah[0m
+2012-04-30 15:25:40 [INFO] <ultrajono> figured[0m
+2012-04-30 15:25:46 [INFO] <lluoc> but they don't drop slime[0m
+2012-04-30 15:26:00 [INFO] <ultrajono> check this out[0m
+2012-04-30 15:26:11 [INFO] <ultrajono> what i said about a crazy sized farm?[0m
+2012-04-30 15:26:23 [INFO] <lluoc> heh. Have you seen deja's old one?[0m
+2012-04-30 15:26:33 [INFO] <ultrajono> nope, but i'm guessing its like 5 times this?[0m
+2012-04-30 15:26:34 [INFO] <lluoc> out near spawn in that castle like thing?[0m
+2012-04-30 15:26:37 [INFO] <lluoc> pretty much[0m
+2012-04-30 15:26:43 [INFO] <lluoc> still nice.[0m
+2012-04-30 15:26:46 [INFO] <ultrajono> figured[0m
+2012-04-30 15:26:50 [INFO] <ultrajono> sorry[0m
+2012-04-30 15:27:02 [INFO] <lluoc> ?[0m
+2012-04-30 15:27:09 [INFO] <ultrajono> the bed thing above is stills crewed, no idea why[0m
+2012-04-30 15:27:20 [INFO] <lluoc> hmm. What happens ?[0m
+2012-04-30 15:27:33 [INFO] <ultrajono> when i die, it says my bed is not available, even though i've slept in it[0m
+2012-04-30 15:27:43 [INFO] <lluoc> also, promise you won't die when i give this to you[0m
+2012-04-30 15:27:46 [INFO] <ultrajono> oh, and this is why i said cane is easy[0m
+2012-04-30 15:27:54 [INFO] <ultrajono> its a straight shot there and back, clear of lava[0m
+2012-04-30 15:28:01 [INFO] <ultrajono> wait a sec, thsi way[0m
+2012-04-30 15:28:13 [INFO] <ultrajono> check that chest[0m
+2012-04-30 15:28:17 [INFO] <lluoc> heh, I remember doing something like this one[0m
+2012-04-30 15:28:27 [INFO] <lluoc> ruuuuun through clicking[0m
+2012-04-30 15:28:34 [INFO] <lluoc> nice[0m
+2012-04-30 15:28:44 [INFO] <ultrajono> pretty much, i was thinking of enlarging, but eh[0m
+2012-04-30 15:29:11 [INFO] <ultrajono> gotta remember where teh damn thing is :P[0m
+2012-04-30 15:29:18 [INFO] <lluoc> ... slime[0m
+2012-04-30 15:29:20 [INFO] Connection reset
+2012-04-30 15:29:20 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-30 15:29:23 [INFO] lluoc [/127.0.0.1:48589] logged in with entity id 694001 at ([world] 630.3000000119209, 6.9457205999049965, -333.69999998807907)
+2012-04-30 15:29:29 [INFO] <ultrajono> slime where?[0m
+2012-04-30 15:29:37 [INFO] <lluoc> ... can I mine in?[0m
+2012-04-30 15:29:41 [INFO] <ultrajono> go nuts[0m
+2012-04-30 15:30:06 [INFO] <lluoc> aww[0m
+2012-04-30 15:30:06 [INFO] <ultrajono> ?[0m
+2012-04-30 15:30:10 [INFO] <lluoc> only a small one[0m
+2012-04-30 15:30:37 [INFO] <ultrajono> this way[0m
+2012-04-30 15:30:51 [INFO] <ultrajono> its all the way on the right, not sure where[0m
+2012-04-30 15:30:52 [INFO] <lluoc> ymm, just a sec[0m
+2012-04-30 15:31:49 [INFO] <ultrajono> hmm[0m
+2012-04-30 15:32:09 [INFO] <lluoc> umm[0m
+2012-04-30 15:32:13 [INFO] <ultrajono> yup, right here[0m
+2012-04-30 15:32:28 [INFO] <lluoc> ok, step back and watch[0m
+2012-04-30 15:32:41 [INFO] <ultrajono> fuck[0m
+2012-04-30 15:32:49 [INFO] <lluoc> how many?[0m
+2012-04-30 15:32:50 [INFO] <ultrajono> 17, you want some?[0m
+2012-04-30 15:32:54 [INFO] <lluoc> ... sure[0m
+2012-04-30 15:33:10 [INFO] <lluoc> thanks[0m
+2012-04-30 15:33:14 [INFO] <ultrajono> :D[0m
+2012-04-30 15:33:15 [INFO] <lluoc> commisions are nice[0m
+2012-04-30 15:33:33 [INFO] <ultrajono> i thought i was headed back on teh same path, didn't realise i had gone down one, eh, it'll all be d[0m
+2012-04-30 15:33:44 [INFO] <lluoc> umm, got to go now.[0m
+2012-04-30 15:33:47 [INFO] <lluoc> sorry,[0m
+2012-04-30 15:33:48 [INFO] Connection reset
+2012-04-30 15:33:48 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-30 15:47:33 [INFO] lluoc [/127.0.0.1:48595] logged in with entity id 716878 at ([world] 524.6949048027237, 5.0, -345.69999998807907)
+2012-04-30 15:47:44 [INFO] <lluoc> ok. now to get out of here[0m
+2012-04-30 15:47:56 [INFO] <ultrajono> i may have gone a little crazy with my pick[0m
+2012-04-30 15:48:13 [INFO] <lluoc> picking up the cobble. picking up the cobble[0m
+2012-04-30 15:48:23 [INFO] <ultrajono> yeh, i ran out of room[0m
+2012-04-30 15:48:23 [INFO] <lluoc> find any more diamond?[0m
+2012-04-30 15:48:31 [INFO] <ultrajono> unfortunately no[0m
+2012-04-30 15:48:40 [INFO] <lluoc> Also, did you see how the first doamiond block broke into 4...[0m
+2012-04-30 15:48:46 [INFO] <ultrajono> yeh[0m
+2012-04-30 15:49:11 [INFO] <lluoc> Oh, I see ypu[0m
+2012-04-30 15:49:21 [INFO] <ultrajono> how the fuck did i end up here?[0m
+2012-04-30 15:49:34 [INFO] <ultrajono> started off on teh other side, you know your way out?[0m
+2012-04-30 15:49:42 [INFO] <lluoc> here[0m
+2012-04-30 15:49:45 [INFO] <ultrajono> that path will take you to nellies[0m
+2012-04-30 15:50:16 [INFO] Connection reset
+2012-04-30 15:50:16 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-30 15:54:04 [INFO] lluoc [/127.0.0.1:48600] logged in with entity id 722229 at ([world] 622.0862778231863, 59.0, -343.1666343708528)
+2012-04-30 15:54:40 [INFO] <ultrajono> 22 iron from that, as well as 164 redstone[0m
+2012-04-30 15:54:42 [INFO] <lluoc> ... nice bedroom[0m
+2012-04-30 15:55:00 [INFO] <lluoc> Also it could be because your med is below the floor[0m
+2012-04-30 15:55:00 [INFO] <ultrajono> stole an idea i did :D[0m
+2012-04-30 15:55:07 [INFO] <ultrajono> i put it there after it fucked up[0m
+2012-04-30 15:55:08 [INFO] <lluoc> heh[0m
+2012-04-30 15:55:35 [INFO] <lluoc> try putting so that it is at the same level as the floor around it[0m
+2012-04-30 15:55:50 [INFO] <ultrajono> i put it at the lvl you stand on when you walk in, worked fine for ages?[0m
+2012-04-30 15:56:05 [INFO] <lluoc> did it stop working after an update?[0m
+2012-04-30 15:56:22 [INFO] <ultrajono> uh, not sure, i think so, i didn't die for a while after the last update[0m
+2012-04-30 15:56:50 [INFO] <lluoc> really not sure why. Have you broken and replaced the beds?[0m
+2012-04-30 15:57:05 [INFO] <lluoc> sorry, broken, died and then replace the beds[0m
+2012-04-30 15:57:15 [INFO] <ultrajono> i did to lower em to that lvl, when i come back from the end i always have a spaz for some reason[0m
+2012-04-30 15:57:58 [INFO] <ultrajono> will this locked chest thign always be round?[0m
+2012-04-30 15:58:02 [INFO] [Lockette] ultrajono has released a container.
+2012-04-30 15:58:05 [INFO] [Lockette] ultrajono has claimed a container.
+2012-04-30 15:58:15 [INFO] <lluoc> ?[0m
+2012-04-30 15:58:22 [INFO] <lluoc> what locked chest thing?[0m
+2012-04-30 15:58:28 [INFO] <ultrajono> putting a sign on a chest?[0m
+2012-04-30 15:58:35 [INFO] <lluoc> round?[0m
+2012-04-30 15:58:44 [INFO] <ultrajono> around[0m
+2012-04-30 15:58:47 [INFO] <ultrajono> available for use[0m
+2012-04-30 15:58:55 [INFO] <lluoc> umm, maybe maybe not[0m
+2012-04-30 15:59:14 [INFO] <lluoc> If it isn't then I will replace it with something else and give people a transition time[0m
+2012-04-30 15:59:17 [INFO] <ultrajono> i'm scared leaving to much stuff here because of being robbed remember[0m
+2012-04-30 15:59:40 [INFO] <lluoc> I might change it for MCProxy Zone's which lets people define areas they control[0m
+2012-04-30 15:59:47 [INFO] <lluoc> and who can interact in these areas[0m
+2012-04-30 16:00:17 [INFO] <ultrajono> i have a few hidden chests around as you can imagine, just a bitch moving all thsi crap[0m
+2012-04-30 16:00:27 [INFO] <ultrajono> worth it, but a pain[0m
+2012-04-30 16:00:36 [INFO] <lluoc> With that, you could zone your house and no one would be able to change anything'[0m
+2012-04-30 16:00:39 [INFO] <lluoc> except you[0m
+2012-04-30 16:00:47 [INFO] <ultrajono> and hwo long would that last?[0m
+2012-04-30 16:04:32 [INFO] <ultrajono> zoning sounds like a good idea, means you can have your stuff as it is :P[0m
+2012-04-30 16:05:28 [INFO] <lluoc> The transition. A while probably.[0m
+2012-04-30 16:05:44 [INFO] <lluoc> People sem to want more mods[0m
+2012-04-30 16:05:59 [INFO] <ultrajono> i'm tempted to make my enchanting room have a switch that pops up 2 bookshelves makign it a[0m
+2012-04-30 16:06:08 [INFO] <ultrajono> solid room, and i guess mods just mix it up as i'm sure you know[0m
+2012-04-30 16:06:14 [INFO] <lluoc> but bukkit isn't nice for these mods. (Equivalent Exchange and some other ones are wanted)[0m
+2012-04-30 16:06:34 [INFO] <ultrajono> i'm happy as it is, as long as the locked chests stay as is[0m
+2012-04-30 16:06:47 [INFO] <lluoc> Adding in the extra 2 does nothing.[0m
+2012-04-30 16:06:55 [INFO] <ultrajono> extra 2?[0m
+2012-04-30 16:07:19 [INFO] <lluoc> A layout where there is an 2 heigh entrance to the table[0m
+2012-04-30 16:07:25 [INFO] <lluoc> give the max bonus[0m
+2012-04-30 16:07:34 [INFO] <lluoc> Closing that space does nothing[0m
+2012-04-30 16:07:48 [INFO] <lluoc> Lockkete is a bukkit mod. I might have to move off bukkit.[0m
+2012-04-30 16:08:00 [INFO] <ultrajono> i know, it'll just look pretty, my table already gives me lvl 50[0m
+2012-04-30 16:08:24 [INFO] <lluoc> And Zones would work no matter what the server is as it is seperate to the actual server[0m
+2012-04-30 16:08:40 [INFO] <ultrajono> so no individual chests, but an entire house that no one can fuck with?[0m
+2012-04-30 16:08:47 [INFO] <lluoc> pretty much[0m
+2012-04-30 16:09:08 [INFO] <lluoc> And form what i can tell, Mike has made it pretty flexible[0m
+2012-04-30 16:09:24 [INFO] <ultrajono> mike?[0m
+2012-04-30 16:09:58 [INFO] <lluoc> oh... umm, he goes to USyd and he made MCProxy. He posts on the facebook page sometimes[0m
+2012-04-30 16:10:18 [INFO] <lluoc> and he might be able to get us a better sever environment for free[0m
+2012-04-30 16:10:18 [INFO] <ultrajono> i've been meanign to ask, is it 'better' to get a high lvl enchantment, or several lower ones?[0m
+2012-04-30 16:10:38 [INFO] <lluoc> depends. The enchantemtn algorithm is complex.[0m
+2012-04-30 16:10:49 [INFO] <lluoc> If you get efficency then you also want unbreaking[0m
+2012-04-30 16:10:55 [INFO] <lluoc> actually unbreaking is nice on everything[0m
+2012-04-30 16:11:08 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 6 in world, 5.1 blocks from ultrajono
+2012-04-30 16:11:13 [INFO] <lluoc> ...[0m
+2012-04-30 16:11:23 [INFO] <ultrajono> ok, didnt' even hear it[0m
+2012-04-30 16:13:03 [INFO] <ultrajono> just seems like it may be worth gettting lower ones, i always seem to get high ones that are the sam[0m
+2012-04-30 16:14:14 [INFO] <lluoc> Go look up some simulators[0m
+2012-04-30 16:14:25 [INFO] <lluoc> Really depends on what you are after[0m
+2012-04-30 16:14:31 [INFO] <ultrajono> fortuen :P[0m
+2012-04-30 16:14:42 [INFO] <ultrajono> and unbreaking[0m
+2012-04-30 16:15:20 [INFO] <lluoc> heh[0m
+2012-04-30 16:15:39 [INFO] <ultrajono> so, what everyone is after[0m
+2012-04-30 16:16:01 [INFO] <lluoc> I normally want high efficenncy and unbreaking[0m
+2012-04-30 16:16:07 [INFO] <lluoc> as I already have fortune[0m
+2012-04-30 16:16:09 [INFO] <ultrajono> got 2 of those[0m
+2012-04-30 16:16:18 [INFO] <ultrajono> one with silk south[0m
+2012-04-30 16:16:21 [INFO] <ultrajono> touch[0m
+2012-04-30 16:16:22 [INFO] <lluoc> Ocasionally you get fortune, efficiency and unbreaking all in one[0m
+2012-04-30 16:16:34 [INFO] <lluoc> I spent a looooooong time getting silk touch[0m
+2012-04-30 16:16:41 [INFO] <ultrajono> first one for me[0m
+2012-04-30 16:16:46 [INFO] <lluoc> and then we make the end grinder and BAM, every one has one.[0m
+2012-04-30 16:16:49 [INFO] <lluoc> .... fuck you.[0m
+2012-04-30 16:16:51 [INFO] <lluoc> heh[0m
+2012-04-30 16:17:06 [INFO] <lluoc> but no, really i spent about weeks getting it all ready[0m
+2012-04-30 16:17:16 [INFO] <ultrajono> trade ya a new one with silk, effiecny and unbreaking, for your fortune? :P[0m
+2012-04-30 16:17:55 [INFO] <lluoc> umm...[0m
+2012-04-30 16:18:14 [INFO] <ultrajono> more diamond[0m
+2012-04-30 16:18:46 [INFO] <lluoc> actually I'm going to go see what picks I have[0m
+2012-04-30 16:18:50 [INFO] <ultrajono> 6 again[0m
+2012-04-30 16:18:55 [INFO] <lluoc> ...[0m
+2012-04-30 16:19:07 [INFO] <ultrajono> i have a really REALLLY good mine man[0m
+2012-04-30 16:19:36 [INFO] <ultrajono> come this way with fortune, you can get another 4?[0m
+2012-04-30 16:20:17 [INFO] <ultrajono> slime fucker[0m
+2012-04-30 16:20:28 [INFO] <lluoc> .... sorrym what?[0m
+2012-04-30 16:20:47 [INFO] <ultrajono> just killed a slime, if you come to my mine with your fortune, i'll give you another 4 diamond?[0m
+2012-04-30 16:20:57 [INFO] <ultrajono> depending on the overall load of course[0m
+2012-04-30 16:21:07 [INFO] <lluoc> sure... And after that I can do that trade if you really want...[0m
+2012-04-30 16:21:16 [INFO] <ultrajono> how much more life does your fortune have?[0m
+2012-04-30 16:21:27 [INFO] <lluoc> almost completely full[0m
+2012-04-30 16:21:40 [INFO] <ultrajono> yeh, sure, trade :D[0m
+2012-04-30 16:22:02 [INFO] <lluoc> though I am warning you that silk touch is far far rarer[0m
+2012-04-30 16:22:03 [INFO] <ultrajono> whgat else is on tha tone? just fortune?[0m
+2012-04-30 16:22:34 [INFO] <lluoc> just fortune[0m
+2012-04-30 16:22:43 [INFO] <ultrajono> another set of diamond[0m
+2012-04-30 16:22:50 [INFO] <lluoc> ?[0m
+2012-04-30 16:22:57 [INFO] <lluoc> seriouslt[0m
+2012-04-30 16:22:58 [INFO] <ultrajono> 10 diamond here baby :D[0m
+2012-04-30 16:23:18 [INFO] <ultrajono> and gold, and a fuckload of iron, why do you think i want fortune so badly?[0m
+2012-04-30 16:23:30 [INFO] <lluoc> fortune doesn;t work on gold and iron[0m
+2012-04-30 16:23:42 [INFO] <ultrajono> redstone and diamond only?[0m
+2012-04-30 16:23:44 [INFO] <lluoc> only things like coal, redstone and diamond[0m
+2012-04-30 16:23:50 [INFO] <lluoc> at your house[0m
+2012-04-30 16:24:02 [INFO] <ultrajono> come to the mine, its close[0m
+2012-04-30 16:24:31 [INFO] <ultrajono> knowing my luck, IF we trade, iw ont' get any more diamond[0m
+2012-04-30 16:24:44 [INFO] <lluoc> hey[0m
+2012-04-30 16:24:45 [INFO] <lluoc> heh[0m
+2012-04-30 16:24:57 [INFO] <ultrajono> first 4[0m
+2012-04-30 16:25:10 [INFO] <lluoc> aww[0m
+2012-04-30 16:25:14 [INFO] <lluoc> how many?[0m
+2012-04-30 16:25:18 [INFO] <ultrajono> 8[0m
+2012-04-30 16:25:22 [INFO] <lluoc> aww[0m
+2012-04-30 16:25:22 [INFO] <ultrajono> this way[0m
+2012-04-30 16:25:27 [INFO] <ultrajono> above[0m
+2012-04-30 16:25:29 [INFO] <lluoc> heh[0m
+2012-04-30 16:25:43 [INFO] <ultrajono> how many?[0m
+2012-04-30 16:25:51 [INFO] <lluoc> dunno[0m
+2012-04-30 16:25:55 [INFO] <ultrajono> ?[0m
+2012-04-30 16:26:03 [INFO] <lluoc> I had 10 in my invetory[0m
+2012-04-30 16:26:09 [INFO] <ultrajono> and now you have?[0m
+2012-04-30 16:26:10 [INFO] <lluoc> I though you got some[0m
+2012-04-30 16:26:13 [INFO] <lluoc> 0[0m
+2012-04-30 16:26:23 [INFO] <ultrajono> did you already have 10? like youc ame with 10?[0m
+2012-04-30 16:26:30 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 6 in world, 2.7 blocks from lluoc
+2012-04-30 16:26:32 [INFO] <lluoc> no. I came with 0[0m
+2012-04-30 16:26:35 [INFO] <lluoc> ...[0m
+2012-04-30 16:26:40 [INFO] <ultrajono> i have 22 now i think[0m
+2012-04-30 16:26:42 [INFO] <lluoc> ahh diamond armour[0m
+2012-04-30 16:26:46 [INFO] <ultrajono> yup, lets go upstairs[0m
+2012-04-30 16:26:52 [INFO] <lluoc> 22... you know, I onl;y have 41[0m
+2012-04-30 16:26:55 [INFO] <lluoc> total[0m
+2012-04-30 16:27:00 [INFO] <ultrajono> i have more then that, a lot more[0m
+2012-04-30 16:27:07 [INFO] <lluoc> sigh[0m
+2012-04-30 16:27:39 [INFO] <ultrajono> to my chests[0m
+2012-04-30 16:28:01 [INFO] <lluoc> weeee[0m
+2012-04-30 16:28:06 [INFO] <lluoc> errr[0m
+2012-04-30 16:28:11 [INFO] <ultrajono> ?[0m
+2012-04-30 16:28:14 [INFO] <lluoc> you don;t habve to give me that much[0m
+2012-04-30 16:28:25 [INFO] <ultrajono> i dont' mind[0m
+2012-04-30 16:28:35 [INFO] <ultrajono> take a look[0m
+2012-04-30 16:28:35 [INFO] <lluoc> ... I am raelly bad at busnuss[0m
+2012-04-30 16:28:47 [INFO] <ultrajono> want the trade?[0m
+2012-04-30 16:28:51 [INFO] <lluoc> done[0m
+2012-04-30 16:28:55 [INFO] <ultrajono> i gave em because youc ame again, its the fair thing to do man[0m
+2012-04-30 16:29:10 [INFO] <ultrajono> knowing my luck, i tapped out on the diamond[0m
+2012-04-30 16:29:16 [INFO] <ultrajono> this chest, has 18[0m
+2012-04-30 16:29:18 [INFO] <lluoc> ... The fair thing would have been for me to do the trade and then let you do the mining[0m
+2012-04-30 16:29:22 [INFO] <lluoc> but what ever[0m
+2012-04-30 16:29:28 [INFO] <lluoc> heh[0m
+2012-04-30 16:29:32 [INFO] <lluoc> thanks[0m
+2012-04-30 16:29:41 [INFO] <ultrajono> it would've been a douche thign to do[0m
+2012-04-30 16:29:45 [INFO] <ultrajono> :D[0m
+2012-04-30 16:29:52 [INFO] <ultrajono> you doing this just for silk touch?[0m
+2012-04-30 16:30:04 [INFO] <lluoc> ... yeah... aww now I feel bad.[0m
+2012-04-30 16:30:10 [INFO] <ultrajono> why?[0m
+2012-04-30 16:30:15 [INFO] <lluoc> pretty much. I only have one and I might have lost it.[0m
+2012-04-30 16:30:27 [INFO] <ultrajono> we can trade back if you like?[0m
+2012-04-30 16:30:40 [INFO] <lluoc> I meant I feel this was traded in my favor[0m
+2012-04-30 16:30:50 [INFO] <ultrajono> because unbreaking and effiecny?[0m
+2012-04-30 16:30:52 [INFO] <lluoc> oh never mind.[0m
+2012-04-30 16:31:08 [INFO] <lluoc> enjoy.[0m
+2012-04-30 16:31:12 [INFO] <ultrajono> you 2[0m
+2012-04-30 16:31:21 [INFO] <ultrajono> :D[0m
+2012-04-30 16:31:27 [INFO] <lluoc> 2?[0m
+2012-04-30 16:31:35 [INFO] <ultrajono> to, you as well[0m
+2012-04-30 16:31:39 [INFO] <ultrajono> good trade?[0m
+2012-04-30 16:31:45 [INFO] <lluoc> Ahh. k.[0m
+2012-04-30 16:31:54 [INFO] <lluoc> I think[0m
+2012-04-30 16:32:05 [INFO] <ultrajono> i should show you my other chest :P[0m
+2012-04-30 16:32:08 [INFO] <lluoc> I'm sure suddenly you will run out of diamond and I will hit a jackpot[0m
+2012-04-30 16:32:17 [INFO] <lluoc> heh[0m
+2012-04-30 16:32:24 [INFO] <lluoc> I shouyld really mine again.[0m
+2012-04-30 16:32:29 [INFO] <lluoc> I haven't in.... months[0m
+2012-04-30 16:32:29 [INFO] <ultrajono> eh, i'll have the pick regardless, adn i've been fairly consistant with getting the same enchantment[0m
+2012-04-30 16:32:54 [INFO] <ultrajono> whenever i log on, i get more supplies, plant trees etc, and mine[0m
+2012-04-30 16:33:00 [INFO] <ultrajono> fuck, circus is on in half hour, gotta jet[0m
+2012-04-30 16:33:06 [INFO] <lluoc> bye[0m
+2012-04-30 16:33:46 [INFO] <ultrajono> later[0m
+2012-04-30 16:33:49 [INFO] Connection reset
+2012-04-30 16:33:49 [INFO] ultrajono lost connection: disconnect.quitting
+2012-04-30 17:06:26 [INFO] Connection reset
+2012-04-30 17:06:26 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-30 17:06:39 [INFO] lluoc [/127.0.0.1:48612] logged in with entity id 802242 at ([world_the_end] 352.98431162248727, 5.0, 0.20863033471975578)
+2012-04-30 17:15:24 [INFO] Connection reset
+2012-04-30 17:15:24 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-30 17:16:15 [INFO] lluoc [/127.0.0.1:48618] logged in with entity id 805104 at ([world_the_end] 355.0014783705577, 5.0, -1.3248531755138946)
+2012-04-30 17:16:21 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-30 17:16:21 [INFO] Connection reset
+2012-04-30 17:16:36 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-30 17:16:36 [INFO] Stopping server
+2012-04-30 17:16:36 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-04-30 17:16:36 [INFO] SilkSpawners disabled
+2012-04-30 17:16:36 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-04-30 17:16:36 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-04-30 17:16:36 [INFO] [Lockette] Disabling Lockette v1.6
+2012-04-30 17:16:36 [INFO] Lockette is being disabled...  ;.;
+2012-04-30 17:16:36 [INFO] [Lockette] Closing all automatic doors.
+2012-04-30 17:16:36 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-04-30 17:16:36 [INFO] Disabling PickBoat
+2012-04-30 17:16:36 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-04-30 17:16:36 [INFO] [CreeperMess v1.2] Disabled!
+2012-04-30 17:16:36 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-04-30 17:16:36 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-04-30 17:16:36 [INFO] Saving chunks
+2012-04-30 17:16:36 [INFO] Stopping server
+2012-04-30 17:16:36 [INFO] Saving chunks
+2012-04-30 17:19:13 [INFO] Starting minecraft server version 1.2.5
+2012-04-30 17:19:13 [INFO] Loading properties
+2012-04-30 17:19:13 [INFO] Starting Minecraft server on *:25564
+2012-04-30 17:19:13 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-04-30 17:19:13 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-04-30 17:19:13 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-04-30 17:19:13 [INFO] [Lockette] Loading Lockette v1.6
+2012-04-30 17:19:13 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-04-30 17:19:13 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-04-30 17:19:13 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-04-30 17:19:13 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-04-30 17:19:13 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-04-30 17:19:13 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-04-30 17:19:13 [INFO] Preparing level "world"
+2012-04-30 17:19:13 [INFO] Default game type: 0
+2012-04-30 17:19:14 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-04-30 17:19:15 [INFO] Preparing spawn area: 89%
+2012-04-30 17:19:15 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-04-30 17:19:16 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-04-30 17:19:16 [INFO] Preparing spawn area: 0%
+2012-04-30 17:19:16 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-04-30 17:19:16 [INFO] SilkSpawners enabled
+2012-04-30 17:19:16 [INFO] [Lockette] Enabling Lockette v1.6
+2012-04-30 17:19:16 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-04-30 17:19:16 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-04-30 17:19:16 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-04-30 17:19:16 [INFO] [Lockette] Using ops file for admin permissions.
+2012-04-30 17:19:16 [INFO] [Lockette] Ready to protect your containers.
+2012-04-30 17:19:16 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-04-30 17:19:16 [INFO] PickBoat version 0.4 is enabled!
+2012-04-30 17:19:16 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-04-30 17:19:16 [INFO] [CreeperMess v1.2] Enabled!
+2012-04-30 17:19:16 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-04-30 17:19:16 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-04-30 17:19:16 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-30 17:19:16 [INFO] Done (2.686s)! For help, type "help" or "?"
+2012-04-30 17:20:41 [INFO] lluoc [/127.0.0.1:48626] logged in with entity id 395 at ([world_the_end] 355.0014783705577, 5.0, -1.3248531755138946)
+2012-04-30 17:21:27 [INFO] Connection reset
+2012-04-30 17:21:27 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-30 17:23:08 [INFO] CONSOLE: Stopping the server..[0m
+2012-04-30 17:23:08 [INFO] Stopping server
+2012-04-30 17:23:08 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-04-30 17:23:08 [INFO] SilkSpawners disabled
+2012-04-30 17:23:08 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-04-30 17:23:08 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-04-30 17:23:08 [INFO] [Lockette] Disabling Lockette v1.6
+2012-04-30 17:23:08 [INFO] Lockette is being disabled...  ;.;
+2012-04-30 17:23:08 [INFO] [Lockette] Closing all automatic doors.
+2012-04-30 17:23:08 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-04-30 17:23:08 [INFO] Disabling PickBoat
+2012-04-30 17:23:08 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-04-30 17:23:08 [INFO] [CreeperMess v1.2] Disabled!
+2012-04-30 17:23:08 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-04-30 17:23:08 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-04-30 17:23:08 [INFO] Saving chunks
+2012-04-30 17:24:13 [INFO] Starting minecraft server version 1.2.5
+2012-04-30 17:24:13 [INFO] Loading properties
+2012-04-30 17:24:13 [INFO] Starting Minecraft server on *:25564
+2012-04-30 17:24:13 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-04-30 17:24:13 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-04-30 17:24:13 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-04-30 17:24:13 [INFO] [Lockette] Loading Lockette v1.6
+2012-04-30 17:24:13 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-04-30 17:24:13 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-04-30 17:24:13 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-04-30 17:24:13 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-04-30 17:24:13 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-04-30 17:24:13 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-04-30 17:24:13 [INFO] Preparing level "world"
+2012-04-30 17:24:13 [INFO] Default game type: 0
+2012-04-30 17:24:13 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-04-30 17:24:14 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-04-30 17:24:14 [INFO] Preparing spawn area: 3%
+2012-04-30 17:24:15 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-04-30 17:24:15 [INFO] Preparing spawn area: 57%
+2012-04-30 17:24:15 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-04-30 17:24:15 [INFO] SilkSpawners enabled
+2012-04-30 17:24:15 [INFO] [Lockette] Enabling Lockette v1.6
+2012-04-30 17:24:15 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-04-30 17:24:15 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-04-30 17:24:15 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-04-30 17:24:16 [INFO] [Lockette] Using ops file for admin permissions.
+2012-04-30 17:24:16 [INFO] [Lockette] Ready to protect your containers.
+2012-04-30 17:24:16 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-04-30 17:24:16 [INFO] PickBoat version 0.4 is enabled!
+2012-04-30 17:24:16 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-04-30 17:24:16 [INFO] [CreeperMess v1.2] Enabled!
+2012-04-30 17:24:16 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-04-30 17:24:16 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-04-30 17:24:16 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-04-30 17:24:16 [INFO] Done (2.405s)! For help, type "help" or "?"
+2012-04-30 17:24:59 [INFO] lluoc [/127.0.0.1:48633] logged in with entity id 361 at ([world_the_end] 352.91519270916984, 9.0, 3.3683776828709897)
+2012-04-30 17:25:05 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-30 17:25:05 [INFO] Connection reset
+2012-04-30 17:34:06 [INFO] lluoc [/127.0.0.1:48637] logged in with entity id 486 at ([world_the_end] 352.91519270916984, 9.0, 3.3683776828709897)
+2012-04-30 17:45:08 [INFO] Connection reset
+2012-04-30 17:45:08 [INFO] lluoc lost connection: disconnect.quitting
+2012-04-30 21:08:02 [INFO] Mondoza [/203.129.52.205:1551] logged in with entity id 8524 at ([world] -5055.699999988079, 82.0, -1294.404420017649)
+2012-04-30 21:18:55 [INFO] Mondoza lost connection: disconnect.quitting
+2012-04-30 21:18:55 [INFO] Connection reset
+2012-04-30 22:11:08 [INFO] The_Whistler [/127.0.0.1:48700] logged in with entity id 15116 at ([world] -5082.366076054449, 101.0, -1263.9625210810045)
+2012-04-30 22:37:40 [INFO] Connection reset
+2012-04-30 22:37:40 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-05-01 01:25:24 [INFO] Connection reset
+2012-05-01 02:19:23 [INFO] lluoc [/127.0.0.1:48734] logged in with entity id 32231 at ([world_the_end] 352.8029052155117, 5.0, 4.788311353807947)
+2012-05-01 02:36:21 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-05-01 02:39:41 [INFO] lluoc: Setting lluoc to game mode 0[0m
+2012-05-01 02:53:32 [INFO] Connection reset
+2012-05-01 02:53:32 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-01 03:41:23 [INFO] The_Whistler [/127.0.0.1:48747] logged in with entity id 52400 at ([world] -5072.446444965661, 99.0, -1272.4906884768252)
+2012-05-01 03:47:51 [INFO] Connection reset
+2012-05-01 03:47:51 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-05-01 08:00:01 [INFO] [35m[Server] Starting backup.[0m
+2012-05-01 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-05-01 08:00:01 [INFO] CONSOLE: Save complete.[0m
+2012-05-01 08:00:01 [INFO] CONSOLE: Disabling level saving..[0m
+2012-05-01 08:00:25 [INFO] CONSOLE: Enabling level saving..[0m
+2012-05-01 08:00:25 [INFO] CONSOLE: Forcing save..[0m
+2012-05-01 08:00:25 [INFO] CONSOLE: Save complete.[0m
+2012-05-01 08:00:25 [INFO] [35m[Server] Backup complete.[0m
+2012-05-01 11:03:59 [INFO] ultrajono [/127.0.0.1:48802] logged in with entity id 61874 at ([world] 631.7562924429969, 60.0, -318.5726220971357)
+2012-05-01 11:04:04 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-05-01 11:06:55 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 6 in world, 2.9 blocks from ultrajono
+2012-05-01 12:11:16 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-01 12:11:16 [INFO] Connection reset
+2012-05-01 14:12:54 [INFO] lluoc [/127.0.0.1:48826] logged in with entity id 125829 at ([world_the_end] 354.54906383897793, 5.0, -4.3027169955714974)
+2012-05-01 14:15:23 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-01 14:15:23 [INFO] Connection reset
+2012-05-01 14:15:31 [INFO] lluoc [/127.0.0.1:48831] logged in with entity id 128050 at ([world_the_end] 350.7981779708423, -144.6551031788665, -16.972999116511232)
+2012-05-01 14:20:54 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-01 14:20:54 [INFO] Connection reset
+2012-05-01 14:20:57 [INFO] lluoc [/127.0.0.1:48835] logged in with entity id 132633 at ([world] -71.56398543296382, 80.53584062504456, -23.65658644353971)
+2012-05-01 14:21:50 [INFO] Connection reset
+2012-05-01 14:21:50 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-01 15:45:40 [INFO] The_Whistler [/127.0.0.1:48849] logged in with entity id 133380 at ([world] -5067.839338973434, 111.0, -1271.4111930847598)
+2012-05-01 15:55:36 [INFO] Connection reset
+2012-05-01 15:55:36 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-05-01 16:52:03 [INFO] adrianjboyer [/127.0.0.1:48859] logged in with entity id 138995 at ([world_the_end] 353.3453278601299, 5.0, -6.4888803832482145)
+2012-05-01 16:52:32 [INFO] CONSOLE: Giving adrianjboyer some 341 (SLIME_BALL)[0m
+2012-05-01 16:54:38 [INFO] Connection reset
+2012-05-01 16:54:38 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-05-01 23:07:00 [INFO] adrianjboyer [/127.0.0.1:48906] logged in with entity id 141661 at ([world_the_end] 353.5168157886323, 5.0, -7.489743219632426)
+2012-05-01 23:09:08 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-05-01 23:09:08 [INFO] Connection reset
+2012-05-01 23:09:23 [INFO] ultrajono [/127.0.0.1:48910] logged in with entity id 142658 at ([world] 622.3872062470292, 65.0, -329.00670224429484)
+2012-05-01 23:09:36 [INFO] Connection reset
+2012-05-01 23:09:36 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-02 00:48:34 [INFO] Connected players: [0m
+2012-05-02 01:53:27 [INFO] lluoc [/127.0.0.1:48931] logged in with entity id 143236 at ([world] -73.07003390164262, 92.0, -25.77497627382554)
+2012-05-02 01:53:36 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[0m
+2012-05-02 01:55:58 [INFO] Connection reset
+2012-05-02 01:55:58 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-02 01:56:01 [INFO] lluoc [/127.0.0.1:48936] logged in with entity id 146664 at ([world] -52.69999998807905, 5.0, -32.48264879533049)
+2012-05-02 02:53:48 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-05-02 03:00:19 [INFO] The_Whistler [/127.0.0.1:48946] logged in with entity id 201002 at ([world] -5082.373197472473, 106.0, -1255.3417163205518)
+2012-05-02 03:00:31 [INFO] <lluoc> hey[0m
+2012-05-02 03:00:42 [INFO] <The_Whistler> what are you doing up?[0m
+2012-05-02 03:01:10 [INFO] <lluoc> building a... err... disco room i guess...[0m
+2012-05-02 03:01:42 [INFO] lluoc: Setting lluoc to game mode 0[0m
+2012-05-02 03:02:34 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-05-02 03:02:34 [INFO] Connection reset
+2012-05-02 03:07:44 [INFO] Connection reset
+2012-05-02 03:07:44 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-02 03:13:15 [INFO] lluoc [/127.0.0.1:48951] logged in with entity id 209177 at ([world] -65.89064571780274, 88.0, -19.467276403755225)
+2012-05-02 03:26:54 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-02 03:26:54 [INFO] Connection reset
+2012-05-02 03:27:08 [INFO] lluoc [/127.0.0.1:48957] logged in with entity id 219535 at ([world] -66.17090627911358, 73.63588500535488, -26.860976201603375)
+2012-05-02 03:28:29 [INFO] Connection reset
+2012-05-02 03:28:29 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-02 03:28:37 [INFO] lluoc [/127.0.0.1:48961] logged in with entity id 220717 at ([world] -72.29469092171087, 73.0, -24.506594089253365)
+2012-05-02 03:28:54 [INFO] Connection reset
+2012-05-02 03:28:54 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-02 08:00:01 [INFO] [35m[Server] Starting backup.[0m
+2012-05-02 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-05-02 08:00:01 [INFO] CONSOLE: Save complete.[0m
+2012-05-02 08:00:01 [INFO] CONSOLE: Disabling level saving..[0m

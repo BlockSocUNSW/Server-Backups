@@ -19613,3 +19613,46 @@
 2012-05-02 08:00:01 [INFO] CONSOLE: Forcing save..[0m
 2012-05-02 08:00:01 [INFO] CONSOLE: Save complete.[0m
 2012-05-02 08:00:01 [INFO] CONSOLE: Disabling level saving..[0m
+2012-05-02 08:01:38 [INFO] CONSOLE: Enabling level saving..[0m
+2012-05-02 08:01:38 [INFO] CONSOLE: Forcing save..[0m
+2012-05-02 08:01:38 [INFO] CONSOLE: Save complete.[0m
+2012-05-02 08:01:38 [INFO] [35m[Server] Backup complete.[0m
+2012-05-02 09:19:23 [INFO] Mondoza [/180.200.147.86:1062] logged in with entity id 221500 at ([world] -5057.369158544266, 98.0, -1325.2968109511246)
+2012-05-02 09:19:35 [INFO] Connection reset
+2012-05-02 09:19:35 [INFO] Mondoza lost connection: disconnect.quitting
+2012-05-02 10:35:22 [INFO] The_Whistler [/127.0.0.1:49017] logged in with entity id 222138 at ([world] -5084.078272711942, 106.0, -1266.4095445412845)
+2012-05-02 11:14:00 [INFO] Connection reset
+2012-05-02 11:14:00 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-05-02 18:40:52 [INFO] nightkhaos [/127.0.0.1:49073] logged in with entity id 244591 at ([world_the_end] 353.8779937174777, 5.0, 7.0601916618241125)
+2012-05-02 18:41:31 [INFO] H4ZM4T [/127.0.0.1:49077] logged in with entity id 245066 at ([world] 456.95836889558296, 63.5, -414.75907101047096)
+2012-05-02 18:41:38 [INFO] CONSOLE: Giving H4ZM4T some 341 (SLIME_BALL)[0m
+2012-05-02 18:41:38 [INFO] <nightkhaos> oh hai[0m
+2012-05-02 18:41:46 [INFO] <nightkhaos> sorry I can't come to Kim's thing.[0m
+2012-05-02 18:42:15 [INFO] <H4ZM4T> evening[0m
+2012-05-02 18:42:19 [INFO] <H4ZM4T> you bastard[0m
+2012-05-02 18:42:20 [INFO] <H4ZM4T> :P[0m
+2012-05-02 18:42:39 [INFO] <H4ZM4T> anyway[0m
+2012-05-02 18:42:40 [INFO] <H4ZM4T> g2g[0m
+2012-05-02 18:42:42 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-05-02 18:44:04 [INFO] Connection reset
+2012-05-02 18:44:04 [INFO] nightkhaos lost connection: disconnect.quitting
+2012-05-03 01:41:31 [INFO] nightkhaos [/127.0.0.1:49127] logged in with entity id 249935 at ([world_the_end] 353.30000001192093, 5.0, -4.029248349281848)
+2012-05-03 01:41:47 [INFO] CONSOLE: Giving nightkhaos some 341 (SLIME_BALL)[0m
+2012-05-03 01:56:09 [WARNING] nightkhaos moved wrongly!
+2012-05-03 01:56:09 [INFO] Got position 356.39667768840667, 90.0, 0.17392436357598262
+2012-05-03 01:56:09 [INFO] Expected 356.80000001192093, 90.0, 0.17392436357598262
+2012-05-03 01:56:12 [WARNING] nightkhaos moved wrongly!
+2012-05-03 01:56:12 [INFO] Got position 356.75533990074774, 74.0, 0.8450919268474586
+2012-05-03 01:56:12 [INFO] Expected 357.30000001192093, 74.0, 0.8450919268474586
+2012-05-03 02:17:32 [WARNING] nightkhaos moved wrongly!
+2012-05-03 02:17:32 [INFO] Got position 359.454414835374, 90.0, -3.590128137181358
+2012-05-03 02:17:32 [INFO] Expected 358.69999998807907, 90.0, -3.590128137181358
+2012-05-03 02:27:49 [INFO] Connection reset
+2012-05-03 02:27:49 [INFO] nightkhaos lost connection: disconnect.quitting
+2012-05-03 02:29:35 [INFO] nightkhaos [/127.0.0.1:49136] logged in with entity id 288084 at ([world_the_end] 353.2005470497173, 5.0, -0.8458452124599674)
+2012-05-03 02:30:33 [INFO] Connection reset
+2012-05-03 02:30:33 [INFO] nightkhaos lost connection: disconnect.quitting
+2012-05-03 08:00:02 [INFO] [35m[Server] Starting backup.[0m
+2012-05-03 08:00:02 [INFO] CONSOLE: Forcing save..[0m
+2012-05-03 08:00:02 [INFO] CONSOLE: Save complete.[0m
+2012-05-03 08:00:02 [INFO] CONSOLE: Disabling level saving..[0m

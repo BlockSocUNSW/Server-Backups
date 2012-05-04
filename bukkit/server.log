@@ -19656,3 +19656,121 @@
 2012-05-03 08:00:02 [INFO] CONSOLE: Forcing save..[0m
 2012-05-03 08:00:02 [INFO] CONSOLE: Save complete.[0m
 2012-05-03 08:00:02 [INFO] CONSOLE: Disabling level saving..[0m
+2012-05-03 08:01:08 [INFO] CONSOLE: Enabling level saving..[0m
+2012-05-03 08:01:08 [INFO] CONSOLE: Forcing save..[0m
+2012-05-03 08:01:08 [INFO] CONSOLE: Save complete.[0m
+2012-05-03 08:01:08 [INFO] [35m[Server] Backup complete.[0m
+2012-05-03 10:12:46 [INFO] ultrajono [/127.0.0.1:49193] logged in with entity id 289626 at ([world] 622.3872062470292, 65.0, -329.00670224429484)
+2012-05-03 10:12:57 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-05-03 10:14:38 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-03 10:14:38 [INFO] Connection reset
+2012-05-03 10:30:28 [INFO] ultrajono [/127.0.0.1:49199] logged in with entity id 290522 at ([world] 625.3000000119209, 57.0, -332.15620217672347)
+2012-05-03 10:32:55 [INFO] Connection reset
+2012-05-03 10:32:55 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-03 12:15:54 [INFO] Mondoza [/180.200.147.86:1057] logged in with entity id 291472 at ([world] -5057.238520379455, 94.0, -1325.1140391686695)
+2012-05-03 12:18:34 [INFO] Connection reset
+2012-05-03 12:18:34 [INFO] Mondoza lost connection: disconnect.quitting
+2012-05-03 14:19:07 [INFO] ultrajono [/127.0.0.1:49235] logged in with entity id 293476 at ([world] 619.6616544811402, 59.0, -342.80185610897405)
+2012-05-03 14:38:44 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-03 14:38:44 [INFO] Connection reset
+2012-05-03 19:10:17 [INFO] lluoc [/127.0.0.1:49269] logged in with entity id 308968 at ([world] -72.29469092171087, 73.0, -24.506594089253365)
+2012-05-03 19:10:26 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[0m
+2012-05-03 19:14:15 [INFO] Connection reset
+2012-05-03 19:14:15 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-03 19:14:30 [INFO] lluoc [/127.0.0.1:49274] logged in with entity id 312249 at ([world] -71.83028541904602, 73.0, -24.3288553871414)
+2012-05-03 19:15:26 [INFO] Connection reset
+2012-05-03 19:15:26 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-03 20:45:15 [INFO] H4ZM4T [/127.0.0.1:49288] logged in with entity id 314011 at ([world] 456.95836889558296, 63.5, -414.75907101047096)
+2012-05-03 20:45:22 [INFO] CONSOLE: Giving H4ZM4T some 341 (SLIME_BALL)[0m
+2012-05-03 20:46:02 [INFO] Connection reset
+2012-05-03 20:46:02 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-05-03 22:00:18 [INFO] The_Whistler [/127.0.0.1:49303] logged in with entity id 315217 at ([world] -5058.232361387565, 98.0, -1301.3038283286471)
+2012-05-03 22:02:01 [INFO] The_Whistler lost connection: disconnect.endOfStream
+2012-05-03 22:43:38 [INFO] ultrajono [/127.0.0.1:49311] logged in with entity id 316223 at ([world] 631.8254756375597, 60.0, -319.1725748124891)
+2012-05-03 23:05:23 [INFO] Connection reset
+2012-05-03 23:05:23 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-04 00:31:12 [INFO] The_Whistler [/127.0.0.1:49327] logged in with entity id 329229 at ([world] -5056.622248759519, 90.0, -1321.0118541150096)
+2012-05-04 00:39:20 [INFO] The_Whistler lost connection: disconnect.endOfStream
+2012-05-04 00:45:29 [INFO] Connected players: [0m
+2012-05-04 01:16:27 [INFO] lluoc [/127.0.0.1:49336] logged in with entity id 333588 at ([world] -59.76039513866506, 85.0, -10.9151873038811)
+2012-05-04 01:32:46 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-04 01:32:46 [INFO] Connection reset
+2012-05-04 01:32:50 [INFO] lluoc [/127.0.0.1:49341] logged in with entity id 354317 at ([world] -95.58687807546718, 63.0, 43.602655263316315)
+2012-05-04 01:40:03 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-04 01:40:03 [INFO] Connection reset
+2012-05-04 08:00:01 [INFO] [35m[Server] Starting backup.[0m
+2012-05-04 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-05-04 08:00:01 [INFO] CONSOLE: Save complete.[0m
+2012-05-04 08:00:01 [INFO] CONSOLE: Disabling level saving..[0m
+2012-05-04 08:02:40 [INFO] [35m[Server] WARNING: Server backup failed. Contact admin.[0m
+2012-05-04 08:02:40 [INFO] CONSOLE: Enabling level saving..[0m
+2012-05-04 08:02:40 [INFO] CONSOLE: Forcing save..[0m
+2012-05-04 08:02:40 [SEVERE] java.io.IOException: No space left on device
+2012-05-04 08:02:40 [SEVERE] 	at java.io.FileOutputStream.writeBytes(Native Method)
+2012-05-04 08:02:40 [SEVERE] 	at java.io.FileOutputStream.write(FileOutputStream.java:284)
+2012-05-04 08:02:40 [SEVERE] 	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:140)
+2012-05-04 08:02:40 [SEVERE] 	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:65)
+2012-05-04 08:02:40 [SEVERE] 	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:75)
+2012-05-04 08:02:40 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:18)
+2012-05-04 08:02:40 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.saveWorldData(WorldNBTStorage.java:122)
+2012-05-04 08:02:40 [SEVERE] 	at net.minecraft.server.ServerNBTManager.saveWorldData(SourceFile:42)
+2012-05-04 08:02:40 [SEVERE] 	at net.minecraft.server.World.A(World.java:263)
+2012-05-04 08:02:40 [SEVERE] 	at net.minecraft.server.World.save(World.java:252)
+2012-05-04 08:02:40 [SEVERE] 	at org.bukkit.craftbukkit.CraftWorld.save(CraftWorld.java:655)
+2012-05-04 08:02:40 [SEVERE] 	at org.bukkit.command.defaults.SaveCommand.execute(SaveCommand.java:25)
+2012-05-04 08:02:40 [SEVERE] 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:166)
+2012-05-04 08:02:40 [SEVERE] 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:473)
+2012-05-04 08:02:40 [SEVERE] 	at org.bukkit.craftbukkit.CraftServer.dispatchServer2012-05-04 16:48:31 [INFO] Starting minecraft server version 1.2.5
+2012-05-04 16:48:31 [INFO] Loading properties
+2012-05-04 16:48:31 [INFO] Starting Minecraft server on *:25564
+2012-05-04 16:48:31 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-05-04 16:48:32 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-05-04 16:48:32 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-05-04 16:48:32 [INFO] [Lockette] Loading Lockette v1.6
+2012-05-04 16:48:32 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-05-04 16:48:32 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-05-04 16:48:32 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-05-04 16:48:32 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-05-04 16:48:32 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-05-04 16:48:32 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-05-04 16:48:32 [INFO] Preparing level "world"
+2012-05-04 16:48:32 [INFO] Default game type: 0
+2012-05-04 16:48:32 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-05-04 16:48:33 [INFO] Preparing spawn area: 24%
+2012-05-04 16:48:34 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-05-04 16:48:34 [INFO] Preparing spawn area: 24%
+2012-05-04 16:48:35 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-05-04 16:48:35 [INFO] Preparing spawn area: 52%
+2012-05-04 16:48:35 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-05-04 16:48:35 [INFO] SilkSpawners enabled
+2012-05-04 16:48:35 [INFO] [Lockette] Enabling Lockette v1.6
+2012-05-04 16:48:35 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-05-04 16:48:35 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-05-04 16:48:35 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-05-04 16:48:35 [INFO] [Lockette] Using ops file for admin permissions.
+2012-05-04 16:48:35 [INFO] [Lockette] Ready to protect your containers.
+2012-05-04 16:48:35 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-05-04 16:48:35 [INFO] PickBoat version 0.4 is enabled!
+2012-05-04 16:48:35 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-05-04 16:48:35 [INFO] [CreeperMess v1.2] Enabled!
+2012-05-04 16:48:35 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-05-04 16:48:36 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-05-04 16:48:36 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-05-04 16:48:36 [INFO] Done (3.981s)! For help, type "help" or "?"
+2012-05-04 16:48:43 [INFO] CONSOLE: Stopping the server..[0m
+2012-05-04 16:48:43 [INFO] Stopping server
+2012-05-04 16:48:43 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-05-04 16:48:43 [INFO] SilkSpawners disabled
+2012-05-04 16:48:43 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-05-04 16:48:43 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-05-04 16:48:43 [INFO] [Lockette] Disabling Lockette v1.6
+2012-05-04 16:48:43 [INFO] Lockette is being disabled...  ;.;
+2012-05-04 16:48:43 [INFO] [Lockette] Closing all automatic doors.
+2012-05-04 16:48:43 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-05-04 16:48:43 [INFO] Disabling PickBoat
+2012-05-04 16:48:43 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-05-04 16:48:43 [INFO] [CreeperMess v1.2] Disabled!
+2012-05-04 16:48:43 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-05-04 16:48:43 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-05-04 16:48:43 [INFO] Saving chunks
+2012-05-04 16:48:44 [INFO] Stopping server

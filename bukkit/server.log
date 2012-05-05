@@ -19774,3 +19774,639 @@
 2012-05-04 16:48:43 [INFO] [MobRider] 0.45.2-b43 disabled.
 2012-05-04 16:48:43 [INFO] Saving chunks
 2012-05-04 16:48:44 [INFO] Stopping server
+2012-05-04 17:14:28 [INFO] Starting minecraft server version 1.2.5
+2012-05-04 17:14:28 [INFO] Loading properties
+2012-05-04 17:14:28 [INFO] Starting Minecraft server on *:25564
+2012-05-04 17:14:28 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-05-04 17:14:29 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-05-04 17:14:29 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-05-04 17:14:29 [INFO] [Lockette] Loading Lockette v1.6
+2012-05-04 17:14:29 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-05-04 17:14:29 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-05-04 17:14:29 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-05-04 17:14:29 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-05-04 17:14:29 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-05-04 17:14:29 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-05-04 17:14:29 [INFO] Preparing level "world"
+2012-05-04 17:14:29 [INFO] Default game type: 0
+2012-05-04 17:14:30 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-05-04 17:14:31 [INFO] Preparing spawn area: 85%
+2012-05-04 17:14:31 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-05-04 17:14:32 [INFO] Preparing spawn area: 93%
+2012-05-04 17:14:32 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-05-04 17:14:32 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-05-04 17:14:32 [INFO] SilkSpawners enabled
+2012-05-04 17:14:32 [INFO] [Lockette] Enabling Lockette v1.6
+2012-05-04 17:14:32 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-05-04 17:14:32 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-05-04 17:14:32 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-05-04 17:14:32 [INFO] [Lockette] Using ops file for admin permissions.
+2012-05-04 17:14:32 [INFO] [Lockette] Ready to protect your containers.
+2012-05-04 17:14:32 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-05-04 17:14:32 [INFO] PickBoat version 0.4 is enabled!
+2012-05-04 17:14:32 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-05-04 17:14:32 [INFO] [CreeperMess v1.2] Enabled!
+2012-05-04 17:14:32 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-05-04 17:14:32 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-05-04 17:14:32 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-05-04 17:14:32 [INFO] Done (2.949s)! For help, type "help" or "?"
+2012-05-04 17:59:16 [INFO] lluoc [/127.0.0.1:49463] logged in with entity id 679 at ([world] -70.77749755886401, 89.0, -21.984746844419384)
+2012-05-04 17:59:23 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[0m
+2012-05-04 18:20:02 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-04 18:20:02 [INFO] Connection reset
+2012-05-04 19:05:18 [INFO] Connected players: [0m
+2012-05-04 19:50:38 [INFO] lluoc [/127.0.0.1:49479] logged in with entity id 33358 at ([world] -61.911493139959404, 136.0, -39.789754817922734)
+2012-05-04 19:50:50 [INFO] Connection reset
+2012-05-04 19:50:50 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-04 21:01:51 [INFO] ultrajono [/127.0.0.1:49491] logged in with entity id 34144 at ([world_the_end] 357.554710133067, 5.0, 10.00424831311448)
+2012-05-04 21:01:58 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-05-04 22:12:15 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-04 22:12:15 [INFO] Connection reset
+2012-05-04 22:16:21 [INFO] ultrajono [/127.0.0.1:49504] logged in with entity id 83457 at ([world] 630.9409062116431, 60.0, -318.9327549337953)
+2012-05-04 22:19:58 [INFO] Connection reset
+2012-05-04 22:19:58 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-04 23:34:17 [INFO] The_Whistler [/127.0.0.1:49518] logged in with entity id 86113 at ([world] -5045.639905416909, 98.0, -1248.7281899913535)
+2012-05-04 23:40:14 [INFO] The_Whistler lost connection: disconnect.quitting
+2012-05-04 23:40:14 [INFO] Connection reset
+2012-05-05 01:44:25 [INFO] nightkhaos [/127.0.0.1:49538] logged in with entity id 89998 at ([world_the_end] 353.2005470497173, 5.0, -0.8458452124599674)
+2012-05-05 01:44:37 [INFO] CONSOLE: Giving nightkhaos some 341 (SLIME_BALL)[0m
+2012-05-05 01:50:13 [INFO] Connection reset
+2012-05-05 01:50:13 [INFO] nightkhaos lost connection: disconnect.quitting
+2012-05-05 02:03:15 [INFO] Connected players: [0m
+2012-05-05 08:00:01 [INFO] [35m[Server] Starting backup.[0m
+2012-05-05 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-05-05 08:00:01 [INFO] CONSOLE: Save complete.[0m
+2012-05-05 08:00:01 [INFO] CONSOLE: Disabling level saving..[0m
+2012-05-05 08:00:26 [INFO] CONSOLE: Enabling level saving..[0m
+2012-05-05 08:00:26 [INFO] CONSOLE: Forcing save..[0m
+2012-05-05 08:00:26 [INFO] CONSOLE: Save complete.[0m
+2012-05-05 14:08:32 [INFO] Connection reset
+2012-05-05 18:04:32 [INFO] Mondoza [/180.200.147.86:1896] logged in with entity id 96769 at ([world] -5071.501189087961, 111.0, -1266.2542246284281)
+2012-05-05 18:06:23 [INFO] Connection reset
+2012-05-05 18:06:23 [INFO] Mondoza lost connection: disconnect.quitting
+2012-05-05 22:32:25 [INFO] Connected players: [0m
+2012-05-05 23:23:58 [INFO] lluoc [/127.0.0.1:49692] logged in with entity id 98221 at ([world] -61.911493139959404, 136.0, -39.789754817922734)
+2012-05-05 23:24:04 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[0m
+2012-05-05 23:34:27 [INFO] Connection reset
+2012-05-05 23:34:27 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-05 23:39:26 [INFO] lluoc [/127.0.0.1:49698] logged in with entity id 108084 at ([world] -68.48099353307757, 80.0, -21.933272159552327)
+2012-05-05 23:40:17 [INFO] lluoc: Giving lluoc some 112 (NETHER_BRICK)[0m
+2012-05-05 23:40:28 [INFO] lluoc: Giving lluoc some 122 (DRAGON_EGG)[0m
+2012-05-05 23:53:14 [INFO] ultrajono [/127.0.0.1:49703] logged in with entity id 138587 at ([world] 622.4435733537589, 65.0, -328.71012831172635)
+2012-05-05 23:53:17 [INFO] <lluoc> hey[0m
+2012-05-05 23:53:22 [INFO] <ultrajono> you are gonna to HATE me[0m
+2012-05-05 23:53:24 [INFO] <ultrajono> and hello[0m
+2012-05-05 23:53:25 [INFO] <lluoc> ...[0m
+2012-05-05 23:53:27 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-05-05 23:53:32 [INFO] <lluoc> what did you do[0m
+2012-05-05 23:53:38 [INFO] <ultrajono> last time i was in my mine, i left wiht over 64 diamond. . . .[0m
+2012-05-05 23:53:43 [INFO] <lluoc> ...[0m
+2012-05-05 23:53:48 [INFO] <lluoc> lava[0m
+2012-05-05 23:53:48 [INFO] <ultrajono> :D[0m
+2012-05-05 23:53:50 [INFO] <lluoc> creper?[0m
+2012-05-05 23:53:56 [INFO] <ultrajono> creeper?[0m
+2012-05-05 23:54:02 [INFO] <lluoc> Oh, I thought you died[0m
+2012-05-05 23:54:06 [INFO] <ultrajono> everytime i expand, i run into diamond, its an awesome mine[0m
+2012-05-05 23:54:19 [INFO] <ultrajono> no, no, i made a full set of diamond armour, as well as a diamond sword, and a diamond axe[0m
+2012-05-05 23:54:24 [INFO] <lluoc> I don't hate you. instead...actually you want to see my mine?[0m
+2012-05-05 23:54:31 [INFO] <ultrajono> sure, where abouts are you?[0m
+2012-05-05 23:54:46 [INFO] <lluoc> heh... *cough* me at the start of the year *cought*[0m
+2012-05-05 23:54:51 [INFO] <lluoc> joking[0m
+2012-05-05 23:54:56 [INFO] <lluoc> at my place at spawn[0m
+2012-05-05 23:55:06 [INFO] <ultrajono> be there in a sec, goin through portals[0m
+2012-05-05 23:55:21 [INFO] <lluoc> umm, so after that trade we did I did some mining as well.[0m
+2012-05-05 23:55:24 [INFO] <ultrajono> yeh, i found like 4 different stacks of 6 diamond each[0m
+2012-05-05 23:55:32 [INFO] <lluoc> not 64 but something like 30+[0m
+2012-05-05 23:55:46 [INFO] <ultrajono> impressive :D i only got over 64 because of that trade, truth though[0m
+2012-05-05 23:55:48 [INFO] <ultrajono> and between you and i[0m
+2012-05-05 23:55:54 [INFO] <ultrajono> with that find, and it being safe, i'd have stolen nellies[0m
+2012-05-05 23:55:57 [INFO] <lluoc> I shouldn't have traded. Think how much I could have made on commision...[0m
+2012-05-05 23:55:58 [INFO] <lluoc> heh[0m
+2012-05-05 23:56:17 [INFO] <lluoc> nellies?[0m
+2012-05-05 23:56:19 [INFO] <ultrajono> woudl've gotten it, ran to mine, mined it, safed it, and ran back[0m
+2012-05-05 23:56:46 [INFO] <ultrajono> yeh, he has a fortune pick in his safe[0m
+2012-05-05 23:56:58 [INFO] <lluoc> ahh, ok.[0m
+2012-05-05 23:57:08 [INFO] <ultrajono> and so much redstone its nuts[0m
+2012-05-05 23:57:15 [INFO] <lluoc> I know.[0m
+2012-05-05 23:57:24 [INFO] <ultrajono> i need to learn how to make a piston operated melon far[0m
+2012-05-05 23:57:24 [INFO] <lluoc> I think we still need more for the grider...[0m
+2012-05-05 23:57:31 [INFO] <ultrajono> happy to give[0m
+2012-05-05 23:57:31 [INFO] <lluoc> really not hard[0m
+2012-05-05 23:57:45 [INFO] <lluoc> I think we need more. I haven't seen taylor in ages.[0m
+2012-05-05 23:58:05 [INFO] <ultrajono> hmm, i've got more then enough sticky pistons and such, and redstone, just not sure how[0m
+2012-05-05 23:58:14 [INFO] <ultrajono> because the water needed, it screws me up[0m
+2012-05-05 23:58:17 [INFO] <lluoc> If you want, when you get here I can put me into creative and show you how it's done[0m
+2012-05-05 23:58:41 [INFO] <ultrajono> ok, at yours, jump down?[0m
+2012-05-05 23:59:05 [INFO] <lluoc> hey[0m
+2012-05-05 23:59:22 [INFO] <lluoc> ok,[0m
+2012-05-05 23:59:24 [INFO] <ultrajono> shieza, how'd you label em?[0m
+2012-05-05 23:59:25 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-05-05 23:59:36 [INFO] <lluoc> look up lockette for more details...[0m
+2012-05-05 23:59:48 [INFO] <lluoc> note the [everyone] at the bottom[0m
+2012-05-05 23:59:55 [INFO] <ultrajono> yup[0m
+2012-05-05 23:59:56 [INFO] <lluoc> lets you see access it[0m
+2012-05-06 00:00:00 [INFO] <ultrajono> figured[0m
+2012-05-06 00:00:12 [INFO] <ultrajono> you replace all ladders with vine?[0m
+2012-05-06 00:00:12 [INFO] <lluoc> the stuf up stairs is priovate as it's, you know, valuabl;e[0m
+2012-05-06 00:00:17 [INFO] <lluoc> ahh[0m
+2012-05-06 00:00:24 [INFO] <lluoc> meant to just be a temp fix[0m
+2012-05-06 00:00:29 [INFO] <lluoc> that i never got around to replacing[0m
+2012-05-06 00:00:37 [INFO] <ultrajono> ah[0m
+2012-05-06 00:00:45 [INFO] <ultrajono> hello iron golem[0m
+2012-05-06 00:00:45 [INFO] <lluoc> was going to put in a water elevator as that fits the style more.[0m
+2012-05-06 00:00:52 [INFO] <lluoc> you mean security[0m
+2012-05-06 00:01:04 [INFO] <ultrajono> i meant iron golem, as it didn't attack me, :P[0m
+2012-05-06 00:01:06 [INFO] <lluoc> ok, I'll pull away some of this so you can see it and then rebuild it[0m
+2012-05-06 00:01:07 [INFO] <ultrajono> where are ya?[0m
+2012-05-06 00:01:18 [INFO] <lluoc> can you see me?[0m
+2012-05-06 00:01:20 [INFO] <ultrajono> your floating :P[0m
+2012-05-06 00:01:41 [INFO] <lluoc> ok, first note the water[0m
+2012-05-06 00:02:02 [INFO] <ultrajono> what water?[0m
+2012-05-06 00:02:15 [INFO] <lluoc> here[0m
+2012-05-06 00:02:21 [INFO] <ultrajono> just there, what about it?[0m
+2012-05-06 00:02:32 [INFO] <lluoc> this placemnt hydrates all of the blocks[0m
+2012-05-06 00:02:58 [INFO] <lluoc> you just need to make sure that you contain it[0m
+2012-05-06 00:02:59 [INFO] Read timed out
+2012-05-06 00:02:59 [INFO] ultrajono lost connection: disconnect.endOfStream
+2012-05-06 00:04:29 [INFO] lluoc: Setting lluoc to game mode 0[0m
+2012-05-06 00:05:24 [INFO] ultrajono [/127.0.0.1:49709] logged in with entity id 167688 at ([world] -55.14313631118024, 85.0, -8.634175788358352)
+2012-05-06 00:05:27 [INFO] <ultrajono> ok?[0m
+2012-05-06 00:05:28 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-05-06 00:05:35 [INFO] <lluoc> also[0m
+2012-05-06 00:05:37 [INFO] <ultrajono> oh, the reason your gonna hate me is, i got anouther silk touch diamond pick[0m
+2012-05-06 00:05:40 [INFO] <lluoc> look at the redstone again[0m
+2012-05-06 00:05:45 [INFO] <lluoc> heh[0m
+2012-05-06 00:05:51 [INFO] <lluoc> here[0m
+2012-05-06 00:05:51 [INFO] <ultrajono> one repeater, for all this?[0m
+2012-05-06 00:05:58 [INFO] <ultrajono> how do you float?[0m
+2012-05-06 00:06:08 [INFO] <lluoc> I can put myself in creative[0m
+2012-05-06 00:06:23 [INFO] <lluoc> mod and all[0m
+2012-05-06 00:06:32 [INFO] <ultrajono> and you need those torches there because?[0m
+2012-05-06 00:06:41 [INFO] <lluoc> to activate the pistons[0m
+2012-05-06 00:06:51 [INFO] <lluoc> there are better ways, but i had a space restriction[0m
+2012-05-06 00:06:54 [INFO] <ultrajono> see, i was gonna make them have repeaters next to each one[0m
+2012-05-06 00:07:01 [INFO] <ultrajono> you dont' mneed water all round for it?[0m
+2012-05-06 00:07:06 [INFO] <lluoc> You can do that too[0m
+2012-05-06 00:07:13 [INFO] <ultrajono> is that more effective?[0m
+2012-05-06 00:07:25 [INFO] <lluoc> though this will use less redstone[0m
+2012-05-06 00:07:37 [INFO] <lluoc> and i think you can make it more compact width wise[0m
+2012-05-06 00:07:47 [INFO] <ultrajono> yeh, not really a problem here, as long as it works and doesn't take to much resources[0m
+2012-05-06 00:08:07 [INFO] <ultrajono> and pumpkins as well?[0m
+2012-05-06 00:08:13 [INFO] <ultrajono> why bother?[0m
+2012-05-06 00:08:14 [INFO] <lluoc> of course.[0m
+2012-05-06 00:08:21 [INFO] <lluoc> because pumpkins[0m
+2012-05-06 00:08:40 [INFO] <ultrajono> i don't understand how it all stays hydrated, with just that amount of water[0m
+2012-05-06 00:08:44 [INFO] <lluoc> ... because this can spit out so make mellons that it's kind of funny[0m
+2012-05-06 00:09:00 [INFO] <lluoc> 1 block hydrates everything in a 4 block radius around it[0m
+2012-05-06 00:09:15 [INFO] <ultrajono> i need to make one of these, i have the resouces (minus the sticky pistons) i like having stupid[0m
+2012-05-06 00:09:18 [INFO] <ultrajono> amonts of everything[0m
+2012-05-06 00:09:23 [INFO] <lluoc> heh[0m
+2012-05-06 00:09:30 [INFO] <lluoc> Actauylly when development in the end started[0m
+2012-05-06 00:09:39 [INFO] <lluoc> my pumkin reserves actually were inadequet[0m
+2012-05-06 00:09:49 [INFO] <ultrajono> this isn't 4?[0m
+2012-05-06 00:09:54 [INFO] <lluoc> check[0m
+2012-05-06 00:10:00 [INFO] <lluoc> 1[0m
+2012-05-06 00:10:01 [INFO] <ultrajono> 4 up to the wall i get that[0m
+2012-05-06 00:10:08 [INFO] <lluoc> look[0m
+2012-05-06 00:10:13 [INFO] <ultrajono> and on the other side only one isn't hydrated, i get that too[0m
+2012-05-06 00:10:19 [INFO] <lluoc> 1[0m
+2012-05-06 00:10:24 [INFO] <ultrajono> but how that far across[0m
+2012-05-06 00:10:26 [INFO] <lluoc> 2[0m
+2012-05-06 00:10:26 [INFO] <ultrajono> ?[0m
+2012-05-06 00:10:33 [INFO] <lluoc> it's in a square[0m
+2012-05-06 00:10:48 [INFO] <ultrajono> i may just steal this entire thing[0m
+2012-05-06 00:11:01 [INFO] <lluoc> a square, umm, 9 * 9 cenred on the water block[0m
+2012-05-06 00:11:27 [INFO] <ultrajono> full of melon, how many does this get when activated?[0m
+2012-05-06 00:11:43 [INFO] <lluoc> umm, couple of stacks maybe[0m
+2012-05-06 00:11:54 [INFO] <ultrajono> take long to make?[0m
+2012-05-06 00:12:10 [INFO] <ultrajono> so long ago, i used to be impressed by bermans house. . . how little i knew[0m
+2012-05-06 00:12:19 [INFO] <lluoc> few hours. Had *most* of the resources and was doing the designing in this survival[0m
+2012-05-06 00:12:33 [INFO] <lluoc> bermans house? As in that one over there?[0m
+2012-05-06 00:12:43 [INFO] <ultrajono> if it was possible, it would be awesome ot make this have another switch to make it flow with water[0m
+2012-05-06 00:12:51 [INFO] <ultrajono> to you, and yeh, his tiny one there[0m
+2012-05-06 00:13:05 [INFO] <lluoc> that would cause to plants to uproot[0m
+2012-05-06 00:13:18 [INFO] <ultrajono> i know, i know, but it would be awesome[0m
+2012-05-06 00:13:25 [INFO] <lluoc> was originally going to...[0m
+2012-05-06 00:13:28 [INFO] <ultrajono> i tried making this in creative, but i filled the entire bottom with water[0m
+2012-05-06 00:13:33 [INFO] <lluoc> wait, have you seen the wheat farm?[0m
+2012-05-06 00:13:43 [INFO] <ultrajono> the one udnerneath, yeh, its a bitch to replant though[0m
+2012-05-06 00:13:47 [INFO] <lluoc> needs to be at the same level or on above[0m
+2012-05-06 00:13:53 [INFO] <lluoc> as in the water thin in it[0m
+2012-05-06 00:14:04 [INFO] <lluoc> * to hydrate the dirt[0m
+2012-05-06 00:14:05 [INFO] <ultrajono> yeh, i know, it needs to flow to bring it to you[0m
+2012-05-06 00:14:24 [INFO] <ultrajono> if only i could like take a picutre of this, and remake it at mine :P[0m
+2012-05-06 00:14:31 [INFO] <lluoc> ...[0m
+2012-05-06 00:14:34 [INFO] <lluoc> F2[0m
+2012-05-06 00:14:39 [INFO] <ultrajono> f2?[0m
+2012-05-06 00:14:44 [INFO] <lluoc> take screen shot[0m
+2012-05-06 00:15:00 [INFO] <ultrajono> well i'd be damned[0m
+2012-05-06 00:15:10 [INFO] <lluoc> ...[0m
+2012-05-06 00:15:20 [INFO] <ultrajono> yes, i didn't know, BITE ME[0m
+2012-05-06 00:15:30 [INFO] <ultrajono> still a newbie here :P[0m
+2012-05-06 00:15:32 [INFO] <lluoc> oh, a switch would be a better option than the leaver[0m
+2012-05-06 00:15:38 [INFO] <ultrajono> yeh, i was thinkin[0m
+2012-05-06 00:15:40 [INFO] <lluoc> but I didn't have the space[0m
+2012-05-06 00:15:59 [INFO] <ultrajono> you could've made it deeper perhaps?[0m
+2012-05-06 00:16:06 [INFO] <lluoc> Nope. The house is in levels[0m
+2012-05-06 00:16:13 [INFO] <ultrajono> yeh, i kinda saw that :P[0m
+2012-05-06 00:16:18 [INFO] <ultrajono> what gave you that idea, or just did?[0m
+2012-05-06 00:16:21 [INFO] <lluoc> by the way, did you see the floor below?[0m
+2012-05-06 00:16:24 [INFO] <lluoc> just me.[0m
+2012-05-06 00:16:30 [INFO] <ultrajono> nope, wait, isn't that the wheat farm?[0m
+2012-05-06 00:16:35 [INFO] <lluoc> was originally just makuing a cool stair case[0m
+2012-05-06 00:16:37 [INFO] <ultrajono> hehehehe, you spent so long on your grinder[0m
+2012-05-06 00:16:41 [INFO] <lluoc> this one[0m
+2012-05-06 00:16:58 [INFO] <lluoc> got board and stoped developing it[0m
+2012-05-06 00:16:58 [INFO] <ultrajono> oh, thats been finished?[0m
+2012-05-06 00:17:04 [INFO] <lluoc> was kist getting back to it[0m
+2012-05-06 00:17:18 [INFO] <lluoc> the floor is, the rest of it will take longer.[0m
+2012-05-06 00:17:50 [INFO] <ultrajono> whats gonna happen here, your dance floor right?[0m
+2012-05-06 00:17:56 [INFO] <lluoc> it's going to be my 'tastless room of rare and obnoctious stuff'[0m
+2012-05-06 00:18:08 [INFO] <ultrajono> that is awesomely aweseome[0m
+2012-05-06 00:18:16 [INFO] <lluoc> sadely it didn't work out as I thought so i can't have sound when you walk on it[0m
+2012-05-06 00:18:21 [INFO] <ultrajono> i still need to find a blazer for a rod for potions[0m
+2012-05-06 00:18:28 [INFO] <lluoc> ...[0m
+2012-05-06 00:18:46 [INFO] <ultrajono> your vines are kinda crazy man[0m
+2012-05-06 00:18:56 [INFO] <lluoc> I know[0m
+2012-05-06 00:18:56 [INFO] <ultrajono> seriously?[0m
+2012-05-06 00:19:02 [INFO] <ultrajono> you sure man?[0m
+2012-05-06 00:19:04 [INFO] <lluoc> I have more[0m
+2012-05-06 00:19:14 [INFO] <lluoc> And you know the island portal[0m
+2012-05-06 00:19:16 [INFO] <ultrajono> thank you :P[0m
+2012-05-06 00:19:19 [INFO] <lluoc> in the nether fortress[0m
+2012-05-06 00:19:20 [INFO] <ultrajono> yeh, what about it?[0m
+2012-05-06 00:19:26 [INFO] <ultrajono> to the island, yeh?[0m
+2012-05-06 00:19:33 [INFO] <lluoc> if you keep going past it there are some signs[0m
+2012-05-06 00:19:45 [INFO] <lluoc> that point to a place where i made a 'grinder'[0m
+2012-05-06 00:20:00 [INFO] <lluoc> that sadely didn't work as apparently you need to kill them yourself to get the rod[0m
+2012-05-06 00:20:06 [INFO] <lluoc> but there is a spawner there..[0m
+2012-05-06 00:20:21 [INFO] <lluoc> ... Or i could just bring one here as we have that mod...[0m
+2012-05-06 00:20:26 [INFO] <ultrajono> if you ever need say, a fuckload of redstone, or want to make an army of books, let me know[0m
+2012-05-06 00:20:33 [INFO] <lluoc> heh[0m
+2012-05-06 00:20:53 [INFO] <lluoc> you worked out how the mellon farm works?[0m
+2012-05-06 00:20:59 [INFO] <ultrajono> i now need to go to mine, expand my enchanting room to a side to make a potion room[0m
+2012-05-06 00:21:03 [INFO] <ultrajono> not entirely, but i'll figure it out[0m
+2012-05-06 00:21:08 [INFO] <lluoc> oh hey[0m
+2012-05-06 00:21:10 [INFO] <lluoc> follow[0m
+2012-05-06 00:21:13 [INFO] <ultrajono> the water placement is interesting[0m
+2012-05-06 00:21:21 [INFO] <ultrajono> where are you?[0m
+2012-05-06 00:21:49 [INFO] <ultrajono> your mine?[0m
+2012-05-06 00:21:53 [INFO] <lluoc> yeah[0m
+2012-05-06 00:21:57 [INFO] <lluoc> careful about this but[0m
+2012-05-06 00:22:10 [INFO] <lluoc> *bit[0m
+2012-05-06 00:22:12 [INFO] <ultrajono> holy crap[0m
+2012-05-06 00:22:30 [INFO] <ultrajono> ok, you went crazy[0m
+2012-05-06 00:22:38 [INFO] <lluoc> I hollowed out below the stair case[0m
+2012-05-06 00:22:40 [INFO] <lluoc> .... yeah[0m
+2012-05-06 00:22:47 [INFO] <ultrajono> mining envy perhaps :P[0m
+2012-05-06 00:22:54 [INFO] <lluoc> Was going to do something with the water but never got around to it[0m
+2012-05-06 00:22:58 [INFO] <ultrajono> uh[0m
+2012-05-06 00:23:01 [INFO] <lluoc> And in all of this there was not a single diamond[0m
+2012-05-06 00:23:04 [INFO] <ultrajono> mine goes all the way from mine, to adrains underneath[0m
+2012-05-06 00:23:31 [INFO] <ultrajono> you know adrian in his mountain?[0m
+2012-05-06 00:23:33 [INFO] <lluoc> if i put you in create promise you won't cheat?[0m
+2012-05-06 00:23:36 [INFO] <ultrajono> his portal entrance[0m
+2012-05-06 00:23:40 [INFO] <lluoc> yeah[0m
+2012-05-06 00:23:41 [INFO] <ultrajono> why would i cheat?[0m
+2012-05-06 00:23:48 [INFO] <lluoc> ok, just you need to fly for this[0m
+2012-05-06 00:23:50 [INFO] <ultrajono> my mine goes to his now, under teh water[0m
+2012-05-06 00:23:55 [INFO] lluoc: Setting ultrajono to game mode 1[0m
+2012-05-06 00:23:55 [INFO] <ultrajono> how does one fly?[0m
+2012-05-06 00:24:01 [INFO] <ultrajono> number 2[0m
+2012-05-06 00:24:04 [INFO] <lluoc> double jump[0m
+2012-05-06 00:24:36 [INFO] <lluoc> I think i went over boad with the diamond finding[0m
+2012-05-06 00:24:56 [INFO] <ultrajono> i shoudl show you my actual chest :P[0m
+2012-05-06 00:25:01 [INFO] <lluoc> heh[0m
+2012-05-06 00:25:10 [INFO] <ultrajono> i has one hidden, and one that i use at home[0m
+2012-05-06 00:25:10 [INFO] <lluoc> ok, back to normal[0m
+2012-05-06 00:25:14 [INFO] lluoc: Setting ultrajono to game mode 0[0m
+2012-05-06 00:25:27 [INFO] <ultrajono> i has a lot of stuff in hidden[0m
+2012-05-06 00:25:42 [INFO] <ultrajono> i think i'm gonna put everything in my home though[0m
+2012-05-06 00:25:56 [INFO] <lluoc> I'll probably implement zones soon[0m
+2012-05-06 00:25:59 [INFO] <ultrajono> crao[0m
+2012-05-06 00:26:04 [INFO] <lluoc> ?[0m
+2012-05-06 00:26:08 [INFO] <ultrajono> i didn't bother expanding for diamond till i hit the bottom[0m
+2012-05-06 00:26:24 [INFO] <lluoc> oh, alll that was lava once[0m
+2012-05-06 00:26:31 [INFO] <ultrajono> and i'm methodical, i move the exact same way when mining[0m
+2012-05-06 00:27:23 [INFO] <ultrajono> btw, i'm rarely using a stone pick now :P[0m
+2012-05-06 00:27:35 [INFO] <lluoc> better that before?[0m
+2012-05-06 00:27:39 [INFO] <ultrajono> oh hells yes[0m
+2012-05-06 00:27:46 [INFO] <ultrajono> i have the rescources, might as well[0m
+2012-05-06 00:27:55 [INFO] <lluoc> how many hours did you waste on stone?[0m
+2012-05-06 00:27:57 [INFO] <ultrajono> spend like 10 min getting it enchanted, waste it, but pick up so much stuff its crazy[0m
+2012-05-06 00:28:25 [INFO] <lluoc> I'm still sad that my wolves died.[0m
+2012-05-06 00:28:25 [INFO] <ultrajono> big room o nada?[0m
+2012-05-06 00:28:33 [INFO] <ultrajono> what happened to em?[0m
+2012-05-06 00:28:34 [INFO] <lluoc> use to have 16 wolves[0m
+2012-05-06 00:28:41 [INFO] <lluoc> mode drowned[0m
+2012-05-06 00:28:46 [INFO] <ultrajono> sad[0m
+2012-05-06 00:28:52 [INFO] <lluoc> they tried swiming below the plafrotm...[0m
+2012-05-06 00:29:00 [INFO] <lluoc> then the remaining disapeared.[0m
+2012-05-06 00:29:01 [INFO] <ultrajono> what woudl you do with nearly a double chest full of redstone?[0m
+2012-05-06 00:29:20 [INFO] <lluoc> make more levels in the grinder...[0m
+2012-05-06 00:29:29 [INFO] <ultrajono> if i give em to you, woudl you?[0m
+2012-05-06 00:29:36 [INFO] <ultrajono> i can give you a few stacks man, easy[0m
+2012-05-06 00:29:55 [INFO] <lluoc> probably not. Taylor kind of took over. Really have no idea what is going on there anymore[0m
+2012-05-06 00:30:16 [INFO] <ultrajono> i'll give em to him next time he's on then, i use it frequently, and as i'm not good enough to make[0m
+2012-05-06 00:30:18 [INFO] <ultrajono> i supply[0m
+2012-05-06 00:30:30 [INFO] <lluoc> And he was doing something with the rails in the base.[0m
+2012-05-06 00:30:37 [INFO] <lluoc> he'd probably like them[0m
+2012-05-06 00:30:43 [INFO] <ultrajono> yeh, that i'm not sure about, it doesn't seem to go anywhere[0m
+2012-05-06 00:30:54 [INFO] <lluoc> And because of that we can't cover the base of the grinder in water[0m
+2012-05-06 00:31:09 [INFO] <ultrajono> up and down works fine, but i'm not sure what he's doing wiht it once it reaches the grinder itself[0m
+2012-05-06 00:31:26 [INFO] <ultrajono> your grinder still work?[0m
+2012-05-06 00:31:30 [INFO] <lluoc> I don't either. He was doing something about returns[0m
+2012-05-06 00:31:41 [INFO] <lluoc> but then he stopped loging in much and idk.[0m
+2012-05-06 00:31:50 [INFO] <lluoc> Nope. Just getting back to making it work[0m
+2012-05-06 00:32:01 [INFO] <lluoc> By the way, you know about the server map right.[0m
+2012-05-06 00:32:08 [INFO] <ultrajono> gamer.gg?[0m
+2012-05-06 00:32:14 [INFO] <lluoc> yeah, just chekcing[0m
+2012-05-06 00:32:24 [INFO] <ultrajono> i dont' have any map add ons here though[0m
+2012-05-06 00:32:33 [INFO] <ultrajono> i just remember where everything and everybody is :P[0m
+2012-05-06 00:32:47 [INFO] <lluoc> you really should get a minimapper. It helps.[0m
+2012-05-06 00:32:53 [INFO] <ultrajono> so i've been told[0m
+2012-05-06 00:33:13 [INFO] <ultrajono> you use one?[0m
+2012-05-06 00:33:30 [INFO] <ultrajono> need to find more soul sand, want to make my own netherwart farm in the nether[0m
+2012-05-06 00:33:37 [INFO] <lluoc> yep. Rei's minimapper[0m
+2012-05-06 00:33:53 [INFO] <lluoc> Umm, if you want though nelly made a really good one.[0m
+2012-05-06 00:34:01 [INFO] lluoc: Setting lluoc to game mode 0[0m
+2012-05-06 00:34:10 [INFO] <ultrajono> i know, but i wants my own, he has no problem me using it as long as i refil it[0m
+2012-05-06 00:34:13 [INFO] <ultrajono> but i'd rather my own[0m
+2012-05-06 00:34:32 [INFO] <lluoc> k.[0m
+2012-05-06 00:34:46 [INFO] <ultrajono> you expanding in the nether past your portal?[0m
+2012-05-06 00:35:08 [INFO] <lluoc> umm, kinda[0m
+2012-05-06 00:35:21 [INFO] <lluoc> if you go up and follow the path that has a sign[0m
+2012-05-06 00:35:23 [INFO] <ultrajono> your kinda's are scary man :P[0m
+2012-05-06 00:35:33 [INFO] <lluoc> you'll get to the project i'm working on[0m
+2012-05-06 00:35:40 [INFO] <lluoc> .... you got there I see[0m
+2012-05-06 00:35:46 [INFO] <lluoc> what's your view disatnce on?[0m
+2012-05-06 00:35:51 [INFO] <ultrajono> i saw it before, we talked about it[0m
+2012-05-06 00:35:59 [INFO] <lluoc> ahh, ok[0m
+2012-05-06 00:36:07 [INFO] <lluoc> I finished both the arms.[0m
+2012-05-06 00:36:17 [INFO] <ultrajono> nuts, absaloutely crazy[0m
+2012-05-06 00:36:36 [INFO] <lluoc> But then a bug with the nether portals means that I can't put a accessable portal above[0m
+2012-05-06 00:36:40 [INFO] <lluoc> 128.[0m
+2012-05-06 00:36:59 [INFO] <lluoc> so my plan of having a portal in the very top as the access point kind of got screwed over[0m
+2012-05-06 00:37:14 [INFO] <ultrajono> what happened?[0m
+2012-05-06 00:37:41 [INFO] <lluoc> If you put a portal in the overworld above 128 it connects to the nether and you can go through it[0m
+2012-05-06 00:38:01 [INFO] <lluoc> but when you enter the over world via the nether minecraft only looks for portals[0m
+2012-05-06 00:38:09 [INFO] <lluoc> that are in the height range 0-128.[0m
+2012-05-06 00:38:25 [INFO] <lluoc> If there isn't one then it makes a new one.[0m
+2012-05-06 00:38:48 [INFO] <lluoc> The portal I want is at heigh 200...[0m
+2012-05-06 00:38:56 [INFO] <lluoc> easy way to make obsidion though[0m
+2012-05-06 00:39:02 [INFO] <ultrajono> really?[0m
+2012-05-06 00:39:08 [INFO] <ultrajono> oh, right[0m
+2012-05-06 00:39:27 [INFO] <lluoc> make a portal height up, ener it, return and a new potral is made. PROFIT.[0m
+2012-05-06 00:39:36 [INFO] <ultrajono> full one, or half one?[0m
+2012-05-06 00:40:20 [INFO] <lluoc> as in?[0m
+2012-05-06 00:41:00 [INFO] <ultrajono> full portal, one a half one that uses 10 obsidian?[0m
+2012-05-06 00:41:05 [INFO] <lluoc> full portal[0m
+2012-05-06 00:41:54 [INFO] <ultrajono> nice, easy profit[0m
+2012-05-06 00:42:02 [INFO] <lluoc> umm, could you sleep?[0m
+2012-05-06 00:42:22 [INFO] <ultrajono> in bed[0m
+2012-05-06 00:42:27 [INFO] <lluoc> thanks[0m
+2012-05-06 00:42:30 [INFO] <ultrajono> all good[0m
+2012-05-06 00:42:53 [INFO] <ultrajono> currently expanding my library room to make room for the potion room as well[0m
+2012-05-06 00:43:07 [INFO] <lluoc> DAMN, I never made a potion room.[0m
+2012-05-06 00:43:39 [INFO] <ultrajono> well, you've always lacked imaginatio in this game :P[0m
+2012-05-06 00:43:46 [INFO] <lluoc> yeah.[0m
+2012-05-06 00:44:02 [INFO] <ultrajono> and that wasn't dripping in sarcasm :P[0m
+2012-05-06 00:44:11 [INFO] <lluoc> sigh, I'll just go ack to making my tiny drop grinder[0m
+2012-05-06 00:44:17 [INFO] <ultrajono> why bother?[0m
+2012-05-06 00:44:20 [INFO] <lluoc> made of tens of thousands of nether rack[0m
+2012-05-06 00:44:23 [INFO] <lluoc> yeah...[0m
+2012-05-06 00:44:35 [INFO] <ultrajono> damn, ran into my tree farm[0m
+2012-05-06 00:45:43 [INFO] <lluoc> Have you tried using 2*2 jungle trees for wood?[0m
+2012-05-06 00:45:52 [INFO] <ultrajono> yeh, it looks different[0m
+2012-05-06 00:46:30 [INFO] <ultrajono> works fine on other things, but when used as furniture it has a different colour[0m
+2012-05-06 00:49:00 [INFO] <ultrajono> CRAP[0m
+2012-05-06 00:49:11 [INFO] <ultrajono> i tried mining the brewing stand because i misplaced it, lost the damn thing[0m
+2012-05-06 00:49:53 [INFO] <lluoc> ..., if you some back i can give you another one, Or there is that spawner[0m
+2012-05-06 00:51:06 [INFO] <ultrajono> i'll head back in just a sec, i'm not liking how this room looks though, might make an entirely new[0m
+2012-05-06 00:51:07 [INFO] <ultrajono> room[0m
+2012-05-06 00:52:23 [INFO] mebeme [/127.0.0.1:49717] logged in with entity id 228312 at ([world] -26.293544355052266, 73.0, 86.81784042383794)
+2012-05-06 00:52:23 [INFO] Connection reset
+2012-05-06 00:52:23 [INFO] mebeme lost connection: disconnect.endOfStream
+2012-05-06 00:52:33 [INFO] <ultrajono> something we said?[0m
+2012-05-06 00:53:03 [INFO] <lluoc> hmm, I think they have done that before...[0m
+2012-05-06 00:53:10 [INFO] <ultrajono> mebeme?[0m
+2012-05-06 00:53:20 [INFO] <lluoc> yeah[0m
+2012-05-06 00:53:34 [INFO] <ultrajono> wonder why[0m
+2012-05-06 00:54:52 [INFO] <lluoc> hmm, no they were able to log in before[0m
+2012-05-06 00:55:16 [INFO] <lluoc> any chance you can sleep?[0m
+2012-05-06 00:55:38 [INFO] <ultrajono> sure[0m
+2012-05-06 00:55:42 [INFO] <ultrajono> in bed[0m
+2012-05-06 00:55:46 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-06 00:55:46 [INFO] Connection reset
+2012-05-06 00:55:52 [INFO] lluoc [/127.0.0.1:49722] logged in with entity id 234232 at ([world] -62.36863601649398, 136.0, -40.96842481164448)
+2012-05-06 00:55:55 [INFO] <lluoc> thanks[0m
+2012-05-06 00:55:58 [INFO] <ultrajono> np[0m
+2012-05-06 00:56:10 [INFO] <lluoc> you know what would really be helpful.[0m
+2012-05-06 00:56:16 [INFO] <ultrajono> ?[0m
+2012-05-06 00:56:20 [INFO] <lluoc> the ability to tell the server time without loging on[0m
+2012-05-06 00:56:40 [INFO] <ultrajono> that would be handy[0m
+2012-05-06 00:57:39 [INFO] <ultrajono> half chest full of cane now[0m
+2012-05-06 00:57:58 [INFO] <lluoc> I should extend my farm tower at some point[0m
+2012-05-06 00:58:19 [INFO] <ultrajono> i'm thinkin of mining actually[0m
+2012-05-06 00:58:38 [INFO] <ultrajono> efficency 5, silk touch one[0m
+2012-05-06 00:59:08 [INFO] <lluoc> heh, mining wood with a silk touch is kind of werd[0m
+2012-05-06 00:59:15 [INFO] <lluoc> the leaves drop as leaves.[0m
+2012-05-06 00:59:16 [INFO] <ultrajono> what does it get?[0m
+2012-05-06 00:59:38 [INFO] <lluoc> on wood it acts like an axe. on leaves it acts like shears[0m
+2012-05-06 01:00:07 [INFO] <lluoc> not as handy as it sounds[0m
+2012-05-06 01:00:35 [INFO] <ultrajono> doessn't sound handy at all :P[0m
+2012-05-06 01:00:41 [INFO] <lluoc> exactly[0m
+2012-05-06 01:01:03 [INFO] <ultrajono> how many sticky pistons you use for your melon farm?[0m
+2012-05-06 01:01:17 [INFO] <lluoc> umm, one for each plant[0m
+2012-05-06 01:01:25 [INFO] <ultrajono> i know, but how many deep did you go?[0m
+2012-05-06 01:01:33 [INFO] <ultrajono> i've got 25 sticky pistons[0m
+2012-05-06 01:01:33 [INFO] <lluoc> 1[0m
+2012-05-06 01:01:45 [INFO] <lluoc> try setting up just one row[0m
+2012-05-06 01:01:49 [INFO] <lluoc> and expanding from there[0m
+2012-05-06 01:01:52 [INFO] <ultrajono> i'll try in creative[0m
+2012-05-06 01:01:53 [INFO] <lluoc> that's what i did[0m
+2012-05-06 01:01:56 [INFO] <ultrajono> how many in the row?[0m
+2012-05-06 01:02:25 [INFO] <lluoc> as in sticky/dirt | plant | plant | sticky?dirt |.....[0m
+2012-05-06 01:04:21 [INFO] <ultrajono> i miss mining with enchanted diamond axes[0m
+2012-05-06 01:04:43 [INFO] <lluoc> there is a solution to that...[0m
+2012-05-06 01:04:48 [INFO] <ultrajono> get one?[0m
+2012-05-06 01:05:00 [INFO] <lluoc> that is the short form of it.[0m
+2012-05-06 01:05:08 [INFO] <ultrajono> hello random slime[0m
+2012-05-06 01:05:13 [INFO] <ultrajono> hello 2 more slimeballs :D[0m
+2012-05-06 01:05:19 [INFO] <lluoc> the long form is, "hit endermanm, hit enderman, hit enderman, hit enderman....."[0m
+2012-05-06 01:05:36 [INFO] <ultrajono> do you think you get better stuff if you use better gear to get there?[0m
+2012-05-06 01:05:43 [INFO] <lluoc> I have no idea why the slime grinders no longer work[0m
+2012-05-06 01:05:59 [INFO] <lluoc> not really but you will get there faster.[0m
+2012-05-06 01:06:19 [INFO] <ultrajono> if it wasn't 1 am i would get another enchanted pick and use it all[0m
+2012-05-06 01:06:36 [INFO] <lluoc> oh shit it's 1[0m
+2012-05-06 01:06:42 [INFO] <ultrajono> hello blue stuff[0m
+2012-05-06 01:11:39 [INFO] <ultrajono> fucking hate gravel[0m
+2012-05-06 01:12:13 [INFO] <ultrajono> used my last pick, i'm on my way back to base and then i'm off to sleep for real[0m
+2012-05-06 01:12:28 [INFO] <ultrajono> only 20 diamond this time[0m
+2012-05-06 01:12:39 [INFO] <lluoc> ...[0m
+2012-05-06 01:12:48 [INFO] <ultrajono> yes, i know, sadening[0m
+2012-05-06 01:12:56 [INFO] <lluoc> heh, how much do you have anyway?[0m
+2012-05-06 01:13:23 [INFO] <ultrajono> total you mean?[0m
+2012-05-06 01:14:13 [INFO] <ultrajono> in this chest, only 3[0m
+2012-05-06 01:14:16 [INFO] <ultrajono> in my other though[0m
+2012-05-06 01:15:12 [INFO] <lluoc> go on...[0m
+2012-05-06 01:15:13 [INFO] <ultrajono> 4, plus 12 blocks[0m
+2012-05-06 01:15:19 [INFO] <ultrajono> 33 blocks of iron[0m
+2012-05-06 01:15:26 [INFO] <ultrajono> 7 plus 5 blocks of gold[0m
+2012-05-06 01:15:35 [INFO] <lluoc> so about 115 total[0m
+2012-05-06 01:15:41 [INFO] <ultrajono> and over 12 stacks of redstone[0m
+2012-05-06 01:16:02 [INFO] <lluoc> how much has this increased since fortune?[0m
+2012-05-06 01:16:30 [INFO] <ultrajono> some[0m
+2012-05-06 01:16:47 [INFO] <ultrajono> gold and iron and such, obviously n one, i rarely use that pick on redstone[0m
+2012-05-06 01:16:58 [INFO] <ultrajono> my house chest has like, a half chest full of redstone[0m
+2012-05-06 01:17:27 [INFO] <ultrajono> i like to think i'm alright :D[0m
+2012-05-06 01:17:36 [INFO] <lluoc> I use my fourtune picks on anything that increases the drop.[0m
+2012-05-06 01:17:44 [INFO] <lluoc> 115 diamond. I think your doing ok.[0m
+2012-05-06 01:17:47 [INFO] <ultrajono> how many fortune picks do you have?[0m
+2012-05-06 01:17:47 [INFO] <lluoc> grrr[0m
+2012-05-06 01:18:00 [INFO] <ultrajono> ?[0m
+2012-05-06 01:18:04 [INFO] <lluoc> now, only one that is near broken from ages ago[0m
+2012-05-06 01:18:07 [INFO] <lluoc> diamond[0m
+2012-05-06 01:18:19 [INFO] <lluoc> Need to get a new one.[0m
+2012-05-06 01:18:22 [INFO] <ultrajono> oh, i also have a full set of diamond armour (soon to be enchanted)[0m
+2012-05-06 01:18:35 [INFO] <ultrajono> as well as diamond sword, diamond axe, and 3 enchanted picks[0m
+2012-05-06 01:18:46 [INFO] <ultrajono> if i didnt' make the amour, i'd have a fuckload more, but i figured i coudl spare it[0m
+2012-05-06 01:19:00 [INFO] <ultrajono> besides, it makes sense to have a set of enchanted diamond armour in this game[0m
+2012-05-06 01:19:38 [INFO] <lluoc> yeah, after a little while you have to stop and actually use some of this stuff you get.[0m
+2012-05-06 01:19:44 [INFO] <lluoc> if only to make more room for more stuff...[0m
+2012-05-06 01:19:54 [INFO] <ultrajono> well i've got an alright place[0m
+2012-05-06 01:20:00 [INFO] <ultrajono> need to make it look prettier and such i guess[0m
+2012-05-06 01:20:13 [INFO] <lluoc> I know, cover it in DIAMOND[0m
+2012-05-06 01:20:16 [INFO] <ultrajono> its why i'm happy giving my redstone, i know i'll use it[0m
+2012-05-06 01:20:22 [INFO] <ultrajono> challenge accepted :D[0m
+2012-05-06 01:20:28 [INFO] <lluoc> heh[0m
+2012-05-06 01:20:28 [INFO] <ultrajono> i'll have a diamond room in my place[0m
+2012-05-06 01:20:46 [INFO] <ultrajono> when it gets zoned[0m
+2012-05-06 01:20:57 [INFO] <ultrajono> hello another bit of random slime[0m
+2012-05-06 01:21:01 [INFO] <lluoc> I think your having an idea similar to my gaudy room[0m
+2012-05-06 01:21:07 [INFO] <ultrajono> gaudy?[0m
+2012-05-06 01:21:39 [INFO] <lluoc> room full of rare stuff[0m
+2012-05-06 01:21:46 [INFO] <ultrajono> oh yeh, i need that[0m
+2012-05-06 01:21:58 [INFO] <lluoc> hmm, the last commit to MCProxy was about a week ago. Might be time to start moving it onto the serv[0m
+2012-05-06 01:22:01 [INFO] <ultrajono> i have to have my diamond and gold and iron all in blocks[0m
+2012-05-06 01:22:24 [INFO] <ultrajono> and now its 28 pistons :D[0m
+2012-05-06 01:22:40 [INFO] <lluoc> has stickypistons helped?[0m
+2012-05-06 01:22:56 [INFO] <ultrajono> yup :D[0m
+2012-05-06 01:23:08 [INFO] <ultrajono> even if i know i'm not gonna play, i log on to get em[0m
+2012-05-06 01:23:15 [INFO] <ultrajono> dude, i'm a horder and then some ey[0m
+2012-05-06 01:23:19 [INFO] <lluoc> that's the idea[0m
+2012-05-06 01:23:37 [INFO] <ultrajono> i had a fair bit beforehand, i didnt' even have any pistons, i didnt' make anything, i just mined[0m
+2012-05-06 01:23:46 [INFO] <ultrajono> and mined and mined and mined and mined and mined[0m
+2012-05-06 01:23:55 [INFO] <ultrajono> would a diamond hoe be to much?[0m
+2012-05-06 01:23:58 [INFO] <lluoc> day after day, month after month... with stone pick axes[0m
+2012-05-06 01:24:01 [INFO] <lluoc> yes[0m
+2012-05-06 01:24:05 [INFO] <ultrajono> shadup you[0m
+2012-05-06 01:24:25 [INFO] <ultrajono> i guess i overjewed it, had stuff, to 'scared' to use it[0m
+2012-05-06 01:24:52 [INFO] <lluoc> 'jewed it' ...[0m
+2012-05-06 01:24:59 [INFO] <ultrajono> what, it works :P[0m
+2012-05-06 01:25:14 [INFO] <ultrajono> unless you find htat offensive?[0m
+2012-05-06 01:26:08 [INFO] <lluoc> Put this way, if I was to comment on everything that I found offensive in every day conversations[0m
+2012-05-06 01:26:15 [INFO] <lluoc> then I would never get anywere.[0m
+2012-05-06 01:26:21 [INFO] <ultrajono> :D sorry if i offended you[0m
+2012-05-06 01:26:43 [INFO] <ultrajono> nearly a full double chest of food[0m
+2012-05-06 01:26:48 [INFO] <ultrajono> sleep?[0m
+2012-05-06 01:26:55 [INFO] <lluoc> as in want me to sleep?[0m
+2012-05-06 01:26:59 [INFO] <ultrajono> please[0m
+2012-05-06 01:27:02 [INFO] Connection reset
+2012-05-06 01:27:02 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-06 01:27:13 [INFO] lluoc [/127.0.0.1:49729] logged in with entity id 338374 at ([world] -57.69691210693458, 161.0, -40.28725186462509)
+2012-05-06 01:27:24 [INFO] <ultrajono> danke[0m
+2012-05-06 01:28:26 [INFO] <lluoc> reached level 160 in the grinder. Only another... sigh, 90 to go[0m
+2012-05-06 01:28:34 [INFO] <ultrajono> :D[0m
+2012-05-06 01:28:36 [INFO] <ultrajono> only[0m
+2012-05-06 01:28:48 [INFO] <ultrajono> home stretch[0m
+2012-05-06 01:29:05 [INFO] <lluoc> most of these levels won't actually get used[0m
+2012-05-06 01:29:09 [INFO] <ultrajono> why?[0m
+2012-05-06 01:29:21 [INFO] <lluoc> they only spawn withing a certain range of you[0m
+2012-05-06 01:29:40 [INFO] <ultrajono> so why do it like that?[0m
+2012-05-06 01:29:44 [INFO] <lluoc> and a lot of this tower will be out of range unless you go up really heigh into an akward[0m
+2012-05-06 01:29:47 [INFO] <lluoc> position[0m
+2012-05-06 01:30:02 [INFO] <lluoc> Because I started it before i realised that and now i'm commited[0m
+2012-05-06 01:30:29 [INFO] <ultrajono> you realise thats nuts, right?[0m
+2012-05-06 01:30:40 [INFO] <lluoc> That's Minecraft[0m
+2012-05-06 01:30:52 [INFO] <ultrajono> home of anal retentive people?[0m
+2012-05-06 01:31:03 [INFO] <lluoc> and hoarders[0m
+2012-05-06 01:31:25 [INFO] <ultrajono> all games, i horde as much as i can, it just makes sense to me to have a lot of everything[0m
+2012-05-06 01:31:27 [INFO] <ultrajono> in games anyway[0m
+2012-05-06 01:31:34 [INFO] <lluoc> I do the same[0m
+2012-05-06 01:31:56 [INFO] <lluoc> nortmally up to the point where i realise, oh wait. I now have so much of this one item[0m
+2012-05-06 01:32:06 [INFO] <lluoc> that I can just steam roll the rest of the game...[0m
+2012-05-06 01:34:07 [INFO] <ultrajono> your talking to a guy who has a half chest full of seeds[0m
+2012-05-06 01:34:13 [INFO] <lluoc> same[0m
+2012-05-06 01:34:25 [INFO] <ultrajono> a full chest of food, well, close enough[0m
+2012-05-06 01:34:39 [INFO] <lluoc> that i've managet to curb my self on[0m
+2012-05-06 01:34:40 [INFO] <ultrajono> remember when we were in my mine, and i was dropping cobble?[0m
+2012-05-06 01:34:58 [INFO] <lluoc> yeah. I've come to value cobble quite a lot[0m
+2012-05-06 01:35:09 [INFO] <lluoc> End up using so much of the damn stuff[0m
+2012-05-06 01:35:09 [INFO] <ultrajono> i meant to say, i got annoyed that i lost that :P[0m
+2012-05-06 01:35:19 [INFO] <lluoc> thing?[0m
+2012-05-06 01:35:36 [INFO] <ultrajono> thing?[0m
+2012-05-06 01:35:56 [INFO] <lluoc> sorry, what did you lose?[0m
+2012-05-06 01:36:07 [INFO] <ultrajono> another 2 stacks of bread, and i lost that cobble, ran out of room, the cobble you picked up?[0m
+2012-05-06 01:36:37 [INFO] <lluoc> ahh... wqant it back?[0m
+2012-05-06 01:36:49 [INFO] <ultrajono> not even a little, considering i've got 2 chests of it, but you get my point[0m
+2012-05-06 01:37:12 [INFO] <lluoc> start buildiing and you'll change. You all change.[0m
+2012-05-06 01:37:18 [INFO] <ultrajono> we all?[0m
+2012-05-06 01:37:25 [INFO] <ultrajono> i've built, just not as much or as in depth[0m
+2012-05-06 01:37:47 [INFO] <lluoc> It always starts like 'oh this won't take much'[0m
+2012-05-06 01:38:01 [INFO] <lluoc> and then becomes 'ok, need anothger 1000 glass for the ceiling.[0m
+2012-05-06 01:38:07 [INFO] <ultrajono> oh, i'm aware of how much this takes, which is why i horde like i do[0m
+2012-05-06 01:38:52 [INFO] <lluoc> this game is probably not good for our mental health is it[0m
+2012-05-06 01:39:11 [INFO] <ultrajono> like, i havne't built nearly as much, or as prettily, but i have a fuckload of gear for when i do[0m
+2012-05-06 01:39:30 [INFO] <ultrajono> same amountof chickens still[0m
+2012-05-06 01:39:45 [INFO] <lluoc> heh, I remember whem i had chickens[0m
+2012-05-06 01:39:56 [INFO] <ultrajono> i think i died by em once[0m
+2012-05-06 01:40:13 [INFO] <lluoc> was hilarious when someone is in the pen and you through wheat at them[0m
+2012-05-06 01:40:16 [INFO] <ultrajono> i wanted that amount[0m
+2012-05-06 01:40:18 [INFO] <lluoc> and they get mobed[0m
+2012-05-06 01:40:20 [INFO] <ultrajono> which is how i died i think[0m
+2012-05-06 01:40:24 [INFO] <lluoc> heh[0m
+2012-05-06 01:40:42 [INFO] <ultrajono> now that doens't happen, you can't get a stupid amount anymore[0m
+2012-05-06 01:41:03 [INFO] <lluoc> I killed mine off as people kepts letting them out, flooding them everywhere[0m
+2012-05-06 01:41:08 [INFO] <lluoc> ? why not?[0m
+2012-05-06 01:41:12 [INFO] <ultrajono> or can you?[0m
+2012-05-06 01:41:23 [INFO] <ultrajono> can i take a butload of your eggs, i have a secure place to put em[0m
+2012-05-06 01:41:38 [INFO] <lluoc> I don't think the mechanitcs changed[0m
+2012-05-06 01:41:47 [INFO] <lluoc> It's easier just to breed them.[0m
+2012-05-06 01:41:51 [INFO] <ultrajono> wheat it is[0m
+2012-05-06 01:42:05 [INFO] <ultrajono> funnily enough, i only have 5 now :P[0m
+2012-05-06 01:42:06 [INFO] <lluoc> plus I'm saving my eggs[0m
+2012-05-06 01:42:10 [INFO] <ultrajono> for?[0m
+2012-05-06 01:42:24 [INFO] <lluoc> don't know exaclty yet but when i do it shall be amazing[0m
+2012-05-06 01:42:43 [INFO] <ultrajono> i have a half chest full of bread, and only 5 wheat, kinda amusing[0m
+2012-05-06 01:43:44 [INFO] <ultrajono> i'm off man, toodles[0m
+2012-05-06 01:43:55 [INFO] <ultrajono> thanks for the rod, as long as it lasted and all[0m
+2012-05-06 01:44:40 [INFO] <lluoc> k[0m
+2012-05-06 01:44:44 [INFO] <lluoc> night[0m
+2012-05-06 01:45:01 [INFO] Connection reset
+2012-05-06 01:45:01 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-06 01:58:23 [INFO] Connection reset
+2012-05-06 01:58:23 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-06 01:58:27 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 170 in world, very far blocks from no one
+2012-05-06 01:58:42 [INFO] lluoc [/127.0.0.1:49736] logged in with entity id 582546 at ([world] -63.69999998807905, 169.1743066505959, -43.574999988079064)
+2012-05-06 01:58:53 [INFO] Connection reset
+2012-05-06 01:58:53 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-06 02:07:46 [INFO] lluoc [/127.0.0.1:49742] logged in with entity id 583970 at ([world] -63.69999998807907, 167.0, -43.69999998807907)
+2012-05-06 02:07:49 [INFO] Connection reset
+2012-05-06 02:07:49 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-06 02:07:50 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 166 in world, very far blocks from no one
+2012-05-06 02:08:14 [INFO] lluoc [/127.0.0.1:49746] logged in with entity id 584730 at ([world] -63.69999998807907, 167.0, -43.69999998807907)
+2012-05-06 02:08:20 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 164 in world, 2.8 blocks from lluoc
+2012-05-06 02:12:35 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-05-06 02:13:25 [INFO] lluoc: Setting lluoc to game mode 0[0m
+2012-05-06 02:13:32 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-05-06 02:14:45 [INFO] lluoc: Setting lluoc to game mode 0[0m
+2012-05-06 02:15:18 [INFO] Connection reset
+2012-05-06 02:15:18 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-06 02:33:02 [INFO] lluoc [/127.0.0.1:49752] logged in with entity id 621396 at ([world] -67.7837947086114, 88.0, -20.868604671020517)
+2012-05-06 02:49:42 [INFO] Connection reset
+2012-05-06 02:49:42 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-06 08:00:01 [INFO] [35m[Server] Starting backup.[0m
+2012-05-06 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-05-06 08:00:01 [INFO] CONSOLE: Save complete.[0m
+2012-05-06 08:00:01 [INFO] CONSOLE: Disabling level saving..[0m

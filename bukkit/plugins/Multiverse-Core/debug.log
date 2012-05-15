@@ -1,0 +1,120 @@
+2012-05-10 17:21:27 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-05-10 17:21:27 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-05-10 17:21:27 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-05-10 17:21:27 [WARNING] [Multiverse-Core] Original Location: X: -23 Y: 64 Z: -14 P: 0 Y: 0 
+2012-05-10 17:21:27 [INFO] [Multiverse-Core] New Spawn for 'world' is Located at: world:-19.50,64.00,-10.50:0.00:0.00
+2012-05-10 17:21:27 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 17:21:27 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-05-10 17:21:27 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+2012-05-10 17:21:27 [INFO] [Multiverse-Core] New Spawn for 'world_nether' is Located at: world_nether:-4.50,64.00,-4.50:0.00:0.00
+2012-05-10 17:21:27 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 17:21:27 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-05-10 17:21:27 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2012-05-10 17:21:27 [INFO] [Multiverse-Core] New Spawn for 'world_the_end' is Located at: world_the_end:0.00,63.00,0.00:0.00:0.00
+2012-05-10 17:21:27 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-05-10 17:21:27 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 17:21:27 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 17:21:27 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2012-05-10 17:34:21 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL
+2012-05-10 17:34:30 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-05-10 17:34:30 [WARNING] [Multiverse-Core] Original Location: X: -136 Y: 64 Z: 236 P: 0 Y: 0 
+2012-05-10 17:34:31 [INFO] [Multiverse-Core] New Spawn for 'creative' is Located at: creative:-142.50,69.00,229.50:0.00:0.00
+2012-05-10 17:39:56 [INFO] [Multiverse-Core] World 'creative' was unloaded from memory.
+2012-05-10 17:39:56 [INFO] [Multiverse-Core] World 'creative' was removed from config.yml
+2012-05-10 17:39:56 [INFO] [Multiverse-Core] World creative was DELETED.
+2012-05-10 17:40:05 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-05-10 17:40:15 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-05-10 17:40:15 [WARNING] [Multiverse-Core] Original Location: X: -252 Y: 64 Z: 36 P: 0 Y: 0 
+2012-05-10 17:40:15 [INFO] [Multiverse-Core] New Spawn for 'creative' is Located at: creative:-243.50,64.00,36.50:0.00:0.00
+2012-05-10 17:53:52 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-05-10 17:53:52 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-05-10 17:53:52 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 17:53:53 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 17:53:53 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-05-10 17:53:53 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2012-05-10 18:33:25 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-05-10 18:33:25 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-05-10 18:33:25 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 18:33:25 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 18:33:25 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-05-10 18:33:25 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2012-05-10 20:15:23 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-05-10 20:15:23 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-05-10 20:15:23 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:15:25 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:15:25 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-05-10 20:15:25 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2012-05-10 20:16:38 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-05-10 20:16:38 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-05-10 20:16:38 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:16:38 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:16:38 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-05-10 20:16:38 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core] Multiverse-Core Version: 2.4-b527
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core] Bukkit Version: git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5)
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core] Loaded Worlds: 4
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core] Multiverse Plugins Loaded: 2
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core] Economy being used: Simple Item Economy
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core] Permissions Plugin: Bukkit Permissions (SuperPerms)
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core] Dumping Config Values: (version 2.9)
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core]  messagecooldown: 5000
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core]  teleportcooldown: 1000
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core]  worldnameprefix: true
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core]  enforceaccess: false
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core]  displaypermerrors: true
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core]  teleportintercept: true
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core]  firstspawnoverride: true
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core]  firstspawnworld: world
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core]  debug: 0
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Core] Special Code: FRN002
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Portals] Multiverse-Portals Version: 2.4-b548
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Portals] Loaded Portals: 2
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Portals] Dumping Portal Values: (version 2.7)
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Portals]  wand: 271
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Portals]  useonmove: true
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Portals]  enforceportalaccess: true
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Portals]  portalsdefaulttonether: false
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Portals]  portalcooldown: 1000
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Portals]  clearonremove: false
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Portals] Special Code: FRN001
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Inventories] Multiverse-Inventories Version: 2.4-b147
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Inventories] Debug Level: 0
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Inventories] First Run: false
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Inventories] === Groups ===
+2012-05-10 20:22:45 [INFO] [Multiverse-Core] [Multiverse-Inventories] default: {Worlds: [world_nether, world, world_the_end], Shares: [hit_points, economy, food_level, saturation, exhaustion, xp, total_xp, lvl, inventory_contents, armor_contents, bed_spawn, maximum_air, remaining_air, fall_distance, fire_ticks, potion_effects, last_location], Negative Shares: []}
+2012-05-10 20:37:22 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-05-10 20:37:22 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-05-10 20:37:23 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:37:23 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:37:23 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-05-10 20:37:23 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2012-05-10 20:37:48 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-05-10 20:37:48 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-05-10 20:37:48 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:37:48 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:37:48 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-05-10 20:37:48 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2012-05-10 20:42:17 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-05-10 20:42:17 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-05-10 20:42:17 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:42:17 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:42:17 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-05-10 20:42:17 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2012-05-10 20:50:04 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-05-10 20:50:04 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-05-10 20:50:04 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:50:04 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:50:04 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-05-10 20:50:04 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2012-05-10 20:50:39 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-05-10 20:50:39 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-05-10 20:50:39 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:50:39 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:50:39 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-05-10 20:50:39 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2012-05-10 20:53:15 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-05-10 20:53:15 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-05-10 20:53:15 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:53:15 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-05-10 20:53:15 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-05-10 20:53:15 [INFO] [Multiverse-Core] 4 - World(s) loaded.

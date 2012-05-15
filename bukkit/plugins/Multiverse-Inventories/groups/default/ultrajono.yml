@@ -1,0 +1,6 @@
+playerData:
+  armorContents: ''
+  inventoryContents: 0:t:274;d:10/7:t:360;#:30/8:t:50;#:53/12:t:280;#:2/35:t:50;#:34
+  potions: ''
+  bedSpawnLocation: wo:world;x:618.0;y:65.0;z:-336.0;pi:0.0;ya:0.0
+  stats: ra:300;el:2;ma:300;ft:-20;fl:18;sa:0.0;txp:28;hp:20;fd:0.0;ex:2.8521645;xp:0.7857143

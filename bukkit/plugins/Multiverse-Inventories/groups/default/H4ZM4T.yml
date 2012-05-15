@@ -1,0 +1,6 @@
+playerData:
+  armorContents: 0:t:313;d:2;e:PROTECTION_ENVIRONMENTAL:4
+  inventoryContents: 0:t:368;#:4/1:t:367;#:6/2:t:368;#:16/3:t:360;#:37/4:t:368;#:15/5:t:341;#:10/6:t:313/7:t:297;#:25/8:t:289;#:11/9:t:368;#:16/10:t:368;#:16/11:t:368;#:16/12:t:368;#:14/13:t:86/14:t:262;#:4/15:t:352/16:t:287;#:2/17:t:313;e:PROTECTION_ENVIRONMENTAL:2/19:t:296;#:19/35:t:368;#:16
+  potions: ''
+  bedSpawnLocation: wo:world;x:-5067.0;y:86.0;z:-1303.0;pi:0.0;ya:0.0
+  stats: ra:300;ma:300;el:4;ft:-20;fl:20;sa:0.0;txp:1288;hp:20;fd:0.0;ex:1.4882405;xp:0.4711253

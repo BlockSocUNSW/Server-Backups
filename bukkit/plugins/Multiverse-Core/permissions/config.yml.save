@@ -1,0 +1,17 @@
+  users:    
+      myplayername:
+          permissions:
+          groups:
+          - admin
+  groups:
+      default:
+          permissions:
+              permissions.build: false              multiverse.core.tp.self: true
+      admin:
+          permissions:
+              permissions.*: true
+              multiverse.world.create: true
+          inheritance:
+          - default
+  messages:
+      build: '&cYou do not have permission to build here.'

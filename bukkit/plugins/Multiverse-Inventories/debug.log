@@ -1,0 +1,42 @@
+2012-05-10 18:33:25 [INFO] [Multiverse-Inventories] First run!
+2012-05-10 18:33:25 [INFO] [Multiverse-Inventories] Created a default group for you containing all of your default worlds: world, world_nether, world_the_end
+2012-05-10 18:33:25 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-05-10 18:33:25 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-05-10 18:33:25 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-05-10 20:15:23 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-05-10 20:15:25 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-05-10 20:15:25 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-05-10 20:15:25 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-05-10 20:16:38 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-05-10 20:16:38 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-05-10 20:16:38 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-05-10 20:16:38 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-05-10 20:22:45 [INFO] [Multiverse-Inventories] Multiverse-Inventories Version: 2.4-b147
+2012-05-10 20:22:45 [INFO] [Multiverse-Inventories] Debug Level: 0
+2012-05-10 20:22:45 [INFO] [Multiverse-Inventories] First Run: false
+2012-05-10 20:22:45 [INFO] [Multiverse-Inventories] === Groups ===
+2012-05-10 20:22:45 [INFO] [Multiverse-Inventories] default: {Worlds: [world_nether, world, world_the_end], Shares: [hit_points, economy, food_level, saturation, exhaustion, xp, total_xp, lvl, inventory_contents, armor_contents, bed_spawn, maximum_air, remaining_air, fall_distance, fire_ticks, potion_effects, last_location], Negative Shares: []}
+2012-05-10 20:37:22 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-05-10 20:37:23 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-05-10 20:37:23 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-05-10 20:37:23 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-05-10 20:37:48 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-05-10 20:37:48 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-05-10 20:37:48 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-05-10 20:37:48 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-05-10 20:42:17 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-05-10 20:42:17 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-05-10 20:42:17 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-05-10 20:42:17 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-05-10 20:50:04 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-05-10 20:50:04 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-05-10 20:50:04 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-05-10 20:50:04 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-05-10 20:50:39 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-05-10 20:50:39 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-05-10 20:50:39 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-05-10 20:50:39 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-05-10 20:53:15 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-05-10 20:53:15 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-05-10 20:53:15 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-05-10 20:53:15 [INFO] [Multiverse-Inventories 2.4-b147] enabled.

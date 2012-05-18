@@ -19,3 +19,23 @@ portals:
     location: -244.0,114.0,34.0:-244.0,118.0,38.0
     world: creative
     destination: p:portalWorldToCreative
+  portalFireTempleWorld:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: lluoc
+    location: -2.0,196.0,1999.0:1.0,200.0,1999.0
+    world: world
+    destination: p:portalFireTempleNether:n
+  portalFireTempleNether:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: lluoc
+    location: -2.0,119.0,250.0:1.0,123.0,250.0
+    world: world_nether
+    destination: p:portalFireTempleWorld:s

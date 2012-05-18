@@ -24087,3 +24087,397 @@ java.lang.IllegalArgumentException: 'default' key contained unknown value
 2012-05-16 08:00:02 [INFO] CONSOLE: Forcing save..[0m
 2012-05-16 08:00:02 [INFO] CONSOLE: Save complete.[0m
 2012-05-16 08:00:02 [INFO] CONSOLE: Disabling level saving..[0m
+2012-05-16 08:02:58 [INFO] CONSOLE: Enabling level saving..[0m
+2012-05-16 08:02:58 [INFO] CONSOLE: Forcing save..[0m
+2012-05-16 08:02:58 [INFO] CONSOLE: Save complete.[0m
+2012-05-16 08:02:58 [INFO] [35m[Server] Backup complete.[0m
+2012-05-16 10:44:41 [INFO] ultrajono [/127.0.0.1:51950] logged in with entity id 1163935 at ([world] 628.3923191459986, 60.0, -318.6303079723503)
+2012-05-16 10:48:49 [INFO] Connection reset
+2012-05-16 10:48:49 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-16 13:36:17 [INFO] Connection reset
+2012-05-16 15:16:38 [INFO] lluoc [/127.0.0.1:51986] logged in with entity id 1166762 at ([creative] -491.35046231178126, 77.0, -119.5945347789975)
+2012-05-16 15:18:10 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[0m
+2012-05-16 15:51:53 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-16 15:51:53 [INFO] Connection reset
+2012-05-16 17:55:18 [INFO] Ellethwen11 [/127.0.0.1:52007] logged in with entity id 1209136 at ([world] 6.477532565039555, 63.0, 2.2257990457741386)
+2012-05-16 17:56:28 [INFO] CONSOLE: Giving Ellethwen11 some 341 (SLIME_BALL)[0m
+2012-05-16 17:59:49 [INFO] Connection reset
+2012-05-16 17:59:49 [INFO] Ellethwen11 lost connection: disconnect.quitting
+2012-05-16 22:54:40 [INFO] Cyriaan [/127.0.0.1:52045] logged in with entity id 1213691 at ([world] 316.5, 60.0, -70.5)
+2012-05-16 22:54:53 [INFO] CONSOLE: Giving Cyriaan some 341 (SLIME_BALL)[0m
+2012-05-16 23:37:31 [INFO] Read timed out
+2012-05-16 23:37:31 [INFO] Cyriaan lost connection: disconnect.endOfStream
+2012-05-16 23:50:50 [INFO] Connection reset
+2012-05-16 23:59:37 [INFO] ultrajono [/127.0.0.1:52058] logged in with entity id 1259126 at ([world] 622.2911070674405, 59.0, -341.8212694298301)
+2012-05-17 00:04:40 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-17 00:04:40 [INFO] Connection reset
+2012-05-17 08:00:01 [INFO] [35m[Server] Starting backup.[0m
+2012-05-17 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-05-17 08:00:01 [INFO] CONSOLE: Save complete.[0m
+2012-05-17 08:00:01 [INFO] CONSOLE: Disabling level saving..[0m
+2012-05-17 08:00:29 [INFO] CONSOLE: Enabling level saving..[0m
+2012-05-17 08:00:29 [INFO] CONSOLE: Forcing save..[0m
+2012-05-17 08:00:29 [INFO] CONSOLE: Save complete.[0m
+2012-05-17 10:22:15 [INFO] Mondoza [/127.0.0.1:52132] logged in with entity id 1265735 at ([world] -5060.613550604196, 94.0, -1291.5871166441666)
+2012-05-17 10:22:24 [INFO] Connection reset
+2012-05-17 10:22:24 [INFO] Mondoza lost connection: disconnect.quitting
+2012-05-17 15:20:35 [INFO] H4ZM4T [/127.0.0.1:52172] logged in with entity id 1267059 at ([creative] -274.74540783732107, 72.92499996682714, 120.08829824595873)
+2012-05-17 15:21:16 [INFO] CONSOLE: Giving H4ZM4T some 341 (SLIME_BALL)[0m
+2012-05-17 15:47:45 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-05-17 16:35:38 [INFO] H4ZM4T [/127.0.0.1:52183] logged in with entity id 1290838 at ([world] -56.69999998807907, 63.0, -42.30000001192093)
+2012-05-17 17:04:40 [INFO] Connection reset
+2012-05-17 17:04:40 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-05-17 21:42:57 [INFO] ultrajono [/127.0.0.1:52221] logged in with entity id 1312586 at ([world] 621.1267100192832, 63.5, -325.9987768660162)
+2012-05-17 21:43:01 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-05-17 21:44:13 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-17 21:44:13 [INFO] Connection reset
+2012-05-17 22:46:19 [INFO] ultrajono [/127.0.0.1:52231] logged in with entity id 1313104 at ([world] 625.5735944904726, 60.0, -320.73707911132317)
+2012-05-17 22:51:41 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-17 22:51:41 [INFO] Connection reset
+2012-05-17 23:12:50 [INFO] ultrajono [/127.0.0.1:52238] logged in with entity id 1319700 at ([world] 623.7074996202103, 59.0, -339.69999998807907)
+2012-05-17 23:17:17 [INFO] Connection reset
+2012-05-17 23:17:17 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-17 23:45:21 [INFO] ultrajono [/127.0.0.1:52246] logged in with entity id 1322672 at ([world] 629.5035189721992, 62.0, -379.60138069156625)
+2012-05-18 00:01:52 [INFO] Connection reset
+2012-05-18 00:01:52 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-18 08:00:01 [INFO] [35m[Server] Starting backup.[0m
+2012-05-18 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-05-18 08:00:01 [INFO] CONSOLE: Save complete.[0m
+2012-05-18 08:00:01 [INFO] CONSOLE: Disabling level saving..[0m
+2012-05-18 08:00:40 [INFO] CONSOLE: Enabling level saving..[0m
+2012-05-18 08:00:40 [INFO] CONSOLE: Forcing save..[0m
+2012-05-18 08:00:40 [INFO] CONSOLE: Save complete.[0m
+2012-05-18 11:58:37 [INFO] ultrajono [/127.0.0.1:52332] logged in with entity id 1339398 at ([world] 614.7950766191133, 61.0, -321.63173593629307)
+2012-05-18 12:25:57 [INFO] adrianjboyer [/127.0.0.1:52338] logged in with entity id 1361543 at ([world] 526.8370199127543, 80.0, -363.81986841095903)
+2012-05-18 12:27:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-05-18 12:34:37 [INFO] Connection reset
+2012-05-18 12:34:37 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-05-18 12:38:31 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-18 12:38:31 [INFO] Connection reset
+2012-05-18 12:45:27 [INFO] ultrajono [/127.0.0.1:52344] logged in with entity id 1383602 at ([world] 622.1264885190084, 59.0, -340.31384410672655)
+2012-05-18 12:45:54 [INFO] Connection reset
+2012-05-18 12:45:54 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-18 20:40:45 [INFO] lluoc [/127.0.0.1:52400] logged in with entity id 1385553 at ([world] -73.5, 80.0, -24.5)
+2012-05-18 20:40:54 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[0m
+2012-05-18 20:56:28 [INFO] lluoc: Giving lluoc some 7 (BEDROCK)[0m
+2012-05-18 20:57:52 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-05-18 20:58:46 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-05-18 21:03:50 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-18 21:03:50 [INFO] Connection reset
+2012-05-18 22:04:21 [INFO] lluoc [/127.0.0.1:52413] logged in with entity id 1427183 at ([world_nether] 0.14439499290512506, 120.0, 247.9876593381623)
+2012-05-18 22:05:25 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-05-18 22:06:05 [INFO] Unknown command. Type "help" for help.[0m
+2012-05-18 22:07:12 [INFO] Connection reset
+2012-05-18 22:07:12 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-18 22:42:18 [INFO] lluoc [/127.0.0.1:52421] logged in with entity id 1433971 at ([world_nether] -0.025272937042257193, 120.0, 248.13492285365805)
+2012-05-18 22:42:28 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-05-18 22:57:52 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-18 22:57:52 [INFO] Connection reset
+2012-05-18 23:31:04 [INFO] ultrajono [/127.0.0.1:52430] logged in with entity id 1437703 at ([world] 621.6342861291804, 65.0, -329.21853298632385)
+2012-05-18 23:31:09 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-05-18 23:35:29 [INFO] Connection reset
+2012-05-18 23:35:29 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-19 01:09:45 [INFO] lluoc [/127.0.0.1:52446] logged in with entity id 1440065 at ([world_nether] -0.13410314094012407, 120.0, 248.63695565176775)
+2012-05-19 01:11:08 [INFO] [36m--- [36mPortals[36m ---[0m
+2012-05-19 01:11:08 [INFO] [37mportalCreativeToWorld [33mportalFireTempleWorld [37mportalWorldToCreative [33mportalFireRempleNether [37mportalFireTempleNether[0m
+2012-05-19 01:13:11 [INFO] Portal [36mportalFireTempleNether[37m was removed successfully![0m
+2012-05-19 01:14:28 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-05-19 01:14:54 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-05-19 01:22:23 [INFO] ultrajono [/127.0.0.1:52451] logged in with entity id 1598924 at ([world] 621.9000666079835, 65.0, -329.33295020798954)
+2012-05-19 01:22:31 [INFO] [[34mOverworld[37m]<lluoc> hey[0m
+2012-05-19 01:22:36 [INFO] [[34mOverworld[37m]<ultrajono> hey manh[0m
+2012-05-19 01:22:51 [INFO] [[34mOverworld[37m]<ultrajono> hwo you doin?[0m
+2012-05-19 01:23:02 [INFO] [[34mOverworld[37m]<lluoc> busy.[0m
+2012-05-19 01:23:05 [INFO] [[34mOverworld[37m]<lluoc> so normal[0m
+2012-05-19 01:23:08 [INFO] [[34mOverworld[37m]<ultrajono> leave you to it?[0m
+2012-05-19 01:23:26 [INFO] [[34mOverworld[37m]<lluoc> as in i've been busy[0m
+2012-05-19 01:23:38 [INFO] [[34mOverworld[37m]<ultrajono> ah, fair enough[0m
+2012-05-19 01:23:59 [INFO] [[34mOverworld[37m]<ultrajono> i've been trying to get the melon farm thing going, it doens't like me again[0m
+2012-05-19 01:24:11 [INFO] [[34mOverworld[37m]<lluoc> did you ssee the chicken farm i made in the creative woeld?[0m
+2012-05-19 01:24:15 [INFO] [[34mOverworld[37m]<lluoc> why not?[0m
+2012-05-19 01:24:21 [INFO] [[34mOverworld[37m]<ultrajono> i saw the one you made when i was there, is there anything new?[0m
+2012-05-19 01:24:40 [INFO] [[34mOverworld[37m]<ultrajono> no idea, i followed the plan i made in creative with you, exactly, just dosesn't work[0m
+2012-05-19 01:24:45 [INFO] [[34mOverworld[37m]<ultrajono> new chicken farm? wiht water?[0m
+2012-05-19 01:24:55 [INFO] [[34mOverworld[37m]<ultrajono> oh, i tried reis again, fucker fucked up again[0m
+2012-05-19 01:24:59 [INFO] [[34mOverworld[37m]<lluoc> made one which lets you build them up for easy egg collection and also the abilty to cook[0m
+2012-05-19 01:25:00 [INFO] [[34mOverworld[37m]<lluoc> them[0m
+2012-05-19 01:25:16 [INFO] [[34mOverworld[37m]<ultrajono> gotta go check that out, you ingenious bastard you[0m
+2012-05-19 01:25:22 [INFO] [[34mOverworld[37m]<lluoc> really... I wonder why?[0m
+2012-05-19 01:25:30 [INFO] [[34mOverworld[37m]<ultrajono> 9 by 9 grid[0m
+2012-05-19 01:25:36 [INFO] [[34mOverworld[37m]<ultrajono> on one side, redstone torches with pistons above[0m
+2012-05-19 01:25:55 [INFO] [[34mOverworld[37m]<lluoc> yeah?[0m
+2012-05-19 01:25:57 [INFO] [[34mOverworld[37m]<ultrajono> on the side, 2 by 2 of redstone, followed by 2 lines of sticky pistons[0m
+2012-05-19 01:26:10 [INFO] [[34mOverworld[37m]<ultrajono> with the middle being free for water[0m
+2012-05-19 01:26:19 [INFO] [[34mOverworld[37m]<lluoc> ... maybe look at the design in creative again[0m
+2012-05-19 01:26:40 [INFO] [[34mOverworld[37m]<ultrajono> i went into single player creative, gonna take a butload of photo's[0m
+2012-05-19 01:26:45 [INFO] [[34mOverworld[37m]<ultrajono> you near yours?[0m
+2012-05-19 01:26:52 [INFO] [[34mOverworld[37m]<lluoc> nope. fire temple[0m
+2012-05-19 01:27:09 [INFO] [[34mOverworld[37m]<lluoc> the same thing that lets be put in the creative world[0m
+2012-05-19 01:27:10 [INFO] [[34mOverworld[37m]<ultrajono> you remember something about sending me your file so i can have minimap?[0m
+2012-05-19 01:27:17 [INFO] [[34mOverworld[37m]<lluoc> also let me fix the portal problem[0m
+2012-05-19 01:27:26 [INFO] [[31mNether[37m]<ultrajono> firetemple made creative?[0m
+2012-05-19 01:27:44 [INFO] [[34mOverworld[37m]<lluoc> oh right. umm, i'll do it tonight an put a link on facebook[0m
+2012-05-19 01:27:49 [INFO] [[34mOverworld[37m]<lluoc> no, survival[0m
+2012-05-19 01:28:01 [INFO] [[31mNether[37m]<ultrajono> would it be easier if i just gave you my email?[0m
+2012-05-19 01:28:14 [INFO] [[31mNether[37m]<ultrajono> firetemple made survival???[0m
+2012-05-19 01:28:23 [INFO] [[34mOverworld[37m]<lluoc> eh, if i link it it won't get asked aggain[0m
+2012-05-19 01:28:34 [INFO] [[31mNether[37m]<ultrajono> happen before huh[0m
+2012-05-19 01:28:37 [INFO] [[34mOverworld[37m]<lluoc> I mean your not the only one who has trouble with maps[0m
+2012-05-19 01:28:39 [INFO] [[34mOverworld[37m]<lluoc> yeah[0m
+2012-05-19 01:28:49 [INFO] [[34mOverworld[37m]<lluoc> umm, look on the world map at coord 0,2000[0m
+2012-05-19 01:28:58 [INFO] [[31mNether[37m]<ultrajono> give me a sec[0m
+2012-05-19 01:30:39 [INFO] [[31mNether[37m]<ultrajono> which map? standard over?[0m
+2012-05-19 01:30:43 [INFO] [[34mOverworld[37m]<lluoc> yeah[0m
+2012-05-19 01:31:37 [INFO] [[31mNether[37m]<ultrajono> what the fudge am i looking at?[0m
+2012-05-19 01:31:46 [INFO] [[34mOverworld[37m]<lluoc> the red thing?[0m
+2012-05-19 01:31:56 [INFO] [[31mNether[37m]<ultrajono> hm[0m
+2012-05-19 01:32:19 [INFO] [[34mOverworld[37m]<lluoc> hmm, well if you go to my house portal i can guide you to the portal here[0m
+2012-05-19 01:32:36 [INFO] [[34mOverworld[37m]<ultrajono> i'm already here :D[0m
+2012-05-19 01:32:47 [INFO] [[34mOverworld[37m]<lluoc> you'll needy ou view disnact set to maximum[0m
+2012-05-19 01:32:59 [INFO] [[34mOverworld[37m]<lluoc> where?[0m
+2012-05-19 01:33:10 [INFO] [[34mOverworld[37m]<ultrajono> portla room, where do you want me?[0m
+2012-05-19 01:33:16 [INFO] [[34mOverworld[37m]<lluoc> in the nether[0m
+2012-05-19 01:33:34 [INFO] [[34mOverworld[37m]<lluoc> turn down the passage just to the left of my portal[0m
+2012-05-19 01:33:39 [INFO] [[34mOverworld[37m]<lluoc> there are vines up[0m
+2012-05-19 01:33:47 [INFO] [[34mOverworld[37m]<lluoc> follow the one path that has a sign[0m
+2012-05-19 01:34:20 [INFO] [[31mNether[37m]<ultrajono> its easier when your not laying in a frackin bed, allt he way up ey?[0m
+2012-05-19 01:34:29 [INFO] [[34mOverworld[37m]<lluoc> ?[0m
+2012-05-19 01:34:44 [INFO] [[31mNether[37m]<ultrajono> mulitple levels of up from your portal man[0m
+2012-05-19 01:35:03 [INFO] [[34mOverworld[37m]<lluoc> ahh, yeah.[0m
+2012-05-19 01:35:17 [INFO] [[34mOverworld[37m]<lluoc> that house was much more impressive when the limit was 128[0m
+2012-05-19 01:35:54 [INFO] [[34mOverworld[37m]<lluoc> with 256 the house section is just a stuby thing[0m
+2012-05-19 01:35:59 [INFO] [[31mNether[37m]<ultrajono> only sign says south fire?[0m
+2012-05-19 01:36:06 [INFO] [[34mOverworld[37m]<lluoc> follow[0m
+2012-05-19 01:36:18 [INFO] [[31mNether[37m]<ultrajono> was trying to go up a level on vines, kinda tricky[0m
+2012-05-19 01:36:35 [INFO] [[34mOverworld[37m]<lluoc> the vines actually go all the way up to the bed rock layer[0m
+2012-05-19 01:36:52 [INFO] [[31mNether[37m]<ultrajono> stupid vines, work well as quick drops, except they keep on growin[0m
+2012-05-19 01:37:00 [INFO] [[34mOverworld[37m]<lluoc> i put a hole in at 0,0 so that if you get stuck up there (people were glitching) you could get down[0m
+2012-05-19 01:37:09 [INFO] [[31mNether[37m]<ultrajono> go through this portal ey?[0m
+2012-05-19 01:37:10 [INFO] [[34mOverworld[37m]<lluoc> yeah...[0m
+2012-05-19 01:37:14 [INFO] [[34mOverworld[37m]<lluoc> yeah[0m
+2012-05-19 01:37:23 [INFO] [[34mOverworld[37m]<lluoc> hey[0m
+2012-05-19 01:37:26 [INFO] [[34mOverworld[37m]<ultrajono> hullo[0m
+2012-05-19 01:37:34 [INFO] [[34mOverworld[37m]<lluoc> turn around[0m
+2012-05-19 01:37:36 [INFO] [[34mOverworld[37m]<ultrajono> you creative bastard[0m
+2012-05-19 01:37:52 [INFO] [[34mOverworld[37m]<lluoc> go look at it from the ground[0m
+2012-05-19 01:37:53 [INFO] [[34mOverworld[37m]<ultrajono> holy fuckballs what is this place?[0m
+2012-05-19 01:38:05 [INFO] [[34mOverworld[37m]<lluoc> a LOT of netherrack[0m
+2012-05-19 01:38:21 [INFO] [[34mOverworld[37m]<lluoc> minimap helped a lot with ligning it up.[0m
+2012-05-19 01:38:22 [INFO] [[34mOverworld[37m]<ultrajono> you know, i hadn't had guessed :P[0m
+2012-05-19 01:38:32 [INFO] [[34mOverworld[37m]<ultrajono> and if i go through this water?[0m
+2012-05-19 01:38:33 [INFO] [[34mOverworld[37m]<lluoc> and then several houts of mindless clicking[0m
+2012-05-19 01:38:44 [INFO] [[34mOverworld[37m]<lluoc> that's just there so i can jump down[0m
+2012-05-19 01:38:54 [INFO] [[34mOverworld[37m]<lluoc> no really, look at it from the ground[0m
+2012-05-19 01:38:56 [INFO] [[34mOverworld[37m]<ultrajono> so its safe[0m
+2012-05-19 01:38:58 [INFO] [[34mOverworld[37m]<lluoc> by the portal[0m
+2012-05-19 01:39:10 [INFO] [[34mOverworld[37m]<ultrajono> fuck me sideways[0m
+2012-05-19 01:39:15 [INFO] [[34mOverworld[37m]<lluoc> ?[0m
+2012-05-19 01:39:25 [INFO] [[34mOverworld[37m]<ultrajono> you are one creative son of a bitch, you knwo that right?[0m
+2012-05-19 01:39:27 [INFO] [[34mOverworld[37m]<ultrajono> hello zombie[0m
+2012-05-19 01:39:42 [INFO] [[34mOverworld[37m]<ultrajono> so, to go for a swim, or not to go for a swim[0m
+2012-05-19 01:39:54 [INFO] [[34mOverworld[37m]<lluoc> it's just a pool for me to jump into[0m
+2012-05-19 01:40:01 [INFO] [[34mOverworld[37m]<lluoc> the stuff on the ground below[0m
+2012-05-19 01:40:05 [INFO] [[34mOverworld[37m]<lluoc> won;t break your fall[0m
+2012-05-19 01:40:07 [INFO] [[34mOverworld[37m]<ultrajono> so you made a highdive?[0m
+2012-05-19 01:40:19 [INFO] [[34mOverworld[37m]<lluoc> the ladder will be removed once i put the lava in[0m
+2012-05-19 01:40:28 [INFO] [[34mOverworld[37m]<ultrajono> and lava will be going where now?[0m
+2012-05-19 01:40:41 [INFO] [[34mOverworld[37m]<lluoc> in this[0m
+2012-05-19 01:40:54 [INFO] [[34mOverworld[37m]<ultrajono> i thought you said these things were a bitch to find?[0m
+2012-05-19 01:41:05 [INFO] [[34mOverworld[37m]<lluoc> they are and they are harder now.[0m
+2012-05-19 01:41:16 [INFO] [[34mOverworld[37m]<lluoc> look for some next time your in the fortress[0m
+2012-05-19 01:41:16 [INFO] [[34mOverworld[37m]<ultrajono> do i want to know how much you have?[0m
+2012-05-19 01:41:28 [INFO] [[34mOverworld[37m]<lluoc> 2 stacks left. not enought[0m
+2012-05-19 01:41:53 [INFO] [[34mOverworld[37m]<ultrajono> you my friend, are somewhat CRAZY, which is why your my friend :D[0m
+2012-05-19 01:42:21 [INFO] [[34mOverworld[37m]<lluoc> ehh, i'm not that bad. I mean after this I'm going ot make a floating island in the north[0m
+2012-05-19 01:42:33 [INFO] [[34mOverworld[37m]<ultrajono> creeper on teh walkway up[0m
+2012-05-19 01:42:46 [INFO] [[34mOverworld[37m]<lluoc> above us?[0m
+2012-05-19 01:42:48 [INFO] [[34mOverworld[37m]<ultrajono> so, ladder takes you all the way up, nether staircase takes you diagonal[0m
+2012-05-19 01:42:52 [INFO] [[34mOverworld[37m]<ultrajono> look where i'm looking[0m
+2012-05-19 01:43:07 [INFO] [[34mOverworld[37m]<lluoc> nether stair case is just supports[0m
+2012-05-19 01:43:14 [INFO] [[34mOverworld[37m]<lluoc> may or may not be covreed in lava[0m
+2012-05-19 01:43:26 [INFO] [[34mOverworld[37m]<lluoc> mobs are a problem[0m
+2012-05-19 01:43:34 [INFO] [[34mOverworld[37m]<ultrajono> they are, lava fixes said problem :D[0m
+2012-05-19 01:43:45 [INFO] [[34mOverworld[37m]<lluoc> as it fixes all problems[0m
+2012-05-19 01:44:12 [INFO] [[34mOverworld[37m]<ultrajono> as said in southpark[0m
+2012-05-19 01:44:19 [INFO] [[34mOverworld[37m]<ultrajono> when lava comes your way, just duck, tuck, and roll[0m
+2012-05-19 01:44:40 [INFO] [[34mOverworld[37m]<lluoc> ... don't remember that one. sorry.[0m
+2012-05-19 01:44:56 [INFO] [[34mOverworld[37m]<ultrajono> me either, pretty much the only thing in southpark i watched[0m
+2012-05-19 01:45:09 [INFO] [[34mOverworld[37m]<ultrajono> we are a fair way up :D[0m
+2012-05-19 01:45:13 [INFO] [[34mOverworld[37m]<lluoc> 200[0m
+2012-05-19 01:45:46 [INFO] [[34mOverworld[37m]<lluoc> hmm, that creeper is aproblem[0m
+2012-05-19 01:46:21 [INFO] [[34mOverworld[37m]<lluoc> where are you anyway?[0m
+2012-05-19 01:46:32 [INFO] [[34mOverworld[37m]<lluoc> go to the nether for a sec[0m
+2012-05-19 01:46:33 [INFO] [[34mOverworld[37m]<ultrajono> went down the ladder to see the view from below, fuckin crazy[0m
+2012-05-19 01:46:42 [INFO] [[34mOverworld[37m]<lluoc> dammit[0m
+2012-05-19 01:46:42 [INFO] [[31mNether[37m]<ultrajono> yeh?[0m
+2012-05-19 01:46:46 [INFO] [[31mNether[37m]<ultrajono> what?[0m
+2012-05-19 01:46:48 [INFO] [[34mOverworld[37m]<lluoc> mosters don't let me sleep[0m
+2012-05-19 01:47:14 [INFO] [[31mNether[37m]<lluoc> anyway, to creative[0m
+2012-05-19 01:47:54 [INFO] [[31mNether[37m]<ultrajono> howl ong you been workin on that?[0m
+2012-05-19 01:48:08 [INFO] [[31mNether[37m]<lluoc> on and off for a while.[0m
+2012-05-19 01:48:20 [INFO] [[31mNether[37m]<ultrajono> massive lag[0m
+2012-05-19 01:48:25 [INFO] [[31mNether[37m]<lluoc> long periods of not workong on it followed by a few hours where half an arm gets done[0m
+2012-05-19 01:48:38 [INFO] [[31mNether[37m]<lluoc> yeah, happens when you run through the nether. not sure why[0m
+2012-05-19 01:49:17 [INFO] [[34mOverworld[37m]<ultrajono> do you have the have the ladders all the way down, or do you just like em?[0m
+2012-05-19 01:49:31 [INFO] [[34mOverworld[37m]<lluoc> which ones?[0m
+2012-05-19 01:49:40 [INFO] [[34mOverworld[37m]<lluoc> also notice a difference[0m
+2012-05-19 01:49:42 [INFO] [[34mOverworld[37m]<ultrajono> the single ladders you have when you drop down[0m
+2012-05-19 01:49:54 [INFO] [[34mOverworld[37m]<ultrajono> yeh, this is nice[0m
+2012-05-19 01:49:56 [INFO] [[34mOverworld[37m]<lluoc> oh, there form when there were no hitboxes[0m
+2012-05-19 01:50:01 [INFO] [[34mOverworld[37m]<ultrajono> what happened to bermans?[0m
+2012-05-19 01:50:05 [INFO] [[33mCreative[37m]<lluoc> should remove it[0m
+2012-05-19 01:50:19 [INFO] [[34mOverworld[37m]<lluoc> creeper[0m
+2012-05-19 01:50:19 [INFO] [[34mOverworld[37m]<ultrajono> what happeend here?[0m
+2012-05-19 01:50:25 [INFO] [[34mOverworld[37m]<lluoc> as a guess[0m
+2012-05-19 01:50:26 [INFO] [[34mOverworld[37m]<lluoc> not me[0m
+2012-05-19 01:50:31 [INFO] [[34mOverworld[37m]<ultrajono> want netherrack?[0m
+2012-05-19 01:50:34 [INFO] [[34mOverworld[37m]<ultrajono> :P[0m
+2012-05-19 01:50:35 [INFO] [[34mOverworld[37m]<lluoc> two creepers[0m
+2012-05-19 01:50:38 [INFO] [[34mOverworld[37m]<lluoc> wait...[0m
+2012-05-19 01:50:49 [INFO] [[34mOverworld[37m]<lluoc> someone tnt'ed hit hous[0m
+2012-05-19 01:50:56 [INFO] [[34mOverworld[37m]<ultrajono> how can you be sure?[0m
+2012-05-19 01:51:05 [INFO] [[34mOverworld[37m]<lluoc> look...[0m
+2012-05-19 01:51:09 [INFO] CONSOLE: Disabling level saving..[0m
+2012-05-19 01:51:18 [INFO] [[34mOverworld[37m]<ultrajono> i liked this bedroom[0m
+2012-05-19 01:52:07 [INFO] [[34mOverworld[37m]<lluoc> ... this is a violation of rules and i have to revert it[0m
+2012-05-19 01:52:13 [INFO] [[34mOverworld[37m]<ultrajono> revert?[0m
+2012-05-19 01:52:14 [INFO] [[34mOverworld[37m]<lluoc> sigh.[0m
+2012-05-19 01:52:22 [INFO] [[34mOverworld[37m]<ultrajono> unless of course it was a creeper. . . or 6[0m
+2012-05-19 01:52:23 [INFO] [[34mOverworld[37m]<lluoc> this is greifing[0m
+2012-05-19 01:52:30 [INFO] [[34mOverworld[37m]<lluoc> not to this extent[0m
+2012-05-19 01:52:34 [INFO] [[34mOverworld[37m]<ultrajono> i can understand joking around, but this is extreme[0m
+2012-05-19 01:52:40 [INFO] [[34mOverworld[37m]<ultrajono> unless it was him?[0m
+2012-05-19 01:52:47 [INFO] [[34mOverworld[37m]<ultrajono> but i have not seen him on in a long tim[0m
+2012-05-19 01:53:01 [INFO] [[34mOverworld[37m]<ultrajono> i like the walkway a lot more now, tis pretty[0m
+2012-05-19 01:53:45 [INFO] [[34mOverworld[37m]<lluoc> I'll have to look though the logs.[0m
+2012-05-19 01:53:48 [INFO] [[34mOverworld[37m]<ultrajono> you in creative?[0m
+2012-05-19 01:53:55 [INFO] [[34mOverworld[37m]<lluoc> and thanks. I'll show you the thing now[0m
+2012-05-19 01:54:11 [INFO] [[33mCreative[37m]<lluoc> am now[0m
+2012-05-19 01:54:24 [INFO] [[33mCreative[37m]<lluoc> also was that you with the glowstone?[0m
+2012-05-19 01:54:30 [INFO] [[33mCreative[37m]<ultrajono> glowstone?[0m
+2012-05-19 01:54:35 [INFO] [[33mCreative[37m]<lluoc> in the ocean[0m
+2012-05-19 01:54:39 [INFO] [[33mCreative[37m]<ultrajono> nope[0m
+2012-05-19 01:54:50 [INFO] [[33mCreative[37m]<lluoc> someone was board[0m
+2012-05-19 01:54:50 [INFO] [[33mCreative[37m]<ultrajono> yet to find any[0m
+2012-05-19 01:54:58 [INFO] [[33mCreative[37m]<ultrajono> where?[0m
+2012-05-19 01:55:03 [INFO] [[33mCreative[37m]<ultrajono> only ocean thing was the massive lava thing[0m
+2012-05-19 01:55:08 [INFO] [[33mCreative[37m]<lluoc> come down[0m
+2012-05-19 01:55:09 [INFO] [[33mCreative[37m]<ultrajono> wow[0m
+2012-05-19 01:55:12 [INFO] [[33mCreative[37m]<lluoc> see[0m
+2012-05-19 01:55:21 [INFO] [[33mCreative[37m]<ultrajono> bored indeed[0m
+2012-05-19 01:55:28 [INFO] [[33mCreative[37m]<lluoc> yeah[0m
+2012-05-19 01:55:41 [INFO] [[33mCreative[37m]<ultrajono> where are you?[0m
+2012-05-19 01:55:47 [INFO] [[33mCreative[37m]<lluoc> chickens[0m
+2012-05-19 01:55:53 [INFO] [[33mCreative[37m]<ultrajono> yes, but hwere is that?[0m
+2012-05-19 01:56:07 [INFO] [[33mCreative[37m]<ultrajono> lost you at the glowstones[0m
+2012-05-19 01:56:47 [INFO] [[33mCreative[37m]<ultrajono> ok. . . .[0m
+2012-05-19 01:57:20 [INFO] [[33mCreative[37m]<lluoc> ... sigh, just a sec[0m
+2012-05-19 01:57:23 [INFO] [[33mCreative[37m]<ultrajono> you, got bored ey?[0m
+2012-05-19 01:58:42 [INFO] [[33mCreative[37m]<lluoc> there we go[0m
+2012-05-19 01:59:19 [INFO] [[33mCreative[37m]<ultrajono> glowstone switches, cool[0m
+2012-05-19 01:59:34 [INFO] [[33mCreative[37m]<lluoc> ok, so[0m
+2012-05-19 01:59:45 [INFO] [[33mCreative[37m]<ultrajono> how long did this take?[0m
+2012-05-19 02:00:01 [INFO] [[33mCreative[37m]<lluoc> to get it all to work... a while and several prototypes[0m
+2012-05-19 02:00:09 [INFO] [[33mCreative[37m]<lluoc> eggs fall here[0m
+2012-05-19 02:00:21 [INFO] [[33mCreative[37m]<lluoc> with 500 pluss its about one a second[0m
+2012-05-19 02:00:26 [INFO] [[33mCreative[37m]<lluoc> massive lag though[0m
+2012-05-19 02:00:37 [INFO] [[33mCreative[37m]<lluoc> put some wheat in your hand[0m
+2012-05-19 02:00:40 [INFO] [[33mCreative[37m]<ultrajono> sorry, accidently clicked[0m
+2012-05-19 02:00:47 [INFO] [[33mCreative[37m]<lluoc> ?[0m
+2012-05-19 02:01:23 [INFO] [[33mCreative[37m]<ultrajono> you gonna make one of these for real?[0m
+2012-05-19 02:01:27 [INFO] [[33mCreative[37m]<lluoc> ok, flick this switch and run down stairs[0m
+2012-05-19 02:01:34 [INFO] [[33mCreative[37m]<ultrajono> which switch?[0m
+2012-05-19 02:01:54 [INFO] [[33mCreative[37m]<ultrajono> fuck me thats brilliant[0m
+2012-05-19 02:02:22 [INFO] [[33mCreative[37m]<lluoc> i kept getting efficienct problems if i let them just walk normally though fire[0m
+2012-05-19 02:02:35 [INFO] [[33mCreative[37m]<lluoc> they would run half the time and just stay there the other half[0m
+2012-05-19 02:02:42 [INFO] [[33mCreative[37m]<lluoc> and the meat would be lost[0m
+2012-05-19 02:02:57 [INFO] [[33mCreative[37m]<lluoc> but yeah, put eggs into repeater[0m
+2012-05-19 02:03:02 [INFO] [[33mCreative[37m]<lluoc> collect eggs[0m
+2012-05-19 02:03:11 [INFO] [[33mCreative[37m]<lluoc> repeate until you have enought[0m
+2012-05-19 02:03:22 [INFO] [[33mCreative[37m]<lluoc> and a surplus[0m
+2012-05-19 02:03:24 [INFO] [[33mCreative[37m]<ultrajono> you goign to make one of these in standard?[0m
+2012-05-19 02:03:26 [INFO] [[33mCreative[37m]<lluoc> and then kill them all[0m
+2012-05-19 02:03:30 [INFO] [[33mCreative[37m]<lluoc> probably[0m
+2012-05-19 02:03:41 [INFO] [[33mCreative[37m]<ultrajono> nwo that you knwo what your doing, hard to do?[0m
+2012-05-19 02:03:42 [INFO] [[33mCreative[37m]<lluoc> only finished the design recelty[0m
+2012-05-19 02:04:00 [INFO] [[33mCreative[37m]<lluoc> this isn't that hard actually, if you look at the design[0m
+2012-05-19 02:04:13 [INFO] [[33mCreative[37m]<lluoc> the wiring is simple[0m
+2012-05-19 02:04:33 [INFO] [[33mCreative[37m]<ultrajono> for you perhaps, i can't even get that stupid mellon farm to work. . .[0m
+2012-05-19 02:04:34 [INFO] [[33mCreative[37m]<lluoc> need to change this repeater.[0m
+2012-05-19 02:04:47 [INFO] [[33mCreative[37m]<lluoc> go have a look at the farm over there[0m
+2012-05-19 02:04:50 [INFO] [[33mCreative[37m]<ultrajono> i'm also working on an underwater walkway to adrians/kims/nellies place[0m
+2012-05-19 02:05:04 [INFO] [[33mCreative[37m]<ultrajono> lava farm?[0m
+2012-05-19 02:05:19 [INFO] [[33mCreative[37m]<lluoc> the melon farm you made that works[0m
+2012-05-19 02:05:29 [INFO] [[33mCreative[37m]<ultrajono> whats this?[0m
+2012-05-19 02:06:00 [INFO] [[33mCreative[37m]<ultrajono> trippy :D[0m
+2012-05-19 02:06:04 [INFO] [[33mCreative[37m]<lluoc> messing with possible floor designs[0m
+2012-05-19 02:06:07 [INFO] [[33mCreative[37m]<ultrajono> lag[0m
+2012-05-19 02:06:14 [INFO] [[33mCreative[37m]<lluoc> too trippy to be a regular fixture[0m
+2012-05-19 02:06:18 [INFO] [[33mCreative[37m]<lluoc> and yeah, lag[0m
+2012-05-19 02:06:39 [INFO] [[33mCreative[37m]<ultrajono> yeh, i made this one, and it works fine[0m
+2012-05-19 02:06:40 [INFO] [[33mCreative[37m]<lluoc> anyway, gtg. need to find out who did this[0m
+2012-05-19 02:06:45 [INFO] lluoc: Enabling level saving..[0m
+2012-05-19 02:06:48 [INFO] [[33mCreative[37m]<ultrajono> can you trnasport me to the portal?[0m
+2012-05-19 02:07:20 [INFO] [31mUsage: /tp <player> <target>[0m
+2012-05-19 02:07:26 [INFO] [[33mCreative[37m]<ultrajono> danke, a rogue and a scholar you are[0m
+2012-05-19 02:07:30 [INFO] CONSOLE: Teleporting ultrajono to lluoc[0m
+2012-05-19 02:07:35 [INFO] [[33mCreative[37m]<lluoc> ?[0m
+2012-05-19 02:07:39 [INFO] [[33mCreative[37m]<lluoc> anyway, gtg[0m
+2012-05-19 02:07:44 [INFO] [[34mOverworld[37m]<ultrajono> going to find out about bermans?[0m
+2012-05-19 02:07:52 [INFO] [[33mCreative[37m]<lluoc> try to at least.[0m
+2012-05-19 02:07:56 [INFO] [[34mOverworld[37m]<ultrajono> luck[0m
+2012-05-19 02:07:59 [INFO] [[33mCreative[37m]<lluoc> and see if i can revert it[0m
+2012-05-19 02:08:10 [INFO] [[34mOverworld[37m]<ultrajono> he's a douche, but doesn't deserve that much shit[0m
+2012-05-19 02:08:21 [INFO] [[33mCreative[37m]<lluoc> yeah...[0m
+2012-05-19 02:08:32 [INFO] [[33mCreative[37m]<lluoc> plus you know, rules.[0m
+2012-05-19 02:08:37 [INFO] [[33mCreative[37m]<lluoc> anyho, cya[0m
+2012-05-19 02:08:41 [INFO] Connection reset
+2012-05-19 02:08:41 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-19 02:09:26 [INFO] Connection reset
+2012-05-19 02:09:26 [INFO] ultrajono lost connection: disconnect.endOfStream
+2012-05-19 02:09:30 [INFO] ultrajono [/127.0.0.1:52460] logged in with entity id 1978966 at ([world] -58.19999998807908, 100.5, -19.404836410147595)
+2012-05-19 02:27:18 [INFO] Connection reset
+2012-05-19 02:27:18 [INFO] ultrajono lost connection: disconnect.quitting
+2012-05-19 03:15:06 [INFO] lluoc [/127.0.0.1:52475] logged in with entity id 1992058 at ([creative] -245.8667077456356, 118.38172773251713, 49.68442509899978)
+2012-05-19 03:15:11 [INFO] Connection reset
+2012-05-19 03:15:11 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-19 03:16:19 [INFO] lluoc [/127.0.0.1:52480] logged in with entity id 1992132 at ([world] -15.545722687416538, 71.0, 82.69999998807907)
+2012-05-19 03:16:30 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-19 03:16:30 [INFO] Connection reset
+2012-05-19 03:17:20 [INFO] lluoc [/127.0.0.1:52485] logged in with entity id 1992499 at ([world] 319.8461728015304, 60.0, -63.915244786867405)
+2012-05-19 03:17:37 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-19 03:17:37 [INFO] Connection reset
+2012-05-19 03:18:16 [INFO] lluoc [/127.0.0.1:52489] logged in with entity id 1992657 at ([world] -28.55097508199343, 63.0, 4.71647034526339)
+2012-05-19 03:18:44 [INFO] Connection reset
+2012-05-19 03:18:44 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-19 03:19:28 [INFO] lluoc [/127.0.0.1:52494] logged in with entity id 1993465 at ([world] -56.69999998807905, 63.0, -42.30000001192095)
+2012-05-19 03:19:44 [INFO] Connection reset
+2012-05-19 03:19:44 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-19 03:23:42 [INFO] lluoc [/127.0.0.1:52498] logged in with entity id 1993819 at ([world] -5060.9471107774125, 93.5, -1290.9597610205606)
+2012-05-19 03:23:57 [INFO] Connection reset
+2012-05-19 03:23:57 [INFO] lluoc lost connection: disconnect.quitting
+2012-05-19 04:01:56 [INFO] CONSOLE: Forcing save..[0m
+2012-05-19 04:01:56 [INFO] CONSOLE: Save complete.[0m
+2012-05-19 04:02:00 [INFO] CONSOLE: Stopping the server..[0m
+2012-05-19 04:02:00 [INFO] Stopping server
+2012-05-19 04:02:00 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-05-19 04:02:00 [INFO] SilkSpawners disabled
+2012-05-19 04:02:00 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-05-19 04:02:00 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-05-19 04:02:00 [INFO] [Lockette] Disabling Lockette v1.6
+2012-05-19 04:02:00 [INFO] Lockette is being disabled...  ;.;
+2012-05-19 04:02:00 [INFO] [Lockette] Closing all automatic doors.
+2012-05-19 04:02:00 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-05-19 04:02:00 [INFO] Disabling PickBoat
+2012-05-19 04:02:00 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+2012-05-19 04:02:00 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+2012-05-19 04:02:00 [INFO] [Multiverse-Core] - Disabled
+2012-05-19 04:02:00 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b147
+2012-05-19 04:02:00 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-05-19 04:02:00 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-05-19 04:02:00 [INFO] [CreeperMess v1.2] Disabled!
+2012-05-19 04:02:00 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-05-19 04:02:00 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-05-19 04:02:00 [INFO] Saving chunks
+2012-05-19 04:02:01 [INFO] Stopping server
+2012-05-19 04:02:01 [INFO] Saving chunks

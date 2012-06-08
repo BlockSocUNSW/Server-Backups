@@ -26880,3 +26880,596 @@ java.lang.IllegalArgumentException: 'default' key contained unknown value
 2012-06-08 21:08:57 [INFO] Saving chunks
 2012-06-08 21:08:58 [INFO] Stopping server
 2012-06-08 21:08:58 [INFO] Saving chunks
+2012-06-08 21:20:47 [INFO] Starting minecraft server version 1.2.5
+2012-06-08 21:20:47 [INFO] Loading properties
+2012-06-08 21:20:47 [INFO] Starting Minecraft server on *:25564
+2012-06-08 21:20:48 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-06-08 21:20:48 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-06-08 21:20:48 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-06-08 21:20:48 [INFO] [Lockette] Loading Lockette v1.6
+2012-06-08 21:20:48 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-06-08 21:20:48 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2012-06-08 21:20:48 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2012-06-08 21:20:48 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.4-b147
+2012-06-08 21:20:48 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-06-08 21:20:48 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-06-08 21:20:48 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-06-08 21:20:48 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-06-08 21:20:48 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-06-08 21:20:49 [INFO] Preparing level "world"
+2012-06-08 21:20:49 [INFO] Default game type: 0
+2012-06-08 21:20:49 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-06-08 21:20:50 [INFO] Preparing spawn area: 20%
+2012-06-08 21:20:51 [INFO] Preparing spawn area: 93%
+2012-06-08 21:20:51 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-06-08 21:20:52 [INFO] Preparing spawn area: 97%
+2012-06-08 21:20:52 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-06-08 21:20:52 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-06-08 21:20:52 [INFO] SilkSpawners enabled
+2012-06-08 21:20:52 [INFO] [Lockette] Enabling Lockette v1.6
+2012-06-08 21:20:52 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-06-08 21:20:52 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-06-08 21:20:52 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-06-08 21:20:52 [INFO] [Lockette] Using ops file for admin permissions.
+2012-06-08 21:20:52 [INFO] [Lockette] Ready to protect your containers.
+2012-06-08 21:20:52 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-06-08 21:20:52 [INFO] PickBoat version 0.4 is enabled!
+2012-06-08 21:20:52 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2012-06-08 21:20:52 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-06-08 21:20:52 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b527
+2012-06-08 21:20:52 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-06-08 21:20:52 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-06-08 21:20:52 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-06-08 21:20:52 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-06-08 21:20:52 [INFO] Preparing start region for level 3 (Seed: -1309634265)
+2012-06-08 21:20:53 [INFO] Preparing spawn area for creative, 65%
+2012-06-08 21:20:54 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2012-06-08 21:20:54 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2012-06-08 21:20:54 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2012-06-08 21:20:54 [INFO] [Multiverse-Portals]  4 - Portals(s) loaded
+2012-06-08 21:20:54 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.4-b147
+2012-06-08 21:20:54 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-06-08 21:20:54 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-06-08 21:20:54 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-06-08 21:20:54 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-06-08 21:20:54 [INFO] [CreeperMess v1.2] Enabled!
+2012-06-08 21:20:54 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-06-08 21:20:54 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-06-08 21:20:54 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-06-08 21:20:54 [INFO] Done (5.299s)! For help, type "help" or "?"
+2012-06-08 21:21:16 [INFO] lluoc [/127.0.0.1:56813] logged in with entity id 564 at ([world] -69.71741620481995, 89.0, -20.395633276942934)
+2012-06-08 21:21:22 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-08 21:21:22 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[0m
+2012-06-08 21:21:23 [INFO] Connection reset
+2012-06-08 21:21:23 [INFO] lluoc lost connection: disconnect.quitting
+2012-06-08 23:27:23 [INFO] H4ZM4T [/127.0.0.1:56832] logged in with entity id 2400 at ([world] 620.3123754386182, 29.0, -394.69999998807907)
+2012-06-08 23:27:33 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-08 23:27:33 [INFO] CONSOLE: Giving H4ZM4T some 341 (SLIME_BALL)[0m
+2012-06-08 23:40:44 [INFO] Connection reset
+2012-06-08 23:40:44 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-09 01:15:07 [INFO] lluoc [/127.0.0.1:56847] logged in with entity id 14667 at ([world] -69.71741620481995, 89.0, -20.395633276942934)
+2012-06-09 01:20:26 [INFO] lluoc: Starting creation of world 'fluid'...[0m
+2012-06-09 01:20:26 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid' - Env: NORMAL - Type: NORMAL
+2012-06-09 01:20:26 [INFO] Preparing start region for level 4 (Seed: -3021652546439280874)
+2012-06-09 01:20:27 [INFO] Preparing spawn area for fluid, 8%
+2012-06-09 01:20:28 [INFO] Preparing spawn area for fluid, 20%
+2012-06-09 01:20:29 [INFO] Preparing spawn area for fluid, 28%
+2012-06-09 01:20:30 [INFO] Preparing spawn area for fluid, 40%
+2012-06-09 01:20:31 [INFO] Preparing spawn area for fluid, 52%
+2012-06-09 01:20:32 [INFO] Preparing spawn area for fluid, 61%
+2012-06-09 01:20:33 [INFO] Preparing spawn area for fluid, 73%
+2012-06-09 01:20:34 [INFO] Preparing spawn area for fluid, 81%
+2012-06-09 01:20:35 [INFO] Preparing spawn area for fluid, 93%
+2012-06-09 01:20:36 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-06-09 01:20:36 [WARNING] [Multiverse-Core] Original Location: X: -12 Y: 64 Z: 84 P: 0 Y: 0 
+2012-06-09 01:20:36 [INFO] [Multiverse-Core] New Spawn for 'fluid' is Located at: fluid:-3.50,68.00,92.50:0.00:0.00
+2012-06-09 01:20:36 [INFO] lluoc: Complete![0m
+2012-06-09 01:20:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-09 01:21:38 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:25:48 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-06-09 01:25:48 [INFO] SilkSpawners disabled
+2012-06-09 01:25:48 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-06-09 01:25:48 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-06-09 01:25:48 [INFO] [Lockette] Disabling Lockette v1.6
+2012-06-09 01:25:48 [INFO] Lockette is being disabled...  ;.;
+2012-06-09 01:25:48 [INFO] [Lockette] Closing all automatic doors.
+2012-06-09 01:25:48 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-06-09 01:25:48 [INFO] Disabling PickBoat
+2012-06-09 01:25:48 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+2012-06-09 01:25:48 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+2012-06-09 01:25:48 [INFO] [Multiverse-Core] - Disabled
+2012-06-09 01:25:48 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b147
+2012-06-09 01:25:48 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-06-09 01:25:48 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-06-09 01:25:48 [INFO] [CreeperMess v1.2] Disabled!
+2012-06-09 01:25:48 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-06-09 01:25:48 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-06-09 01:25:48 [INFO] 182 recipes
+2012-06-09 01:25:48 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-06-09 01:25:48 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-06-09 01:25:48 [INFO] [Lockette] Loading Lockette v1.6
+2012-06-09 01:25:48 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-06-09 01:25:48 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2012-06-09 01:25:48 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2012-06-09 01:25:48 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.4-b147
+2012-06-09 01:25:48 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-06-09 01:25:48 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+2012-06-09 01:25:48 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-06-09 01:25:48 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-06-09 01:25:48 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-06-09 01:25:48 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-06-09 01:25:48 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-06-09 01:25:48 [INFO] SilkSpawners enabled
+2012-06-09 01:25:48 [INFO] [Lockette] Enabling Lockette v1.6
+2012-06-09 01:25:48 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-06-09 01:25:48 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-06-09 01:25:48 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-06-09 01:25:48 [INFO] [Lockette] Using ops file for admin permissions.
+2012-06-09 01:25:48 [INFO] [Lockette] Ready to protect your containers.
+2012-06-09 01:25:48 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-06-09 01:25:48 [INFO] PickBoat version 0.4 is enabled!
+2012-06-09 01:25:48 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2012-06-09 01:25:48 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-06-09 01:25:48 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b527
+2012-06-09 01:25:48 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-06-09 01:25:48 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-06-09 01:25:48 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-06-09 01:25:48 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-06-09 01:25:48 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid' - Env: NORMAL - Type: NORMAL & seed: -3021652546439280874
+2012-06-09 01:25:48 [INFO] [Multiverse-Core] 5 - World(s) loaded.
+2012-06-09 01:25:48 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2012-06-09 01:25:48 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2012-06-09 01:25:48 [INFO] [Multiverse-Portals]  4 - Portals(s) loaded
+2012-06-09 01:25:48 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.4-b147
+2012-06-09 01:25:48 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-06-09 01:25:48 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-06-09 01:25:48 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-06-09 01:25:48 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-06-09 01:25:48 [INFO] [CreeperMess v1.2] Enabled!
+2012-06-09 01:25:48 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+2012-06-09 01:25:48 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+2012-06-09 01:25:48 [SEVERE] [MultiVerse-NetherPortals]  Could not load config.yml
+2012-06-09 01:25:48 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-06-09 01:25:48 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-06-09 01:25:48 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-06-09 01:25:48 [INFO] [32mReload complete.[0m
+2012-06-09 01:26:18 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:29:32 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-09 01:29:38 [INFO] CONSOLE: Starting creation of world 'fluid_nether'...[0m
+2012-06-09 01:29:38 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid_nether' - Env: NETHER - Type: NORMAL
+2012-06-09 01:29:38 [INFO] Preparing start region for level 5 (Seed: -4035248619903658227)
+2012-06-09 01:29:39 [INFO] Preparing spawn area for fluid_nether, 16%
+2012-06-09 01:29:40 [INFO] Preparing spawn area for fluid_nether, 28%
+2012-06-09 01:29:41 [INFO] Preparing spawn area for fluid_nether, 44%
+2012-06-09 01:29:42 [INFO] Preparing spawn area for fluid_nether, 56%
+2012-06-09 01:29:43 [INFO] Preparing spawn area for fluid_nether, 69%
+2012-06-09 01:29:44 [INFO] Preparing spawn area for fluid_nether, 81%
+2012-06-09 01:29:45 [INFO] Preparing spawn area for fluid_nether, 85%
+2012-06-09 01:29:46 [INFO] Preparing spawn area for fluid_nether, 97%
+2012-06-09 01:29:46 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-06-09 01:29:46 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+2012-06-09 01:29:46 [INFO] [Multiverse-Core] New Spawn for 'fluid_nether' is Located at: fluid_nether:2.50,64.00,1.50:0.00:0.00
+2012-06-09 01:29:47 [INFO] CONSOLE: Complete![0m
+2012-06-09 01:29:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-09 01:30:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-09 01:30:37 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:31:21 [INFO] lluoc: Setting lluoc to game mode 0[0m
+2012-06-09 01:31:48 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:38:53 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-06-09 01:38:53 [INFO] SilkSpawners disabled
+2012-06-09 01:38:53 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-06-09 01:38:53 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-06-09 01:38:53 [INFO] [Lockette] Disabling Lockette v1.6
+2012-06-09 01:38:53 [INFO] Lockette is being disabled...  ;.;
+2012-06-09 01:38:53 [INFO] [Lockette] Closing all automatic doors.
+2012-06-09 01:38:53 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-06-09 01:38:53 [INFO] Disabling PickBoat
+2012-06-09 01:38:53 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+2012-06-09 01:38:53 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+2012-06-09 01:38:53 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+2012-06-09 01:38:53 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-06-09 01:38:53 [INFO] [Multiverse-Core] - Disabled
+2012-06-09 01:38:53 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b147
+2012-06-09 01:38:53 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-06-09 01:38:53 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-06-09 01:38:53 [INFO] [CreeperMess v1.2] Disabled!
+2012-06-09 01:38:53 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-06-09 01:38:53 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-06-09 01:38:53 [INFO] 182 recipes
+2012-06-09 01:38:54 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-06-09 01:38:54 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-06-09 01:38:54 [INFO] [Lockette] Loading Lockette v1.6
+2012-06-09 01:38:54 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-06-09 01:38:54 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2012-06-09 01:38:54 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2012-06-09 01:38:54 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.4-b147
+2012-06-09 01:38:54 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-06-09 01:38:54 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+2012-06-09 01:38:54 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-06-09 01:38:54 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-06-09 01:38:54 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-06-09 01:38:54 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-06-09 01:38:54 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-06-09 01:38:54 [INFO] SilkSpawners enabled
+2012-06-09 01:38:54 [INFO] [Lockette] Enabling Lockette v1.6
+2012-06-09 01:38:54 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-06-09 01:38:54 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-06-09 01:38:54 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-06-09 01:38:54 [INFO] [Lockette] Using ops file for admin permissions.
+2012-06-09 01:38:54 [INFO] [Lockette] Ready to protect your containers.
+2012-06-09 01:38:54 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-06-09 01:38:54 [INFO] PickBoat version 0.4 is enabled!
+2012-06-09 01:38:54 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2012-06-09 01:38:54 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-06-09 01:38:54 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b527
+2012-06-09 01:38:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-06-09 01:38:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-06-09 01:38:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-06-09 01:38:54 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-06-09 01:38:54 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid' - Env: NORMAL - Type: NORMAL & seed: -3021652546439280874
+2012-06-09 01:38:54 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid_nether' - Env: NETHER - Type: NORMAL & seed: -4035248619903658227
+2012-06-09 01:38:56 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-06-09 01:38:56 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2012-06-09 01:38:56 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2012-06-09 01:38:56 [INFO] [Multiverse-Portals]  4 - Portals(s) loaded
+2012-06-09 01:38:56 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.4-b147
+2012-06-09 01:38:56 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-06-09 01:38:56 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-06-09 01:38:56 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-06-09 01:38:56 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-06-09 01:38:56 [INFO] [CreeperMess v1.2] Enabled!
+2012-06-09 01:38:56 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+2012-06-09 01:38:56 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+2012-06-09 01:38:56 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-06-09 01:38:56 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-06-09 01:38:56 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-06-09 01:38:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-09 01:39:06 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:39:17 [INFO] lluoc: Set time to 0[0m
+2012-06-09 01:39:23 [INFO] lluoc: Set time to 12000[0m
+2012-06-09 01:40:05 [INFO] lluoc: Set time to 0[0m
+2012-06-09 01:40:12 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:40:36 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:42:11 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:44:05 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:45:42 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:52:47 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:54:12 [INFO] lluoc: Set time to 0[0m
+2012-06-09 01:56:19 [INFO] lluoc: Setting lluoc to game mode 0[0m
+2012-06-09 01:56:30 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:57:02 [INFO] lluoc: De-opping lluoc[0m
+2012-06-09 01:57:18 [INFO] CONSOLE: Setting lluoc to game mode 0[0m
+2012-06-09 01:57:42 [INFO] CONSOLE: Opping lluoc[0m
+2012-06-09 01:57:46 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 01:59:09 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 02:03:29 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 02:06:08 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 02:08:54 [INFO] lluoc: De-opping lluoc[0m
+2012-06-09 02:10:31 [INFO] CONSOLE: Opping lluoc[0m
+2012-06-09 02:10:39 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 02:10:51 [INFO] lluoc: Setting lluoc to game mode 0[0m
+2012-06-09 02:19:45 [INFO] [[34mOverworld[37m]<lluoc> hello[0m
+2012-06-09 02:20:16 [INFO] [[37mfluid[37m]<lluoc> test[0m
+2012-06-09 02:20:20 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-06-09 02:20:20 [INFO] SilkSpawners disabled
+2012-06-09 02:20:20 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-06-09 02:20:20 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-06-09 02:20:20 [INFO] [Lockette] Disabling Lockette v1.6
+2012-06-09 02:20:20 [INFO] Lockette is being disabled...  ;.;
+2012-06-09 02:20:20 [INFO] [Lockette] Closing all automatic doors.
+2012-06-09 02:20:20 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-06-09 02:20:20 [INFO] Disabling PickBoat
+2012-06-09 02:20:20 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+2012-06-09 02:20:20 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+2012-06-09 02:20:20 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+2012-06-09 02:20:20 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-06-09 02:20:20 [INFO] [Multiverse-Core] - Disabled
+2012-06-09 02:20:20 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b147
+2012-06-09 02:20:20 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-06-09 02:20:20 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-06-09 02:20:20 [INFO] [CreeperMess v1.2] Disabled!
+2012-06-09 02:20:20 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-06-09 02:20:20 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-06-09 02:20:20 [INFO] 182 recipes
+2012-06-09 02:20:20 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-06-09 02:20:20 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-06-09 02:20:20 [INFO] [Lockette] Loading Lockette v1.6
+2012-06-09 02:20:20 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-06-09 02:20:20 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2012-06-09 02:20:20 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2012-06-09 02:20:20 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.4-b147
+2012-06-09 02:20:20 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-06-09 02:20:20 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+2012-06-09 02:20:20 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-06-09 02:20:20 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-06-09 02:20:20 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-06-09 02:20:20 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-06-09 02:20:20 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-06-09 02:20:20 [INFO] SilkSpawners enabled
+2012-06-09 02:20:20 [INFO] [Lockette] Enabling Lockette v1.6
+2012-06-09 02:20:20 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-06-09 02:20:20 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-06-09 02:20:20 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-06-09 02:20:20 [INFO] [Lockette] Using ops file for admin permissions.
+2012-06-09 02:20:20 [INFO] [Lockette] Ready to protect your containers.
+2012-06-09 02:20:20 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-06-09 02:20:20 [INFO] PickBoat version 0.4 is enabled!
+2012-06-09 02:20:20 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2012-06-09 02:20:20 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-06-09 02:20:20 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b527
+2012-06-09 02:20:20 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-06-09 02:20:20 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-06-09 02:20:21 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-06-09 02:20:21 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-06-09 02:20:21 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid' - Env: NORMAL - Type: NORMAL & seed: -3021652546439280874
+2012-06-09 02:20:21 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-06-09 02:20:21 [WARNING] [Multiverse-Core] Original Location: X: -4 Y: 68 Z: 92 P: 0 Y: 0 
+2012-06-09 02:20:21 [INFO] [Multiverse-Core] New Spawn for 'fluid' is Located at: fluid:-2.50,68.00,93.50:0.00:0.00
+2012-06-09 02:20:21 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid_nether' - Env: null - Type: NORMAL & seed: -4035248619903658227
+2012-06-09 02:20:21 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2012-06-09 02:20:21 [WARNING] [Multiverse-Core] Original Location: X: -4 Y: 68 Z: 92 P: 0 Y: 0 
+2012-06-09 02:20:21 [INFO] [Multiverse-Core] New Spawn for 'fluid_nether' is Located at: fluid_nether:-4.50,68.00,96.50:0.00:0.00
+2012-06-09 02:20:22 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-06-09 02:20:22 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2012-06-09 02:20:22 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2012-06-09 02:20:22 [INFO] [Multiverse-Portals]  6 - Portals(s) loaded
+2012-06-09 02:20:22 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.4-b147
+2012-06-09 02:20:22 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-06-09 02:20:22 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-06-09 02:20:22 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-06-09 02:20:22 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-06-09 02:20:22 [INFO] [CreeperMess v1.2] Enabled!
+2012-06-09 02:20:22 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+2012-06-09 02:20:22 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+2012-06-09 02:20:22 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-06-09 02:20:22 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-06-09 02:20:22 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-06-09 02:20:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-09 02:20:29 [INFO] [[35mFluid[37m]<lluoc> test[0m
+2012-06-09 02:22:54 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-06-09 02:22:54 [INFO] SilkSpawners disabled
+2012-06-09 02:22:54 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-06-09 02:22:54 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-06-09 02:22:54 [INFO] [Lockette] Disabling Lockette v1.6
+2012-06-09 02:22:54 [INFO] Lockette is being disabled...  ;.;
+2012-06-09 02:22:54 [INFO] [Lockette] Closing all automatic doors.
+2012-06-09 02:22:54 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-06-09 02:22:54 [INFO] Disabling PickBoat
+2012-06-09 02:22:54 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+2012-06-09 02:22:54 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+2012-06-09 02:22:54 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+2012-06-09 02:22:54 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-06-09 02:22:54 [INFO] [Multiverse-Core] - Disabled
+2012-06-09 02:22:54 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b147
+2012-06-09 02:22:54 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-06-09 02:22:54 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-06-09 02:22:54 [INFO] [CreeperMess v1.2] Disabled!
+2012-06-09 02:22:54 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-06-09 02:22:54 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-06-09 02:22:54 [INFO] 182 recipes
+2012-06-09 02:22:54 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-06-09 02:22:54 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-06-09 02:22:54 [INFO] [Lockette] Loading Lockette v1.6
+2012-06-09 02:22:54 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-06-09 02:22:54 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2012-06-09 02:22:54 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2012-06-09 02:22:54 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.4-b147
+2012-06-09 02:22:54 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-06-09 02:22:54 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+2012-06-09 02:22:54 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-06-09 02:22:54 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-06-09 02:22:54 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-06-09 02:22:54 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-06-09 02:22:54 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-06-09 02:22:54 [INFO] SilkSpawners enabled
+2012-06-09 02:22:54 [INFO] [Lockette] Enabling Lockette v1.6
+2012-06-09 02:22:54 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-06-09 02:22:54 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-06-09 02:22:54 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-06-09 02:22:54 [INFO] [Lockette] Using ops file for admin permissions.
+2012-06-09 02:22:54 [INFO] [Lockette] Ready to protect your containers.
+2012-06-09 02:22:54 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-06-09 02:22:54 [INFO] PickBoat version 0.4 is enabled!
+2012-06-09 02:22:54 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2012-06-09 02:22:54 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-06-09 02:22:54 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b527
+2012-06-09 02:22:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-06-09 02:22:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-06-09 02:22:54 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-06-09 02:22:54 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-06-09 02:22:54 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid' - Env: NORMAL - Type: NORMAL & seed: -3021652546439280874
+2012-06-09 02:22:55 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid_nether' - Env: NETHER - Type: NORMAL & seed: -4035248619903658227
+2012-06-09 02:22:55 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-06-09 02:22:55 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2012-06-09 02:22:55 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2012-06-09 02:22:55 [INFO] [Multiverse-Portals]  6 - Portals(s) loaded
+2012-06-09 02:22:55 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.4-b147
+2012-06-09 02:22:55 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-06-09 02:22:55 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-06-09 02:22:55 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-06-09 02:22:55 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-06-09 02:22:55 [INFO] [CreeperMess v1.2] Enabled!
+2012-06-09 02:22:55 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+2012-06-09 02:22:55 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+2012-06-09 02:22:55 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-06-09 02:22:55 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-06-09 02:22:55 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-06-09 02:22:55 [INFO] [32mReload complete.[0m
+2012-06-09 02:24:24 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-06-09 02:24:24 [INFO] SilkSpawners disabled
+2012-06-09 02:24:24 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-06-09 02:24:24 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-06-09 02:24:24 [INFO] [Lockette] Disabling Lockette v1.6
+2012-06-09 02:24:24 [INFO] Lockette is being disabled...  ;.;
+2012-06-09 02:24:24 [INFO] [Lockette] Closing all automatic doors.
+2012-06-09 02:24:24 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-06-09 02:24:24 [INFO] Disabling PickBoat
+2012-06-09 02:24:24 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+2012-06-09 02:24:24 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+2012-06-09 02:24:24 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+2012-06-09 02:24:24 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-06-09 02:24:24 [INFO] [Multiverse-Core] - Disabled
+2012-06-09 02:24:24 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b147
+2012-06-09 02:24:24 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-06-09 02:24:24 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-06-09 02:24:24 [INFO] [CreeperMess v1.2] Disabled!
+2012-06-09 02:24:24 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-06-09 02:24:24 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-06-09 02:24:24 [INFO] 182 recipes
+2012-06-09 02:24:24 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-06-09 02:24:24 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-06-09 02:24:24 [INFO] [Lockette] Loading Lockette v1.6
+2012-06-09 02:24:24 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-06-09 02:24:24 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2012-06-09 02:24:24 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2012-06-09 02:24:24 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.4-b147
+2012-06-09 02:24:24 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-06-09 02:24:24 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+2012-06-09 02:24:24 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-06-09 02:24:24 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-06-09 02:24:24 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-06-09 02:24:24 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-06-09 02:24:24 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-06-09 02:24:24 [INFO] SilkSpawners enabled
+2012-06-09 02:24:24 [INFO] [Lockette] Enabling Lockette v1.6
+2012-06-09 02:24:24 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-06-09 02:24:24 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-06-09 02:24:24 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-06-09 02:24:24 [INFO] [Lockette] Using ops file for admin permissions.
+2012-06-09 02:24:24 [INFO] [Lockette] Ready to protect your containers.
+2012-06-09 02:24:24 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-06-09 02:24:24 [INFO] PickBoat version 0.4 is enabled!
+2012-06-09 02:24:24 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2012-06-09 02:24:24 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-06-09 02:24:24 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b527
+2012-06-09 02:24:24 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-06-09 02:24:24 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-06-09 02:24:24 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-06-09 02:24:24 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-06-09 02:24:24 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid' - Env: NORMAL - Type: NORMAL & seed: -3021652546439280874
+2012-06-09 02:24:24 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid_nether' - Env: NETHER - Type: NORMAL & seed: -4035248619903658227
+2012-06-09 02:24:24 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-06-09 02:24:24 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2012-06-09 02:24:24 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2012-06-09 02:24:24 [INFO] [Multiverse-Portals]  6 - Portals(s) loaded
+2012-06-09 02:24:24 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.4-b147
+2012-06-09 02:24:24 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-06-09 02:24:24 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-06-09 02:24:24 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-06-09 02:24:24 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-06-09 02:24:24 [INFO] [CreeperMess v1.2] Enabled!
+2012-06-09 02:24:24 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+2012-06-09 02:24:24 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+2012-06-09 02:24:24 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-06-09 02:24:24 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-06-09 02:24:24 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-06-09 02:24:24 [INFO] [32mReload complete.[0m
+2012-06-09 02:25:36 [INFO] lluoc: Set time to 0[0m
+2012-06-09 02:26:40 [INFO] Connection reset
+2012-06-09 02:26:40 [INFO] lluoc lost connection: disconnect.quitting
+2012-06-09 02:33:29 [INFO] lluoc [/127.0.0.1:56869] logged in with entity id 103155 at ([world] -53.44281852206545, 65.0, -27.372416944044524)
+2012-06-09 02:39:23 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 02:40:00 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 02:41:53 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 02:43:37 [SEVERE] Cannot load plugins/Multiverse-Inventories/config.yml
+org.bukkit.configuration.InvalidConfigurationException: while parsing a block collection
+ in "<string>", line 42, column 5:
+        - fluid
+        ^
+expected <block end>, but found Key
+ in "<string>", line 44, column 5:
+        shares:
+        ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:143)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:109)
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:177)
+	at com.onarandombox.multiverseinventories.util.CommentedYamlConfiguration.load(CommentedYamlConfiguration.java:41)
+	at com.onarandombox.multiverseinventories.util.CommentedInventoriesConfig.<init>(CommentedInventoriesConfig.java:133)
+	at com.onarandombox.multiverseinventories.MultiverseInventories.getMVIConfig(MultiverseInventories.java:271)
+	at com.onarandombox.multiverseinventories.MultiverseInventories.reloadConfig(MultiverseInventories.java:293)
+	at com.onarandombox.multiverseinventories.command.ReloadCommand.runCommand(ReloadCommand.java:27)
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.checkAndRunCommand(CommandHandler.java:279)
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.processFoundCommands(CommandHandler.java:143)
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:93)
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:71)
+	at com.onarandombox.multiverseinventories.MultiverseInventories.onCommand(MultiverseInventories.java:193)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:40)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:166)
+	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:473)
+	at net.minecraft.server.NetServerHandler.handleCommand(NetServerHandler.java:821)
+	at net.minecraft.server.NetServerHandler.chat(NetServerHandler.java:781)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:764)
+	at net.minecraft.server.Packet3Chat.handle(Packet3Chat.java:34)
+	at net.minecraft.server.NetworkManager.b(NetworkManager.java:229)
+	at net.minecraft.server.NetServerHandler.a(NetServerHandler.java:113)
+	at net.minecraft.server.NetworkListenThread.a(NetworkListenThread.java:78)
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:551)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:449)
+	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+Caused by: while parsing a block collection
+ in "<string>", line 42, column 5:
+        - fluid
+        ^
+expected <block end>, but found Key
+ in "<string>", line 44, column 5:
+        shares:
+        ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockSequenceEntry.produce(ParserImpl.java:519)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:203)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:158)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399)
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53)
+	... 26 more
+2012-06-09 02:43:37 [INFO] [Multiverse-Inventories] First run!
+2012-06-09 02:43:37 [INFO] [Multiverse-Inventories] Created a default group for you containing all of your default worlds: world, world_nether, world_the_end
+2012-06-09 02:43:37 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-06-09 02:43:37 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-06-09 02:43:51 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-06-09 02:43:51 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-06-09 02:43:56 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 02:44:11 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 02:45:18 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-06-09 02:45:18 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-06-09 02:45:18 [INFO]  [36m===[ Reload Complete! ]===[0m
+2012-06-09 02:45:34 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 02:46:07 [INFO] lluoc: Setting lluoc to game mode 1[0m
+2012-06-09 02:46:55 [INFO] lluoc lost connection: disconnect.quitting
+2012-06-09 02:46:55 [INFO] Connection reset
+2012-06-09 02:49:33 [INFO] CONSOLE: Stopping the server..[0m
+2012-06-09 02:49:33 [INFO] Stopping server
+2012-06-09 02:49:33 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-06-09 02:49:33 [INFO] SilkSpawners disabled
+2012-06-09 02:49:33 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-06-09 02:49:33 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-06-09 02:49:33 [INFO] [Lockette] Disabling Lockette v1.6
+2012-06-09 02:49:33 [INFO] Lockette is being disabled...  ;.;
+2012-06-09 02:49:33 [INFO] [Lockette] Closing all automatic doors.
+2012-06-09 02:49:33 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-06-09 02:49:33 [INFO] Disabling PickBoat
+2012-06-09 02:49:33 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+2012-06-09 02:49:33 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+2012-06-09 02:49:33 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+2012-06-09 02:49:33 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-06-09 02:49:33 [INFO] [Multiverse-Core] - Disabled
+2012-06-09 02:49:33 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b147
+2012-06-09 02:49:33 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-06-09 02:49:33 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-06-09 02:49:33 [INFO] [CreeperMess v1.2] Disabled!
+2012-06-09 02:49:33 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-06-09 02:49:33 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-06-09 02:49:33 [INFO] Saving chunks
+2012-06-09 02:49:34 [INFO] Stopping server
+2012-06-09 02:49:34 [INFO] Saving chunks

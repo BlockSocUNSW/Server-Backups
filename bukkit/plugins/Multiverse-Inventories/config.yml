@@ -38,3 +38,9 @@ groups:
     - world_the_end
     shares:
     - all
+  fluid_system:
+    worlds:
+    - fluid
+    - fluid_nether
+    shares:
+    - all

@@ -5,7 +5,7 @@ worlds:
     type: NORMAL
     hidden: false
     alias:
-      name: Overworld
+      name: Static
       color: BLUE
     pvp: true
     scale: 1.0
@@ -40,7 +40,7 @@ worlds:
     type: NORMAL
     hidden: false
     alias:
-      name: Nether
+      name: Static Nether
       color: RED
     pvp: true
     scale: 8.0
@@ -127,7 +127,7 @@ worlds:
     hunger: true
     autoheal: true
     adjustspawn: true
-    portalform: ALL
+    portalform: NONE
     gamemode: CREATIVE
     keepspawninmemory: true
     spawn:
@@ -137,5 +137,75 @@ worlds:
       pitch: 6.149994
       yaw: 89.09996
       world: creative
+    autoload: true
+    bedrespawn: true
+  fluid:
+    seed: -3021652546439280874
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: Fluid
+      color: LIGHTPURPLE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: HARD
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: -2.5
+      y: 68.0
+      z: 93.5
+      pitch: 0.0
+      yaw: 0.0
+      world: fluid
+    autoload: true
+    bedrespawn: true
+  fluid_nether:
+    seed: -4035248619903658227
+    environment: NETHER
+    type: NORMAL
+    hidden: false
+    alias:
+      name: Fluid Nether
+      color: DARKPURPLE
+    pvp: true
+    scale: 8.0
+    respawnworld: fluid
+    allowweather: true
+    difficulty: HARD
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: -4.5
+      y: 68.0
+      z: 96.5
+      pitch: 0.0
+      yaw: 0.0
+      world: fluid_nether
     autoload: true
     bedrespawn: true

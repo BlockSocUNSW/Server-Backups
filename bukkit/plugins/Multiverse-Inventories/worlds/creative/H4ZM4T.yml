@@ -1,6 +1,6 @@
 playerData:
-  armorContents: ''
-  inventoryContents: 1:t:381;#:9/2:t:3/3:t:69/4:t:7/5:t:76;#:2/6:t:89/7:t:123
+  inventoryContents: 0:t:89/1:t:110/2:t:366;#:64/3:t:69/4:t:259/5:t:341;#:2/6:t:79/7:t:383;d:94/8:t:384/9:t:344;#:16/10:t:344;#:16/11:t:344;#:16/12:t:344;#:16/13:t:344;#:16/14:t:344;#:16/15:t:288;#:64/16:t:365/17:t:344;#:16/18:t:288;#:52/19:t:366;#:26/20:t:344;#:6/21:t:334
   potions: ''
   bedSpawnLocation: wo:creative;x:-244.0;y:64.0;z:36.0;pi:0.0;ya:0.0
-  stats: ra:300;ma:300;el:0;ft:-20;fl:20;sa:5.0;txp:0;hp:20;fd:0.0;ex:0.0;xp:0.0
+  armorContents: ''
+  stats: txp:243;xp:0.4285716;fd:0.0;ra:300;sa:5.0;fl:20;el:10;ma:300;ex:0.0;hp:20;ft:-20

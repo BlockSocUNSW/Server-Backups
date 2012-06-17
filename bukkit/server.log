@@ -33065,3 +33065,11 @@ expected <block end>, but found Key
 2012-06-17 13:10:44 [INFO] TrialZ lost connection: disconnect.endOfStream
 2012-06-17 13:13:18 [INFO] Connected players: H4ZM4T[0m
 2012-06-17 13:17:57 [INFO] CONSOLE: Disabling level saving..[0m
+2012-06-17 13:24:45 [INFO] CONSOLE: Enabling level saving..[0m
+2012-06-17 13:24:51 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-17 13:24:51 [INFO] [35m[Server] Starting backup.[0m
+2012-06-17 13:24:51 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-17 13:24:51 [INFO] CONSOLE: Forcing save..[0m
+2012-06-17 13:24:51 [INFO] CONSOLE: Save complete.[0m
+2012-06-17 13:24:54 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-17 13:24:54 [INFO] CONSOLE: Disabling level saving..[0m

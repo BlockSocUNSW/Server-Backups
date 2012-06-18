@@ -33073,3 +33073,531 @@ expected <block end>, but found Key
 2012-06-17 13:24:51 [INFO] CONSOLE: Save complete.[0m
 2012-06-17 13:24:54 [INFO] Unknown command. Type "help" for help.[0m
 2012-06-17 13:24:54 [INFO] CONSOLE: Disabling level saving..[0m
+2012-06-17 13:26:45 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-17 13:26:45 [INFO] CONSOLE: Enabling level saving..[0m
+2012-06-17 13:26:45 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-17 13:26:45 [INFO] CONSOLE: Forcing save..[0m
+2012-06-17 13:26:45 [INFO] CONSOLE: Save complete.[0m
+2012-06-17 13:26:45 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-17 13:26:45 [INFO] [35m[Server] Backup complete.[0m
+2012-06-17 13:27:18 [INFO] Connection reset
+2012-06-17 13:27:18 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-17 14:12:07 [INFO] H4ZM4T [/127.0.0.1:59179] logged in with entity id 4346959 at ([fluid] -40.30354321220184, 71.0, 104.50024353821206)
+2012-06-17 14:27:02 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-17 14:27:02 [INFO] Connection reset
+2012-06-17 16:37:14 [INFO] TrialZ [/127.0.0.1:59203] logged in with entity id 4378474 at ([fluid] -66.69999998807907, 63.0, 427.37111035244055)
+2012-06-17 16:37:15 [INFO] Connection reset
+2012-06-17 16:37:15 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-17 16:37:15 [SEVERE] java.net.SocketException: Socket closed
+2012-06-17 16:37:15 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:116)
+2012-06-17 16:37:15 [SEVERE] 	at java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+2012-06-17 16:37:15 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2012-06-17 16:37:15 [SEVERE] 	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2012-06-17 16:37:15 [SEVERE] 	at java.io.DataOutputStream.flush(DataOutputStream.java:123)
+2012-06-17 16:37:15 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-06-17 17:08:17 [INFO] Connected players: [0m
+2012-06-17 17:36:55 [INFO] CONSOLE: Stopping the server..[0m
+2012-06-17 17:36:55 [INFO] Stopping server
+2012-06-17 17:36:55 [INFO] [SilkSpawners] Disabling SilkSpawners v1.4
+2012-06-17 17:36:55 [INFO] SilkSpawners disabled
+2012-06-17 17:36:55 [INFO] [Vault] Disabling Vault v1.2.13-b148
+2012-06-17 17:36:55 [INFO] [Vault] Disabled Version 1.2.13-b148
+2012-06-17 17:36:55 [INFO] [Lockette] Disabling Lockette v1.6
+2012-06-17 17:36:55 [INFO] Lockette is being disabled...  ;.;
+2012-06-17 17:36:55 [INFO] [Lockette] Closing all automatic doors.
+2012-06-17 17:36:55 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-06-17 17:36:55 [INFO] Disabling PickBoat
+2012-06-17 17:36:55 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+2012-06-17 17:36:55 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+2012-06-17 17:36:55 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+2012-06-17 17:36:55 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-06-17 17:36:55 [INFO] [Multiverse-Core] - Disabled
+2012-06-17 17:36:55 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b147
+2012-06-17 17:36:55 [INFO] [Multiverse-Inventories 2.4-b147] disabled.
+2012-06-17 17:36:55 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-06-17 17:36:55 [INFO] [CreeperMess v1.2] Disabled!
+2012-06-17 17:36:55 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-06-17 17:36:55 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-06-17 17:36:55 [INFO] Saving chunks
+2012-06-17 17:36:58 [INFO] Stopping server
+2012-06-17 17:37:37 [INFO] Starting minecraft server version 1.2.5
+2012-06-17 17:37:37 [INFO] Loading properties
+2012-06-17 17:37:37 [INFO] Starting Minecraft server on *:25564
+2012-06-17 17:37:37 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R0.1-b2143jnks (MC: 1.2.5) (Implementing API version 1.2.5-R0.1)
+2012-06-17 17:37:38 [INFO] [SilkSpawners] Loading SilkSpawners v1.4
+2012-06-17 17:37:38 [INFO] [Vault] Loading Vault v1.2.13-b148
+2012-06-17 17:37:38 [INFO] [Lockette] Loading Lockette v1.6
+2012-06-17 17:37:38 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-06-17 17:37:38 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2012-06-17 17:37:38 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2012-06-17 17:37:38 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.4-b147
+2012-06-17 17:37:38 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-06-17 17:37:38 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+2012-06-17 17:37:38 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-06-17 17:37:38 [INFO] [Vault] Enabling Vault v1.2.13-b148
+2012-06-17 17:37:38 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-06-17 17:37:38 [INFO] [Vault] Enabled Version 1.2.13-b148
+2012-06-17 17:37:38 [INFO] Preparing level "world"
+2012-06-17 17:37:38 [INFO] Default game type: 0
+2012-06-17 17:37:38 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-06-17 17:37:39 [INFO] Preparing spawn area: 24%
+2012-06-17 17:37:40 [INFO] Preparing spawn area: 85%
+2012-06-17 17:37:41 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-06-17 17:37:41 [INFO] Preparing spawn area: 52%
+2012-06-17 17:37:42 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-06-17 17:37:42 [INFO] Preparing spawn area: 52%
+2012-06-17 17:37:43 [INFO] [SilkSpawners] Enabling SilkSpawners v1.4
+2012-06-17 17:37:43 [INFO] SilkSpawners enabled
+2012-06-17 17:37:43 [INFO] [Lockette] Enabling Lockette v1.6
+2012-06-17 17:37:43 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-06-17 17:37:43 [INFO] [Lockette] Detected craftbukkit build [2143] ok.
+2012-06-17 17:37:43 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-06-17 17:37:43 [INFO] [Lockette] Using ops file for admin permissions.
+2012-06-17 17:37:43 [INFO] [Lockette] Ready to protect your containers.
+2012-06-17 17:37:43 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-06-17 17:37:43 [INFO] PickBoat version 0.4 is enabled!
+2012-06-17 17:37:43 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2012-06-17 17:37:43 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-06-17 17:37:43 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b527
+2012-06-17 17:37:43 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3821605025407244639
+2012-06-17 17:37:43 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8744398351327703295
+2012-06-17 17:37:43 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8744398351327703295
+2012-06-17 17:37:43 [INFO] [Multiverse-Core] Loading World & Settings - 'creative' - Env: NORMAL - Type: NORMAL & seed: -1309634265
+2012-06-17 17:37:43 [INFO] Preparing start region for level 3 (Seed: -1309634265)
+2012-06-17 17:37:44 [INFO] Preparing spawn area for creative, 81%
+2012-06-17 17:37:44 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid' - Env: NORMAL - Type: NORMAL & seed: -3021652546439280874
+2012-06-17 17:37:44 [INFO] Preparing start region for level 4 (Seed: -3021652546439280874)
+2012-06-17 17:37:45 [INFO] [Multiverse-Core] Loading World & Settings - 'fluid_nether' - Env: NETHER - Type: NORMAL & seed: -4035248619903658227
+2012-06-17 17:37:45 [INFO] Preparing start region for level 5 (Seed: -4035248619903658227)
+2012-06-17 17:37:46 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-06-17 17:37:46 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2012-06-17 17:37:46 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2012-06-17 17:37:46 [INFO] [Multiverse-Portals]  6 - Portals(s) loaded
+2012-06-17 17:37:46 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.4-b147
+2012-06-17 17:37:46 [INFO] [Multiverse-Inventories] Checking for conflicts in groups...
+2012-06-17 17:37:46 [INFO] [Multiverse-Inventories] No group conflicts found!
+2012-06-17 17:37:46 [INFO] [Multiverse-Inventories 2.4-b147] enabled.
+2012-06-17 17:37:46 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-06-17 17:37:46 [INFO] [CreeperMess v1.2] Enabled!
+2012-06-17 17:37:46 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+2012-06-17 17:37:46 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+2012-06-17 17:37:46 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-06-17 17:37:46 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-06-17 17:37:46 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-06-17 17:37:46 [INFO] Done (8.149s)! For help, type "help" or "?"
+2012-06-17 19:03:34 [INFO] NotQuiteAs1 [/127.0.0.1:59226] logged in with entity id 2786 at ([fluid] -193.16930259790053, 72.5, 121.76198528323297)
+2012-06-17 19:03:41 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-17 19:03:41 [INFO] CONSOLE: Giving NotQuiteAs1 some 341 (SLIME_BALL)[0m
+2012-06-17 19:19:02 [INFO] Connection reset
+2012-06-17 19:19:02 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-17 19:19:05 [INFO] NotQuiteAs1 [/127.0.0.1:59232] logged in with entity id 19480 at ([fluid] -23.580983194313607, 69.0, 97.57363960744874)
+2012-06-17 20:00:40 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-17 20:00:40 [INFO] Connection reset
+2012-06-17 20:01:02 [INFO] NotQuiteAs1 [/127.0.0.1:59240] logged in with entity id 67762 at ([fluid] -45.808389978760225, 69.0, 111.41297686578882)
+2012-06-17 20:23:43 [INFO] Connection reset
+2012-06-17 20:23:43 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-17 20:23:46 [INFO] NotQuiteAs1 [/127.0.0.1:59246] logged in with entity id 90160 at ([fluid] -67.13578324415143, 71.0, 114.8840369335955)
+2012-06-17 20:37:38 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 68 in fluid, 4.6 blocks from NotQuiteAs1
+2012-06-17 20:39:09 [INFO] H4ZM4T [/127.0.0.1:59252] logged in with entity id 103467 at ([fluid] -40.9062349872032, 69.0, 101.2463674684893)
+2012-06-17 20:39:12 [INFO] [[35mFluid[37m]<NotQuiteAs1> evenin[0m
+2012-06-17 20:39:15 [INFO] [[35mFluid[37m]<H4ZM4T> evenin[0m
+2012-06-17 20:39:24 [INFO] [[35mFluid[37m]<H4ZM4T> bins go out okay?[0m
+2012-06-17 20:39:30 [INFO] [[35mFluid[37m]<NotQuiteAs1> aye[0m
+2012-06-17 20:39:37 [INFO] [[35mFluid[37m]<H4ZM4T> schweet[0m
+2012-06-17 20:39:54 [INFO] [[35mFluid[37m]<NotQuiteAs1> got bored of studying so i decided to extend the road to my place[0m
+2012-06-17 20:40:58 [INFO] [[35mFluid[37m]<NotQuiteAs1> it isn't going well so far[0m
+2012-06-17 20:41:04 [INFO] [[35mFluid[37m]<NotQuiteAs1> damn having to make a tunnel :([0m
+2012-06-17 20:42:31 [INFO] [[35mFluid[37m]<H4ZM4T> shiny[0m
+2012-06-17 20:42:39 [INFO] [[35mFluid[37m]<NotQuiteAs1> so so so so so much stone[0m
+2012-06-17 20:42:46 [INFO] [[35mFluid[37m]<NotQuiteAs1> oh god it is expensive to build this[0m
+2012-06-17 20:42:54 [INFO] [[35mFluid[37m]<H4ZM4T> thank you or keeping to the design, but remember to make the water two wide[0m
+2012-06-17 20:43:03 [INFO] [[35mFluid[37m]<H4ZM4T> also, I have a ton of cobble if you want me to bring you some[0m
+2012-06-17 20:43:04 [INFO] [[35mFluid[37m]<NotQuiteAs1> wo9ulda impacted simba's place[0m
+2012-06-17 20:43:16 [INFO] [[35mFluid[37m]<NotQuiteAs1> i have the cobble, just it isn't all stone yet[0m
+2012-06-17 20:43:21 [INFO] [[35mFluid[37m]<H4ZM4T> though I don't have the coal[0m
+2012-06-17 20:43:28 [INFO] [[35mFluid[37m]<H4ZM4T> uh[0m
+2012-06-17 20:43:29 [INFO] [[35mFluid[37m]<H4ZM4T> pause[0m
+2012-06-17 20:43:33 [INFO] [[35mFluid[37m]<H4ZM4T> watch some magic[0m
+2012-06-17 20:43:47 [INFO] [[35mFluid[37m]<H4ZM4T> see that[0m
+2012-06-17 20:43:53 [INFO] [[35mFluid[37m]<NotQuiteAs1> i know you can cheat it[0m
+2012-06-17 20:43:55 [INFO] [[35mFluid[37m]<H4ZM4T> come down[0m
+2012-06-17 20:43:57 [INFO] [[35mFluid[37m]<H4ZM4T> oh[0m
+2012-06-17 20:44:00 [INFO] [[35mFluid[37m]<H4ZM4T> worth doing[0m
+2012-06-17 20:44:02 [INFO] [[35mFluid[37m]<NotQuiteAs1> but i cbf[0m
+2012-06-17 20:44:02 [INFO] [[35mFluid[37m]<H4ZM4T> by fa[0m
+2012-06-17 20:44:06 [INFO] [[35mFluid[37m]<NotQuiteAs1> nah, too much effort[0m
+2012-06-17 20:44:11 [INFO] [[35mFluid[37m]<H4ZM4T> it saves a LOT of resources and time[0m
+2012-06-17 20:44:13 [INFO] [[35mFluid[37m]<NotQuiteAs1> replace the slabs plox[0m
+2012-06-17 20:44:25 [INFO] [[35mFluid[37m]<H4ZM4T> anyway[0m
+2012-06-17 20:44:26 [INFO] [[35mFluid[37m]<H4ZM4T> toodles[0m
+2012-06-17 20:44:31 [INFO] [[35mFluid[37m]<NotQuiteAs1> byes[0m
+2012-06-17 20:44:34 [INFO] Connection reset
+2012-06-17 20:44:34 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-17 20:48:12 [INFO] Connection reset
+2012-06-17 20:48:12 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-17 21:00:06 [INFO] ultrajono [/127.0.0.1:59259] logged in with entity id 113776 at ([fluid] -23.722684864279046, 70.0, 115.05425670458963)
+2012-06-17 21:00:12 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-17 21:00:12 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-06-17 21:06:53 [INFO] Connection reset
+2012-06-17 21:06:53 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-17 21:07:34 [INFO] H4ZM4T [/127.0.0.1:59263] logged in with entity id 122795 at ([fluid] -41.39257808371716, 69.0, 96.92339705089834)
+2012-06-17 21:35:42 [INFO] dahlukeh [/127.0.0.1:59270] logged in with entity id 198338 at ([fluid] -59.95971629355563, 64.0, 424.30918161849235)
+2012-06-17 21:35:46 [INFO] [[35mFluid[37m]<H4ZM4T> evening[0m
+2012-06-17 21:35:56 [INFO] [[35mFluid[37m]<dahlukeh> morning[0m
+2012-06-17 21:36:20 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-17 21:36:20 [INFO] CONSOLE: Giving dahlukeh some 341 (SLIME_BALL)[0m
+2012-06-17 21:39:34 [INFO] [[35mFluid[37m]<H4ZM4T> zzzzz?[0m
+2012-06-17 21:41:13 [INFO] [[35mFluid[37m]<H4ZM4T> danke[0m
+2012-06-17 21:55:28 [INFO] Connection reset
+2012-06-17 21:55:28 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-17 22:03:46 [INFO] Connection reset
+2012-06-17 22:03:46 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-17 22:49:55 [INFO] ultrajono [/127.0.0.1:59285] logged in with entity id 255272 at ([fluid] -163.48964950280413, 11.0, 136.59270432659403)
+2012-06-17 22:51:01 [INFO] [Lockette] ultrajono has released a container.
+2012-06-17 22:51:29 [INFO] [Lockette] ultrajono has claimed a container.
+2012-06-17 22:53:04 [INFO] [[35mFluid[37m]<ultrajono> help[0m
+2012-06-17 23:41:45 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 18 in fluid, 5.8 blocks from ultrajono
+2012-06-17 23:43:05 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 24 in fluid, 5.4 blocks from ultrajono
+2012-06-17 23:43:21 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 12 in fluid, 4.9 blocks from ultrajono
+2012-06-18 00:01:44 [INFO] Connection reset
+2012-06-18 00:01:44 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-18 03:14:07 [INFO] Connection reset
+2012-06-18 03:14:12 [INFO] Connection reset
+2012-06-18 08:00:01 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-18 08:00:01 [INFO] [35m[Server] Starting backup.[0m
+2012-06-18 08:00:01 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-18 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-06-18 08:00:01 [INFO] CONSOLE: Save complete.[0m
+2012-06-18 08:00:04 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-18 08:00:04 [INFO] CONSOLE: Disabling level saving..[0m
+2012-06-18 08:00:48 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-18 08:00:48 [INFO] CONSOLE: Enabling level saving..[0m
+2012-06-18 08:00:48 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-18 08:00:48 [INFO] CONSOLE: Forcing save..[0m
+2012-06-18 08:00:48 [INFO] CONSOLE: Save complete.[0m
+2012-06-18 08:00:48 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-18 08:00:48 [INFO] [35m[Server] Backup complete.[0m
+2012-06-18 10:01:10 [INFO] Connection reset
+2012-06-18 10:01:17 [INFO] H4ZM4T [/127.0.0.1:59367] logged in with entity id 333949 at ([fluid] -33.528467586797106, 9.0, 44.63723548183001)
+2012-06-18 10:07:32 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-06-18 12:57:08 [INFO] dahlukeh [/127.0.0.1:59392] logged in with entity id 347279 at ([fluid] -70.00687043822191, 63.0, 424.8137320160457)
+2012-06-18 12:57:45 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in fluid, 2.4 blocks from dahlukeh
+2012-06-18 12:58:16 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in fluid, 3.7 blocks from dahlukeh
+2012-06-18 13:21:12 [INFO] Connection reset
+2012-06-18 13:21:12 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-18 13:41:10 [INFO] NotQuiteAs1 [/127.0.0.1:59401] logged in with entity id 362248 at ([fluid] -71.46116673984142, 69.0, 116.83640564477065)
+2012-06-18 13:41:26 [INFO] mebeme [/127.0.0.1:59405] logged in with entity id 363837 at ([world] -26.293544355052266, 73.0, 86.81784042383794)
+2012-06-18 13:41:27 [INFO] mebeme lost connection: disconnect.endOfStream
+2012-06-18 13:44:51 [INFO] mebeme [/127.0.0.1:59409] logged in with entity id 368088 at ([world] -26.293544355052266, 73.0, 86.81784042383794)
+2012-06-18 13:53:50 [INFO] mebeme lost connection: disconnect.endOfStream
+2012-06-18 13:54:01 [INFO] mebeme [/127.0.0.1:59414] logged in with entity id 380504 at ([fluid] -188.13863273957858, 82.0, 123.70008929704466)
+2012-06-18 14:05:10 [INFO] Connection reset
+2012-06-18 14:05:10 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-18 14:05:14 [INFO] NotQuiteAs1 [/127.0.0.1:59419] logged in with entity id 392775 at ([fluid] -81.64791107320856, 69.0, 116.10706293060998)
+2012-06-18 14:42:35 [INFO] mebeme lost connection: disconnect.quitting
+2012-06-18 14:42:35 [INFO] Connection reset
+2012-06-18 14:44:12 [INFO] mebeme [/127.0.0.1:59427] logged in with entity id 433647 at ([fluid] -194.91639896087136, 72.0, 124.97902117688268)
+2012-06-18 14:48:30 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 72 in fluid, 1.5 blocks from NotQuiteAs1
+2012-06-18 14:51:39 [INFO] Read timed out
+2012-06-18 14:51:39 [INFO] mebeme lost connection: disconnect.endOfStream
+2012-06-18 14:52:42 [INFO] mebeme [/127.0.0.1:59432] logged in with entity id 442515 at ([fluid] -75.96795803596731, 75.0, 227.6999999880791)
+2012-06-18 14:54:04 [INFO] Connection reset
+2012-06-18 14:54:04 [INFO] mebeme lost connection: disconnect.quitting
+2012-06-18 14:54:35 [INFO] mebeme [/127.0.0.1:59436] logged in with entity id 444057 at ([fluid] -79.01735674982662, 75.0, 228.91219141178306)
+2012-06-18 15:05:43 [INFO] H4ZM4T [/127.0.0.1:59441] logged in with entity id 457841 at ([fluid] -38.087823663182625, 9.0, 46.73559893041696)
+2012-06-18 15:05:49 [INFO] [[35mFluid[37m]<H4ZM4T> evening[0m
+2012-06-18 15:05:56 [INFO] [[35mFluid[37m]<H4ZM4T> who is mebeme[0m
+2012-06-18 15:06:05 [INFO] [[35mFluid[37m]<NotQuiteAs1> ethan atm[0m
+2012-06-18 15:06:08 [INFO] [[35mFluid[37m]<NotQuiteAs1> usually brent[0m
+2012-06-18 15:06:11 [INFO] [[35mFluid[37m]<NotQuiteAs1> also evenin[0m
+2012-06-18 15:06:16 [INFO] [[35mFluid[37m]<H4ZM4T> ah okay[0m
+2012-06-18 15:06:24 [INFO] [[35mFluid[37m]<mebeme> hello[0m
+2012-06-18 15:06:31 [INFO] [[35mFluid[37m]<NotQuiteAs1> where u playing?[0m
+2012-06-18 15:06:33 [INFO] [[35mFluid[37m]<H4ZM4T> why is ehtan on?[0m
+2012-06-18 15:06:39 [INFO] [[35mFluid[37m]<H4ZM4T> at a dnd gam[0m
+2012-06-18 15:06:40 [INFO] [[35mFluid[37m]<H4ZM4T> e[0m
+2012-06-18 15:06:44 [INFO] [[35mFluid[37m]<NotQuiteAs1> ah, kk[0m
+2012-06-18 15:06:53 [INFO] [[35mFluid[37m]<NotQuiteAs1> we're doing a food run b4 circus btw[0m
+2012-06-18 15:06:55 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-18 15:06:55 [INFO] Connection reset
+2012-06-18 15:07:03 [INFO] [[35mFluid[37m]<H4ZM4T> why?[0m
+2012-06-18 15:07:03 [INFO] [[35mFluid[37m]<mebeme> sleep[0m
+2012-06-18 15:07:09 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-18 15:07:09 [INFO] Connection reset
+2012-06-18 15:07:15 [INFO] NotQuiteAs1 [/127.0.0.1:59446] logged in with entity id 462422 at ([fluid] -231.76267886317538, 72.0, 111.00790886536306)
+2012-06-18 15:07:21 [INFO] H4ZM4T [/127.0.0.1:59449] logged in with entity id 462619 at ([fluid] -48.985602725766896, 9.0, 45.15790653814609)
+2012-06-18 15:07:27 [INFO] [[35mFluid[37m]<H4ZM4T> hrmmm[0m
+2012-06-18 15:11:24 [INFO] [Lockette] mebeme has claimed a container.
+2012-06-18 15:11:42 [INFO] [Lockette] mebeme has claimed a container.
+2012-06-18 15:15:13 [INFO] [[35mFluid[37m]<NotQuiteAs1> btw we wil be doing food run just before circus[0m
+2012-06-18 15:15:17 [INFO] [[35mFluid[37m]<NotQuiteAs1> and my tunnel is done[0m
+2012-06-18 15:15:21 [INFO] [[35mFluid[37m]<H4ZM4T> you mentioned[0m
+2012-06-18 15:15:31 [INFO] [[35mFluid[37m]<H4ZM4T> I don't think I shall get there early enough[0m
+2012-06-18 15:15:38 [INFO] [[35mFluid[37m]<NotQuiteAs1> kk[0m
+2012-06-18 15:19:06 [INFO] [[35mFluid[37m]<mebeme> sleep[0m
+2012-06-18 15:19:09 [INFO] Connection reset
+2012-06-18 15:19:09 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-18 15:19:14 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-18 15:19:14 [INFO] Connection reset
+2012-06-18 15:19:33 [INFO] H4ZM4T [/127.0.0.1:59455] logged in with entity id 481591 at ([fluid] -41.756554051037256, 9.0, 58.32027437954411)
+2012-06-18 15:19:38 [INFO] NotQuiteAs1 [/127.0.0.1:59459] logged in with entity id 482231 at ([fluid] -103.69999998807906, 68.0, 114.30000001192093)
+2012-06-18 15:19:46 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-18 15:19:46 [INFO] CONSOLE: Giving H4ZM4T some 341 (SLIME_BALL)[0m
+2012-06-18 15:25:49 [INFO] Fetching addPacket for removed entity: CraftItem
+2012-06-18 15:26:38 [INFO] Connection reset
+2012-06-18 15:26:38 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-18 15:30:31 [INFO] Connection reset
+2012-06-18 15:30:31 [INFO] mebeme lost connection: disconnect.quitting
+2012-06-18 15:31:17 [INFO] mebeme [/127.0.0.1:59462] logged in with entity id 501350 at ([fluid] -178.69999998807907, 64.0, 161.30000001192093)
+2012-06-18 15:43:19 [INFO] mebeme lost connection: disconnect.quitting
+2012-06-18 15:43:19 [INFO] Connection reset
+2012-06-18 15:43:43 [INFO] mebeme [/127.0.0.1:59467] logged in with entity id 518153 at ([fluid] -180.41892325689102, 65.0, 163.69999998807907)
+2012-06-18 15:55:32 [INFO] Connection reset
+2012-06-18 15:55:32 [INFO] mebeme lost connection: disconnect.quitting
+2012-06-18 15:55:54 [INFO] mebeme [/127.0.0.1:59472] logged in with entity id 531441 at ([fluid] -115.95801084404854, 70.0, 202.29113654997315)
+2012-06-18 16:06:45 [INFO] Connection reset
+2012-06-18 16:06:45 [INFO] mebeme lost connection: disconnect.quitting
+2012-06-18 16:07:23 [INFO] mebeme [/127.0.0.1:59477] logged in with entity id 551071 at ([fluid] -77.26651912168448, 100.0, 217.56054251070188)
+2012-06-18 16:10:15 [INFO] Connection reset
+2012-06-18 16:10:15 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-18 16:10:18 [INFO] NotQuiteAs1 [/127.0.0.1:59482] logged in with entity id 555982 at ([fluid] -125.30000001192101, 68.99520087700593, 118.30000001192091)
+2012-06-18 16:19:07 [INFO] Connection reset
+2012-06-18 16:19:07 [INFO] mebeme lost connection: disconnect.quitting
+2012-06-18 16:22:49 [INFO] mebeme [/127.0.0.1:59487] logged in with entity id 569625 at ([fluid] -67.89224920467927, 100.0, 218.6191127383748)
+2012-06-18 16:31:46 [INFO] mebeme lost connection: disconnect.endOfStream
+2012-06-18 16:32:53 [INFO] mebeme [/127.0.0.1:59492] logged in with entity id 580777 at ([fluid] -76.67118177935272, 71.0, 188.07659393893383)
+2012-06-18 16:33:00 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-18 16:33:00 [INFO] CONSOLE: Giving mebeme some 341 (SLIME_BALL)[0m
+2012-06-18 16:35:39 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-18 16:35:39 [INFO] Connection reset
+2012-06-18 16:35:42 [INFO] NotQuiteAs1 [/127.0.0.1:59496] logged in with entity id 584503 at ([fluid] -139.3000000119209, 67.99520087700593, 118.30000001192091)
+2012-06-18 16:46:55 [INFO] Connection reset
+2012-06-18 16:46:55 [INFO] mebeme lost connection: disconnect.quitting
+2012-06-18 16:47:00 [INFO] mebeme [/127.0.0.1:59501] logged in with entity id 597026 at ([fluid] -27.81030066966422, 66.0, 61.6798149941761)
+2012-06-18 17:00:40 [INFO] mebeme lost connection: disconnect.quitting
+2012-06-18 17:00:40 [INFO] Connection reset
+2012-06-18 17:00:44 [INFO] mebeme [/127.0.0.1:59507] logged in with entity id 614852 at ([fluid] -95.60329743243173, 66.0, 117.19974154212669)
+2012-06-18 17:13:16 [INFO] Connection reset
+2012-06-18 17:13:16 [INFO] mebeme lost connection: disconnect.quitting
+2012-06-18 17:13:49 [INFO] mebeme [/127.0.0.1:59512] logged in with entity id 628126 at ([fluid] -75.93091799666996, 71.0, 199.12645160986168)
+2012-06-18 17:30:03 [INFO] Connection reset
+2012-06-18 17:30:03 [INFO] mebeme lost connection: disconnect.quitting
+2012-06-18 17:33:55 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-18 17:33:55 [INFO] Connection reset
+2012-06-18 19:35:34 [INFO] dahlukeh [/127.0.0.1:59531] logged in with entity id 649552 at ([fluid] -67.6659843729641, 64.0, 433.7891215281192)
+2012-06-18 19:45:22 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 61 in fluid, 6.8 blocks from dahlukeh
+2012-06-18 19:55:39 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-06-18 19:56:02 [INFO] [Lockette] dahlukeh has released a container.
+2012-06-18 19:56:16 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-06-18 19:57:16 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-06-18 19:57:56 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-06-18 19:58:01 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-06-18 19:58:51 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-06-18 19:59:27 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-06-18 19:59:56 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-06-18 20:02:34 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-06-18 20:32:48 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in fluid, 2.8 blocks from dahlukeh
+2012-06-18 21:23:02 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in fluid, 4.7 blocks from dahlukeh
+2012-06-18 22:01:06 [INFO] Connection reset
+2012-06-18 22:01:06 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-18 22:29:09 [INFO] dahlukeh [/127.0.0.1:59553] logged in with entity id 752871 at ([fluid] -54.5209030459946, 72.0, 425.24944335394457)
+2012-06-18 23:18:34 [INFO] ultrajono [/127.0.0.1:59562] logged in with entity id 790542 at ([fluid] -14.574999988079123, 97.5, 139.6036022302863)
+2012-06-18 23:18:39 [INFO] [[35mFluid[37m]<dahlukeh> hey[0m
+2012-06-18 23:18:40 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-18 23:18:40 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-06-18 23:18:42 [INFO] [[35mFluid[37m]<ultrajono> hey man[0m
+2012-06-18 23:19:12 [INFO] [[35mFluid[37m]<ultrajono> whats been happenin?[0m
+2012-06-18 23:19:22 [INFO] [[35mFluid[37m]<dahlukeh> various building[0m
+2012-06-18 23:19:39 [INFO] [[35mFluid[37m]<ultrajono> where bouts?[0m
+2012-06-18 23:19:43 [INFO] [[35mFluid[37m]<dahlukeh> um[0m
+2012-06-18 23:19:47 [INFO] [[35mFluid[37m]<dahlukeh> follow the tunnel[0m
+2012-06-18 23:19:49 [INFO] [[35mFluid[37m]<dahlukeh> near spawn[0m
+2012-06-18 23:20:34 [INFO] [[35mFluid[37m]<ultrajono> there's a tunnel?[0m
+2012-06-18 23:20:51 [INFO] [[35mFluid[37m]<dahlukeh> cn you see me?[0m
+2012-06-18 23:21:03 [INFO] [[35mFluid[37m]<ultrajono> i'm at mine for the moment, just fixing up my wheat farm[0m
+2012-06-18 23:21:14 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-18 23:21:14 [INFO] CONSOLE: Giving dahlukeh some 341 (SLIME_BALL)[0m
+2012-06-18 23:21:37 [INFO] [[35mFluid[37m]<ultrajono> oh herro[0m
+2012-06-18 23:21:47 [INFO] [[35mFluid[37m]<ultrajono> this is all new[0m
+2012-06-18 23:21:56 [INFO] [[35mFluid[37m]<ultrajono> use a drop point[0m
+2012-06-18 23:21:57 [INFO] [[35mFluid[37m]<dahlukeh> yeah noticed[0m
+2012-06-18 23:22:02 [INFO] [[35mFluid[37m]<dahlukeh> hmmmm[0m
+2012-06-18 23:22:07 [INFO] [[35mFluid[37m]<dahlukeh> you can see the tunnel...[0m
+2012-06-18 23:22:19 [INFO] [[35mFluid[37m]<ultrajono> that big one, right there, no, i can't see it at all[0m
+2012-06-18 23:22:29 [INFO] [[35mFluid[37m]<ultrajono> did you make this?[0m
+2012-06-18 23:23:08 [INFO] [[35mFluid[37m]<dahlukeh> over here?[0m
+2012-06-18 23:23:24 [INFO] [[35mFluid[37m]<ultrajono> where are you?[0m
+2012-06-18 23:23:30 [INFO] [[35mFluid[37m]<dahlukeh> uhhhh[0m
+2012-06-18 23:23:34 [INFO] [[35mFluid[37m]<dahlukeh> in front of the tunnel?[0m
+2012-06-18 23:23:45 [INFO] [[35mFluid[37m]<ultrajono> wait, wrong tunnel[0m
+2012-06-18 23:24:15 [INFO] [[35mFluid[37m]<ultrajono> at lluocs, gonna sleep it[0m
+2012-06-18 23:24:21 [INFO] Connection reset
+2012-06-18 23:24:21 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-18 23:25:00 [INFO] dahlukeh [/127.0.0.1:59566] logged in with entity id 804116 at ([fluid] -47.38653273105444, 89.0, 216.20010546224327)
+2012-06-18 23:25:09 [INFO] [[35mFluid[37m]<dahlukeh> see me n the hill?[0m
+2012-06-18 23:25:38 [INFO] [[35mFluid[37m]<ultrajono> right in front of me, yeh[0m
+2012-06-18 23:25:41 [INFO] [[35mFluid[37m]<dahlukeh> yep[0m
+2012-06-18 23:26:22 [INFO] [[35mFluid[37m]<ultrajono> big tunnel[0m
+2012-06-18 23:26:27 [INFO] [[35mFluid[37m]<dahlukeh> yup[0m
+2012-06-18 23:26:47 [INFO] [[35mFluid[37m]<ultrajono> this coming up, yours?[0m
+2012-06-18 23:26:51 [INFO] [[35mFluid[37m]<dahlukeh> yup[0m
+2012-06-18 23:26:57 [INFO] [[35mFluid[37m]<ultrajono> nice[0m
+2012-06-18 23:27:49 [INFO] [[35mFluid[37m]<ultrajono> i've got some of those saps of bigger trees if you want some?[0m
+2012-06-18 23:27:55 [INFO] [[35mFluid[37m]<dahlukeh> uhhh[0m
+2012-06-18 23:27:57 [INFO] [[35mFluid[37m]<dahlukeh> those are fine[0m
+2012-06-18 23:28:01 [INFO] [[35mFluid[37m]<dahlukeh> in fact I prefer them[0m
+2012-06-18 23:28:06 [INFO] [[35mFluid[37m]<dahlukeh> they don't grow to big[0m
+2012-06-18 23:28:23 [INFO] [[35mFluid[37m]<ultrajono> what else here?[0m
+2012-06-18 23:28:32 [INFO] [[35mFluid[37m]<dahlukeh> um... not much[0m
+2012-06-18 23:28:34 [INFO] [[35mFluid[37m]<dahlukeh> started today[0m
+2012-06-18 23:28:43 [INFO] [[35mFluid[37m]<ultrajono> oh, impressive[0m
+2012-06-18 23:28:47 [INFO] [[35mFluid[37m]<ultrajono> that one you were on is mine[0m
+2012-06-18 23:28:54 [INFO] [[35mFluid[37m]<dahlukeh> ohhhh[0m
+2012-06-18 23:28:56 [INFO] [[35mFluid[37m]<ultrajono> i thought the other tunnel was the one you showed me[0m
+2012-06-18 23:28:58 [INFO] [[35mFluid[37m]<dahlukeh> nice use of flass[0m
+2012-06-18 23:29:01 [INFO] [[35mFluid[37m]<ultrajono> danke[0m
+2012-06-18 23:29:02 [INFO] [[35mFluid[37m]<dahlukeh> which tunnel?[0m
+2012-06-18 23:29:07 [INFO] [[35mFluid[37m]<ultrajono> come, i'll show you[0m
+2012-06-18 23:29:09 [INFO] [[35mFluid[37m]<ultrajono> the one to harry's[0m
+2012-06-18 23:29:41 [INFO] [[35mFluid[37m]<ultrajono> watched a bit of resident evil, thought hive woudl be a cool[0m
+2012-06-18 23:29:49 [INFO] [[35mFluid[37m]<dahlukeh> hmmmm...[0m
+2012-06-18 23:30:23 [INFO] [[35mFluid[37m]<ultrajono> yeh, that big one is mine :D[0m
+2012-06-18 23:30:28 [INFO] [[35mFluid[37m]<dahlukeh> :D[0m
+2012-06-18 23:30:30 [INFO] [[35mFluid[37m]<ultrajono> still working on it of course[0m
+2012-06-18 23:30:42 [INFO] [[35mFluid[37m]<dahlukeh> yeah, some parts look like they need changing[0m
+2012-06-18 23:30:48 [INFO] [[35mFluid[37m]<ultrajono> not sure what to do with the 4 bottom corner bits, eh[0m
+2012-06-18 23:30:57 [INFO] [[35mFluid[37m]<ultrajono> down this way[0m
+2012-06-18 23:31:02 [INFO] [[35mFluid[37m]<dahlukeh> ohhhh[0m
+2012-06-18 23:31:04 [INFO] [[35mFluid[37m]<ultrajono> goes to harrys[0m
+2012-06-18 23:31:35 [INFO] [[35mFluid[37m]<dahlukeh> hmmmm[0m
+2012-06-18 23:31:40 [INFO] [[35mFluid[37m]<ultrajono> seen his mountain?[0m
+2012-06-18 23:31:41 [INFO] [[35mFluid[37m]<dahlukeh> should do something like that...[0m
+2012-06-18 23:32:00 [INFO] [[35mFluid[37m]<ultrajono> come back, i wanna show you somethin[0m
+2012-06-18 23:32:26 [INFO] [[35mFluid[37m]<ultrajono> or, ask you somethin[0m
+2012-06-18 23:32:33 [INFO] [[35mFluid[37m]<ultrajono> you've seen lluocs yeh?[0m
+2012-06-18 23:32:42 [INFO] [[35mFluid[37m]<dahlukeh> no....[0m
+2012-06-18 23:32:48 [INFO] [[35mFluid[37m]<ultrajono> with me[0m
+2012-06-18 23:33:10 [INFO] [[35mFluid[37m]<dahlukeh> nice..[0m
+2012-06-18 23:33:23 [INFO] [[35mFluid[37m]<ultrajono> erro[0m
+2012-06-18 23:33:55 [INFO] [[35mFluid[37m]<ultrajono> yes, there are others :D[0m
+2012-06-18 23:34:18 [INFO] [[35mFluid[37m]<ultrajono> didn't you come here with trialz? or was that someone else?[0m
+2012-06-18 23:34:25 [INFO] [[35mFluid[37m]<dahlukeh> um... don't think s[0m
+2012-06-18 23:34:35 [INFO] [[35mFluid[37m]<ultrajono> one thing i need to ask[0m
+2012-06-18 23:34:48 [INFO] [[35mFluid[37m]<ultrajono> what you doin?[0m
+2012-06-18 23:35:01 [INFO] [[35mFluid[37m]<dahlukeh> looking for chests[0m
+2012-06-18 23:35:10 [INFO] [[35mFluid[37m]<ultrajono> its just a room at the moment, no hidden chests[0m
+2012-06-18 23:35:31 [INFO] [[35mFluid[37m]<ultrajono> do you know how to make a water elevator, well, the beginning of one anyway?[0m
+2012-06-18 23:35:36 [INFO] [[35mFluid[37m]<ultrajono> sleep plz[0m
+2012-06-18 23:35:48 [INFO] [[35mFluid[37m]<ultrajono> double bed here[0m
+2012-06-18 23:35:58 [INFO] [[35mFluid[37m]<dahlukeh> not very well[0m
+2012-06-18 23:36:04 [INFO] [[35mFluid[37m]<dahlukeh> like, I don't know a modern one[0m
+2012-06-18 23:36:11 [INFO] [[35mFluid[37m]<ultrajono> damn, remember the big one i had at my other place?[0m
+2012-06-18 23:36:23 [INFO] [[35mFluid[37m]<dahlukeh> not really :S[0m
+2012-06-18 23:36:30 [INFO] [[35mFluid[37m]<ultrajono> i have a mine directly underneath my place, and want a water elevator from the bottom to the top[0m
+2012-06-18 23:36:36 [INFO] [[35mFluid[37m]<dahlukeh> oh nice[0m
+2012-06-18 23:36:57 [INFO] [[35mFluid[37m]<ultrajono> oh, that way is nellies mine and his storage area[0m
+2012-06-18 23:37:34 [INFO] [[35mFluid[37m]<dahlukeh> ww[0m
+2012-06-18 23:37:54 [INFO] [[35mFluid[37m]<ultrajono> i made these when we got here[0m
+2012-06-18 23:38:05 [INFO] [[35mFluid[37m]<dahlukeh> uhhhh[0m
+2012-06-18 23:38:10 [INFO] [[35mFluid[37m]<ultrajono> someone destroyed them though, fuckers[0m
+2012-06-18 23:38:11 [INFO] [[35mFluid[37m]<dahlukeh> how do you get pumpkin seeds?[0m
+2012-06-18 23:38:33 [INFO] [[35mFluid[37m]<ultrajono> next to harrys was a bunch of pumpkins, i took em/ made some repeeated etc[0m
+2012-06-18 23:38:57 [INFO] [[35mFluid[37m]<ultrajono> fuckers destroyed this when they jumped onto em, bastard[0m
+2012-06-18 23:39:07 [INFO] [[35mFluid[37m]<dahlukeh> yeah...[0m
+2012-06-18 23:39:12 [INFO] [[35mFluid[37m]<dahlukeh> could be mobs though[0m
+2012-06-18 23:39:18 [INFO] [[35mFluid[37m]<ultrajono> this be his mine[0m
+2012-06-18 23:39:22 [INFO] [[35mFluid[37m]<dahlukeh> anyway, I'm going to take some and bring them back to my place for my farm[0m
+2012-06-18 23:39:34 [INFO] [[35mFluid[37m]<ultrajono> go nuts[0m
+2012-06-18 23:40:08 [INFO] [[35mFluid[37m]<ultrajono> mobs dont' put torches where pumpkins are mean tto grow[0m
+2012-06-18 23:40:33 [INFO] [[35mFluid[37m]<dahlukeh> oh lol[0m
+2012-06-18 23:40:34 [INFO] [[35mFluid[37m]<dahlukeh> right[0m
+2012-06-18 23:40:38 [INFO] [[35mFluid[37m]<dahlukeh> does sound human[0m
+2012-06-18 23:40:46 [INFO] [[35mFluid[37m]<ultrajono> got a hoe by any chance?[0m
+2012-06-18 23:40:53 [INFO] [[35mFluid[37m]<dahlukeh> nup[0m
+2012-06-18 23:40:54 [INFO] [[35mFluid[37m]<ultrajono> take wheat if you need it man[0m
+2012-06-18 23:40:59 [INFO] [[35mFluid[37m]<dahlukeh> got a crafting table?[0m
+2012-06-18 23:41:02 [INFO] [[35mFluid[37m]<ultrajono> not on me no[0m
+2012-06-18 23:41:11 [INFO] [[35mFluid[37m]<ultrajono> can easily make one htough?[0m
+2012-06-18 23:42:10 [INFO] [[35mFluid[37m]<ultrajono> you took all the pumpkins :P[0m
+2012-06-18 23:42:34 [INFO] [[35mFluid[37m]<dahlukeh> can I have the spare melons?[0m
+2012-06-18 23:42:45 [INFO] [[35mFluid[37m]<dahlukeh> thanks[0m
+2012-06-18 23:42:49 [INFO] [[35mFluid[37m]<ultrajono> shiny[0m
+2012-06-18 23:42:53 [INFO] [[35mFluid[37m]<ultrajono> want wheat?[0m
+2012-06-18 23:42:57 [INFO] [[35mFluid[37m]<dahlukeh> nup[0m
+2012-06-18 23:43:01 [INFO] [[35mFluid[37m]<dahlukeh> melons are enough...[0m
+2012-06-18 23:43:04 [INFO] [[35mFluid[37m]<ultrajono> i've got all farms at my place, i like being sufficeint[0m
+2012-06-18 23:43:04 [INFO] [[35mFluid[37m]<dahlukeh> actually...[0m
+2012-06-18 23:43:33 [INFO] [[35mFluid[37m]<ultrajono> what you makin?[0m
+2012-06-18 23:43:37 [INFO] [[35mFluid[37m]<ultrajono> oh, nevermind :D[0m
+2012-06-18 23:44:02 [INFO] [[35mFluid[37m]<dahlukeh> arighty[0m
+2012-06-18 23:44:06 [INFO] [[35mFluid[37m]<dahlukeh> heading home to finish up[0m
+2012-06-18 23:44:09 [INFO] [[35mFluid[37m]<ultrajono> one last thing[0m
+2012-06-18 23:44:28 [INFO] [[35mFluid[37m]<ultrajono> watch out, big drop[0m
+2012-06-18 23:44:33 [INFO] [[35mFluid[37m]<dahlukeh> well fuck[0m
+2012-06-18 23:44:41 [INFO] [[35mFluid[37m]<ultrajono> that goes to lvl 10, and then all the way to harrys[0m
+2012-06-18 23:45:08 [INFO] [[35mFluid[37m]<ultrajono> was originally on bedrock, but thought its easier on 10[0m
+2012-06-18 23:45:13 [INFO] [[35mFluid[37m]<ultrajono> this going this way is nellies[0m
+2012-06-18 23:45:17 [INFO] [[35mFluid[37m]<dahlukeh> yeah...[0m
+2012-06-18 23:45:41 [INFO] [[35mFluid[37m]<ultrajono> he can be.........anal about how his stuff is[0m
+2012-06-18 23:45:54 [INFO] [[35mFluid[37m]<dahlukeh> hehe[0m
+2012-06-18 23:45:57 [INFO] [[35mFluid[37m]<dahlukeh> seems about right[0m
+2012-06-18 23:46:02 [INFO] [[35mFluid[37m]<ultrajono> as i said, i want a water elevator from here all the way to mine[0m
+2012-06-18 23:46:33 [INFO] [[35mFluid[37m]<dahlukeh> hmmm... well, have you seen the elevator thing[0m
+2012-06-18 23:46:41 [INFO] [[35mFluid[37m]<ultrajono> elevator thing?[0m
+2012-06-18 23:46:46 [INFO] [[35mFluid[37m]<dahlukeh> uhhhh[0m
+2012-06-18 23:46:51 [INFO] [[35mFluid[37m]<dahlukeh> redstone elevator?[0m
+2012-06-18 23:47:00 [INFO] [[35mFluid[37m]<ultrajono> thought that didn't work?[0m
+2012-06-18 23:47:14 [INFO] [[35mFluid[37m]<ultrajono> sleep by any chance?[0m
+2012-06-18 23:47:16 [INFO] [[35mFluid[37m]<dahlukeh> it did though;...[0m
+2012-06-18 23:47:18 [INFO] [[35mFluid[37m]<dahlukeh> two secs[0m
+2012-06-18 23:47:20 [INFO] [[35mFluid[37m]<dahlukeh> running home[0m
+2012-06-18 23:47:39 [INFO] [[35mFluid[37m]<ultrajono> who made it again?[0m
+2012-06-18 23:47:45 [INFO] [[35mFluid[37m]<dahlukeh> npo idea...[0m
+2012-06-18 23:47:52 [INFO] [[35mFluid[37m]<ultrajono> next to lluoc yeh?[0m
+2012-06-18 23:47:53 [INFO] [[35mFluid[37m]<dahlukeh> it was on a youtube video[0m
+2012-06-18 23:47:56 [INFO] [[35mFluid[37m]<dahlukeh> nup[0m
+2012-06-18 23:48:10 [INFO] [[35mFluid[37m]<ultrajono> what did you think of my place by the way?[0m
+2012-06-18 23:48:11 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in fluid, 2.9 blocks from dahlukeh
+2012-06-18 23:48:15 [INFO] [[35mFluid[37m]<ultrajono> damn[0m
+2012-06-18 23:48:29 [INFO] [[35mFluid[37m]<dahlukeh> balls[0m
+2012-06-18 23:48:35 [INFO] [[35mFluid[37m]<dahlukeh> it was pretty good[0m
+2012-06-18 23:48:39 [INFO] [[35mFluid[37m]<dahlukeh> needs more room though[0m
+2012-06-18 23:48:52 [INFO] [[35mFluid[37m]<ultrajono> more room you says?[0m
+2012-06-18 23:51:53 [INFO] [[35mFluid[37m]<ultrajono> i figured having a water elevator all teh way up and down would be cool[0m
+2012-06-18 23:52:17 [INFO] [[35mFluid[37m]<dahlukeh> it would be pretty cool :)_[0m
+2012-06-18 23:53:12 [INFO] [[35mFluid[37m]<ultrajono> i need to figure out how to make an enchantmenet table fit into my 12x12 pattern i got goin[0m
+2012-06-18 23:53:22 [INFO] [[35mFluid[37m]<dahlukeh> um... put 4 down?[0m
+2012-06-18 23:53:37 [INFO] [[35mFluid[37m]<ultrajono> eh?[0m
+2012-06-18 23:53:49 [INFO] [[35mFluid[37m]<dahlukeh> like 2x2 place of encanting tables[0m
+2012-06-18 23:54:03 [INFO] [[35mFluid[37m]<ultrajono> oh, thats a lot of enchanting tables, but i didn't think of it, that may work :D[0m
+2012-06-18 23:54:31 [INFO] [[35mFluid[37m]<ultrajono> i'm thinking of having a suicide button at mine, where when you press it it opens up floor beneath[0m
+2012-06-18 23:54:34 [INFO] [[35mFluid[37m]<ultrajono> you via pistons[0m
+2012-06-18 23:54:38 [INFO] [[35mFluid[37m]<dahlukeh> :D[0m
+2012-06-18 23:54:46 [INFO] [[35mFluid[37m]<dahlukeh> that would be pretty cool[0m
+2012-06-18 23:55:07 [INFO] [[35mFluid[37m]<ultrajono> i was thinking for added emphasis[0m
+2012-06-18 23:55:16 [INFO] [[35mFluid[37m]<dahlukeh> true[0m
+2012-06-18 23:55:21 [INFO] [[35mFluid[37m]<ultrajono> put a 'killing box' or something at ground, and put some fences which would look like stakes[0m
+2012-06-18 23:55:32 [INFO] [[35mFluid[37m]<ultrajono> what do you think, fences all the way up 'supporting' my place?[0m
+2012-06-18 23:55:42 [INFO] [[35mFluid[37m]<dahlukeh> I think blocks look better[0m
+2012-06-18 23:59:13 [INFO] [[35mFluid[37m]<ultrajono> blocks you says[0m
+2012-06-18 23:59:22 [INFO] [[35mFluid[37m]<ultrajono> nap time?[0m
+2012-06-19 00:00:19 [INFO] [[35mFluid[37m]<ultrajono> ?[0m
+2012-06-19 00:00:41 [INFO] [[35mFluid[37m]<ultrajono> any chance for a sleep man?[0m
+2012-06-19 00:01:00 [INFO] [[35mFluid[37m]<ultrajono> danke[0m
+2012-06-19 00:01:42 [INFO] [[35mFluid[37m]<ultrajono> killed a zombie, with a brick, BOOM![0m
+2012-06-19 00:05:26 [INFO] [[35mFluid[37m]<ultrajono> stupid unrealistic easily breakable glass[0m
+2012-06-19 00:06:49 [INFO] [[35mFluid[37m]<dahlukeh> ha... yeah, it is pretty silly...[0m
+2012-06-19 00:14:21 [INFO] [[35mFluid[37m]<dahlukeh> THERE ARE NO FUCKING MONSTERS NEAR ME[0m
+2012-06-19 00:19:58 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 71 in fluid, 3.3 blocks from dahlukeh
+2012-06-19 00:21:39 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 62 in fluid, 4.6 blocks from dahlukeh
+2012-06-19 00:47:29 [INFO] Connection reset
+2012-06-19 00:47:29 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-19 01:10:15 [INFO] Connection reset
+2012-06-19 01:10:15 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-19 08:00:02 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-19 08:00:02 [INFO] [35m[Server] Starting backup.[0m
+2012-06-19 08:00:02 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-19 08:00:02 [INFO] CONSOLE: Forcing save..[0m
+2012-06-19 08:00:02 [INFO] CONSOLE: Save complete.[0m
+2012-06-19 08:00:05 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-19 08:00:05 [INFO] CONSOLE: Disabling level saving..[0m

@@ -33601,3 +33601,135 @@ expected <block end>, but found Key
 2012-06-19 08:00:02 [INFO] CONSOLE: Save complete.[0m
 2012-06-19 08:00:05 [INFO] Unknown command. Type "help" for help.[0m
 2012-06-19 08:00:05 [INFO] CONSOLE: Disabling level saving..[0m
+2012-06-19 08:02:58 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-19 08:02:58 [INFO] CONSOLE: Enabling level saving..[0m
+2012-06-19 08:02:58 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-19 08:02:58 [INFO] CONSOLE: Forcing save..[0m
+2012-06-19 08:02:59 [INFO] CONSOLE: Save complete.[0m
+2012-06-19 08:02:59 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-19 08:02:59 [INFO] [35m[Server] Backup complete.[0m
+2012-06-19 13:38:32 [INFO] NotQuiteAs1 [/127.0.0.1:59666] logged in with entity id 980090 at ([fluid] -170.7183755573598, 70.0, 122.00033209832401)
+2012-06-19 13:38:44 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-19 13:38:44 [INFO] CONSOLE: Giving NotQuiteAs1 some 341 (SLIME_BALL)[0m
+2012-06-19 13:41:56 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-19 13:41:56 [INFO] Connection reset
+2012-06-19 13:41:59 [INFO] NotQuiteAs1 [/127.0.0.1:59670] logged in with entity id 982785 at ([fluid] -170.57042823662087, 68.99520087700593, 123.30000001192093)
+2012-06-19 14:17:57 [INFO] Connection reset
+2012-06-19 14:17:57 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-19 14:18:28 [INFO] NotQuiteAs1 [/127.0.0.1:59678] logged in with entity id 1013419 at ([fluid] -175.45790832387868, 69.0, 125.0128652167714)
+2012-06-19 14:24:04 [INFO] TrialZ [/127.0.0.1:59682] logged in with entity id 1017827 at ([fluid] -66.69999998807907, 63.0, 427.37111035244055)
+2012-06-19 14:24:04 [INFO] Connection reset
+2012-06-19 14:24:05 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-19 14:24:41 [INFO] Connection reset
+2012-06-19 14:24:41 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-19 14:26:42 [INFO] TrialZ [/127.0.0.1:59686] logged in with entity id 1018341 at ([fluid] -66.69999998807907, 63.0, 427.37111035244055)
+2012-06-19 14:32:45 [INFO] Connection reset
+2012-06-19 14:32:45 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-19 14:42:01 [INFO] dahlukeh [/127.0.0.1:59692] logged in with entity id 1022917 at ([fluid] -57.11068203513182, 72.0, 424.5520927892357)
+2012-06-19 14:42:36 [INFO] TrialZ [/127.0.0.1:59696] logged in with entity id 1023498 at ([fluid] -46.47059030464542, 52.0, 489.5688360061673)
+2012-06-19 14:43:01 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 65 in fluid, 4.8 blocks from TrialZ
+2012-06-19 14:44:12 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 71 in fluid, 3.9 blocks from TrialZ
+2012-06-19 14:50:17 [INFO] Connection reset
+2012-06-19 14:50:17 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-19 14:50:25 [INFO] TrialZ [/127.0.0.1:59701] logged in with entity id 1036253 at ([fluid] -57.16529602345461, 67.0, 283.5546253118068)
+2012-06-19 14:51:13 [INFO] Connection reset
+2012-06-19 14:51:13 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-19 14:51:17 [INFO] dahlukeh [/127.0.0.1:59705] logged in with entity id 1037636 at ([fluid] -14.22131524763753, 70.0, 57.56686481322129)
+2012-06-19 15:05:48 [INFO] Read timed out
+2012-06-19 15:05:48 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-19 15:06:39 [INFO] TrialZ [/127.0.0.1:59710] logged in with entity id 1055807 at ([fluid] -60.75255420704176, 67.0, 218.2827204714655)
+2012-06-19 15:06:52 [INFO] Disconnecting /127.0.0.1:59709: Took too long to log in
+2012-06-19 15:07:28 [INFO] Read timed out
+2012-06-19 15:07:28 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-19 15:07:35 [INFO] TrialZ [/127.0.0.1:59714] logged in with entity id 1056300 at ([fluid] -58.69122675014165, 66.0, 223.12717290938642)
+2012-06-19 15:18:56 [INFO] Read timed out
+2012-06-19 15:18:56 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-19 15:20:00 [INFO] TrialZ [/127.0.0.1:59720] logged in with entity id 1068258 at ([fluid] -59.139251212967686, 66.0, 142.88795358708933)
+2012-06-19 15:22:56 [INFO] Read timed out
+2012-06-19 15:22:57 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-19 15:23:14 [INFO] TrialZ [/127.0.0.1:59724] logged in with entity id 1071944 at ([fluid] -59.65943646913704, 63.0, 127.30000001192096)
+2012-06-19 15:24:36 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-19 15:24:36 [INFO] CONSOLE: Giving TrialZ some 341 (SLIME_BALL)[0m
+2012-06-19 15:27:46 [INFO] Connection reset
+2012-06-19 15:27:46 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-19 15:27:49 [INFO] TrialZ [/127.0.0.1:59729] logged in with entity id 1078965 at ([fluid] -58.80077927525371, 63.0, 153.23786836197783)
+2012-06-19 15:50:22 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-19 15:55:03 [INFO] TrialZ [/127.0.0.1:59735] logged in with entity id 1108973 at ([fluid] -57.91329653619475, 63.0, 132.8944906520017)
+2012-06-19 15:59:10 [INFO] Read timed out
+2012-06-19 15:59:10 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-19 15:59:21 [INFO] TrialZ [/127.0.0.1:59740] logged in with entity id 1112649 at ([fluid] -58.16240173773238, 71.5, 427.6971050053835)
+2012-06-19 16:00:50 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-19 16:00:53 [INFO] Connection reset
+2012-06-19 16:00:53 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-19 16:13:05 [INFO] H4ZM4T [/127.0.0.1:59745] logged in with entity id 1113380 at ([fluid] -32.058681377081214, 9.0, 35.05908148500141)
+2012-06-19 16:13:22 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-19 16:13:22 [INFO] CONSOLE: Giving H4ZM4T some 341 (SLIME_BALL)[0m
+2012-06-19 16:28:58 [INFO] -33, 35
+2012-06-19 16:35:54 [INFO] Connection reset
+2012-06-19 16:35:54 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-19 17:16:36 [INFO] ultrajono [/127.0.0.1:59756] logged in with entity id 1158284 at ([fluid] -41.124328974635596, 97.0, 136.7078574362796)
+2012-06-19 17:20:19 [INFO] Connection reset
+2012-06-19 17:20:19 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-19 17:20:23 [INFO] ultrajono [/127.0.0.1:59761] logged in with entity id 1164296 at ([fluid] -44.443946387009326, 99.99520087700593, 145.15521676944638)
+2012-06-19 17:21:06 [INFO] Connection reset
+2012-06-19 17:21:06 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-19 17:21:09 [INFO] ultrajono [/127.0.0.1:59765] logged in with entity id 1165736 at ([fluid] -36.415908119644506, 100.99520087700593, 145.29982811339474)
+2012-06-19 17:24:02 [INFO] Connection reset
+2012-06-19 17:24:02 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-19 17:24:05 [INFO] ultrajono [/127.0.0.1:59769] logged in with entity id 1170813 at ([fluid] -34.57626630871833, 101.99520087700593, 136.43241381495451)
+2012-06-19 17:26:17 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-19 17:26:17 [INFO] Connection reset
+2012-06-19 17:26:21 [INFO] ultrajono [/127.0.0.1:59773] logged in with entity id 1174792 at ([fluid] -45.286467396432876, 102.99520087700593, 136.36821607719455)
+2012-06-19 17:28:10 [INFO] adrianjboyer [/127.0.0.1:59778] logged in with entity id 1177586 at ([fluid] -108.56294966021301, 81.0, 13.057237946470401)
+2012-06-19 17:28:15 [INFO] [[35mFluid[37m]<ultrajono> ello mr adrian[0m
+2012-06-19 17:28:20 [INFO] [[35mFluid[37m]<adrianjboyer> hi[0m
+2012-06-19 17:28:25 [INFO] [[35mFluid[37m]<ultrajono> any chance of a sleep?[0m
+2012-06-19 17:28:40 [INFO] [[35mFluid[37m]<adrianjboyer> zzzz[0m
+2012-06-19 17:29:05 [INFO] [[35mFluid[37m]<ultrajono> cheerio[0m
+2012-06-19 17:30:14 [INFO] [[35mFluid[37m]<ultrajono> where abouts is your place man?[0m
+2012-06-19 17:30:30 [INFO] [[35mFluid[37m]<adrianjboyer> over here[0m
+2012-06-19 17:30:35 [INFO] [[35mFluid[37m]<ultrajono> gee, thanks[0m
+2012-06-19 17:31:05 [INFO] [[35mFluid[37m]<ultrajono> freaking shisno[0m
+2012-06-19 17:32:49 [INFO] [[35mFluid[37m]<ultrajono> knock knock[0m
+2012-06-19 17:32:58 [INFO] [[35mFluid[37m]<adrianjboyer> who's there[0m
+2012-06-19 17:33:07 [INFO] [[35mFluid[37m]<ultrajono> you are, you dirty shishno[0m
+2012-06-19 17:35:40 [INFO] [[35mFluid[37m]<ultrajono> seen what nellie has been up to?[0m
+2012-06-19 17:35:50 [INFO] [[35mFluid[37m]<adrianjboyer> nope[0m
+2012-06-19 17:36:08 [INFO] [[35mFluid[37m]<ultrajono> how far away from spawn are you?[0m
+2012-06-19 17:36:13 [INFO] [[35mFluid[37m]<adrianjboyer> close[0m
+2012-06-19 17:36:40 [INFO] [[35mFluid[37m]<ultrajono> well, i'm assuming it snellie, come and look at teh way to harrys[0m
+2012-06-19 17:37:53 [INFO] [[35mFluid[37m]<adrianjboyer> nice[0m
+2012-06-19 17:38:03 [INFO] [[35mFluid[37m]<ultrajono> seen mine recently?[0m
+2012-06-19 17:38:10 [INFO] [[35mFluid[37m]<adrianjboyer> yep[0m
+2012-06-19 17:39:49 [INFO] [[35mFluid[37m]<ultrajono> zzzzz??[0m
+2012-06-19 17:39:58 [INFO] Connection reset
+2012-06-19 17:39:58 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-06-19 17:52:22 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in fluid, 4.7 blocks from ultrajono
+2012-06-19 17:57:28 [INFO] Connection reset
+2012-06-19 17:57:28 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-19 18:57:19 [INFO] H4ZM4T [/127.0.0.1:59791] logged in with entity id 1232762 at ([fluid] -41.65305768462839, 69.0, 101.35573009256447)
+2012-06-19 18:58:58 [INFO] Connection reset
+2012-06-19 18:58:58 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-19 19:30:34 [INFO] ultrajono [/127.0.0.1:59800] logged in with entity id 1238165 at ([fluid] -40.6453317091798, 97.0, 142.3527486597943)
+2012-06-19 19:52:03 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 14 in fluid, 5.3 blocks from ultrajono
+2012-06-19 20:04:52 [INFO] Connection reset
+2012-06-19 20:04:52 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-19 20:36:09 [INFO] ultrajono [/127.0.0.1:59810] logged in with entity id 1270515 at ([fluid] -2.5, 68.0, 93.5)
+2012-06-19 20:43:40 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-19 20:43:40 [INFO] Connection reset
+2012-06-19 23:58:04 [INFO] ultrajono [/127.0.0.1:59841] logged in with entity id 1281891 at ([fluid] 1.5497862043248378, 68.0, 96.122525807473)
+2012-06-19 23:58:10 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-19 23:58:10 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-06-20 00:03:41 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 70 in fluid, 6.9 blocks from ultrajono
+2012-06-20 00:33:42 [INFO] Connection reset
+2012-06-20 00:33:42 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-20 02:23:42 [INFO] lluoc [/127.0.0.1:59859] logged in with entity id 1325057 at ([fluid] -41.07624636882335, 74.5, 102.16468318709255)
+2012-06-20 02:31:21 [INFO] Connection reset
+2012-06-20 02:31:21 [INFO] lluoc lost connection: disconnect.quitting
+2012-06-20 08:00:01 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-20 08:00:01 [INFO] [35m[Server] Starting backup.[0m
+2012-06-20 08:00:01 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-20 08:00:01 [INFO] CONSOLE: Forcing save..[0m
+2012-06-20 08:00:01 [INFO] CONSOLE: Save complete.[0m
+2012-06-20 08:00:05 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-20 08:00:05 [INFO] CONSOLE: Disabling level saving..[0m

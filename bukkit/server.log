@@ -34213,3 +34213,72 @@ expected <block end>, but found Key
 2012-06-21 08:00:02 [INFO] CONSOLE: Save complete.[0m
 2012-06-21 08:00:05 [INFO] Unknown command. Type "help" for help.[0m
 2012-06-21 08:00:05 [INFO] CONSOLE: Disabling level saving..[0m
+2012-06-21 08:03:13 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-21 08:03:13 [INFO] CONSOLE: Enabling level saving..[0m
+2012-06-21 08:03:13 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-21 08:03:13 [INFO] CONSOLE: Forcing save..[0m
+2012-06-21 08:03:13 [INFO] CONSOLE: Save complete.[0m
+2012-06-21 08:03:13 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-21 08:03:13 [INFO] [35m[Server] Backup complete.[0m
+2012-06-21 10:07:24 [INFO] TrialZ [/127.0.0.1:60140] logged in with entity id 1844801 at ([fluid] -45.208933705527386, 67.0, 437.0280247914702)
+2012-06-21 10:08:10 [INFO] lluoc [/127.0.0.1:60145] logged in with entity id 1845460 at ([fluid] -54.006465486748525, 77.5, 84.12529990023444)
+2012-06-21 10:08:22 [INFO] [[35mFluid[37m]<lluoc> hey[0m
+2012-06-21 10:08:25 [INFO] [[35mFluid[37m]<TrialZ> hey[0m
+2012-06-21 10:10:13 [INFO] Connection reset
+2012-06-21 10:10:13 [INFO] lluoc lost connection: disconnect.quitting
+2012-06-21 10:10:36 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-21 10:10:36 [INFO] Connection reset
+2012-06-21 12:01:44 [INFO] NotQuiteAs1 [/127.0.0.1:60164] logged in with entity id 1848884 at ([fluid] -228.2182690252497, 72.0, 122.54795131746532)
+2012-06-21 12:23:46 [INFO] dahlukeh [/127.0.0.1:60170] logged in with entity id 1881107 at ([fluid] -58.34745433527873, 63.0, 409.94092879789173)
+2012-06-21 12:23:51 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in fluid, 5.7 blocks from dahlukeh
+2012-06-21 12:24:02 [INFO] [[35mFluid[37m]<NotQuiteAs1> mornin[0m
+2012-06-21 12:24:05 [INFO] [[35mFluid[37m]<dahlukeh> ffs[0m
+2012-06-21 12:24:06 [INFO] [[35mFluid[37m]<dahlukeh> morning[0m
+2012-06-21 12:33:29 [INFO] mebeme [/127.0.0.1:60175] logged in with entity id 1897007 at ([fluid] -28.11067570100536, 66.0, 115.47070161070583)
+2012-06-21 12:33:52 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-21 12:33:52 [INFO] CONSOLE: Giving mebeme some 341 (SLIME_BALL)[0m
+2012-06-21 12:35:26 [INFO] Connection reset
+2012-06-21 12:35:26 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-21 12:35:36 [INFO] [[35mFluid[37m]<mebeme> sleep[0m
+2012-06-21 12:35:42 [INFO] Connection reset
+2012-06-21 12:35:42 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-21 12:35:45 [INFO] dahlukeh [/127.0.0.1:60179] logged in with entity id 1901646 at ([fluid] -52.58530635455402, 72.0, 438.71012020707303)
+2012-06-21 12:35:49 [INFO] NotQuiteAs1 [/127.0.0.1:60183] logged in with entity id 1902738 at ([fluid] -228.52271892422675, 72.0, 123.06691085424771)
+2012-06-21 12:35:51 [INFO] [[35mFluid[37m]<mebeme> ty[0m
+2012-06-21 12:47:03 [INFO] [[35mFluid[37m]<mebeme> sleep[0m
+2012-06-21 12:48:00 [INFO] Connection reset
+2012-06-21 12:48:00 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-21 12:49:51 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 62 in fluid, 4.7 blocks from dahlukeh
+2012-06-21 12:50:06 [INFO] Connection reset
+2012-06-21 12:50:06 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-21 13:02:10 [INFO] NotQuiteAs1 [/127.0.0.1:60188] logged in with entity id 1941614 at ([fluid] -228.546182173043, 72.0, 123.71406274633439)
+2012-06-21 13:08:21 [INFO] Connection reset
+2012-06-21 13:08:21 [INFO] mebeme lost connection: disconnect.endOfStream
+2012-06-21 13:49:12 [INFO] Connection reset
+2012-06-21 13:49:12 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-21 13:49:17 [INFO] NotQuiteAs1 [/127.0.0.1:60197] logged in with entity id 1974065 at ([fluid] -230.16780900532063, 72.5, 121.47794836240534)
+2012-06-21 13:49:25 [INFO] NotQuiteAs1 lost connection: disconnect.endOfStream
+2012-06-21 13:50:51 [INFO] NotQuiteAs1 [/127.0.0.1:60201] logged in with entity id 1974248 at ([fluid] -230.16780900532063, 72.5, 121.47794836240534)
+2012-06-21 14:04:25 [INFO] Connection reset
+2012-06-21 14:04:25 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-21 16:21:08 [INFO] dahlukeh [/127.0.0.1:60221] logged in with entity id 1984199 at ([fluid] -58.36322801986162, 63.0, 421.000884895808)
+2012-06-21 16:22:25 [INFO] TrialZ [/127.0.0.1:60225] logged in with entity id 1985243 at ([fluid] -58.04494010148061, 63.0, 349.33620805962954)
+2012-06-21 17:13:44 [INFO] Connection reset
+2012-06-21 17:13:44 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-21 17:25:06 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-21 17:25:06 [INFO] Connection reset
+2012-06-21 17:59:39 [INFO] TrialZ [/127.0.0.1:60242] logged in with entity id 2043059 at ([fluid] -60.86302590172442, 63.5, 422.1404583877575)
+2012-06-21 17:59:47 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-21 17:59:47 [INFO] Connection reset
+2012-06-21 23:35:46 [INFO] ultrajono [/127.0.0.1:60336] logged in with entity id 2047956 at ([fluid] -25.944841685194746, 97.0, 152.54960748493733)
+2012-06-21 23:35:52 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-21 23:35:52 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[0m
+2012-06-21 23:50:24 [INFO] Connection reset
+2012-06-21 23:50:24 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-22 08:00:02 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-22 08:00:02 [INFO] [35m[Server] Starting backup.[0m
+2012-06-22 08:00:02 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-22 08:00:02 [INFO] CONSOLE: Forcing save..[0m
+2012-06-22 08:00:02 [INFO] CONSOLE: Save complete.[0m
+2012-06-22 08:00:05 [INFO] Unknown command. Type "help" for help.[0m
+2012-06-22 08:00:05 [INFO] CONSOLE: Disabling level saving..[0m

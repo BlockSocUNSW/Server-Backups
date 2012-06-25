@@ -37996,3 +37996,1625 @@ expected <block end>, but found Key
 2012-06-25 08:00:02 [INFO] CONSOLE: Save complete.[m
 2012-06-25 08:00:04 [INFO] Unknown command. Type "help" for help.[m
 2012-06-25 08:00:05 [INFO] CONSOLE: Disabling level saving..[m
+2012-06-25 08:02:05 [INFO] dahlukeh [/127.0.0.1:33252] logged in with entity id 2031169 at ([fluid] -54.69999998807907, 63.0, 422.8330779201786)
+2012-06-25 08:02:50 [INFO] Connection reset
+2012-06-25 08:02:50 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-25 08:04:12 [INFO] Unknown command. Type "help" for help.[m
+2012-06-25 08:04:12 [INFO] CONSOLE: Enabling level saving..[m
+2012-06-25 08:04:12 [INFO] Unknown command. Type "help" for help.[m
+2012-06-25 08:04:12 [INFO] CONSOLE: Forcing save..[m
+2012-06-25 08:04:13 [INFO] CONSOLE: Save complete.[m
+2012-06-25 08:04:13 [INFO] Unknown command. Type "help" for help.[m
+2012-06-25 08:04:13 [INFO] [35;1m[Server] Backup complete.[m
+2012-06-25 09:42:27 [INFO] adrianjboyer [/127.0.0.1:33278] logged in with entity id 2033751 at ([fluid] -241.30000001192093, 89.0, 121.69999998807907)
+2012-06-25 09:42:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-25 09:46:41 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-06-25 09:46:41 [INFO] Connection reset
+2012-06-25 09:46:58 [INFO] Connected players: [m
+2012-06-25 10:15:12 [INFO] H4ZM4T [/127.0.0.1:33288] logged in with entity id 2039306 at ([world] 1043.760927076953, 102.0, -123.75208849206123)
+2012-06-25 10:15:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-25 10:22:35 [INFO] [Lockette] H4ZM4T has claimed a container.
+2012-06-25 10:36:32 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-25 10:36:32 [INFO] Connection reset
+2012-06-25 10:37:14 [INFO] H4ZM4T [/127.0.0.1:33299] logged in with entity id 2059054 at ([world_the_end] 671.6999999880791, 35.0, 103.69999998807907)
+2012-06-25 11:44:33 [INFO] Ellethwen11 [/127.0.0.1:33318] logged in with entity id 2059899 at ([fluid] 30.14198526792198, 88.0, 163.36914514253266)
+2012-06-25 11:44:42 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> evening[m
+2012-06-25 11:44:47 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I am trapped in the end[m
+2012-06-25 11:45:00 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> trapped there?[m
+2012-06-25 11:45:05 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I am on a 5x6 obsidian platform, in the middle of fucking nowhere[m
+2012-06-25 11:45:20 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> try killing yourself?[m
+2012-06-25 11:45:27 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I have 12 blocks at my disposal, and am at least 800 blocks out[m
+2012-06-25 11:45:39 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> But I have some very handy equipment on me[m
+2012-06-25 11:47:50 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> nelly why do you have those silly doors for your home[m
+2012-06-25 11:48:44 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> in fluid? the iron doors?[m
+2012-06-25 11:48:58 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> because fluid is on hard mode and zombles can destroy wooden doors[m
+2012-06-25 11:50:04 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> so what are you doing in the end?[m
+2012-06-25 11:50:41 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I *was* going to go grab an inventory full of ender pearls[m
+2012-06-25 11:50:56 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> now I am watching teh youtubes whilst logged in waiting for LLuoc[m
+2012-06-25 11:52:29 [INFO] TrialZ [/127.0.0.1:33324] logged in with entity id 2073499 at ([fluid] -58.490351586652245, 63.0, 421.0902430978141)
+2012-06-25 11:52:49 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> ahhhhh creepy guy with herobrine skin[m
+2012-06-25 11:52:58 [INFO] [[35;1mFluid[37;1m]<TrialZ> tee hee[m
+2012-06-25 11:53:11 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> ehehehe[m
+2012-06-25 11:56:53 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 70 in fluid, 5.5 blocks from Ellethwen11
+2012-06-25 11:57:59 [INFO] Connection reset
+2012-06-25 11:57:59 [INFO] Ellethwen11 lost connection: disconnect.quitting
+2012-06-25 12:03:44 [INFO] Yinsano [/127.0.0.1:33330] logged in with entity id 2085097 at ([world] 1052.0781803527973, 88.0, -137.6647487880373)
+2012-06-25 12:04:02 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> hi paul, I will come and help you.....eventually[m
+2012-06-25 12:04:06 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I am uh....a little stuck[m
+2012-06-25 12:04:12 [INFO] [[34;1mStatic[37;1m]<Yinsano> where are you?[m
+2012-06-25 12:04:21 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I am in the end[m
+2012-06-25 12:04:31 [INFO] [[34;1mStatic[37;1m]<Yinsano> the End, with no way back?[m
+2012-06-25 12:04:40 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> on a platform approximately 800 blocks away from anything (I hope that there is stuff at 0,0)[m
+2012-06-25 12:04:48 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> and guess how many blocks I have[m
+2012-06-25 12:04:53 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> 12[m
+2012-06-25 12:04:57 [INFO] [[34;1mStatic[37;1m]<Yinsano> 750[m
+2012-06-25 12:05:23 [INFO] [[34;1mStatic[37;1m]<Yinsano> the sun is etting at necromancer Mountain[m
+2012-06-25 12:08:08 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> so, anyone got 800 spare blocks, and a slight deathwish?[m
+2012-06-25 12:09:09 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> want to steam chat again paul?[m
+2012-06-25 12:09:19 [INFO] [[34;1mStatic[37;1m]<Yinsano> Where would we have to go for this?[m
+2012-06-25 12:09:24 [INFO] [[34;1mStatic[37;1m]<Yinsano> kk[m
+2012-06-25 12:09:35 [INFO] Ellethwen11 [/127.0.0.1:33336] logged in with entity id 2097915 at ([fluid] -30.355536749321622, 70.0, 59.10145283614893)
+2012-06-25 12:18:47 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> Still in the end?[m
+2012-06-25 12:18:57 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> nope[m
+2012-06-25 12:19:09 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> turns out party teleport commands work across world[m
+2012-06-25 12:19:46 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> huh party teleport commands?[m
+2012-06-25 12:19:50 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> mcmmo stuff[m
+2012-06-25 12:19:53 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> the new mod[m
+2012-06-25 12:19:55 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> tis kinda cool[m
+2012-06-25 12:20:10 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> how do you teleport?[m
+2012-06-25 12:20:28 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I don't know the commands properly, I recommend the wiki, sorry[m
+2012-06-25 12:20:42 [INFO] [[34;1mStatic[37;1m]<Yinsano> type /mcc[m
+2012-06-25 12:25:17 [INFO] Connection reset
+2012-06-25 12:25:17 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-25 12:27:55 [INFO] [Lockette] Yinsano has claimed a container.
+2012-06-25 12:33:47 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 88 in world, 2.4 blocks from Yinsano
+2012-06-25 12:35:12 [INFO] Connection reset
+2012-06-25 12:35:12 [INFO] Ellethwen11 lost connection: disconnect.quitting
+2012-06-25 12:49:17 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 70 in world, 5.4 blocks from H4ZM4T
+2012-06-25 12:50:07 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 70 in world, 5.3 blocks from Yinsano
+2012-06-25 12:52:55 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 82 in world, 5.0 blocks from Yinsano
+2012-06-25 12:54:25 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 71 in world, 6.8 blocks from H4ZM4T
+2012-06-25 13:00:14 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in world, 4.3 blocks from H4ZM4T
+2012-06-25 13:09:36 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in world, 6.2 blocks from H4ZM4T
+2012-06-25 13:10:26 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in world, 6.4 blocks from H4ZM4T
+2012-06-25 13:14:27 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 6.4 blocks from H4ZM4T
+2012-06-25 13:29:39 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 71 in world, 6.2 blocks from Yinsano
+2012-06-25 13:29:48 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 69 in world, 5.7 blocks from Yinsano
+2012-06-25 13:31:05 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 69 in world, 6.6 blocks from H4ZM4T
+2012-06-25 13:33:24 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 68 in world, 3.4 blocks from Yinsano
+2012-06-25 13:39:38 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/64/1/1 (No such file or directory)
+2012-06-25 13:39:38 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 13:39:38 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 13:39:38 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 13:39:38 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 13:39:38 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 13:39:38 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 13:39:38 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 13:39:38 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 13:39:38 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 13:39:38 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 13:39:38 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 13:39:38 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 13:39:38 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 13:39:38 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 13:39:38 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 13:39:38 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 13:39:38 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 13:39:38 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/65/1/1 (No such file or directory)
+2012-06-25 13:39:38 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 13:39:38 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 13:39:38 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 13:39:38 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 13:39:38 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 13:39:38 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 13:39:38 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 13:39:38 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 13:39:38 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 13:39:38 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 13:39:38 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 13:39:38 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 13:39:38 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 13:39:38 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 13:39:38 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 13:39:38 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 13:39:38 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 13:41:33 [INFO] [Lockette] Yinsano has claimed a container.
+2012-06-25 13:43:00 [INFO] [Lockette] Yinsano has claimed a container.
+2012-06-25 13:46:37 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in world, 7.0 blocks from H4ZM4T
+2012-06-25 13:48:24 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 65 in world, 6.7 blocks from H4ZM4T
+2012-06-25 13:48:35 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 7.4 blocks from H4ZM4T
+2012-06-25 13:49:12 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 66 in world, 6.8 blocks from H4ZM4T
+2012-06-25 13:49:16 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 66 in world, 4.9 blocks from H4ZM4T
+2012-06-25 13:49:59 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 68 in world, 6.8 blocks from H4ZM4T
+2012-06-25 13:50:10 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 69 in world, 6.4 blocks from H4ZM4T
+2012-06-25 13:50:48 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 69 in world, 5.4 blocks from H4ZM4T
+2012-06-25 13:50:49 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 66 in world, 6.7 blocks from Yinsano
+2012-06-25 13:52:34 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in world, 6.3 blocks from Yinsano
+2012-06-25 13:53:02 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 66 in world, 6.9 blocks from H4ZM4T
+2012-06-25 13:53:16 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 62 in world, 4.8 blocks from Yinsano
+2012-06-25 13:53:18 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in world, 3.4 blocks from H4ZM4T
+2012-06-25 13:54:16 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/64/-9/1 (No such file or directory)
+2012-06-25 13:54:16 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 13:54:16 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 13:54:16 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 13:54:16 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 13:54:16 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 13:54:16 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 13:54:16 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 13:54:16 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 13:54:16 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 13:54:16 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 13:54:16 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 13:54:16 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 13:54:16 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 13:54:16 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 13:54:16 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 13:54:16 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 13:54:16 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 13:54:16 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/65/-9/1 (No such file or directory)
+2012-06-25 13:54:16 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 13:54:16 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 13:54:16 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 13:54:16 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 13:54:16 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 13:54:16 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 13:54:16 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 13:54:16 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 13:54:16 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 13:54:16 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 13:54:16 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 13:54:16 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 13:54:16 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 13:54:16 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 13:54:16 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 13:54:16 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 13:54:16 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 13:54:42 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 6.9 blocks from Yinsano
+2012-06-25 14:00:22 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/64/-7/1 (No such file or directory)
+2012-06-25 14:00:22 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 14:00:22 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 14:00:22 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 14:00:22 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 14:00:22 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 14:00:22 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 14:00:22 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 14:00:22 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 14:00:22 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 14:00:22 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 14:00:22 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 14:00:22 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 14:00:22 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 14:00:22 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 14:00:22 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 14:00:22 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 14:00:22 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 14:00:22 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/65/-7/1 (No such file or directory)
+2012-06-25 14:00:22 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 14:00:22 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 14:00:22 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 14:00:22 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 14:00:22 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 14:00:22 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 14:00:22 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 14:00:22 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 14:00:22 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 14:00:22 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 14:00:22 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 14:00:22 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 14:00:22 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 14:00:22 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 14:00:22 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 14:00:22 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 14:00:22 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 14:00:24 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/63/-6/1 (No such file or directory)
+2012-06-25 14:00:24 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 14:00:24 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 14:00:24 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 14:00:24 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 14:00:24 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 14:00:24 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 14:00:24 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 14:00:24 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 14:00:24 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 14:00:24 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 14:00:24 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 14:00:24 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 14:00:24 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 14:00:24 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 14:00:24 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 14:00:24 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 14:00:24 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 14:00:24 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/65/-6/1 (No such file or directory)
+2012-06-25 14:00:24 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 14:00:24 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 14:00:24 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 14:00:24 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 14:00:24 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 14:00:24 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 14:00:24 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 14:00:24 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 14:00:24 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 14:00:24 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 14:00:24 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 14:00:24 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 14:00:24 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 14:00:24 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 14:00:24 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 14:00:24 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 14:00:24 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 14:00:26 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/63/-5/1 (No such file or directory)
+2012-06-25 14:00:26 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 14:00:26 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 14:00:26 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 14:00:26 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 14:00:26 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 14:00:26 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 14:00:26 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 14:00:26 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 14:00:26 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 14:00:26 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 14:00:26 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 14:00:26 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 14:00:26 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 14:00:26 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 14:00:26 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 14:00:26 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 14:00:26 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 14:00:26 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/64/-5/1 (No such file or directory)
+2012-06-25 14:00:26 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 14:00:26 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 14:00:26 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 14:00:26 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 14:00:26 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 14:00:26 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 14:00:26 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 14:00:26 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 14:00:26 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 14:00:26 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 14:00:26 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 14:00:26 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 14:00:26 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 14:00:26 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 14:00:26 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 14:00:26 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 14:00:26 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 14:03:00 [INFO] [Lockette] H4ZM4T has released a container.
+2012-06-25 14:08:19 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in world, 3.8 blocks from H4ZM4T
+2012-06-25 14:09:03 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 3.5 blocks from H4ZM4T
+2012-06-25 14:10:08 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 68 in world, 4.6 blocks from H4ZM4T
+2012-06-25 14:10:21 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 68 in world, 6.2 blocks from H4ZM4T
+2012-06-25 14:11:08 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 68 in world, 4.6 blocks from H4ZM4T
+2012-06-25 14:13:05 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 74 in world, 4.4 blocks from H4ZM4T
+2012-06-25 14:27:27 [INFO] NotQuiteAs1 [/127.0.0.1:33368] logged in with entity id 2330469 at ([fluid] -235.66263061009946, 79.0, 141.02694975628995)
+2012-06-25 14:27:40 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 73 in world, 7.4 blocks from H4ZM4T
+2012-06-25 14:27:41 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> mornin[m
+2012-06-25 14:27:49 [INFO] [[34;1mStatic[37;1m]<Yinsano> hey[m
+2012-06-25 14:28:06 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 71 in world, 5.4 blocks from H4ZM4T
+2012-06-25 14:28:44 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 3.9 blocks from Yinsano
+2012-06-25 14:29:09 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in world, 6.6 blocks from H4ZM4T
+2012-06-25 14:33:06 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 4.2 blocks from H4ZM4T
+2012-06-25 14:43:48 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 83 in fluid, 1.9 blocks from NotQuiteAs1
+2012-06-25 14:44:51 [INFO] [Lockette] Yinsano has claimed a container.
+2012-06-25 14:47:03 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 8.1 blocks from H4ZM4T
+2012-06-25 14:47:26 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 3.4 blocks from H4ZM4T
+2012-06-25 14:54:18 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 6.3 blocks from H4ZM4T
+2012-06-25 15:00:15 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-14/7/1 (No such file or directory)
+2012-06-25 15:00:15 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 15:00:15 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 15:00:15 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 15:00:15 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 15:00:15 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 15:00:15 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 15:00:15 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 15:00:15 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 15:00:15 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 15:00:15 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 15:00:15 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 15:00:15 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 15:00:15 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 15:00:15 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 15:00:15 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 15:00:15 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 15:00:15 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 15:00:15 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-14/8/1 (No such file or directory)
+2012-06-25 15:00:15 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 15:00:15 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 15:00:15 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 15:00:15 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 15:00:15 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 15:00:15 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 15:00:15 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 15:00:15 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 15:00:15 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 15:00:15 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 15:00:15 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 15:00:15 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 15:00:15 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 15:00:15 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 15:00:15 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 15:00:15 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 15:00:15 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 15:00:18 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-13/8/1 (No such file or directory)
+2012-06-25 15:00:19 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 15:00:19 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 15:00:19 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 15:00:19 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 15:00:19 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 15:00:19 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 15:00:19 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 15:00:19 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 15:00:19 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 15:00:19 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 15:00:19 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 15:00:19 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 15:00:19 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 15:00:19 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 15:00:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 15:00:19 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 15:00:19 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 15:07:26 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> do u still get acrobatics xp if u die from the fall?[m
+2012-06-25 15:07:35 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> no[m
+2012-06-25 15:07:36 [INFO] [[34;1mStatic[37;1m]<Yinsano> sO HE THINKS[m
+2012-06-25 15:07:39 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I just suck at not dying[m
+2012-06-25 15:07:43 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> :P[m
+2012-06-25 15:07:48 [INFO] [[34;1mStatic[37;1m]<Yinsano> sorry, caps lock[m
+2012-06-25 15:10:14 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> well done[m
+2012-06-25 15:12:56 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> STOP BEING SO GOOD AT ATUFF[m
+2012-06-25 15:17:49 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> nelly why do u keep dying?[m
+2012-06-25 15:18:09 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> acrobatics[m
+2012-06-25 15:18:25 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> i thought u didn't get xp if u died/[m
+2012-06-25 15:18:44 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> healing takes too long[m
+2012-06-25 15:18:53 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> lol....[m
+2012-06-25 15:31:27 [INFO] adrianjboyer [/127.0.0.1:33385] logged in with entity id 2437918 at ([fluid] -91.05634815063442, 80.0, -6.504783102742803)
+2012-06-25 15:31:38 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> mornin[m
+2012-06-25 15:31:49 [INFO] [[35;1mFluid[37;1m]<adrianjboyer> hola[m
+2012-06-25 15:33:27 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> how is your hollowing out going mr adrian?[m
+2012-06-25 15:33:41 [INFO] [[35;1mFluid[37;1m]<adrianjboyer> is hollow[m
+2012-06-25 15:34:25 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> so what will u  do now then?[m
+2012-06-25 15:34:35 [INFO] [[35;1mFluid[37;1m]<adrianjboyer> dig down[m
+2012-06-25 15:34:50 [INFO] [Lockette] Yinsano has claimed a container.
+2012-06-25 15:42:15 [INFO] Connection reset
+2012-06-25 15:42:15 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-06-25 16:10:58 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> this damn vuilding just drinks up my stone....[m
+2012-06-25 16:11:04 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> ehehe[m
+2012-06-25 16:11:12 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I have 3 double chests of the stuff[m
+2012-06-25 16:11:18 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> so do i[m
+2012-06-25 16:11:23 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> the issue is making it all smooth[m
+2012-06-25 16:12:47 [INFO] Yinsano lost connection: disconnect.endOfStream
+2012-06-25 16:13:35 [INFO] Yinsano [/127.0.0.1:33398] logged in with entity id 2508982 at ([world] 1038.701608230711, 28.0, -117.58349015784185)
+2012-06-25 16:17:20 [INFO] adrianjboyer [/127.0.0.1:33404] logged in with entity id 2516100 at ([fluid] -92.0724724794656, 80.0, -3.8117868656683163)
+2012-06-25 16:23:58 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> what's everyon building atm?[m
+2012-06-25 16:28:37 [INFO] Connection reset
+2012-06-25 16:28:37 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-06-25 16:29:42 [INFO] [[35;1mFluid[37;1m]<NotQuiteAs1> what to build now....[m
+2012-06-25 16:29:52 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> make it a proper castle[m
+2012-06-25 16:30:08 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 4.8 blocks from H4ZM4T
+2012-06-25 16:31:43 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 4.4 blocks from H4ZM4T
+2012-06-25 16:32:31 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 6.1 blocks from H4ZM4T
+2012-06-25 16:34:25 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/65/-9/1 (No such file or directory)
+2012-06-25 16:34:25 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:34:25 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:34:25 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:34:25 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:34:25 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:34:25 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:34:25 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:34:25 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:34:25 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:34:25 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:34:25 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:34:25 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:34:25 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:34:25 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:34:25 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:34:25 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:34:25 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:34:25 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/66/-9/1 (No such file or directory)
+2012-06-25 16:34:25 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:34:25 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:34:25 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:34:25 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:34:25 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:34:25 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:34:25 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:34:25 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:34:25 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:34:25 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:34:25 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:34:25 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:34:25 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:34:25 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:34:25 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:34:25 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:34:25 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:34:28 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/64/-8/1 (No such file or directory)
+2012-06-25 16:34:28 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:34:28 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:34:28 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:34:28 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:34:28 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:34:28 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:34:28 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:34:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:34:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:34:28 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:34:28 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:34:28 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:34:28 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/65/-8/1 (No such file or directory)
+2012-06-25 16:34:28 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:34:28 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:34:28 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:34:28 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:34:28 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:34:28 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:34:28 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:34:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:34:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:34:28 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:34:28 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:34:28 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:34:28 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/66/-8/1 (No such file or directory)
+2012-06-25 16:34:28 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:34:28 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:34:28 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:34:28 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:34:28 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:34:28 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:34:28 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:34:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:34:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:34:28 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:34:28 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:34:28 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:34:28 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:34:31 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/64/-7/1 (No such file or directory)
+2012-06-25 16:34:31 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:34:31 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:34:31 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:34:31 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:34:31 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:34:31 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:34:31 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:34:31 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:34:31 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:34:31 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:34:31 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:34:31 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:34:31 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:34:31 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:34:31 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:34:31 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:34:31 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:34:40 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/64/-6/1 (No such file or directory)
+2012-06-25 16:34:40 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:34:40 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:34:40 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:34:40 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:34:40 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:34:40 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:34:40 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:34:40 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:34:40 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:34:40 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:34:40 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:34:40 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:34:40 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:34:40 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:34:40 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:34:40 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:34:40 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:34:40 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/65/-6/1 (No such file or directory)
+2012-06-25 16:34:40 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:34:40 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:34:40 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:34:40 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:34:40 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:34:40 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:34:40 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:34:40 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:34:40 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:34:40 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:34:40 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:34:40 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:34:40 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:34:40 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:34:40 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:34:40 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:34:40 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:34:43 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 64 in world, 5.3 blocks from H4ZM4T
+2012-06-25 16:43:59 [INFO] Connection reset
+2012-06-25 16:43:59 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-25 16:44:52 [INFO] Connection reset
+2012-06-25 16:44:52 [INFO] NotQuiteAs1 lost connection: disconnect.quitting
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-15/6/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-14/6/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-15/7/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-14/7/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-12/7/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-14/8/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-13/8/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-14/9/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-13/9/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-12/9/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-14/10/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-13/10/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:44:53 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-12/10/1 (No such file or directory)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 16:44:53 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 16:44:53 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 16:44:53 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 16:44:53 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 16:44:53 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 16:44:53 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 16:49:01 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 70 in world, 4.0 blocks from Yinsano
+2012-06-25 17:05:30 [INFO] Connection reset
+2012-06-25 17:05:30 [INFO] Yinsano lost connection: disconnect.quitting
+2012-06-25 17:05:30 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/64/0/1 (No such file or directory)
+2012-06-25 17:05:30 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 17:05:30 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 17:05:30 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 17:05:30 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 17:05:30 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 17:05:30 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 17:05:30 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 17:05:30 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 17:05:30 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 17:05:30 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 17:05:30 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 17:05:30 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 17:05:30 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 17:05:30 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 17:05:30 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 17:05:30 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 17:05:30 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 17:05:30 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/65/0/1 (No such file or directory)
+2012-06-25 17:05:30 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 17:05:30 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 17:05:30 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 17:05:30 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 17:05:30 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 17:05:30 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 17:05:30 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 17:05:30 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 17:05:30 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 17:05:30 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 17:05:30 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 17:05:30 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 17:05:30 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 17:05:30 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 17:05:30 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 17:05:30 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 17:05:30 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 17:05:31 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/64/-9/1 (No such file or directory)
+2012-06-25 17:05:31 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 17:05:31 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 17:05:31 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 17:05:31 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 17:05:31 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 17:05:31 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 17:05:31 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 17:05:31 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 17:05:31 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 17:05:31 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 17:05:31 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 17:05:31 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 17:05:31 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/65/-9/1 (No such file or directory)
+2012-06-25 17:05:31 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 17:05:31 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 17:05:31 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 17:05:31 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 17:05:31 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 17:05:31 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 17:05:31 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 17:05:31 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 17:05:31 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 17:05:31 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 17:05:31 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 17:05:31 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 17:05:31 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/65/-3/1 (No such file or directory)
+2012-06-25 17:05:31 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 17:05:31 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 17:05:31 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 17:05:31 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 17:05:31 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 17:05:31 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 17:05:31 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 17:05:31 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 17:05:31 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 17:05:31 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 17:05:31 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 17:05:31 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 17:05:31 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/66/-3/1 (No such file or directory)
+2012-06-25 17:05:31 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 17:05:31 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 17:05:31 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 17:05:31 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 17:05:31 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 17:05:31 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 17:05:31 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 17:05:31 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 17:05:31 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 17:05:31 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 17:05:31 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 17:05:31 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 17:05:31 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 17:08:08 [INFO] Yinsano [/127.0.0.1:33418] logged in with entity id 2590526 at ([world] 1038.5241209450605, 28.0, -120.39870504462468)
+2012-06-25 17:24:33 [INFO] Connection reset
+2012-06-25 17:24:33 [INFO] Yinsano lost connection: disconnect.quitting
+2012-06-25 17:24:33 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/66/-8/1 (No such file or directory)
+2012-06-25 17:24:33 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 17:24:33 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 17:24:33 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 17:24:33 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 17:24:33 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 17:24:33 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 17:24:33 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 17:24:33 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 17:24:33 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 17:24:33 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 17:24:33 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 17:24:33 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 17:24:33 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 17:24:33 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 17:24:33 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 17:24:33 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 17:24:33 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 18:57:34 [INFO] Yinsano [/127.0.0.1:33446] logged in with entity id 2615777 at ([world] 1054.9686847789196, 88.0, -146.14086443365707)
+2012-06-25 19:20:51 [INFO] Connection reset
+2012-06-25 19:20:51 [INFO] Yinsano lost connection: disconnect.quitting
+2012-06-25 19:23:44 [INFO] Yinsano [/127.0.0.1:33454] logged in with entity id 2635393 at ([world] 1045.5479654561457, 13.0, -136.20434392513607)
+2012-06-25 19:42:38 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 13 in world, 5.6 blocks from Yinsano
+2012-06-25 19:58:31 [INFO] [Lockette] Yinsano has claimed a container.
+2012-06-25 20:02:16 [INFO] Connection reset
+2012-06-25 20:02:16 [INFO] Yinsano lost connection: disconnect.quitting
+2012-06-25 20:05:43 [INFO] Yinsano [/127.0.0.1:33467] logged in with entity id 2665867 at ([world] 1052.2675067912492, 88.0, -138.80279611474896)
+2012-06-25 20:14:21 [INFO] TrialZ [/127.0.0.1:33473] logged in with entity id 2670100 at ([fluid] -57.69999998807907, 71.0, 422.24343862089887)
+2012-06-25 20:32:08 [INFO] [[34;1mStatic[37;1m]<Yinsano> Hey, got any slime?[m
+2012-06-25 20:32:15 [INFO] [[35;1mFluid[37;1m]<TrialZ> nope, sorry :/[m
+2012-06-25 20:35:34 [INFO] [[34;1mStatic[37;1m]<Yinsano> Having fun?[m
+2012-06-25 20:35:51 [INFO] [[35;1mFluid[37;1m]<TrialZ> yeah, going to be grinding acrobatics[m
+2012-06-25 20:36:06 [INFO] [[35;1mFluid[37;1m]<TrialZ> sorry about all the death notifications you'll be getting once i set this up[m
+2012-06-25 20:36:18 [INFO] [[34;1mStatic[37;1m]<Yinsano> NP[m
+2012-06-25 20:37:56 [INFO] Ellethwen11 [/127.0.0.1:33484] logged in with entity id 2709508 at ([fluid] 31.365608971433556, 88.0, 165.14706522538415)
+2012-06-25 20:38:15 [INFO] [[34;1mStatic[37;1m]<Yinsano> so... who are you again?[m
+2012-06-25 20:38:29 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> Kim, Nelly's girlfriend[m
+2012-06-25 20:38:42 [INFO] [[34;1mStatic[37;1m]<Yinsano> Right[m
+2012-06-25 20:39:06 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> and you?[m
+2012-06-25 20:39:13 [INFO] [[34;1mStatic[37;1m]<Yinsano> I'm Paul[m
+2012-06-25 20:41:04 [INFO] [[34;1mStatic[37;1m]<Yinsano> so what are you up to?[m
+2012-06-25 20:41:15 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> nothing at the moment[m
+2012-06-25 20:41:29 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> I'm kinda just trying to figure out what I want to do[m
+2012-06-25 20:43:16 [INFO] [[34;1mStatic[37;1m]<Yinsano> So, you wouldn't have any slime then?[m
+2012-06-25 20:43:36 [INFO] Unknown command. Type "help" for help.[m
+2012-06-25 20:43:36 [INFO] CONSOLE: Giving Ellethwen11 some 341 (SLIME_BALL)[m
+2012-06-25 20:43:41 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> yes[m
+2012-06-25 20:43:43 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> two[m
+2012-06-25 20:45:50 [INFO] [[34;1mStatic[37;1m]<Yinsano> I need four more than I have[m
+2012-06-25 20:45:56 [INFO] Read timed out
+2012-06-25 20:45:57 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-25 20:45:57 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-3/25/1 (No such file or directory)
+2012-06-25 20:45:57 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 20:45:57 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 20:45:57 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 20:45:57 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 20:45:57 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 20:45:57 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 20:45:57 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 20:45:57 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 20:45:57 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 20:45:57 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 20:45:57 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 20:45:57 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 20:45:57 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-3/26/1 (No such file or directory)
+2012-06-25 20:45:57 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 20:45:57 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 20:45:57 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 20:45:57 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 20:45:57 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 20:45:57 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 20:45:57 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 20:45:57 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 20:45:57 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 20:45:57 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 20:45:57 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 20:45:57 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 20:45:57 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-4/27/1 (No such file or directory)
+2012-06-25 20:45:57 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 20:45:57 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 20:45:57 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 20:45:57 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 20:45:57 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 20:45:57 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 20:45:57 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 20:45:57 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 20:45:57 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 20:45:57 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 20:45:57 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 20:45:57 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 20:45:57 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 20:48:15 [INFO] TrialZ [/127.0.0.1:33490] logged in with entity id 2741463 at ([fluid] -61.619016005260846, 84.0, 425.9435089315741)
+2012-06-25 20:52:44 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> sorry i am new to mmo stuff[m
+2012-06-25 20:53:07 [INFO] [[34;1mStatic[37;1m]<Yinsano> no problem, try /mcc for the commands[m
+2012-06-25 20:54:30 [INFO] [[34;1mStatic[37;1m]<Yinsano> did you want any Help?[m
+2012-06-25 20:56:33 [INFO] [[34;1mStatic[37;1m]<Yinsano> TZ, are you training Acro or Armour?[m
+2012-06-25 20:56:52 [INFO] [[35;1mFluid[37;1m]<TrialZ> acro[m
+2012-06-25 20:57:07 [INFO] * TrialZ looks up armour[m
+2012-06-25 20:57:52 [INFO] [[35;1mFluid[37;1m]<TrialZ> wait, what's armour?[m
+2012-06-25 20:58:23 [INFO] [[34;1mStatic[37;1m]<Yinsano> Not a thing it seems[m
+2012-06-25 20:58:29 [INFO] [[35;1mFluid[37;1m]<TrialZ> haha, ok[m
+2012-06-25 21:00:22 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> what is going on[m
+2012-06-25 21:00:42 [INFO] [[34;1mStatic[37;1m]<Yinsano> TZ is trying to get better at not dying[m
+2012-06-25 21:00:48 [INFO] [[35;1mFluid[37;1m]<TrialZ> :D[m
+2012-06-25 21:01:03 [INFO] [[35;1mFluid[37;1m]<TrialZ> and of course the best way to do that is to die repeatedly[m
+2012-06-25 21:01:35 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> does anyone know how to make red dye?[m
+2012-06-25 21:01:45 [INFO] [[34;1mStatic[37;1m]<Yinsano> Red flowers[m
+2012-06-25 21:05:08 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/64/-7/1 (No such file or directory)
+2012-06-25 21:05:08 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 21:05:08 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 21:05:08 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 21:05:08 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 21:05:08 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 21:05:08 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 21:05:08 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 21:05:08 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 21:05:08 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 21:05:08 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 21:05:08 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 21:05:08 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 21:05:08 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/65/-7/1 (No such file or directory)
+2012-06-25 21:05:08 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 21:05:08 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 21:05:08 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 21:05:08 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 21:05:08 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 21:05:08 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 21:05:08 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 21:05:08 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 21:05:08 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 21:05:08 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 21:05:08 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 21:05:08 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 21:05:08 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/64/-6/1 (No such file or directory)
+2012-06-25 21:05:08 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 21:05:08 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 21:05:08 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 21:05:08 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 21:05:08 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 21:05:08 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 21:05:08 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 21:05:08 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 21:05:08 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 21:05:08 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 21:05:08 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 21:05:08 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 21:05:08 [SEVERE] java.io.FileNotFoundException: ./world/mcmmo_data/65/-6/1 (No such file or directory)
+2012-06-25 21:05:08 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 21:05:08 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 21:05:08 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 21:05:08 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 21:05:08 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 21:05:08 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 21:05:08 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 21:05:08 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 21:05:08 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 21:05:08 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 21:05:08 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 21:05:08 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 21:05:08 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 21:05:11 [INFO] [[35;1mFluid[37;1m]<Yinsano> *BOOM[m
+2012-06-25 21:06:28 [INFO] [[35;1mFluid[37;1m]<Yinsano> so where is your base?[m
+2012-06-25 21:06:53 [INFO] [[35;1mFluid[37;1m]<TrialZ> who was that to?[m
+2012-06-25 21:07:19 [INFO] [[35;1mFluid[37;1m]<Yinsano> to Kim, the one not Practising Dying[m
+2012-06-25 21:07:31 [INFO] [[35;1mFluid[37;1m]<TrialZ> :D just checking[m
+2012-06-25 21:07:50 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> erm it's work in progress[m
+2012-06-25 21:08:14 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> it's in a mountain next to the glass building[m
+2012-06-25 21:09:50 [INFO] [[35;1mFluid[37;1m]<Yinsano> AFK[m
+2012-06-25 21:10:48 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> why is fluid on hard[m
+2012-06-25 21:11:00 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> freaking hate it[m
+2012-06-25 21:11:36 [INFO] [[35;1mFluid[37;1m]<Yinsano> hey[m
+2012-06-25 21:11:37 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 65 in fluid, 4.2 blocks from TrialZ
+2012-06-25 21:11:39 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> hey[m
+2012-06-25 21:11:48 [INFO] [[35;1mFluid[37;1m]<Yinsano> is that you kit?[m
+2012-06-25 21:12:01 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> yes this is I kim[m
+2012-06-25 21:12:20 [INFO] [[35;1mFluid[37;1m]<Yinsano> all your stuff is bobbing in the corner[m
+2012-06-25 21:12:29 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> where[m
+2012-06-25 21:13:29 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> how does one teleport?[m
+2012-06-25 21:13:39 [INFO] [[35;1mFluid[37;1m]<Yinsano> What is going on in this crazy plase?[m
+2012-06-25 21:13:46 [INFO] [[35;1mFluid[37;1m]<Yinsano> Place[m
+2012-06-25 21:13:57 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> they're nelly's sheep[m
+2012-06-25 21:14:30 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> the ones in my pen are the ones that left nelly so i decided to take them[m
+2012-06-25 21:15:06 [INFO] [[35;1mFluid[37;1m]<Yinsano> there are a lot of Skeletons over there[m
+2012-06-25 21:16:22 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 71 in fluid, 6.0 blocks from Yinsano
+2012-06-25 21:17:53 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> see where those trees are in the mountain[m
+2012-06-25 21:18:04 [INFO] [[35;1mFluid[37;1m]<Yinsano> yes?[m
+2012-06-25 21:18:11 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> that's my place[m
+2012-06-25 21:18:19 [INFO] [[35;1mFluid[37;1m]<Yinsano> Nifty[m
+2012-06-25 21:18:32 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> not yet it's not[m
+2012-06-25 21:18:56 [INFO] [[35;1mFluid[37;1m]<Yinsano> So how Can I help?[m
+2012-06-25 21:19:04 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> need wood[m
+2012-06-25 21:20:49 [INFO] [[35;1mFluid[37;1m]<Yinsano> Any Particular Wood? Light, Dark, Pink?[m
+2012-06-25 21:20:56 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> nuh[m
+2012-06-25 21:27:57 [INFO] [[35;1mFluid[37;1m]<Yinsano> Is there an Anvil nearby?[m
+2012-06-25 21:28:29 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> not sure[m
+2012-06-25 21:29:05 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> can we sleep?[m
+2012-06-25 21:29:10 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> or dc?[m
+2012-06-25 21:29:27 [INFO] [[35;1mFluid[37;1m]<Yinsano> Do you have a bed or two?[m
+2012-06-25 21:29:28 [INFO] Connection reset
+2012-06-25 21:29:28 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-25 21:29:28 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-4/27/1 (No such file or directory)
+2012-06-25 21:29:28 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-25 21:29:28 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-25 21:29:28 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-25 21:29:28 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-25 21:29:28 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-25 21:29:28 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-25 21:29:28 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-25 21:29:28 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-25 21:29:28 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-25 21:29:28 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-25 21:29:28 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-25 21:29:28 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-25 21:29:28 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-25 21:29:28 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-25 21:29:28 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-25 21:29:28 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-25 21:29:28 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-25 21:29:37 [INFO] TrialZ [/127.0.0.1:33504] logged in with entity id 2903966 at ([fluid] -71.5, 63.0, 450.76249998807907)
+2012-06-25 21:29:40 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> i'm just using nelly's[m
+2012-06-25 21:30:07 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> lol[m
+2012-06-25 21:30:47 [INFO] [[35;1mFluid[37;1m]<Yinsano> try /ptp yinsano[m
+2012-06-25 21:33:59 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> did you want slimeballs[m
+2012-06-25 21:34:04 [INFO] * TrialZ is happy with that, and will stop flooding everyone's screens[m
+2012-06-25 21:34:18 [INFO] [[35;1mFluid[37;1m]<Yinsano> Yes, that I do[m
+2012-06-25 21:34:29 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> that's all i had[m
+2012-06-25 21:34:40 [INFO] [[35;1mFluid[37;1m]<Yinsano> But how do I get things from Fluid to Static?[m
+2012-06-25 21:34:55 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> see this bedrock portal?[m
+2012-06-25 21:35:08 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> that's how you get to static[m
+2012-06-25 21:35:21 [INFO] [[35;1mFluid[37;1m]<Yinsano> But that flips My inventory, doesn't it?[m
+2012-06-25 21:35:30 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> yep[m
+2012-06-25 21:35:46 [INFO] [[35;1mFluid[37;1m]<Yinsano> Which Means I won't have the Slime Balls?[m
+2012-06-25 21:36:00 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> yeah[m
+2012-06-25 21:36:18 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> but when you get to static you can summon slimeballs[m
+2012-06-25 21:36:37 [INFO] [[35;1mFluid[37;1m]<Yinsano> Once every 24 Hours[m
+2012-06-25 21:36:53 [INFO] [[35;1mFluid[37;1m]<Yinsano> Which I foolishly Activated at 11pm[m
+2012-06-25 21:39:45 [INFO] Connection reset
+2012-06-25 21:39:45 [INFO] Yinsano lost connection: disconnect.quitting
+2012-06-25 21:46:14 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in fluid, 3.7 blocks from TrialZ
+2012-06-25 21:46:25 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in fluid, 5.1 blocks from TrialZ
+2012-06-25 21:46:33 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 65 in fluid, 4.7 blocks from TrialZ
+2012-06-25 21:48:26 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 73 in fluid, 3.2 blocks from TrialZ
+2012-06-25 21:55:17 [WARNING] TrialZ moved wrongly!
+2012-06-25 21:55:17 [INFO] Got position -137.0172517150422, 66.7531999805212, 459.3000000119208
+2012-06-25 21:55:17 [INFO] Expected -137.30000001192093, 66.7531999805212, 459.3000000119208
+2012-06-25 21:58:20 [INFO] dejai [/127.0.0.1:33515] logged in with entity id 2974145 at ([world] 3796.197805761437, 70.0, 3785.699999988079)
+2012-06-25 22:00:33 [INFO] [[34;1mStatic[37;1m]<dejai> Hello.[m
+2012-06-25 22:00:39 [INFO] Unknown command. Type "help" for help.[m
+2012-06-25 22:00:39 [INFO] CONSOLE: Giving dejai some 341 (SLIME_BALL)[m
+2012-06-25 22:00:48 [INFO] [[35;1mFluid[37;1m]<TrialZ> hey[m
+2012-06-25 22:00:59 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> hi[m
+2012-06-25 22:01:05 [INFO] [[35;1mFluid[37;1m]<TrialZ> haven't seem you online in a while[m
+2012-06-25 22:01:26 [INFO] [[34;1mStatic[37;1m]<dejai> Yeh it is disappointing. Wanted to play for ages![m
+2012-06-25 22:01:40 [INFO] [[34;1mStatic[37;1m]<dejai> Just had some stuff going on exams, life etc.[m
+2012-06-25 22:01:53 [INFO] [[35;1mFluid[37;1m]<TrialZ> fair enough :][m
+2012-06-25 22:01:57 [INFO] [[34;1mStatic[37;1m]<dejai> What are the big new projects?[m
+2012-06-25 22:02:20 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> sleep?[m
+2012-06-25 22:02:31 [INFO] [[35;1mFluid[37;1m]<TrialZ> er.. well i'm trying to max out all the things for mcmmo[m
+2012-06-25 22:02:35 [INFO] [[34;1mStatic[37;1m]<dejai> Still sunny here..[m
+2012-06-25 22:02:44 [INFO] [[35;1mFluid[37;1m]<TrialZ> grr, monsters nearby[m
+2012-06-25 22:03:48 [INFO] [[34;1mStatic[37;1m]<dejai> Ugh lagging out, will be back on later :)[m
+2012-06-25 22:03:51 [INFO] Connection reset
+2012-06-25 22:03:51 [INFO] dejai lost connection: disconnect.endOfStream
+2012-06-25 22:16:31 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 74 in fluid, 2.3 blocks from TrialZ
+2012-06-25 22:16:32 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> sleep?[m
+2012-06-25 22:16:42 [INFO] Connection reset
+2012-06-25 22:16:42 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-25 22:16:45 [INFO] TrialZ [/127.0.0.1:33522] logged in with entity id 3019133 at ([fluid] -192.47596479659924, 71.0, 525.674357870487)
+2012-06-25 22:29:10 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> sleep[m
+2012-06-25 22:29:13 [INFO] Connection reset
+2012-06-25 22:29:13 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-25 22:29:15 [INFO] TrialZ [/127.0.0.1:33527] logged in with entity id 3048605 at ([fluid] -187.25240335534144, 76.0, 534.4184305644093)
+2012-06-25 22:29:18 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> ty[m
+2012-06-25 22:39:32 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 68 in fluid, 2.5 blocks from TrialZ
+2012-06-25 22:41:18 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> sleep?[m
+2012-06-25 22:41:22 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-25 22:41:22 [INFO] Connection reset
+2012-06-25 22:41:24 [INFO] TrialZ [/127.0.0.1:33532] logged in with entity id 3078228 at ([fluid] -202.30000001192093, 68.0, 487.7646797245763)
+2012-06-25 22:52:38 [WARNING] TrialZ moved wrongly!
+2012-06-25 22:52:38 [INFO] Got position -185.01831901743233, 68.41999998688698, 476.6999999880792
+2012-06-25 22:52:38 [INFO] Expected -185.30000001192093, 68.41999998688698, 476.6999999880792
+2012-06-25 22:54:27 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 73 in fluid, 6.7 blocks from TrialZ
+2012-06-25 22:54:40 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 70 in fluid, 3.6 blocks from TrialZ
+2012-06-25 22:54:50 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 73 in fluid, 4.1 blocks from TrialZ
+2012-06-25 23:07:47 [INFO] Connection reset
+2012-06-25 23:07:47 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-25 23:31:09 [INFO] Ellethwen11 lost connection: disconnect.quitting
+2012-06-25 23:31:09 [INFO] Connection reset
+2012-06-25 23:39:05 [INFO] dahlukeh [/127.0.0.1:33550] logged in with entity id 3161962 at ([fluid] -54.69999998807907, 63.0, 422.8330779201786)
+2012-06-25 23:39:22 [INFO] Unknown command. Type "help" for help.[m
+2012-06-25 23:39:22 [INFO] CONSOLE: Giving dahlukeh some 341 (SLIME_BALL)[m
+2012-06-25 23:44:20 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 24 in fluid, 2.2 blocks from dahlukeh
+2012-06-25 23:44:29 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 24 in fluid, 4.6 blocks from dahlukeh
+2012-06-25 23:56:37 [INFO] TrialZ [/127.0.0.1:33558] logged in with entity id 3176699 at ([fluid] -54.55886821108578, 63.0, 424.9364691648719)
+2012-06-25 23:56:42 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hey hey hey[m
+2012-06-25 23:56:47 [INFO] [[35;1mFluid[37;1m]<TrialZ> hey[m
+2012-06-25 23:56:52 [INFO] [[35;1mFluid[37;1m]<dahlukeh> I see you've been jumping off cliffs :P[m
+2012-06-25 23:56:57 [INFO] [[35;1mFluid[37;1m]<TrialZ> yeah :D[m
+2012-06-25 23:57:15 [INFO] [[35;1mFluid[37;1m]<TrialZ> there's a platform at the top with a bed[m
+2012-06-25 23:57:19 [INFO] [[35;1mFluid[37;1m]<TrialZ> feel free to use it[m
+2012-06-25 23:57:23 [INFO] [[35;1mFluid[37;1m]<dahlukeh> I should build the auto pusher[m
+2012-06-25 23:57:53 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in fluid, 6.0 blocks from TrialZ
+2012-06-25 23:58:04 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in fluid, 2.1 blocks from TrialZ
+2012-06-25 23:58:47 [INFO] [[35;1mFluid[37;1m]<TrialZ> ohshi[m
+2012-06-25 23:58:47 [INFO] [[35;1mFluid[37;1m]<dahlukeh> ouch[m
+2012-06-26 00:05:29 [INFO] ultrajono [/127.0.0.1:33562] logged in with entity id 3182869 at ([fluid] -232.87573192156734, 79.0, 124.99215080615093)
+2012-06-26 00:05:34 [INFO] [[35;1mFluid[37;1m]<ultrajono> ello all[m
+2012-06-26 00:05:37 [INFO] Unknown command. Type "help" for help.[m
+2012-06-26 00:05:37 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[m
+2012-06-26 00:05:40 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hello![m
+2012-06-26 00:05:44 [INFO] [[35;1mFluid[37;1m]<TrialZ> hey[m
+2012-06-26 00:06:37 [INFO] [[35;1mFluid[37;1m]<ultrajono> how you boys doin?[m
+2012-06-26 00:06:57 [INFO] [[35;1mFluid[37;1m]<dahlukeh> about to train acrobatics[m
+2012-06-26 00:07:11 [INFO] [[35;1mFluid[37;1m]<ultrajono> party[m
+2012-06-26 00:07:16 [INFO] [[35;1mFluid[37;1m]<dahlukeh> ?[m
+2012-06-26 00:07:32 [INFO] [[35;1mFluid[37;1m]<ultrajono> i dunno, i'm tired :P[m
+2012-06-26 00:07:36 [INFO] [[35;1mFluid[37;1m]<TrialZ> -ing partying yeah?[m
+2012-06-26 00:07:54 [INFO] [[35;1mFluid[37;1m]<ultrajono> circus :P[m
+2012-06-26 00:08:36 [INFO] [[35;1mFluid[37;1m]<ultrajono> who did that in front of nellies?[m
+2012-06-26 00:10:05 [INFO] [[35;1mFluid[37;1m]<ultrajono> that, and adrian has hollowed out a hill?[m
+2012-06-26 00:11:46 [INFO] [[35;1mFluid[37;1m]<ultrajono> do either of you know how to make a water elevator gap?[m
+2012-06-26 00:12:03 [INFO] [[35;1mFluid[37;1m]<dahlukeh> not really[m
+2012-06-26 00:12:04 [INFO] [[35;1mFluid[37;1m]<TrialZ> err..no[m
+2012-06-26 00:12:10 [INFO] [[35;1mFluid[37;1m]<dahlukeh> and I think it was kim...[m
+2012-06-26 00:12:14 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in fluid, 5.6 blocks from TrialZ
+2012-06-26 00:12:16 [INFO] [[35;1mFluid[37;1m]<ultrajono> cause mine is good from ground to my mine[m
+2012-06-26 00:12:27 [INFO] [[35;1mFluid[37;1m]<ultrajono> but at groudn, i want it with a gap, that can be gone into from 4 ways. . .[m
+2012-06-26 00:13:00 [INFO] [32;1m([37;1mTrialZ[32;1m) test[m
+2012-06-26 00:13:11 [INFO] [[35;1mFluid[37;1m]<dahlukeh> ?[m
+2012-06-26 00:13:21 [INFO] [32;1m([37;1mdahlukeh[32;1m) hey[m
+2012-06-26 00:13:24 [INFO] [32;1m([37;1mTrialZ[32;1m) testing out party chat[m
+2012-06-26 00:13:33 [INFO] [[35;1mFluid[37;1m]<ultrajono> it makes sense in my head :P[m
+2012-06-26 00:13:33 [INFO] [32;1m([37;1mTrialZ[32;1m) i wonder if anyone else can see this[m
+2012-06-26 00:14:57 [INFO] [[35;1mFluid[37;1m]<ultrajono> any chance for a sleep?[m
+2012-06-26 00:15:15 [INFO] [[35;1mFluid[37;1m]<TrialZ> sleeping[m
+2012-06-26 00:15:22 [INFO] [[35;1mFluid[37;1m]<ultrajono> danke :D[m
+2012-06-26 00:16:27 [WARNING] dahlukeh moved wrongly!
+2012-06-26 00:16:27 [INFO] Got position -70.46395905989566, 63.0, 440.0720642961644
+2012-06-26 00:16:27 [INFO] Expected -70.46395905989566, 63.0, 439.69999998807907
+2012-06-26 00:16:30 [WARNING] dahlukeh moved wrongly!
+2012-06-26 00:16:30 [INFO] Got position -70.63551964170973, 63.0, 440.69999998807907
+2012-06-26 00:16:30 [INFO] Expected -70.63551964170973, 63.0, 439.69999998807907
+2012-06-26 00:18:34 [INFO] [32;1m([37;1mdahlukeh[32;1m) fuck[m
+2012-06-26 00:18:44 [INFO] [[35;1mFluid[37;1m]<TrialZ> :/[m
+2012-06-26 00:18:44 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-4/27/1 (No such file or directory)
+2012-06-26 00:18:44 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-26 00:18:44 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-26 00:18:44 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-26 00:18:44 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-26 00:18:44 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-26 00:18:44 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-26 00:18:44 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-26 00:18:44 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-26 00:18:44 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-26 00:18:44 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-26 00:18:44 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-26 00:18:44 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-26 00:18:44 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-26 00:18:44 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-26 00:18:44 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-26 00:18:44 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-26 00:18:44 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-26 00:19:21 [INFO] [[35;1mFluid[37;1m]<TrialZ> i kinda don't know if that was the wrong direction[m
+2012-06-26 00:19:32 [INFO] [[35;1mFluid[37;1m]<TrialZ> but i guess you'd know better, since you aren't on tiny viewing distance[m
+2012-06-26 00:19:56 [INFO] [[35;1mFluid[37;1m]<ultrajono> sweet, it works :D[m
+2012-06-26 00:20:01 [INFO] [32;1m([37;1mdahlukeh[32;1m) :D[m
+2012-06-26 00:20:07 [INFO] [[35;1mFluid[37;1m]<dahlukeh> :D[m
+2012-06-26 00:20:26 [INFO] [[35;1mFluid[37;1m]<ultrajono> come, have a look :P[m
+2012-06-26 00:20:48 [INFO] [[35;1mFluid[37;1m]<ultrajono> so, dirt will be doors, or maybe further back[m
+2012-06-26 00:21:07 [INFO] [[35;1mFluid[37;1m]<ultrajono> made this last night[m
+2012-06-26 00:21:24 [INFO] [[35;1mFluid[37;1m]<ultrajono> thinkin of having a quick drop to the bottom as well,[m
+2012-06-26 00:23:35 [INFO] [[35;1mFluid[37;1m]<ultrajono> ok, just got attacked by 3 massive slime, at one?[m
+2012-06-26 00:23:37 [INFO] [[35;1mFluid[37;1m]<ultrajono> once[m
+2012-06-26 00:23:43 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hbahah nice :)[m
+2012-06-26 00:23:50 [INFO] [[35;1mFluid[37;1m]<ultrajono> picked up 33 slime in one hit :P[m
+2012-06-26 00:25:14 [INFO] * TrialZ wonders how this fantastic contraption works[m
+2012-06-26 00:25:27 [INFO] [[35;1mFluid[37;1m]<ultrajono> ?[m
+2012-06-26 00:25:45 [INFO] [[35;1mFluid[37;1m]<TrialZ> dahlukeh's acrobatics pit[m
+2012-06-26 00:27:00 [INFO] [[35;1mFluid[37;1m]<ultrajono> again, any chance for a sleep?[m
+2012-06-26 00:27:21 [INFO] [[35;1mFluid[37;1m]<ultrajono> just hard to build the top bit of my water elevator like this is all. . . sorry guys[m
+2012-06-26 00:27:35 [INFO] H4ZM4T [/127.0.0.1:33573] logged in with entity id 3247556 at ([world] 1040.699999988079, 88.0, -153.69024806821082)
+2012-06-26 00:27:42 [INFO] * TrialZ sleeps quietly[m
+2012-06-26 00:27:43 [INFO] [[35;1mFluid[37;1m]<ultrajono> evenin[m
+2012-06-26 00:27:50 [INFO] [[35;1mFluid[37;1m]<TrialZ> 'ello 'ello[m
+2012-06-26 00:27:57 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> just checking something[m
+2012-06-26 00:28:01 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> toodles[m
+2012-06-26 00:28:02 [INFO] [[35;1mFluid[37;1m]<ultrajono> come to fluid[m
+2012-06-26 00:28:07 [INFO] [[35;1mFluid[37;1m]<ultrajono> you want to, trust me[m
+2012-06-26 00:28:17 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> uh, add me to your party[m
+2012-06-26 00:28:19 [INFO] [[35;1mFluid[37;1m]<ultrajono> luke, sleep please?[m
+2012-06-26 00:28:23 [INFO] [[35;1mFluid[37;1m]<ultrajono> i dunno how to :P[m
+2012-06-26 00:29:21 [INFO] [[35;1mFluid[37;1m]<ultrajono> lemon?[m
+2012-06-26 00:29:28 [INFO] [[35;1mFluid[37;1m]<ultrajono> teleport to me?[m
+2012-06-26 00:29:29 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> heheheh yeah[m
+2012-06-26 00:29:42 [INFO] [[35;1mFluid[37;1m]<ultrajono> turn[m
+2012-06-26 00:29:46 [INFO] [[35;1mFluid[37;1m]<ultrajono> this way nellie[m
+2012-06-26 00:29:53 [WARNING] dahlukeh moved wrongly!
+2012-06-26 00:29:53 [INFO] Got position -70.3424972808444, 63.0, 440.69999998807907
+2012-06-26 00:29:53 [INFO] Expected -70.3424972808444, 63.0, 439.69999998807907
+2012-06-26 00:30:01 [INFO] [[35;1mFluid[37;1m]<ultrajono> creeper[m
+2012-06-26 00:30:10 [INFO] [[35;1mFluid[37;1m]<ultrajono> s[m
+2012-06-26 00:30:39 [WARNING] dahlukeh moved wrongly!
+2012-06-26 00:30:39 [INFO] Got position -70.64267204333001, 63.0, 440.4659814550016
+2012-06-26 00:30:39 [INFO] Expected -70.64267204333001, 63.0, 439.69999998807907
+2012-06-26 00:30:47 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> D'AWWWWWWW[m
+2012-06-26 00:30:50 [INFO] [[35;1mFluid[37;1m]<dahlukeh> wtf[m
+2012-06-26 00:30:57 [INFO] Connection reset
+2012-06-26 00:30:57 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-26 00:31:01 [INFO] [[35;1mFluid[37;1m]<ultrajono> as i said, you wanted to come this way[m
+2012-06-26 00:31:27 [INFO] [[35;1mFluid[37;1m]<ultrajono> can we make it so they can't do loveydovey stuff here?[m
+2012-06-26 00:31:55 [WARNING] dahlukeh moved wrongly!
+2012-06-26 00:31:55 [INFO] Got position -70.30000001192093, 63.0, 440.69999998807907
+2012-06-26 00:31:55 [INFO] Expected -70.30000001192093, 63.0, 440.19999998807907
+2012-06-26 00:32:10 [WARNING] dahlukeh moved wrongly!
+2012-06-26 00:32:10 [INFO] Got position -70.31796241522859, 63.0, 440.69999998807907
+2012-06-26 00:32:10 [INFO] Expected -70.31796241522859, 63.0, 439.94999998807907
+2012-06-26 00:32:17 [WARNING] dahlukeh moved wrongly!
+2012-06-26 00:32:17 [INFO] Got position -70.69999998807907, 63.0, 440.6995839515621
+2012-06-26 00:32:17 [INFO] Expected -70.69999998807907, 63.0, 440.19999998807907
+2012-06-26 00:32:57 [WARNING] dahlukeh moved wrongly!
+2012-06-26 00:32:57 [INFO] Got position -70.30000001192093, 63.0, 440.69999998807907
+2012-06-26 00:32:57 [INFO] Expected -70.30000001192093, 63.0, 439.69999998807907
+2012-06-26 00:33:17 [INFO] [[35;1mFluid[37;1m]<ultrajono> what the fudge are you doing?[m
+2012-06-26 00:33:25 [INFO] [[35;1mFluid[37;1m]<dahlukeh> um[m
+2012-06-26 00:33:34 [INFO] [[35;1mFluid[37;1m]<dahlukeh> trying to set up a system to train acrobatics[m
+2012-06-26 00:33:34 [INFO] [[35;1mFluid[37;1m]<ultrajono> and can youd o it in the mornin?[m
+2012-06-26 00:35:56 [INFO] [[35;1mFluid[37;1m]<dahlukeh> dude theres a door missing here[m
+2012-06-26 00:35:56 [INFO] [[35;1mFluid[37;1m]<ultrajono> fucking creepers[m
+2012-06-26 00:36:08 [INFO] [[35;1mFluid[37;1m]<TrialZ> yeah, zombies[m
+2012-06-26 00:36:20 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 70 in fluid, 6.3 blocks from ultrajono
+2012-06-26 00:39:39 [INFO] H4ZM4T [/127.0.0.1:33579] logged in with entity id 3269478 at ([fluid] -34.00636019472623, 70.0, 93.08455595319087)
+2012-06-26 00:39:45 [INFO] Unknown command. Type "help" for help.[m
+2012-06-26 00:39:45 [INFO] CONSOLE: Giving H4ZM4T some 341 (SLIME_BALL)[m
+2012-06-26 00:39:54 [INFO] Ellethwen11 [/127.0.0.1:33583] logged in with entity id 3270378 at ([fluid] -41.62712220276776, 69.0, 101.69999998807906)
+2012-06-26 00:45:10 [INFO] Connection reset
+2012-06-26 00:45:10 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-26 00:45:26 [INFO] Ellethwen11 lost connection: disconnect.quitting
+2012-06-26 00:45:26 [INFO] Connection reset
+2012-06-26 00:46:31 [INFO] [[35;1mFluid[37;1m]<ultrajono> either of you guys have any sand i can steal?[m
+2012-06-26 00:46:45 [WARNING] dahlukeh moved wrongly!
+2012-06-26 00:46:45 [INFO] Got position -70.52859980281488, 85.0, 439.8831729561239
+2012-06-26 00:46:45 [INFO] Expected -70.52859980281488, 85.0, 440.30000001192093
+2012-06-26 00:46:56 [WARNING] dahlukeh moved wrongly!
+2012-06-26 00:46:56 [INFO] Got position -70.30000001192093, 63.0, 440.76305232197046
+2012-06-26 00:46:56 [INFO] Expected -70.30000001192093, 63.0, 439.94999998807907
+2012-06-26 00:47:09 [INFO] [[35;1mFluid[37;1m]<ultrajono> boys?[m
+2012-06-26 00:47:16 [INFO] [[35;1mFluid[37;1m]<dahlukeh> um[m
+2012-06-26 00:47:18 [INFO] [[35;1mFluid[37;1m]<dahlukeh> not really[m
+2012-06-26 00:47:24 [INFO] [[35;1mFluid[37;1m]<ultrajono> all good[m
+2012-06-26 00:48:58 [WARNING] dahlukeh moved wrongly!
+2012-06-26 00:48:58 [INFO] Got position -70.42220286354005, 63.0, 440.28748879740635
+2012-06-26 00:48:58 [INFO] Expected -70.42220286354005, 63.0, 439.69999998807907
+2012-06-26 00:52:27 [INFO] [[35;1mFluid[37;1m]<TrialZ> err...[m
+2012-06-26 00:52:28 [INFO] [[35;1mFluid[37;1m]<TrialZ> sorry[m
+2012-06-26 00:52:34 [INFO] [[35;1mFluid[37;1m]<ultrajono> ?[m
+2012-06-26 00:52:44 [INFO] [[35;1mFluid[37;1m]<TrialZ> knocked dahlukeh off a ledge[m
+2012-06-26 00:52:53 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hmmm[m
+2012-06-26 00:52:58 [INFO] [[35;1mFluid[37;1m]<TrialZ> via a surprise ptp[m
+2012-06-26 00:53:53 [INFO] [[35;1mFluid[37;1m]<ultrajono> yet again, i need more sand[m
+2012-06-26 00:54:08 [INFO] [[35;1mFluid[37;1m]<dahlukeh> ok[m
+2012-06-26 00:54:13 [INFO] [[35;1mFluid[37;1m]<dahlukeh> I'll dig sand tomorrow[m
+2012-06-26 00:54:19 [INFO] [[35;1mFluid[37;1m]<ultrajono> i'm good man :P[m
+2012-06-26 00:54:28 [INFO] [[35;1mFluid[37;1m]<ultrajono> gonna go, piss off harry as soon as its light[m
+2012-06-26 00:54:36 [INFO] [[35;1mFluid[37;1m]<TrialZ> haha[m
+2012-06-26 00:54:48 [INFO] [[35;1mFluid[37;1m]<ultrajono> just want to finisht eh elevator, doors, and pyramid, then calling it a night[m
+2012-06-26 00:54:58 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 70 in fluid, 4.8 blocks from ultrajono
+2012-06-26 00:55:14 [INFO] [[35;1mFluid[37;1m]<ultrajono> it keeps on ruining my work, FUCKERS[m
+2012-06-26 00:57:12 [INFO] [[35;1mFluid[37;1m]<ultrajono> 4 glowstone from getting sand, BOOM![m
+2012-06-26 01:02:46 [INFO] [[35;1mFluid[37;1m]<ultrajono> what does inceasing your acro skill do?[m
+2012-06-26 01:02:56 [INFO] [[35;1mFluid[37;1m]<dahlukeh> type /acrobatics ?[m
+2012-06-26 01:03:37 [INFO] [[35;1mFluid[37;1m]<ultrajono> and to get to the next page?[m
+2012-06-26 01:03:47 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-15/14/1 (No such file or directory)
+2012-06-26 01:03:47 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-26 01:03:47 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-26 01:03:47 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-26 01:03:47 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-26 01:03:47 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-26 01:03:47 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-26 01:03:47 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-26 01:03:47 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-26 01:03:47 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-26 01:03:47 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-26 01:03:47 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-26 01:03:47 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-26 01:03:47 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-26 01:03:47 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-26 01:03:47 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-26 01:03:47 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-26 01:03:47 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-26 01:03:49 [INFO] [[35;1mFluid[37;1m]<dahlukeh> type /acrobatics 2[m
+2012-06-26 01:03:54 [INFO] [[35;1mFluid[37;1m]<ultrajono> ah GENIUS[m
+2012-06-26 01:10:01 [INFO] Connection reset
+2012-06-26 01:10:01 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-26 01:10:11 [INFO] TrialZ [/127.0.0.1:33592] logged in with entity id 3328113 at ([fluid] -56.58132372885634, 72.0, 443.2673620514607)
+2012-06-26 01:17:46 [INFO] [[35;1mFluid[37;1m]<ultrajono> i now[m
+2012-06-26 01:17:48 [INFO] [[35;1mFluid[37;1m]<ultrajono> have[m
+2012-06-26 01:17:53 [INFO] [[35;1mFluid[37;1m]<ultrajono> a water elevator, that takes me[m
+2012-06-26 01:17:57 [INFO] [[35;1mFluid[37;1m]<ultrajono> from my place up top[m
+2012-06-26 01:18:00 [INFO] [[35;1mFluid[37;1m]<ultrajono> all teh way, to the bottom[m
+2012-06-26 01:18:01 [INFO] [[35;1mFluid[37;1m]<ultrajono> BOOM![m
+2012-06-26 01:27:06 [INFO] [[35;1mFluid[37;1m]<ultrajono> whats this acro thing you guys are doin?[m
+2012-06-26 01:27:08 [INFO] [[35;1mFluid[37;1m]<ultrajono> or, where doin?[m
+2012-06-26 01:27:12 [INFO] [[35;1mFluid[37;1m]<dahlukeh> um[m
+2012-06-26 01:27:20 [INFO] [[35;1mFluid[37;1m]<dahlukeh> it lets you not take damage from falling[m
+2012-06-26 01:27:25 [INFO] [[35;1mFluid[37;1m]<dahlukeh> and dodge other damage[m
+2012-06-26 01:28:01 [INFO] [[35;1mFluid[37;1m]<ultrajono> yeh i know, but you said you were makin a course?[m
+2012-06-26 01:28:05 [INFO] [[35;1mFluid[37;1m]<dahlukeh> oh[m
+2012-06-26 01:28:07 [INFO] [[35;1mFluid[37;1m]<dahlukeh> basically[m
+2012-06-26 01:28:19 [INFO] [[35;1mFluid[37;1m]<dahlukeh> it pushes you and you take all but half a heart of damage[m
+2012-06-26 01:28:26 [INFO] [[35;1mFluid[37;1m]<dahlukeh> and then it pushes you again, and you die[m
+2012-06-26 01:28:29 [INFO] [[35;1mFluid[37;1m]<ultrajono> this at yours yeh?[m
+2012-06-26 01:28:30 [INFO] [[35;1mFluid[37;1m]<dahlukeh> and respawn and repeat[m
+2012-06-26 01:28:40 [INFO] [[35;1mFluid[37;1m]<ultrajono> whats your lvl at now?[m
+2012-06-26 01:28:46 [INFO] [[35;1mFluid[37;1m]<dahlukeh> uhhhh[m
+2012-06-26 01:28:54 [INFO] [[35;1mFluid[37;1m]<dahlukeh> type /mctop acrobatics[m
+2012-06-26 01:29:13 [INFO] [[35;1mFluid[37;1m]<ultrajono> your lvl man :P[m
+2012-06-26 01:29:31 [INFO] [[35;1mFluid[37;1m]<ultrajono> oh, nevermind :P trialz you are a boss :D[m
+2012-06-26 01:29:36 [INFO] [[35;1mFluid[37;1m]<dahlukeh> yep[m
+2012-06-26 01:29:51 [INFO] [[35;1mFluid[37;1m]<ultrajono> where is this 'course'?[m
+2012-06-26 01:29:55 [INFO] [[35;1mFluid[37;1m]<TrialZ> if you were online earlier, you would have been getting pages and pages of notifications of me dying[m
+2012-06-26 01:30:04 [INFO] [[35;1mFluid[37;1m]<ultrajono> how long that take you?[m
+2012-06-26 01:30:11 [INFO] [[35;1mFluid[37;1m]<TrialZ> couple hours[m
+2012-06-26 01:30:24 [INFO] [[35;1mFluid[37;1m]<ultrajono> but, where is this course?[m
+2012-06-26 01:30:38 [INFO] [[35;1mFluid[37;1m]<dahlukeh> at our base[m
+2012-06-26 01:31:07 [INFO] [[35;1mFluid[37;1m]<TrialZ> and (for me), it's less of a course and more of a bed at a high point with cactus near the bottom[m
+2012-06-26 01:31:28 [INFO] [[35;1mFluid[37;1m]<ultrajono> must come have a look[m
+2012-06-26 01:31:42 [INFO] [[35;1mFluid[37;1m]<ultrajono> and i would, bar teh 3 creepers right at my drop points[m
+2012-06-26 01:32:01 [INFO] [[35;1mFluid[37;1m]<ultrajono> plus, don't want to die just yet, got some valuables[m
+2012-06-26 01:35:37 [INFO] [[35;1mFluid[37;1m]<dahlukeh> wow.. TrialZ where did our iron go?[m
+2012-06-26 01:36:10 [INFO] [[35;1mFluid[37;1m]<TrialZ> i needed to repair my armour, so that would explain a stack or so[m
+2012-06-26 01:36:15 [INFO] [[35;1mFluid[37;1m]<dahlukeh> oh really?[m
+2012-06-26 01:36:17 [INFO] [[35;1mFluid[37;1m]<dahlukeh> alright[m
+2012-06-26 01:36:23 [INFO] [[35;1mFluid[37;1m]<TrialZ> oh, and i'm still carrying a stack :S[m
+2012-06-26 01:36:56 [INFO] * TrialZ returns it[m
+2012-06-26 01:37:10 [INFO] [[35;1mFluid[37;1m]<dahlukeh> also dude[m
+2012-06-26 01:37:17 [INFO] [[35;1mFluid[37;1m]<dahlukeh> we have a stack and a bit of diamonds[m
+2012-06-26 01:37:24 [INFO] [[35;1mFluid[37;1m]<dahlukeh> you can now get some[m
+2012-06-26 01:37:38 [INFO] [[35;1mFluid[37;1m]<TrialZ> ngh[m
+2012-06-26 01:37:38 [INFO] [[35;1mFluid[37;1m]<ultrajono> appreciate it, but i'm good[m
+2012-06-26 01:37:40 [INFO] [[35;1mFluid[37;1m]<ultrajono> :D[m
+2012-06-26 01:38:33 [WARNING] dahlukeh moved wrongly!
+2012-06-26 01:38:33 [INFO] Got position -70.41944597666074, 63.0, 440.4578530147675
+2012-06-26 01:38:33 [INFO] Expected -70.41944597666074, 63.0, 439.69999998807907
+2012-06-26 01:39:05 [INFO] [[35;1mFluid[37;1m]<dahlukeh> alright, see you guys later[m
+2012-06-26 01:39:06 [INFO] Connection reset
+2012-06-26 01:39:06 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-26 01:40:51 [INFO] [[35;1mFluid[37;1m]<ultrajono> damn, one obsidian short :([m
+2012-06-26 01:40:57 [INFO] [[35;1mFluid[37;1m]<TrialZ> :([m
+2012-06-26 01:41:42 [INFO] [[35;1mFluid[37;1m]<ultrajono> come, when you get a chance[m
+2012-06-26 01:42:09 [INFO] [[35;1mFluid[37;1m]<TrialZ> whereabouts are you?[m
+2012-06-26 01:42:20 [INFO] [[35;1mFluid[37;1m]<ultrajono> right near spawn[m
+2012-06-26 01:42:40 [INFO] [[35;1mFluid[37;1m]<ultrajono> actually, i'm a fair bit of obsidian short[m
+2012-06-26 01:43:30 [SEVERE] java.io.FileNotFoundException: ./fluid/mcmmo_data/-4/27/1 (No such file or directory)
+2012-06-26 01:43:30 [SEVERE] 	at java.io.FileOutputStream.open(Native Method)
+2012-06-26 01:43:30 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:209)
+2012-06-26 01:43:30 [SEVERE] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:160)
+2012-06-26 01:43:30 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.serializeChunkletStore(HashChunkletManager.java:190)
+2012-06-26 01:43:30 [SEVERE] 	at com.gmail.nossr50.util.blockmeta.HashChunkletManager.chunkUnloaded(HashChunkletManager.java:50)
+2012-06-26 01:43:30 [SEVERE] 	at com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:41)
+2012-06-26 01:43:30 [SEVERE] 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+2012-06-26 01:43:30 [SEVERE] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2012-06-26 01:43:30 [SEVERE] 	at java.lang.reflect.Method.invoke(Method.java:616)
+2012-06-26 01:43:30 [SEVERE] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+2012-06-26 01:43:30 [SEVERE] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+2012-06-26 01:43:30 [SEVERE] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:460)
+2012-06-26 01:43:30 [SEVERE] 	at net.minecraft.server.ChunkProviderServer.unloadChunks(ChunkProviderServer.java:242)
+2012-06-26 01:43:30 [SEVERE] 	at net.minecraft.server.World.doTick(World.java:1740)
+2012-06-26 01:43:30 [SEVERE] 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:554)
+2012-06-26 01:43:30 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:459)
+2012-06-26 01:43:30 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:492)
+2012-06-26 01:43:55 [INFO] [[35;1mFluid[37;1m]<ultrajono> going to close it off with obsidian[m
+2012-06-26 01:44:03 [INFO] [[35;1mFluid[37;1m]<ultrajono> and.........make the buttons for the other side :P[m
+2012-06-26 01:44:47 [INFO] [[35;1mFluid[37;1m]<TrialZ> wait a second...I SEE WHAT YOU DID THERE WITH THE PARTY NAME[m
+2012-06-26 01:44:52 [INFO] [[35;1mFluid[37;1m]<ultrajono> ?[m
+2012-06-26 01:44:55 [INFO] [[35;1mFluid[37;1m]<ultrajono> there's a party name?[m
+2012-06-26 01:45:02 [INFO] [[35;1mFluid[37;1m]<TrialZ> lemon[m
+2012-06-26 01:45:12 [INFO] [[35;1mFluid[37;1m]<ultrajono> interesting, no idea[m
+2012-06-26 01:45:25 [INFO] [[35;1mFluid[37;1m]<TrialZ> oh, it's the party that you're currently in[m
+2012-06-26 01:45:26 [INFO] [[35;1mFluid[37;1m]<ultrajono> what, you've never been this way?[m
+2012-06-26 01:45:32 [INFO] [[35;1mFluid[37;1m]<TrialZ> type /party to see[m
+2012-06-26 01:45:53 [INFO] [[35;1mFluid[37;1m]<TrialZ> :([m
+2012-06-26 01:45:54 [INFO] [[35;1mFluid[37;1m]<ultrajono> help[m
+2012-06-26 01:46:23 [INFO] [[35;1mFluid[37;1m]<TrialZ> to join a party, /party [partyname][m
+2012-06-26 01:46:38 [INFO] [[35;1mFluid[37;1m]<TrialZ> to invite someone once you're in a party, /invite [username][m
+2012-06-26 01:46:47 [INFO] [[35;1mFluid[37;1m]<ultrajono> and to change the name?[m
+2012-06-26 01:46:53 [INFO] [[35;1mFluid[37;1m]<TrialZ> and /ptp to teleport to someone in your party[m
+2012-06-26 01:47:09 [INFO] [[35;1mFluid[37;1m]<TrialZ> err...as far as i know, you can only join and leave parties[m
+2012-06-26 01:47:23 [INFO] [[35;1mFluid[37;1m]<TrialZ> the name isn't really a thing that can change without everyone leaving it and joining another one[m
+2012-06-26 01:47:34 [INFO] [[35;1mFluid[37;1m]<ultrajono> ah[m
+2012-06-26 01:47:55 [INFO] [[35;1mFluid[37;1m]<TrialZ> i see why you need sand :D[m
+2012-06-26 01:48:00 [INFO] [[35;1mFluid[37;1m]<ultrajono> just a bit ey[m
+2012-06-26 01:48:31 [INFO] [[35;1mFluid[37;1m]<ultrajono> have you never seen my place?[m
+2012-06-26 01:48:52 [INFO] [[35;1mFluid[37;1m]<TrialZ> i've seen it, but never knew who it belonged to[m
+2012-06-26 01:49:03 [INFO] [[35;1mFluid[37;1m]<TrialZ> i don't venture away from our base much[m
+2012-06-26 01:49:20 [INFO] [[35;1mFluid[37;1m]<ultrajono> ah, fair enough[m
+2012-06-26 01:50:17 [INFO] [[35;1mFluid[37;1m]<ultrajono> your in the clear :P[m
+2012-06-26 01:50:24 [INFO] [[35;1mFluid[37;1m]<ultrajono> apart from that spider :P[m
+2012-06-26 01:50:36 [INFO] [[35;1mFluid[37;1m]<ultrajono> and the 2 creeprs coming downt he mountain[m
+2012-06-26 01:51:01 [INFO] [[35;1mFluid[37;1m]<ultrajono> go, sleep at nellies[m
+2012-06-26 01:51:55 [INFO] [[35;1mFluid[37;1m]<ultrajono> that wooden place, to your left[m
+2012-06-26 01:51:59 [INFO] [[35;1mFluid[37;1m]<ultrajono> is nellies, go, sleep?[m
+2012-06-26 01:52:02 [INFO] [[35;1mFluid[37;1m]<TrialZ> i might just run back to our base[m
+2012-06-26 01:52:29 [INFO] [[35;1mFluid[37;1m]<ultrajono> advantage of obsidian, fairly sturdy :P[m
+2012-06-26 01:52:31 [INFO] [[35;1mFluid[37;1m]<TrialZ> are you already in bed?[m
+2012-06-26 01:52:40 [INFO] [[35;1mFluid[37;1m]<ultrajono> not just yet, will be in a sec, just tryin this out[m
+2012-06-26 01:53:22 [INFO] [[35;1mFluid[37;1m]<ultrajono> am now[m
+2012-06-26 01:53:26 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-26 01:53:26 [INFO] Connection reset
+2012-06-26 01:53:29 [INFO] TrialZ [/127.0.0.1:33604] logged in with entity id 3414006 at ([fluid] -45.951462775668055, 69.5, 118.78468384496844)
+2012-06-26 01:53:34 [INFO] [[35;1mFluid[37;1m]<ultrajono> well that worsk :P[m
+2012-06-26 01:53:38 [INFO] [[35;1mFluid[37;1m]<TrialZ> :D[m
+2012-06-26 01:54:13 [INFO] [[35;1mFluid[37;1m]<ultrajono> once i find some more obsidian, i can finish the entrance to my place, probably another night[m
+2012-06-26 01:55:36 [INFO] [[35;1mFluid[37;1m]<ultrajono> damn[m
+2012-06-26 01:55:41 [INFO] [[35;1mFluid[37;1m]<TrialZ> :([m
+2012-06-26 01:55:47 [INFO] [[35;1mFluid[37;1m]<ultrajono> eh, didn't loose anything[m
+2012-06-26 01:57:04 [INFO] [[35;1mFluid[37;1m]<ultrajono> so, this course?[m
+2012-06-26 01:57:18 [INFO] [[35;1mFluid[37;1m]<TrialZ> at the top, yeah[m
+2012-06-26 01:57:35 [INFO] [[35;1mFluid[37;1m]<TrialZ> i haven't tried it out with the whole redstone stuff yet[m
+2012-06-26 01:57:39 [INFO] [[35;1mFluid[37;1m]<TrialZ> so i don't know how well it wors[m
+2012-06-26 01:57:42 [INFO] [[35;1mFluid[37;1m]<TrialZ> works*[m
+2012-06-26 01:58:00 [INFO] [[35;1mFluid[37;1m]<ultrajono> it doesnt' push me in at all?[m
+2012-06-26 01:58:03 [WARNING] ultrajono moved wrongly!
+2012-06-26 01:58:03 [INFO] Got position -70.30000001192093, 85.0, 439.6917877175408
+2012-06-26 01:58:03 [INFO] Expected -70.30000001192093, 85.0, 440.30000001192093
+2012-06-26 01:58:06 [INFO] [[35;1mFluid[37;1m]<TrialZ> it should[m
+2012-06-26 01:58:09 [INFO] [[35;1mFluid[37;1m]<ultrajono> or it does :P[m
+2012-06-26 01:58:10 [WARNING] ultrajono moved wrongly!
+2012-06-26 01:58:10 [INFO] Got position -70.39510711494948, 63.0, 440.69999998807907
+2012-06-26 01:58:10 [INFO] Expected -70.39510711494948, 63.0, 439.69999998807907
+2012-06-26 01:58:20 [INFO] [[35;1mFluid[37;1m]<ultrajono> ok, i'm at the bottom, now what?[m
+2012-06-26 01:58:31 [INFO] [[35;1mFluid[37;1m]<ultrajono> didn't die. . .[m
+2012-06-26 01:58:42 [INFO] [[35;1mFluid[37;1m]<TrialZ> is there a ledge or anything that you can walk off?[m
+2012-06-26 01:58:54 [INFO] [[35;1mFluid[37;1m]<ultrajono> very bottom, no, surrounded by dirt, no way up[m
+2012-06-26 01:59:01 [INFO] [[35;1mFluid[37;1m]<ultrajono> no buttons, nada[m
+2012-06-26 01:59:10 [INFO] [[35;1mFluid[37;1m]<TrialZ> i imagine dalukeh intends to put some kind of secondary piston thingo there[m
+2012-06-26 01:59:16 [INFO] [[35;1mFluid[37;1m]<TrialZ> so i guess it isn't finished yet :/[m
+2012-06-26 01:59:21 [INFO] [[35;1mFluid[37;1m]<ultrajono> well, there was 2 pistons[m
+2012-06-26 01:59:52 [INFO] [[35;1mFluid[37;1m]<TrialZ> the way i grinded it was to just walk off the ledge and into a small clump of cacti until i died and[m
+2012-06-26 01:59:58 [INFO] [[35;1mFluid[37;1m]<TrialZ> respawned back at the top[m
+2012-06-26 02:00:10 [INFO] [[35;1mFluid[37;1m]<ultrajono> what, you can reach that cacti from here?[m
+2012-06-26 02:00:31 [INFO] [[35;1mFluid[37;1m]<ultrajono> don't think you got enough pumpkins mate[m
+2012-06-26 02:00:41 [INFO] [[35;1mFluid[37;1m]<TrialZ> :D[m
+2012-06-26 02:00:46 [INFO] [[35;1mFluid[37;1m]<ultrajono> or mellon :P[m
+2012-06-26 02:00:58 [INFO] [[35;1mFluid[37;1m]<ultrajono> i just fell of the edge of your house, that works just as well[m
+2012-06-26 02:01:13 [INFO] [[35;1mFluid[37;1m]<TrialZ> yeah, it was designed to be a 9.5 hearts drop[m
+2012-06-26 02:01:49 [INFO] [[35;1mFluid[37;1m]<ultrajono> who designed the house, you or he?[m
+2012-06-26 02:01:54 [INFO] [[35;1mFluid[37;1m]<TrialZ> dahlukeh[m
+2012-06-26 02:02:05 [INFO] [[35;1mFluid[37;1m]<ultrajono> go, use the piston[m
+2012-06-26 02:02:24 [INFO] [[35;1mFluid[37;1m]<TrialZ> err...carrying more stuff than i'd like to be carrying before possible death[m
+2012-06-26 02:02:35 [INFO] [[35;1mFluid[37;1m]<ultrajono> give it to me, i'll hold it for ou?[m
+2012-06-26 02:02:44 [INFO] [[35;1mFluid[37;1m]<TrialZ> ngh, cbf[m
+2012-06-26 02:03:15 [INFO] [[35;1mFluid[37;1m]<ultrajono> piston does nada[m
+2012-06-26 02:03:35 [INFO] [[35;1mFluid[37;1m]<TrialZ> i guess it's still a work in progress :/[m
+2012-06-26 02:03:36 [INFO] [[35;1mFluid[37;1m]<ultrajono> i could drop myself i guess[m
+2012-06-26 02:03:41 [WARNING] ultrajono moved wrongly!
+2012-06-26 02:03:41 [INFO] Got position -70.59672859256516, 63.0, 440.4728673107224
+2012-06-26 02:03:41 [INFO] Expected -70.59672859256516, 63.0, 439.69999998807907
+2012-06-26 02:03:49 [INFO] [[35;1mFluid[37;1m]<ultrajono> rolled, interesting[m
+2012-06-26 02:03:55 [INFO] [[35;1mFluid[37;1m]<TrialZ> ;D[m
+2012-06-26 02:04:17 [WARNING] ultrajono moved wrongly!
+2012-06-26 02:04:17 [INFO] Got position -70.43898858016814, 85.0, 439.6990470275855
+2012-06-26 02:04:17 [INFO] Expected -70.43898858016814, 85.0, 440.30000001192093
+2012-06-26 02:04:17 [INFO] [[35;1mFluid[37;1m]<TrialZ> if you hold shift while falling and landing, you have a chance of rolling gracefully[m
+2012-06-26 02:04:34 [INFO] [[35;1mFluid[37;1m]<TrialZ> which prevents 7.5 hearts of damage (if i remember correctly)[m
+2012-06-26 02:05:04 [INFO] [[35;1mFluid[37;1m]<ultrajono> can you make obsidian here as well?[m
+2012-06-26 02:05:13 [INFO] [[35;1mFluid[37;1m]<ultrajono> stupid always obstructed bed[m
+2012-06-26 02:05:44 [INFO] [[35;1mFluid[37;1m]<TrialZ> ?[m
+2012-06-26 02:05:58 [INFO] [[35;1mFluid[37;1m]<ultrajono> my bed is always 'obstructed or missing' which is bullshit as ic an see the damn thing[m
+2012-06-26 02:06:13 [INFO] [[35;1mFluid[37;1m]<ultrajono> and you know how ou could make obsidian by mixing lava/water?[m
+2012-06-26 02:06:26 [INFO] [[35;1mFluid[37;1m]<TrialZ> i thought it needed lava sources[m
+2012-06-26 02:06:42 [INFO] [[35;1mFluid[37;1m]<TrialZ> but yeah[m
+2012-06-26 02:10:05 [INFO] * TrialZ heads off to sleep[m
+2012-06-26 02:10:16 [INFO] [[35;1mFluid[37;1m]<ultrajono> oh, sorry man[m
+2012-06-26 02:10:22 [INFO] [[35;1mFluid[37;1m]<ultrajono> in bed[m
+2012-06-26 02:10:58 [INFO] [[35;1mFluid[37;1m]<TrialZ> oh, as in real life :P[m
+2012-06-26 02:11:07 [INFO] [[35;1mFluid[37;1m]<ultrajono> yes, this is real life, isn't it?[m
+2012-06-26 02:11:32 [INFO] [[35;1mFluid[37;1m]<TrialZ> why of course :P[m
+2012-06-26 02:11:35 [INFO] * TrialZ disappears[m
+2012-06-26 02:11:40 [INFO] Connection reset
+2012-06-26 02:11:40 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-26 02:11:47 [INFO] [[33;1mCreative[37;1m]<ultrajono> how do you write like that? never figured it out[m
+2012-06-26 02:13:35 [INFO] [[33;1mCreative[37;1m]<ultrajono> if something works in creative, it works in the actual game yeh?[m
+2012-06-26 02:18:09 [INFO] [[33;1mCreative[37;1m]<ultrajono> holy fuck me this works[m
+2012-06-26 02:18:21 [INFO] [[33;1mCreative[37;1m]<ultrajono> instant obsidian :D[m
+2012-06-26 02:24:04 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 9 in fluid, 1.8 blocks from ultrajono
+2012-06-26 02:50:06 [INFO] Connection reset
+2012-06-26 02:50:06 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-26 07:47:19 [INFO] Yinsano [/127.0.0.1:33687] logged in with entity id 3500379 at ([fluid] 22.714090636453435, 70.0, -173.8755602623631)
+2012-06-26 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-06-26 08:00:01 [INFO] [35;1m[Server] Starting backup.[m
+2012-06-26 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-06-26 08:00:01 [INFO] CONSOLE: Forcing save..[m
+2012-06-26 08:00:01 [INFO] CONSOLE: Save complete.[m
+2012-06-26 08:00:04 [INFO] Unknown command. Type "help" for help.[m
+2012-06-26 08:00:04 [INFO] CONSOLE: Disabling level saving..[m
+2012-06-26 08:00:05 [INFO] Yinsano lost connection: disconnect.quitting
+2012-06-26 08:00:05 [INFO] Connection reset

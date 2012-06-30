@@ -43464,3 +43464,203 @@ expected <block end>, but found Key
 2012-06-30 08:00:02 [INFO] CONSOLE: Save complete.[m
 2012-06-30 08:00:05 [INFO] Unknown command. Type "help" for help.[m
 2012-06-30 08:00:05 [INFO] CONSOLE: Disabling level saving..[m
+2012-06-30 08:04:43 [INFO] Unknown command. Type "help" for help.[m
+2012-06-30 08:04:43 [INFO] CONSOLE: Enabling level saving..[m
+2012-06-30 08:04:43 [INFO] Unknown command. Type "help" for help.[m
+2012-06-30 08:04:43 [INFO] CONSOLE: Forcing save..[m
+2012-06-30 08:04:44 [INFO] CONSOLE: Save complete.[m
+2012-06-30 08:04:44 [INFO] Unknown command. Type "help" for help.[m
+2012-06-30 08:04:44 [INFO] [35;1m[Server] Backup complete.[m
+2012-06-30 08:06:01 [INFO] Read timed out
+2012-06-30 08:06:02 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-30 10:19:42 [INFO] TrialZ [/127.0.0.1:35568] logged in with entity id 837542 at ([fluid] -48.440596170102715, 84.0, 436.30000001192093)
+2012-06-30 10:19:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-30 10:20:05 [INFO] /127.0.0.1:35566 lost connection
+2012-06-30 10:20:20 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-30 10:20:20 [INFO] Connection reset
+2012-06-30 12:13:28 [INFO] H4ZM4T [/127.0.0.1:35602] logged in with entity id 839147 at ([world] 1053.4330823552543, 88.0, -136.85443031078782)
+2012-06-30 12:13:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-06-30 12:16:17 [INFO] Connection reset
+2012-06-30 12:16:17 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-30 12:30:02 [INFO] H4ZM4T [/127.0.0.1:35611] logged in with entity id 840029 at ([world] 1044.7636200938741, 73.0, -136.9685189973236)
+2012-06-30 12:30:21 [INFO] Connection reset
+2012-06-30 12:30:21 [INFO] H4ZM4T lost connection: disconnect.genericReason
+2012-06-30 12:44:07 [INFO] H4ZM4T [/127.0.0.1:35621] logged in with entity id 840379 at ([world] 1040.6433736633287, 73.0, -117.33505180177566)
+2012-06-30 12:44:39 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-06-30 12:47:57 [INFO] H4ZM4T [/127.0.0.1:35625] logged in with entity id 840622 at ([world] 1040.73997058797, 73.0, -140.9969171053525)
+2012-06-30 12:48:21 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-30 12:48:21 [INFO] Connection reset
+2012-06-30 12:51:33 [INFO] H4ZM4T [/127.0.0.1:35632] logged in with entity id 840786 at ([world] 1041.1049364543264, 73.0, -129.94328536310437)
+2012-06-30 12:51:46 [INFO] Unknown command. Type "help" for help.[m
+2012-06-30 12:51:46 [INFO] CONSOLE: Giving H4ZM4T some 341 (SLIME_BALL)[m
+2012-06-30 13:04:22 [INFO] Connection reset
+2012-06-30 13:04:22 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-30 14:02:49 [INFO] H4ZM4T [/127.0.0.1:35652] logged in with entity id 859277 at ([fluid] -27.84709524081315, 9.0, 33.65543032618509)
+2012-06-30 14:28:49 [INFO] dahlukeh [/127.0.0.1:35660] logged in with entity id 880704 at ([fluid] -48.43606259008638, 86.0, 435.50130422274117)
+2012-06-30 15:35:39 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 11 in world, 5.5 blocks from H4ZM4T
+2012-06-30 16:03:58 [INFO] Connection reset
+2012-06-30 16:03:58 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-30 16:23:05 [INFO] Ellethwen11 [/127.0.0.1:35689] logged in with entity id 1005923 at ([fluid] -40.425575791926256, 69.0, 101.51038104290306)
+2012-06-30 16:32:12 [INFO] H4ZM4T [/127.0.0.1:35695] logged in with entity id 1027142 at ([world] 1052.748521196349, 88.0, -137.86441726095876)
+2012-06-30 16:32:20 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> sleep?[m
+2012-06-30 16:32:23 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hai gais[m
+2012-06-30 16:32:32 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> sleeping[m
+2012-06-30 16:32:52 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> grrrr[m
+2012-06-30 16:32:59 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I installed an awesome texture pack[m
+2012-06-30 16:35:13 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> what kind?[m
+2012-06-30 16:35:27 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> the one they are using in the tekkit mod on yogs[m
+2012-06-30 16:35:41 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> ah cool[m
+2012-06-30 16:37:54 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> i want the texture pack that they have in paladin's quest 2 in yogscast[m
+2012-06-30 16:39:58 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> also did you want me to meet you somewhere?[m
+2012-06-30 16:40:17 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> Tis a good question[m
+2012-06-30 16:40:26 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I should probably get changed[m
+2012-06-30 16:40:34 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> :P[m
+2012-06-30 16:43:01 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I shall finish mah ladder[m
+2012-06-30 16:43:18 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> then I shall get changed and I'll think about where to mee[m
+2012-06-30 16:46:20 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 66 in world, 7.2 blocks from H4ZM4T
+2012-06-30 16:48:33 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 70 in world, 3.5 blocks from H4ZM4T
+2012-06-30 16:59:37 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> Kim[m
+2012-06-30 16:59:41 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I am dressed[m
+2012-06-30 16:59:51 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I am thinking we should go to the coles in maroubra[m
+2012-06-30 16:59:51 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> yay[m
+2012-06-30 17:00:01 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> as it will be a single bus for the two of us[m
+2012-06-30 17:00:48 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> thoughts?[m
+2012-06-30 17:00:51 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> do you want to come see my home in fluid?[m
+2012-06-30 17:01:01 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> sounds fine to me[m
+2012-06-30 17:04:14 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> have you joined the party so I can tp to you?[m
+2012-06-30 17:06:07 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> herro?[m
+2012-06-30 17:06:14 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> yes[m
+2012-06-30 17:06:58 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> you're uh, a little far from the spawn[m
+2012-06-30 17:07:08 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> meh[m
+2012-06-30 17:07:49 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> I know where this is now[m
+2012-06-30 17:08:03 [INFO] [[35;1mFluid[37;1m]<dahlukeh> where are you guys?[m
+2012-06-30 17:08:10 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> at kims new place[m
+2012-06-30 17:08:17 [INFO] [[35;1mFluid[37;1m]<dahlukeh> oh cool[m
+2012-06-30 17:08:23 [INFO] [[35;1mFluid[37;1m]<dahlukeh> where abouts is it?[m
+2012-06-30 17:08:47 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> kim, can I say?[m
+2012-06-30 17:09:01 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> yeah[m
+2012-06-30 17:09:09 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> +200,+200[m
+2012-06-30 17:11:16 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> what time should we meet at maroubra coles nelly[m
+2012-06-30 17:11:37 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> well, if I head off now, I can meet you on the bus[m
+2012-06-30 17:11:59 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> actually[m
+2012-06-30 17:12:02 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> scratch that[m
+2012-06-30 17:12:07 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> we may be getting a lift from harry[m
+2012-06-30 17:12:44 [INFO] [[35;1mFluid[37;1m]<dahlukeh> thats a few torches[m
+2012-06-30 17:12:50 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> ?[m
+2012-06-30 17:12:53 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> ok[m
+2012-06-30 17:12:56 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 81 in fluid, 3.1 blocks from dahlukeh
+2012-06-30 17:13:08 [INFO] [[35;1mFluid[37;1m]<dahlukeh> LET ME IN[m
+2012-06-30 17:13:39 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> is that diamond armor?[m
+2012-06-30 17:13:45 [INFO] [[35;1mFluid[37;1m]<dahlukeh> correct[m
+2012-06-30 17:13:47 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> I haven't done anything[m
+2012-06-30 17:13:51 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> (new texture pack)[m
+2012-06-30 17:13:59 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> shiny, I am getting me some of that[m
+2012-06-30 17:15:05 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> woops[m
+2012-06-30 17:15:09 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> *fishing*[m
+2012-06-30 17:15:45 [INFO] [[35;1mFluid[37;1m]<dahlukeh> I hit you with this fish[m
+2012-06-30 17:15:45 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> heh[m
+2012-06-30 17:15:49 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> is harry ok with giving us a lift?[m
+2012-06-30 17:15:52 [INFO] [[35;1mFluid[37;1m]<dahlukeh> s/hit/slap[m
+2012-06-30 17:15:55 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> he is indeed[m
+2012-06-30 17:15:59 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> hehehe[m
+2012-06-30 17:16:14 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> any idea when he might be ready?[m
+2012-06-30 17:16:19 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> he is getting dressed[m
+2012-06-30 17:16:25 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> then we will head to yours[m
+2012-06-30 17:16:29 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> and then we will head to coles[m
+2012-06-30 17:16:30 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> and etc[m
+2012-06-30 17:16:49 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> time to goooo[m
+2012-06-30 17:16:51 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> byeee[m
+2012-06-30 17:16:52 [INFO] Connection reset
+2012-06-30 17:16:52 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-06-30 17:16:54 [INFO] [[35;1mFluid[37;1m]<dahlukeh> cya[m
+2012-06-30 17:16:55 [INFO] Ellethwen11 lost connection: disconnect.quitting
+2012-06-30 17:16:55 [INFO] Connection reset
+2012-06-30 17:38:55 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 63 in fluid, 3.3 blocks from dahlukeh
+2012-06-30 18:19:36 [INFO] Connection reset
+2012-06-30 18:19:36 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-30 19:06:56 [INFO] TrialZ [/127.0.0.1:35733] logged in with entity id 1211472 at ([fluid] -48.440596170102715, 84.0, 436.30000001192093)
+2012-06-30 19:08:17 [INFO] dahlukeh [/127.0.0.1:35737] logged in with entity id 1213770 at ([fluid] -80.27005479289681, 63.0, 445.3610306243908)
+2012-06-30 19:09:07 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-30 19:09:07 [INFO] Connection reset
+2012-06-30 19:13:46 [INFO] Connection reset
+2012-06-30 19:13:46 [INFO] TrialZ lost connection: disconnect.quitting
+2012-06-30 19:49:36 [INFO] TrialZ [/127.0.0.1:35759] logged in with entity id 1218898 at ([fluid] -48.440596170102715, 84.0, 436.30000001192093)
+2012-06-30 19:51:51 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-30 19:51:57 [INFO] TrialZ [/127.0.0.1:35764] logged in with entity id 1221610 at ([fluid] -48.440596170102715, 84.0, 436.30000001192093)
+2012-06-30 19:55:19 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-30 19:55:35 [INFO] TrialZ [/127.0.0.1:35767] logged in with entity id 1223056 at ([fluid] -48.56532620436885, 84.0, 436.30000001192093)
+2012-06-30 19:56:13 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-30 19:57:01 [INFO] TrialZ [/127.0.0.1:35773] logged in with entity id 1223303 at ([fluid] -48.56532620436885, 84.0, 436.30000001192093)
+2012-06-30 20:00:01 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-30 20:18:07 [INFO] TrialZ [/127.0.0.1:35783] logged in with entity id 1225341 at ([fluid] -48.56532620436885, 84.0, 436.30000001192093)
+2012-06-30 20:29:15 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-30 20:33:16 [INFO] TrialZ [/127.0.0.1:35792] logged in with entity id 1237364 at ([fluid] -48.56532620436885, 84.0, 436.30000001192093)
+2012-06-30 20:52:05 [INFO] Yinsano [/127.0.0.1:35801] logged in with entity id 1251511 at ([world] 1039.7387317270682, 73.0, -120.78546896097173)
+2012-06-30 21:00:12 [INFO] Connection reset
+2012-06-30 21:00:12 [INFO] Yinsano lost connection: disconnect.quitting
+2012-06-30 21:06:10 [INFO] Connection reset
+2012-06-30 21:06:10 [INFO] TrialZ lost connection: disconnect.genericReason
+2012-06-30 21:10:29 [INFO] TrialZ [/127.0.0.1:35812] logged in with entity id 1265275 at ([fluid] -48.56532620436885, 84.0, 436.30000001192093)
+2012-06-30 21:10:54 [INFO] Disconnecting /127.0.0.1:35810: Took too long to log in
+2012-06-30 21:15:17 [INFO] lluoc [/127.0.0.1:35816] logged in with entity id 1266655 at ([fluid] -53.501306589972586, 63.0, 432.9988722859002)
+2012-06-30 21:20:00 [INFO] lluoc: Setting lluoc to game mode 1[m
+2012-06-30 21:20:10 [INFO] lluoc: Setting lluoc to game mode 0[m
+2012-06-30 21:22:49 [INFO] lluoc: Setting lluoc to game mode 1[m
+2012-06-30 21:23:02 [INFO] lluoc: Setting lluoc to game mode 0[m
+2012-06-30 21:23:20 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-30 21:25:16 [INFO] Connection reset
+2012-06-30 21:25:16 [INFO] lluoc lost connection: disconnect.quitting
+2012-06-30 21:29:47 [INFO] lluoc [/127.0.0.1:35822] logged in with entity id 1287088 at ([fluid] -32.64891594167724, 78.0, 92.35180644306884)
+2012-06-30 21:31:39 [INFO] TrialZ [/127.0.0.1:35828] logged in with entity id 1290108 at ([fluid] -48.56532620436885, 84.0, 436.30000001192093)
+2012-06-30 21:32:59 [INFO] dahlukeh [/127.0.0.1:35832] logged in with entity id 1292541 at ([fluid] -69.64439943924364, 63.0, 436.3846893761184)
+2012-06-30 21:35:56 [INFO] lluoc: Giving lluoc some 368 (ENDER_PEARL)[m
+2012-06-30 21:36:26 [INFO] lluoc: Giving lluoc some 322 (GOLDEN_APPLE)[m
+2012-06-30 21:36:33 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-30 21:36:33 [INFO] Connection reset
+2012-06-30 21:44:36 [INFO] Connection reset
+2012-06-30 21:44:36 [INFO] lluoc lost connection: disconnect.quitting
+2012-06-30 21:44:41 [INFO] lluoc [/127.0.0.1:35838] logged in with entity id 1311348 at ([fluid] -52.40739497297382, 77.5, 83.74061714910904)
+2012-06-30 21:44:58 [INFO] lluoc: Setting lluoc to game mode 1[m
+2012-06-30 21:45:04 [INFO] lluoc: Setting lluoc to game mode 0[m
+2012-06-30 21:45:06 [INFO] Connection reset
+2012-06-30 21:45:06 [INFO] lluoc lost connection: disconnect.quitting
+2012-06-30 21:46:18 [INFO] Read timed out
+2012-06-30 21:46:18 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-30 21:48:09 [INFO] TrialZ [/127.0.0.1:35844] logged in with entity id 1315295 at ([fluid] -48.30000001192093, 84.0, 436.30000001192093)
+2012-06-30 21:48:35 [INFO] Disconnecting /127.0.0.1:35842: Took too long to log in
+2012-06-30 21:53:11 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-30 21:54:07 [INFO] TrialZ [/127.0.0.1:35850] logged in with entity id 1320266 at ([fluid] -48.30000001192093, 84.0, 436.30000001192093)
+2012-06-30 22:10:39 [INFO] dahlukeh [/127.0.0.1:35858] logged in with entity id 1336401 at ([fluid] -58.73713241101436, 72.0, 428.8271316825285)
+2012-06-30 22:29:23 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-06-30 22:29:23 [INFO] Connection reset
+2012-06-30 22:37:14 [INFO] ultrajono [/127.0.0.1:35867] logged in with entity id 1357441 at ([fluid] -24.860772340068944, 93.0, 138.06375798179508)
+2012-06-30 22:54:36 [INFO] [[35;1mFluid[37;1m]<ultrajono> crap, completely forgot that i was on :P[m
+2012-06-30 22:55:21 [INFO] lluoc [/127.0.0.1:35876] logged in with entity id 1399524 at ([fluid] -52.40739497297382, 77.5, 83.74061714910904)
+2012-06-30 22:55:31 [INFO] Unknown command. Type "help" for help.[m
+2012-06-30 22:55:31 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[m
+2012-06-30 22:55:34 [INFO] [[35;1mFluid[37;1m]<ultrajono> hey man[m
+2012-06-30 22:55:37 [INFO] [[35;1mFluid[37;1m]<lluoc> hey[m
+2012-06-30 22:55:50 [INFO] [[35;1mFluid[37;1m]<lluoc> ... sigh, gtg.[m
+2012-06-30 22:55:52 [INFO] [[35;1mFluid[37;1m]<ultrajono> hows it goin?[m
+2012-06-30 22:55:53 [INFO] Connection reset
+2012-06-30 22:55:53 [INFO] lluoc lost connection: disconnect.quitting
+2012-06-30 22:55:55 [INFO] [[35;1mFluid[37;1m]<ultrajono> good talk[m
+2012-06-30 22:58:59 [INFO] ultrajono lost connection: disconnect.quitting
+2012-06-30 22:58:59 [INFO] Connection reset
+2012-06-30 23:22:08 [INFO] Read timed out
+2012-06-30 23:22:08 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-06-30 23:49:03 [INFO] ultrajono [/127.0.0.1:35893] logged in with entity id 1419462 at ([fluid] -26.130341049923327, 97.0, 143.81758450226312)
+2012-06-30 23:56:17 [INFO] Connection reset
+2012-06-30 23:56:17 [INFO] ultrajono lost connection: disconnect.quitting
+2012-07-01 03:02:34 [INFO] TrialZ [/127.0.0.1:35944] logged in with entity id 1430613 at ([fluid] -48.46098164247387, 84.0, 436.30000001192093)
+2012-07-01 03:31:01 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-07-01 03:31:26 [INFO] TrialZ [/127.0.0.1:35954] logged in with entity id 1445990 at ([fluid] -48.46098164247387, 84.0, 436.30000001192093)
+2012-07-01 05:30:32 [INFO] Read timed out
+2012-07-01 05:30:33 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-07-01 08:00:02 [INFO] Unknown command. Type "help" for help.[m
+2012-07-01 08:00:02 [INFO] [35;1m[Server] Starting backup.[m
+2012-07-01 08:00:02 [INFO] Unknown command. Type "help" for help.[m
+2012-07-01 08:00:02 [INFO] CONSOLE: Forcing save..[m
+2012-07-01 08:00:02 [INFO] CONSOLE: Save complete.[m
+2012-07-01 08:00:05 [INFO] Unknown command. Type "help" for help.[m
+2012-07-01 08:00:05 [INFO] CONSOLE: Disabling level saving..[m

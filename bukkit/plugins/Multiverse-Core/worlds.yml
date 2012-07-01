@@ -1,211 +1,265 @@
 worlds:
-  world:
-    seed: -3821605025407244639
-    environment: NORMAL
-    type: NORMAL
-    hidden: false
-    alias:
-      name: Static
-      color: BLUE
-    pvp: true
-    scale: 1.0
-    respawnworld: ''
-    allowweather: true
-    difficulty: EASY
-    animals:
-      spawn: true
-    monsters:
-      spawn: true
-    entryfee:
-      currency: -1
-      price: 0.0
-    hunger: true
-    autoheal: true
-    adjustspawn: true
-    portalform: ALL
-    gamemode: SURVIVAL
-    keepspawninmemory: true
-    spawn:
-      x: -26.210238067393767
-      y: 63.0
-      z: -12.483519831104916
-      pitch: 0.0
-      yaw: -180.0
-      world: world
-    autoload: true
-    bedrespawn: true
-  world_nether:
-    seed: 8744398351327703295
-    environment: NETHER
-    type: NORMAL
-    hidden: false
-    alias:
-      name: Static Nether
-      color: RED
-    pvp: true
-    scale: 8.0
-    respawnworld: ''
-    allowweather: true
-    difficulty: EASY
-    animals:
-      spawn: true
-    monsters:
-      spawn: true
-    entryfee:
-      currency: -1
-      price: 0.0
-    hunger: true
-    autoheal: true
-    adjustspawn: true
-    portalform: ALL
-    gamemode: SURVIVAL
-    keepspawninmemory: true
-    spawn:
-      x: -4.5
-      y: 64.0
-      z: -4.5
-      pitch: 0.0
-      yaw: 0.0
-      world: world_nether
-    autoload: true
-    bedrespawn: true
-  world_the_end:
-    seed: 8744398351327703295
-    environment: THE_END
-    type: NORMAL
-    hidden: false
-    alias:
-      name: The End
-      color: CYAN
-    pvp: true
-    scale: 1.0
-    respawnworld: ''
-    allowweather: true
-    difficulty: EASY
-    animals:
-      spawn: true
-    monsters:
-      spawn: true
-    entryfee:
-      currency: -1
-      price: 0.0
-    hunger: true
-    autoheal: true
-    adjustspawn: true
-    portalform: ALL
-    gamemode: SURVIVAL
-    keepspawninmemory: true
-    spawn:
-      x: 0.0
-      y: 63.0
-      z: 0.0
-      pitch: 0.0
-      yaw: 0.0
-      world: world_the_end
-    autoload: true
-    bedrespawn: true
-  creative:
-    seed: -1309634265
-    environment: NORMAL
-    type: NORMAL
-    hidden: false
-    alias:
-      name: Creative
-      color: YELLOW
-    pvp: true
-    scale: 1.0
-    respawnworld: ''
-    allowweather: true
-    difficulty: EASY
-    animals:
-      spawn: true
-    monsters:
-      spawn: true
-    entryfee:
-      currency: -1
-      price: 0.0
-    hunger: true
-    autoheal: true
-    adjustspawn: true
-    portalform: NONE
-    gamemode: CREATIVE
-    keepspawninmemory: true
-    spawn:
-      x: -244.9312267349458
-      y: 115.0
-      z: 36.474919723931706
-      pitch: 6.149994
-      yaw: 89.09996
-      world: creative
-    autoload: true
-    bedrespawn: true
   fluid:
-    seed: -3021652546439280874
+    ==: MVWorld
+    hidden: 'false'
+    alias: Fluid
+    color: LIGHTPURPLE
+    style: NORMAL
+    pvp: 'true'
+    scale: '1.0'
+    respawnWorld: ''
+    allowWeather: 'true'
+    difficulty: HARD
+    spawning:
+      ==: MVSpawnSettings
+      animals:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        exceptions: []
+      monsters:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        exceptions: []
+    entryfee:
+      ==: MVEntryFee
+      amount: '0.0'
+      currency: '-1'
+    hunger: 'true'
+    autoHeal: 'true'
+    adjustSpawn: 'true'
+    portalForm: ALL
+    gameMode: SURVIVAL
+    keepSpawnInMemory: 'true'
+    spawnLocation:
+      ==: MVSpawnLocation
+      yaw: 0.0
+      pitch: 0.0
+      z: 93.0
+      y: 68.0
+      x: -3.0
+    autoLoad: 'true'
+    bedRespawn: 'true'
+    worldBlacklist: []
     environment: NORMAL
-    type: NORMAL
-    hidden: false
-    alias:
-      name: Fluid
-      color: LIGHTPURPLE
-    pvp: true
-    scale: 1.0
-    respawnworld: ''
-    allowweather: true
-    difficulty: HARD
-    animals:
-      spawn: true
-    monsters:
-      spawn: true
+    seed: '-3021652546439280874'
+    generator: 'null'
+  creative:
+    ==: MVWorld
+    hidden: 'false'
+    alias: Creative
+    color: YELLOW
+    style: NORMAL
+    pvp: 'true'
+    scale: '1.0'
+    respawnWorld: ''
+    allowWeather: 'true'
+    difficulty: NORMAL
+    spawning:
+      ==: MVSpawnSettings
+      animals:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        exceptions: []
+      monsters:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        exceptions: []
     entryfee:
-      currency: -1
-      price: 0.0
-    hunger: true
-    autoheal: true
-    adjustspawn: true
-    portalform: ALL
-    gamemode: SURVIVAL
-    keepspawninmemory: true
-    spawn:
-      x: -2.5
-      y: 68.0
-      z: 93.5
-      pitch: 0.0
+      ==: MVEntryFee
+      amount: '0.0'
+      currency: '-1'
+    hunger: 'true'
+    autoHeal: 'true'
+    adjustSpawn: 'true'
+    portalForm: ALL
+    gameMode: CREATIVE
+    keepSpawnInMemory: 'true'
+    spawnLocation:
+      ==: MVSpawnLocation
       yaw: 0.0
-      world: fluid
-    autoload: true
-    bedrespawn: true
-  fluid_nether:
-    seed: -4035248619903658227
+      pitch: 0.0
+      z: 36.0
+      y: 115.0
+      x: -245.0
+    autoLoad: 'true'
+    bedRespawn: 'true'
+    worldBlacklist: []
+    environment: NORMAL
+    seed: '453453'
+    generator: 'null'
+  world_nether:
+    ==: MVWorld
+    hidden: 'false'
+    alias: Static Nether
+    color: RED
+    style: NORMAL
+    pvp: 'true'
+    scale: '8.0'
+    respawnWorld: world
+    allowWeather: 'true'
+    difficulty: NORMAL
+    spawning:
+      ==: MVSpawnSettings
+      animals:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        exceptions: []
+      monsters:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        exceptions: []
+    entryfee:
+      ==: MVEntryFee
+      amount: '0.0'
+      currency: '-1'
+    hunger: 'true'
+    autoHeal: 'true'
+    adjustSpawn: 'true'
+    portalForm: ALL
+    gameMode: SURVIVAL
+    keepSpawnInMemory: 'true'
+    spawnLocation:
+      ==: MVSpawnLocation
+      yaw: 0.0
+      pitch: 0.0
+      z: -5.0
+      y: 64.0
+      x: -5.0
+    autoLoad: 'true'
+    bedRespawn: 'true'
+    worldBlacklist: []
     environment: NETHER
-    type: NORMAL
-    hidden: false
-    alias:
-      name: Fluid Nether
-      color: DARKPURPLE
-    pvp: true
-    scale: 8.0
-    respawnworld: fluid
-    allowweather: true
+    seed: '8744398351327703295'
+    generator: 'null'
+  fluid_nether:
+    ==: MVWorld
+    hidden: 'false'
+    alias: Fluid Nether
+    color: DARKPURPLE
+    style: NORMAL
+    pvp: 'true'
+    scale: '8.0'
+    respawnWorld: fluid
+    allowWeather: 'true'
     difficulty: HARD
-    animals:
-      spawn: true
-    monsters:
-      spawn: true
+    spawning:
+      ==: MVSpawnSettings
+      animals:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        exceptions: []
+      monsters:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        exceptions: []
     entryfee:
-      currency: -1
-      price: 0.0
-    hunger: true
-    autoheal: true
-    adjustspawn: true
-    portalform: ALL
-    gamemode: SURVIVAL
-    keepspawninmemory: true
-    spawn:
-      x: -4.5
-      y: 68.0
-      z: 96.5
-      pitch: 0.0
+      ==: MVEntryFee
+      amount: '0.0'
+      currency: '-1'
+    hunger: 'true'
+    autoHeal: 'true'
+    adjustSpawn: 'true'
+    portalForm: ALL
+    gameMode: SURVIVAL
+    keepSpawnInMemory: 'true'
+    spawnLocation:
+      ==: MVSpawnLocation
       yaw: 0.0
-      world: fluid_nether
-    autoload: true
-    bedrespawn: true
+      pitch: 0.0
+      z: -5.0
+      y: 64.0
+      x: -5.0
+    autoLoad: 'true'
+    bedRespawn: 'true'
+    worldBlacklist: []
+    environment: NETHER
+    seed: '-4035248619903658227'
+    generator: 'null'
+  world:
+    ==: MVWorld
+    hidden: 'false'
+    alias: Static
+    color: BLUE
+    style: NORMAL
+    pvp: 'true'
+    scale: '1.0'
+    respawnWorld: ''
+    allowWeather: 'true'
+    difficulty: NORMAL
+    spawning:
+      ==: MVSpawnSettings
+      animals:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        exceptions: []
+      monsters:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        exceptions: []
+    entryfee:
+      ==: MVEntryFee
+      amount: '0.0'
+      currency: '-1'
+    hunger: 'true'
+    autoHeal: 'true'
+    adjustSpawn: 'true'
+    portalForm: ALL
+    gameMode: SURVIVAL
+    keepSpawnInMemory: 'true'
+    spawnLocation:
+      ==: MVSpawnLocation
+      yaw: 0.0
+      pitch: 0.0
+      z: -13.0
+      y: 63.0
+      x: -27.0
+    autoLoad: 'true'
+    bedRespawn: 'true'
+    worldBlacklist: []
+    environment: NORMAL
+    seed: '-3821605025407244639'
+    generator: 'null'
+  world_the_end:
+    ==: MVWorld
+    hidden: 'false'
+    alias: The End
+    color: WHITE
+    style: NORMAL
+    pvp: 'true'
+    scale: '1.0'
+    respawnWorld: world
+    allowWeather: 'true'
+    difficulty: NORMAL
+    spawning:
+      ==: MVSpawnSettings
+      animals:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        exceptions: []
+      monsters:
+        ==: MVSpawnSubSettings
+        spawn: 'true'
+        exceptions: []
+    entryfee:
+      ==: MVEntryFee
+      amount: '0.0'
+      currency: '-1'
+    hunger: 'true'
+    autoHeal: 'true'
+    adjustSpawn: 'true'
+    portalForm: ALL
+    gameMode: SURVIVAL
+    keepSpawnInMemory: 'true'
+    spawnLocation:
+      ==: MVSpawnLocation
+      yaw: 0.0
+      pitch: 0.0
+      z: 0.0
+      y: 63.0
+      x: 0.0
+    autoLoad: 'true'
+    bedRespawn: 'true'
+    worldBlacklist: []
+    environment: THE_END
+    seed: '8744398351327703295'
+    generator: 'null'

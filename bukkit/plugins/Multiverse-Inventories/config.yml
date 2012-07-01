@@ -1,4 +1,4 @@
-# Multiverse-Inventories Settings/Groups
+# Multiverse-Inventories Settings
 
 # ===[ Multiverse Inventories Config ]===
 settings:
@@ -13,34 +13,10 @@ settings:
   use_bypass: false
   # If set to true, any world not listed in a group will automatically use the settings for the default group!
   default_ungrouped_worlds: false
+  # If this is set to true, players will have different inventories/stats for each game mode.
+  # Please note that old data migrated to the version that has this feature will have their data copied for both game modes.
+  use_game_mode_profiles: false
 shares:
   # You must specify optional shares you wish to use here or they will be ignored.
   # The only built in optional share is "economy"
   use_optionals: []
-# This is where you configure your world groups
-# example below: 
-#    groups:
-#      example_group:
-#        worlds:
-#        - world1
-#        - world2
-#        shares:
-#        - all
-# In this example, world1 and world2 will share everything sharable.
-# When things are shared this means they are the SAME for each world listed in the group.
-# Options for shares: inventory, exp, health, hunger, beds
-# Worlds not listed in a group will have a separate personal inventory/stats/bed UNLESS default_ungrouped_worlds is true
-groups:
-  default:
-    worlds:
-    - world_nether
-    - world
-    - world_the_end
-    shares:
-    - all
-  fluid_system:
-    worlds:
-    - fluid
-    - fluid_nether
-    shares:
-    - all

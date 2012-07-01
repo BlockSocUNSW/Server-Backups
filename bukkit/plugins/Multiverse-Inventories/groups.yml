@@ -1,0 +1,29 @@
+# Multiverse-Inventories Groups
+
+# This is where you configure your world groups
+# example below: 
+#    groups:
+#      example_group:
+#        worlds:
+#        - world1
+#        - world2
+#        shares:
+#        - all
+# In this example, world1 and world2 will share everything sharable.
+# When things are shared this means they are the SAME for each world listed in the group.
+# Options for shares: inventory, exp, health, hunger, beds
+# Worlds not listed in a group will have a separate personal inventory/stats/bed UNLESS default_ungrouped_worlds is true
+groups:
+  default:
+    worlds:
+    - world_nether
+    - world
+    - world_the_end
+    shares:
+    - all
+  fluid_system:
+    worlds:
+    - fluid
+    - fluid_nether
+    shares:
+    - all

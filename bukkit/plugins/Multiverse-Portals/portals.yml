@@ -59,3 +59,13 @@ portals:
     location: -6.0,68.0,92.0:-2.0,72.0,92.0
     world: fluid
     destination: p:portalWorldToFluid:w
+  portalEndFix:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: lluoc
+    location: 666.0,35.0,97.0:673.0,35.0,106.0
+    world: world_the_end
+    destination: e:world_the_end:101.7365549327248,50.0,-0.5549703491310339:-1.9499912:89.849915

@@ -1,6 +1,12 @@
-playerData:
+SURVIVAL:
+  bedSpawnLocation: wo:fluid;x:-50.0;y:78.0;z:76.0;pi:0.0;ya:0.0
+  potions: ''
+  armorContents: ''
   inventoryContents: ''
+  stats: txp:0;xp:0.0;fd:0.0;ra:300;ft:-20;el:0;fl:16;sa:0.0;hp:20;ma:300;ex:2.2442377
+CREATIVE:
   potions: ''
   armorContents: ''
   bedSpawnLocation: wo:fluid;x:-50.0;y:78.0;z:76.0;pi:0.0;ya:0.0
-  stats: ma:300;hp:18;xp:0.0;fl:20;fd:0.0;sa:1.3999996;ra:300;el:0;ft:-20;ex:2.1587822;txp:0
+  inventoryContents: 0:t:3/1:t:341;#:2
+  stats: fl:17;txp:7;fd:0.0;ra:300;sa:0.0;ex:1.8755401;ft:-20;el:1;xp:0.0;ma:300;hp:20

@@ -1,4 +1,10 @@
-playerData:
+SURVIVAL:
+  armorContents: ''
+  inventoryContents: 0:t:274;d:56/7:t:360;#:24/8:t:50;#:11/33:t:44;d:5;#:58
+  bedSpawnLocation: wo:world;x:618.0;y:65.0;z:-336.0;pi:0.0;ya:0.0
+  potions: ''
+  stats: fd:0.0;ra:300;ft:-20;sa:0.0;el:9;hp:20;ex:0.8523478;xp:0.8684211;ma:300;txp:220;fl:18
+CREATIVE:
   armorContents: ''
   potions: ''
   inventoryContents: 0:t:274;d:56/7:t:360;#:28/8:t:50;#:11/33:t:44;d:5;#:58

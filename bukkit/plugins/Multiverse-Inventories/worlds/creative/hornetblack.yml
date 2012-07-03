@@ -1,0 +1,6 @@
+SURVIVAL:
+  armorContents: ''
+  inventoryContents: ''
+  bedSpawnLocation: wo:creative;x:-245.0;y:115.0;z:36.0;pi:0.0;ya:0.0
+  potions: ''
+  stats: fd:0.0;ra:300;ft:-20;sa:5.0;hp:20;el:0;ex:0.0;xp:0.0;ma:300;txp:0;fl:20

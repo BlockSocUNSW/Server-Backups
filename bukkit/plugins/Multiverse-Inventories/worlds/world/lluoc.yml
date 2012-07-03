@@ -1,9 +1,9 @@
 SURVIVAL:
-  bedSpawnLocation: wo:world;x:-72.0;y:80.0;z:-24.0;pi:0.0;ya:0.0
+  armorContents: 0:t:313;d:322;e:PROTECTION_ENVIRONMENTAL:4/1:t:312;d:323;e:PROTECTION_ENVIRONMENTAL:3/2:t:311;d:325;e:PROTECTION_ENVIRONMENTAL:4/3:t:310;d:310;e:PROTECTION_ENVIRONMENTAL:4
+  inventoryContents: 0:t:123;#:43/1:t:360;#:31/2:t:278;d:626;e:DURABILITY:3/3:t:41;#:18/4:t:22;#:34/5:t:331;#:21/6:t:76;#:15/7:t:267;d:165/8:t:3;#:14/10:t:325/12:t:256;d:16/15:t:256/16:t:256;d:154/19:t:368;#:12/22:t:262;#:51/23:t:22;#:64/25:t:48;#:64/27:t:49;#:55/28:t:368;#:12/29:t:267;d:2/30:t:257;d:103/32:t:50;#:29/33:t:57;#:8/34:t:65;#:29/35:t:326
+  bedSpawnLocation: wo:world;x:-72.0;y:80.0;z:-25.0;pi:0.0;ya:0.0
   potions: ''
-  armorContents: ''
-  inventoryContents: 0:t:326/1:t:50;#:29/2:t:257;d:89/4:t:65;#:14/5:t:3;#:20/7:t:360;#:37/8:t:256;d:154/9:t:287;#:11/11:t:58/14:t:368;#:16/16:t:323/17:t:368;#:11/18:t:289;#:29/19:t:262;#:11/20:t:352;#:17/21:t:267;d:2/25:t:367;#:12/28:t:325/31:t:256/33:t:256;d:16/34:t:267;d:165
-  stats: ex:3.5304832;ft:-20;sa:4.0;ra:300;txp:19;el:2;ma:300;hp:20;fl:20;xp:0.14285716;fd:0.0
+  stats: fd:0.0;ra:300;ft:-20;sa:0.0;el:1;hp:19;ex:2.8188057;xp:0.0;ma:300;txp:7;fl:14
 CREATIVE:
   potions: ''
   armorContents: ''

@@ -1,4 +1,10 @@
-playerData:
+SURVIVAL:
+  armorContents: 1:t:308;d:77/2:t:307;d:69;e:PROTECTION_ENVIRONMENTAL:1/3:t:306;d:13
+  inventoryContents: 0:t:272/1:t:274;d:1/2:t:274;d:1/3:t:50;#:22/4:t:273/5:t:275/6:t:297;#:23/7:t:346;d:11/8:t:261;d:178;e:ARROW_DAMAGE:1/9:t:4;#:61/17:t:17;d:1;#:10/33:t:368;#:13/34:t:67;#:22/35:t:262;#:9
+  bedSpawnLocation: wo:world;x:1052.0;y:88.0;z:-147.0;pi:0.0;ya:0.0
+  potions: ''
+  stats: fd:0.0;ra:300;ft:-20;sa:2.8000002;hp:20;el:6;ex:3.0974948;xp:0.6071429;ma:300;fl:20;txp:110
+CREATIVE:
   armorContents: 0:t:313;d:342;e:PROTECTION_ENVIRONMENTAL:4/1:t:308;d:5/2:t:307;d:27/3:t:306;d:19
   potions: ''
   inventoryContents: 0:t:272/1:t:274/2:t:261;d:217;e:ARROW_DAMAGE:1/3:t:273/4:t:50;#:25/5:t:366;#:17/6:t:61/7:t:4;#:64/8:t:368;#:16/9:t:263;d:1;#:6/16:t:360;#:36/17:t:358;d:4/23:t:262;#:56/25:t:4;#:40/28:t:274/29:t:346;d:6/30:t:273/31:t:259;d:12/34:t:323/35:t:23;#:2

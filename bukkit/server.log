@@ -47953,3 +47953,1179 @@ expected <block end>, but found Key
 2012-07-02 08:00:02 [INFO] CONSOLE: Save complete.[m
 2012-07-02 08:00:05 [INFO] Unknown command. Type "help" for help.[m
 2012-07-02 08:00:05 [INFO] CONSOLE: Disabling level saving..[m
+2012-07-02 08:02:10 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/mcMMO
+2012-07-02 08:04:07 [INFO] Unknown command. Type "help" for help.[m
+2012-07-02 08:04:08 [INFO] CONSOLE: Enabling level saving..[m
+2012-07-02 08:04:08 [INFO] Unknown command. Type "help" for help.[m
+2012-07-02 08:04:08 [INFO] CONSOLE: Forcing save..[m
+2012-07-02 08:04:09 [INFO] CONSOLE: Save complete.[m
+2012-07-02 08:04:09 [INFO] Unknown command. Type "help" for help.[m
+2012-07-02 08:04:09 [INFO] [35;1m[Server] Backup complete.[m
+2012-07-02 08:04:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-02 08:12:10 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/mcMMO
+2012-07-02 08:22:10 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/mcMMO
+2012-07-02 08:32:10 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/mcMMO
+2012-07-02 08:42:11 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/mcMMO
+2012-07-02 08:52:11 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/mcMMO
+2012-07-02 09:02:10 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/mcMMO
+2012-07-02 09:12:10 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/mcMMO
+2012-07-02 09:22:10 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/mcMMO
+2012-07-02 09:32:10 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/mcMMO
+2012-07-02 09:42:10 [INFO] [Metrics] Connection refused
+2012-07-02 11:39:18 [INFO] H4ZM4T [/127.0.0.1:36813] logged in with entity id 13563 at ([world] 651.6330835634506, 74.0, 96.16907747518331)
+2012-07-02 11:39:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-02 11:39:58 [INFO] H4ZM4T: Setting H4ZM4T to game mode 0[m
+2012-07-02 11:55:13 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-02 11:55:13 [INFO] Connection reset
+2012-07-02 13:11:25 [INFO] TrialZ [/127.0.0.1:36837] logged in with entity id 33652 at ([fluid] -48.424343843250455, 84.0, 436.30000001192093)
+2012-07-02 13:11:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-02 13:53:39 [INFO] lluoc [/127.0.0.1:36852] logged in with entity id 62097 at ([creative] -488.8948204381368, 77.0, -121.0475341572061)
+2012-07-02 13:53:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-02 13:54:31 [INFO] [[33;1mCreative[37;1m]<lluoc> laaaag[m
+2012-07-02 13:56:00 [INFO] lluoc: Setting lluoc to game mode 0[m
+2012-07-02 14:13:28 [INFO] Connection reset
+2012-07-02 14:13:28 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-02 14:23:46 [INFO] Read timed out
+2012-07-02 14:23:46 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-07-02 14:49:27 [INFO] TrialZ [/127.0.0.1:36868] logged in with entity id 102999 at ([fluid] -48.53427169804601, 84.0, 436.30000001192093)
+2012-07-02 14:50:08 [INFO] lluoc [/127.0.0.1:36872] logged in with entity id 103284 at ([world] -61.18862339284524, 89.5, -28.105757950704053)
+2012-07-02 14:50:15 [INFO] Read timed out
+2012-07-02 14:50:15 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-07-02 15:01:58 [INFO] [Lockette] lluoc has released a container.
+2012-07-02 15:10:58 [INFO] Connection reset
+2012-07-02 15:10:58 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-02 15:17:33 [INFO] H4ZM4T [/127.0.0.1:36885] logged in with entity id 129029 at ([world] 1040.6723988902536, 88.0, -138.75811309142787)
+2012-07-02 15:38:38 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 13 in world, 2.8 blocks from H4ZM4T
+2012-07-02 15:40:59 [INFO] TrialZ [/127.0.0.1:36894] logged in with entity id 147939 at ([fluid] -48.53427169804601, 84.0, 436.30000001192093)
+2012-07-02 15:41:12 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> super breaker is the best thing ever[m
+2012-07-02 15:41:24 [INFO] [[35;1mFluid[37;1m]<TrialZ> all the special abilities are pretty awesome :D[m
+2012-07-02 15:41:33 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> still....fuck fishing[m
+2012-07-02 15:41:45 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> you seen the new stronghold house, and bermans old place?[m
+2012-07-02 15:41:59 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> also, is that your place next to bermans?.[m
+2012-07-02 15:42:50 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I can currently almost kill an iron pick with one super breaker[m
+2012-07-02 15:44:38 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> also, mining gravel is my new favourite thing[m
+2012-07-02 16:05:23 [INFO] Read timed out
+2012-07-02 16:05:23 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-07-02 16:10:25 [INFO] Ellethwen11 [/127.0.0.1:36905] logged in with entity id 186232 at ([fluid] 213.33434247709206, 80.0, 197.20150978817924)
+2012-07-02 16:10:33 [INFO] TrialZ [/127.0.0.1:36909] logged in with entity id 187476 at ([fluid] -48.53427169804601, 84.0, 436.30000001192093)
+2012-07-02 16:10:46 [INFO] Connection reset
+2012-07-02 16:10:47 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-02 16:10:50 [INFO] H4ZM4T [/127.0.0.1:36913] logged in with entity id 188341 at ([world] 1041.153629261148, 52.0, -135.72290261214567)
+2012-07-02 16:11:25 [INFO] Connection reset
+2012-07-02 16:11:25 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-02 16:11:28 [INFO] H4ZM4T [/127.0.0.1:36917] logged in with entity id 190297 at ([world] 1041.5998176704918, 35.32806759283721, -135.8741858433946)
+2012-07-02 16:11:39 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> dammit wrong button[m
+2012-07-02 16:12:53 [INFO] [[34;1mStatic[37;1m]<Ellethwen11> but there's nothing left of berman's place[m
+2012-07-02 16:13:06 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> but it looks so cool now[m
+2012-07-02 16:13:21 [INFO] [[34;1mStatic[37;1m]<Ellethwen11> how[m
+2012-07-02 16:13:42 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> it is the house in which you will first spawn into this world[m
+2012-07-02 16:13:52 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> an old, dilapidated house.[m
+2012-07-02 16:13:55 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> looks awesome[m
+2012-07-02 16:14:11 [INFO] [[34;1mStatic[37;1m]<Ellethwen11> fair enough[m
+2012-07-02 16:14:26 [INFO] Ellethwen11 lost connection: disconnect.quitting
+2012-07-02 16:14:26 [INFO] Connection reset
+2012-07-02 16:14:27 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> well, lluoc and I think it is a cool intro to the server, and we think it looks better than it used[m
+2012-07-02 16:14:30 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> to[m
+2012-07-02 16:29:14 [INFO] Connection reset
+2012-07-02 16:29:14 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-02 16:44:18 [INFO] H4ZM4T [/127.0.0.1:36931] logged in with entity id 241321 at ([world] 1056.277972682456, 88.0, -147.09978535512022)
+2012-07-02 16:49:34 [INFO] Connection reset
+2012-07-02 16:49:34 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-02 17:18:27 [INFO] Connected players: TrialZ[m
+2012-07-02 17:50:33 [INFO] lluoc [/127.0.0.1:36947] logged in with entity id 293254 at ([fluid] -50.5, 78.0, 76.5)
+2012-07-02 17:50:52 [INFO] [[35;1mFluid[37;1m]<lluoc> ... balls[m
+2012-07-02 17:51:00 [INFO] [[35;1mFluid[37;1m]<TrialZ> wat?[m
+2012-07-02 17:51:15 [INFO] [[35;1mFluid[37;1m]<lluoc> death messages arn't saved in the logs... Balls.[m
+2012-07-02 17:51:51 [INFO] Connection reset
+2012-07-02 17:51:51 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-02 18:03:50 [INFO] Read timed out
+2012-07-02 18:03:51 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-07-02 18:05:24 [INFO] TrialZ [/127.0.0.1:36955] logged in with entity id 309825 at ([fluid] -48.39042289758759, 84.0, 436.30000001192093)
+2012-07-02 18:30:53 [INFO] Read timed out
+2012-07-02 18:30:53 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-07-02 18:33:50 [INFO] TrialZ [/127.0.0.1:36965] logged in with entity id 325868 at ([fluid] -48.39042289758759, 84.0, 436.30000001192093)
+2012-07-02 18:42:09 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-07-02 18:42:30 [INFO] TrialZ [/127.0.0.1:36971] logged in with entity id 334808 at ([fluid] -48.36966508436814, 84.0, 436.30000001192093)
+2012-07-02 19:04:41 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-07-02 20:46:55 [INFO] Yinsano [/127.0.0.1:37001] logged in with entity id 352171 at ([world] 1042.6695071299662, 72.0, -84.45586506973794)
+2012-07-02 20:47:20 [INFO] Unknown command. Type "help" for help.[m
+2012-07-02 20:47:20 [INFO] CONSOLE: Giving Yinsano some 341 (SLIME_BALL)[m
+2012-07-02 20:47:36 [INFO] Connection reset
+2012-07-02 20:47:36 [INFO] Yinsano lost connection: disconnect.quitting
+2012-07-02 21:07:50 [INFO] lluoc [/127.0.0.1:37016] lost connection
+2012-07-02 21:23:14 [INFO] lluoc [/127.0.0.1:37027] lost connection
+2012-07-02 21:41:33 [INFO] lluoc [/127.0.0.1:37035] logged in with entity id 353319 at ([fluid] -50.5, 78.0, 76.5)
+2012-07-02 21:42:30 [INFO] Connection reset
+2012-07-02 21:42:30 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-02 22:00:08 [INFO] lluoc [/127.0.0.1:37049] logged in with entity id 355098 at ([fluid] -50.5, 78.0, 76.5)
+2012-07-02 22:00:09 [INFO] lluoc lost connection: disconnect.endOfStream
+2012-07-02 22:25:58 [INFO] H4ZM4T [/127.0.0.1:37064] logged in with entity id 355521 at ([world] -1.6743482918747292, 63.0, 5.727601479935437)
+2012-07-02 22:26:20 [INFO] H4ZM4T: Setting H4ZM4T to game mode 1[m
+2012-07-02 22:34:29 [INFO] Connection reset
+2012-07-02 22:34:29 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-02 23:15:43 [INFO] lluoc [/127.0.0.1:37078] logged in with entity id 379243 at ([fluid] -50.5, 78.0, 76.5)
+2012-07-02 23:15:46 [INFO] Connection reset
+2012-07-02 23:15:46 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-02 23:41:37 [INFO] lluoc [/127.0.0.1:37094] logged in with entity id 380019 at ([fluid] -50.5, 78.0, 76.5)
+2012-07-02 23:41:41 [INFO] Connection reset
+2012-07-02 23:41:41 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-03 00:20:05 [INFO] lluoc [/127.0.0.1:37118] logged in with entity id 380602 at ([fluid] -50.5, 78.0, 76.5)
+2012-07-03 00:20:08 [INFO] Connection reset
+2012-07-03 00:20:08 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-03 00:21:49 [INFO] lluoc [/127.0.0.1:37123] logged in with entity id 380674 at ([fluid] -50.5, 78.0, 76.5)
+2012-07-03 00:21:53 [INFO] Connection reset
+2012-07-03 00:21:53 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-03 00:55:49 [INFO] lluoc [/127.0.0.1:37140] logged in with entity id 381264 at ([fluid] -50.5, 78.0, 76.5)
+2012-07-03 00:55:53 [INFO] Connection reset
+2012-07-03 00:55:53 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-03 00:55:57 [INFO] lluoc [/127.0.0.1:37144] logged in with entity id 381335 at ([fluid] -49.631165967984906, 78.0, 75.5872490135024)
+2012-07-03 00:55:59 [INFO] Connection reset
+2012-07-03 00:55:59 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-03 01:27:46 [INFO] ultrajono [/127.0.0.1:37158] logged in with entity id 381862 at ([creative] -251.8350814192361, 85.52917177906293, 147.1373907447335)
+2012-07-03 01:35:35 [INFO] Connection reset
+2012-07-03 01:35:35 [INFO] ultrajono lost connection: disconnect.quitting
+2012-07-03 01:35:40 [INFO] ultrajono [/127.0.0.1:37166] logged in with entity id 394736 at ([fluid] -26.064885789202638, 97.0, 143.91494564196054)
+2012-07-03 01:35:44 [INFO] Unknown command. Type "help" for help.[m
+2012-07-03 01:35:44 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[m
+2012-07-03 01:35:49 [INFO] Connection reset
+2012-07-03 01:35:49 [INFO] ultrajono lost connection: disconnect.quitting
+2012-07-03 01:42:17 [INFO] lluoc [/127.0.0.1:37173] logged in with entity id 395264 at ([fluid] -49.631165967984906, 78.0, 75.5872490135024)
+2012-07-03 01:42:21 [INFO] Connection reset
+2012-07-03 01:42:21 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-03 01:44:56 [INFO] lluoc [/127.0.0.1:37179] lost connection
+2012-07-03 02:18:26 [INFO] lluoc [/127.0.0.1:37196] lost connection
+2012-07-03 05:25:35 [INFO] /127.0.0.1:37250 lost connection
+2012-07-03 05:26:22 [INFO] /127.0.0.1:37252 lost connection
+2012-07-03 05:27:20 [INFO] Stopping server
+2012-07-03 05:27:20 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-07-03 05:27:20 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-07-03 05:27:20 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b551
+2012-07-03 05:27:20 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-07-03 05:27:20 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-07-03 05:27:20 [INFO] [CreeperMess v1.2] Disabled!
+2012-07-03 05:27:20 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b166
+2012-07-03 05:27:20 [INFO] [Multiverse-Inventories 2.4-b166] disabled.
+2012-07-03 05:27:40 [INFO] Starting minecraft server version 1.2.5
+2012-07-03 05:27:40 [INFO] Loading properties
+2012-07-03 05:27:40 [INFO] Starting Minecraft server on *:25564
+2012-07-03 05:27:40 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R4.0-b2222jnks (MC: 1.2.5) (Implementing API version 1.2.5-R4.0)
+2012-07-03 05:27:41 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-07-03 05:27:41 [INFO] [Vault] Loading Vault v1.2.16-b184
+2012-07-03 05:27:41 [INFO] [Lockette] Loading Lockette v1.6
+2012-07-03 05:27:41 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-07-03 05:27:41 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b551
+2012-07-03 05:27:41 [INFO] [mcMMO] Loading mcMMO v1.3.09-b945
+2012-07-03 05:27:41 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2012-07-03 05:27:41 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.4-b166
+2012-07-03 05:27:41 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-07-03 05:27:41 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b551
+2012-07-03 05:27:41 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-07-03 05:27:41 [INFO] [Vault] Enabling Vault v1.2.16-b184
+2012-07-03 05:27:41 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-07-03 05:27:41 [INFO] [Vault] Enabled Version 1.2.16-b184
+2012-07-03 05:27:41 [INFO] [mcMMO] Enabling mcMMO v1.3.09-b945
+2012-07-03 05:27:41 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-07-03 05:27:41 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-07-03 05:27:41 [INFO] [mcMMO] Loading repair.vanilla.yml repair config file...
+2012-07-03 05:27:41 [INFO] mcMMO version 1.3.09-b945 is enabled!
+2012-07-03 05:27:41 [INFO] Preparing level "world"
+2012-07-03 05:27:41 [INFO] Default game type: 0
+2012-07-03 05:27:42 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-07-03 05:27:43 [INFO] Preparing spawn area: 56%
+2012-07-03 05:27:43 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-07-03 05:27:44 [INFO] Preparing spawn area: 28%
+2012-07-03 05:27:45 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-07-03 05:27:45 [INFO] Preparing spawn area: 0%
+2012-07-03 05:27:45 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-07-03 05:27:45 [INFO] SilkSpawners enabled
+2012-07-03 05:27:45 [INFO] [Lockette] Enabling Lockette v1.6
+2012-07-03 05:27:45 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-07-03 05:27:45 [INFO] [Lockette] Detected craftbukkit build [2222] ok.
+2012-07-03 05:27:45 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-07-03 05:27:45 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.09-b945
+2012-07-03 05:27:45 [INFO] [Lockette] Using ops file for admin permissions.
+2012-07-03 05:27:45 [INFO] [Lockette] Ready to protect your containers.
+2012-07-03 05:27:45 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-07-03 05:27:45 [INFO] PickBoat version 0.4 is enabled!
+2012-07-03 05:27:45 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b551
+2012-07-03 05:27:45 [INFO] [Multiverse-Core] - Version 2.4-b551 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-07-03 05:27:45 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b551
+2012-07-03 05:27:46 [INFO] Preparing start region for level 3 (Seed: -3021652546439280874)
+2012-07-03 05:27:47 [INFO] Preparing spawn area for fluid, 52%
+2012-07-03 05:27:48 [INFO] Preparing start region for level 4 (Seed: 453453)
+2012-07-03 05:27:49 [INFO] Preparing spawn area for creative, 81%
+2012-07-03 05:27:49 [INFO] Preparing start region for level 5 (Seed: -4035248619903658227)
+2012-07-03 05:27:50 [INFO] Preparing spawn area for fluid_nether, 93%
+2012-07-03 05:27:50 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-07-03 05:27:50 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2012-07-03 05:27:50 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2012-07-03 05:27:50 [INFO] [Multiverse-Portals]  7 - Portals(s) loaded
+2012-07-03 05:27:50 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.4-b166
+2012-07-03 05:27:50 [INFO] [Multiverse-Inventories 2.4-b166] enabled.
+2012-07-03 05:27:50 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-07-03 05:27:50 [INFO] [CreeperMess v1.2] Enabled!
+2012-07-03 05:27:50 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b551
+2012-07-03 05:27:50 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b551 Enabled - By Rigby and fernferret
+2012-07-03 05:27:51 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-07-03 05:27:51 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-07-03 05:27:51 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-07-03 05:27:51 [INFO] Done (9.454s)! For help, type "help" or "?"
+2012-07-03 05:27:51 [INFO] Starting GS4 status listener
+2012-07-03 05:27:51 [INFO] Query running on 0.0.0.0:25564
+2012-07-03 05:28:44 [INFO] /127.0.0.1:37260 lost connection
+2012-07-03 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-07-03 08:00:01 [INFO] [35;1m[Server] Starting backup.[m
+2012-07-03 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-07-03 08:00:01 [INFO] CONSOLE: Forcing save..[m
+2012-07-03 08:00:01 [INFO] CONSOLE: Save complete.[m
+2012-07-03 08:00:04 [INFO] Unknown command. Type "help" for help.[m
+2012-07-03 08:00:04 [INFO] CONSOLE: Disabling level saving..[m
+2012-07-03 08:00:53 [INFO] Unknown command. Type "help" for help.[m
+2012-07-03 08:00:55 [INFO] CONSOLE: Enabling level saving..[m
+2012-07-03 08:00:55 [INFO] Unknown command. Type "help" for help.[m
+2012-07-03 08:00:55 [INFO] CONSOLE: Forcing save..[m
+2012-07-03 08:00:55 [INFO] CONSOLE: Save complete.[m
+2012-07-03 08:00:55 [INFO] Unknown command. Type "help" for help.[m
+2012-07-03 08:00:55 [INFO] [35;1m[Server] Backup complete.[m
+2012-07-03 09:21:01 [INFO] [Metrics] Connection timed out
+2012-07-03 09:31:00 [INFO] [Metrics] Connection timed out
+2012-07-03 09:44:48 [INFO] Cyriaan [/127.0.0.1:37325] lost connection
+2012-07-03 09:44:48 [INFO] Disconnecting Cyriaan [/127.0.0.1:37325]: Failed to verify username!
+2012-07-03 09:44:57 [INFO] Disconnecting Cyriaan [/127.0.0.1:37328]: Failed to verify username!
+2012-07-03 09:44:58 [INFO] Cyriaan [/127.0.0.1:37328] lost connection
+2012-07-03 09:49:40 [INFO] Cyriaan [/127.0.0.1:37333] lost connection
+2012-07-03 09:49:40 [INFO] Disconnecting Cyriaan [/127.0.0.1:37333]: Failed to verify username!
+2012-07-03 09:50:37 [INFO] Disconnecting Cyriaan [/127.0.0.1:37336]: Failed to verify username!
+2012-07-03 09:50:46 [INFO] Disconnecting Cyriaan [/127.0.0.1:37340]: Failed to verify username!
+2012-07-03 09:50:59 [INFO] Disconnecting Cyriaan [/127.0.0.1:37344]: Failed to verify username!
+2012-07-03 10:14:40 [INFO] [mcMMO] Loading mcMMO spout.yml File...
+2012-07-03 10:14:40 [INFO] adrianjboyer [/127.0.0.1:37351] logged in with entity id 6354 at ([fluid] -94.30067173617664, 80.0, 7.7012905698620004)
+2012-07-03 10:27:57 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-07-03 10:27:57 [INFO] Connection reset
+2012-07-03 11:05:19 [INFO] Yinsano [/127.0.0.1:37366] logged in with entity id 21639 at ([world] 1042.335992064695, 72.0, -84.46057921552747)
+2012-07-03 11:05:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-03 11:25:25 [INFO] /127.0.0.1:37374 lost connection
+2012-07-03 11:25:34 [INFO] /127.0.0.1:37376 lost connection
+2012-07-03 11:37:58 [INFO] Connection reset
+2012-07-03 11:37:58 [INFO] Yinsano lost connection: disconnect.quitting
+2012-07-03 12:29:34 [INFO] dahlukeh [/127.0.0.1:37396] logged in with entity id 44875 at ([fluid] -57.23683800969039, 63.0, 421.68846933220584)
+2012-07-03 12:29:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-03 12:29:59 [INFO] Unknown command. Type "help" for help.[m
+2012-07-03 12:29:59 [INFO] CONSOLE: Giving dahlukeh some 341 (SLIME_BALL)[m
+2012-07-03 12:30:45 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-03 12:30:45 [INFO] Connection reset
+2012-07-03 12:31:21 [INFO] H4ZM4T [/127.0.0.1:37401] logged in with entity id 45773 at ([world] 1040.7141386677808, 10.0, -75.94184094456061)
+2012-07-03 12:31:58 [INFO] H4ZM4T: Setting H4ZM4T to game mode 0[m
+2012-07-03 13:05:41 [INFO] dahlukeh [/127.0.0.1:37412] logged in with entity id 64784 at ([fluid] -64.89780582460868, 72.0, 424.92074019190943)
+2012-07-03 13:05:47 [INFO] Connection reset
+2012-07-03 13:05:47 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-03 13:20:40 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-03 13:20:40 [INFO] Connection reset
+2012-07-03 14:09:23 [INFO] Connected players: [m
+2012-07-03 14:17:09 [INFO] lluoc [/127.0.0.1:37433] logged in with entity id 74048 at ([fluid] -49.631165967984906, 78.0, 75.5872490135024)
+2012-07-03 14:17:14 [INFO] Connection reset
+2012-07-03 14:17:14 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-03 14:19:54 [INFO] H4ZM4T [/127.0.0.1:37453] logged in with entity id 75270 at ([world] 1057.9951773554358, 28.0, -135.9989405694814)
+2012-07-03 14:20:17 [INFO] dahlukeh [/127.0.0.1:37457] logged in with entity id 75494 at ([fluid] -64.89780582460868, 72.0, 424.92074019190943)
+2012-07-03 14:25:16 [INFO] lluoc [/127.0.0.1:37462] logged in with entity id 78668 at ([fluid] -49.631165967984906, 78.0, 75.5872490135024)
+2012-07-03 14:25:19 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> ohai[m
+2012-07-03 14:25:27 [INFO] [[35;1mFluid[37;1m]<lluoc> hey,[m
+2012-07-03 14:25:53 [INFO] [[35;1mFluid[37;1m]<lluoc> Death counter plugin should be done in a fews hours[m
+2012-07-03 14:25:59 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> woot[m
+2012-07-03 14:26:04 [INFO] [[35;1mFluid[37;1m]<lluoc> Y'all can test it for me.[m
+2012-07-03 14:26:09 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> heh[m
+2012-07-03 14:26:17 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-03 14:26:17 [INFO] Connection reset
+2012-07-03 14:26:20 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I am power mining[m
+2012-07-03 14:32:40 [WARNING] H4ZM4T moved wrongly!
+2012-07-03 14:32:40 [INFO] Got position 28.020493460256247, 50.0, 8.699999988079078
+2012-07-03 14:32:40 [INFO] Expected 28.30000001192093, 50.0, 8.699999988079078
+2012-07-03 14:52:18 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-03 14:52:18 [INFO] Connection reset
+2012-07-03 15:05:12 [INFO] lluoc [/127.0.0.1:37479] logged in with entity id 121725 at ([fluid] -50.50101357897396, 78.0, 76.226188165554)
+2012-07-03 15:06:59 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-03 15:06:59 [INFO] Connection reset
+2012-07-03 15:16:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-03 15:16:55 [INFO] CONSOLE: Forcing save..[m
+2012-07-03 15:16:55 [INFO] CONSOLE: Save complete.[m
+2012-07-03 15:16:57 [INFO] CONSOLE: Disabling level saving..[m
+2012-07-03 15:21:26 [INFO] CONSOLE: Enabling level saving..[m
+2012-07-03 15:21:28 [INFO] CONSOLE: Forcing save..[m
+2012-07-03 15:21:28 [INFO] CONSOLE: Save complete.[m
+2012-07-03 15:23:44 [INFO] Connected players: dahlukeh[m
+2012-07-03 15:24:10 [INFO] [35;1m[Server] quickely going to  restarting the server to instal the death counter.[m
+2012-07-03 15:24:19 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-03 15:24:19 [INFO] Connection reset
+2012-07-03 15:24:20 [INFO] CONSOLE: Forcing save..[m
+2012-07-03 15:24:20 [INFO] CONSOLE: Save complete.[m
+2012-07-03 15:24:22 [INFO] CONSOLE: Stopping the server..[m
+2012-07-03 15:24:23 [INFO] Stopping server
+2012-07-03 15:24:23 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-07-03 15:24:23 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-07-03 15:24:23 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b551
+2012-07-03 15:24:23 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-07-03 15:24:23 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-07-03 15:24:23 [INFO] [CreeperMess v1.2] Disabled!
+2012-07-03 15:24:23 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b166
+2012-07-03 15:24:23 [INFO] [Multiverse-Inventories 2.4-b166] disabled.
+2012-07-03 15:24:23 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+2012-07-03 15:24:23 [INFO] [mcMMO] Disabling mcMMO v1.3.09-b945
+2012-07-03 15:24:23 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.09-b945
+2012-07-03 15:24:23 [INFO] Backing up your mcMMO Configuration... 
+2012-07-03 15:24:23 [INFO] Backup Completed.
+2012-07-03 15:24:23 [INFO] mcMMO was disabled.
+2012-07-03 15:24:23 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.4-b551
+2012-07-03 15:24:23 [INFO] [Multiverse-Core] - Disabled
+2012-07-03 15:24:23 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-07-03 15:24:23 [INFO] Disabling PickBoat
+2012-07-03 15:24:23 [INFO] [Lockette] Disabling Lockette v1.6
+2012-07-03 15:24:23 [INFO] Lockette is being disabled...  ;.;
+2012-07-03 15:24:23 [INFO] [Lockette] Closing all automatic doors.
+2012-07-03 15:24:23 [INFO] [Vault] Disabling Vault v1.2.16-b184
+2012-07-03 15:24:23 [INFO] [Vault] Disabled Version 1.2.16-b184
+2012-07-03 15:24:23 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-07-03 15:24:23 [INFO] SilkSpawners disabled
+2012-07-03 15:24:23 [INFO] Saving chunks
+2012-07-03 15:24:26 [INFO] Stopping server
+2012-07-03 15:24:26 [INFO] Saving chunks
+2012-07-03 15:24:39 [INFO] Starting minecraft server version 1.2.5
+2012-07-03 15:24:39 [INFO] Loading properties
+2012-07-03 15:24:39 [INFO] Starting Minecraft server on *:25564
+2012-07-03 15:24:40 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.5-R4.0-b2222jnks (MC: 1.2.5) (Implementing API version 1.2.5-R4.0)
+2012-07-03 15:24:41 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-07-03 15:24:41 [INFO] [Vault] Loading Vault v1.2.16-b184
+2012-07-03 15:24:41 [INFO] [Lockette] Loading Lockette v1.6
+2012-07-03 15:24:41 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-07-03 15:24:41 [INFO] [DeathCounter] Loading DeathCounter v0.1
+2012-07-03 15:24:41 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b551
+2012-07-03 15:24:41 [INFO] [mcMMO] Loading mcMMO v1.3.09-b945
+2012-07-03 15:24:41 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2012-07-03 15:24:41 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.4-b166
+2012-07-03 15:24:41 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-07-03 15:24:41 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b551
+2012-07-03 15:24:41 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-07-03 15:24:41 [INFO] [Vault] Enabling Vault v1.2.16-b184
+2012-07-03 15:24:41 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-07-03 15:24:41 [INFO] [Vault] Enabled Version 1.2.16-b184
+2012-07-03 15:24:41 [INFO] [mcMMO] Enabling mcMMO v1.3.09-b945
+2012-07-03 15:24:41 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-07-03 15:24:41 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-07-03 15:24:41 [INFO] [mcMMO] Loading repair.vanilla.yml repair config file...
+2012-07-03 15:24:41 [INFO] mcMMO version 1.3.09-b945 is enabled!
+2012-07-03 15:24:41 [INFO] Preparing level "world"
+2012-07-03 15:24:41 [INFO] Default game type: 0
+2012-07-03 15:24:41 [INFO] Preparing start region for level 0 (Seed: -3821605025407244639)
+2012-07-03 15:24:43 [INFO] Preparing spawn area: 20%
+2012-07-03 15:24:44 [INFO] Preparing spawn area: 57%
+2012-07-03 15:24:44 [INFO] Preparing start region for level 1 (Seed: 8744398351327703295)
+2012-07-03 15:24:45 [INFO] Preparing spawn area: 8%
+2012-07-03 15:24:45 [INFO] Preparing start region for level 2 (Seed: 8744398351327703295)
+2012-07-03 15:24:46 [INFO] Preparing spawn area: 0%
+2012-07-03 15:24:46 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-07-03 15:24:46 [INFO] SilkSpawners enabled
+2012-07-03 15:24:46 [INFO] [Lockette] Enabling Lockette v1.6
+2012-07-03 15:24:46 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-07-03 15:24:46 [INFO] [Lockette] Detected craftbukkit build [2222] ok.
+2012-07-03 15:24:46 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-07-03 15:24:46 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.09-b945
+2012-07-03 15:24:46 [INFO] [Lockette] Using ops file for admin permissions.
+2012-07-03 15:24:46 [INFO] [Lockette] Ready to protect your containers.
+2012-07-03 15:24:46 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-07-03 15:24:46 [INFO] PickBoat version 0.4 is enabled!
+2012-07-03 15:24:46 [INFO] [DeathCounter] Enabling DeathCounter v0.1
+2012-07-03 15:24:46 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b551
+2012-07-03 15:24:46 [INFO] [Multiverse-Core] - Version 2.4-b551 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-07-03 15:24:46 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b551
+2012-07-03 15:24:47 [INFO] Preparing start region for level 3 (Seed: -3021652546439280874)
+2012-07-03 15:24:48 [INFO] Preparing spawn area for fluid, 40%
+2012-07-03 15:24:49 [INFO] Preparing spawn area for fluid, 97%
+2012-07-03 15:24:49 [INFO] Preparing start region for level 4 (Seed: 453453)
+2012-07-03 15:24:50 [INFO] Preparing spawn area for creative, 73%
+2012-07-03 15:24:50 [INFO] Preparing start region for level 5 (Seed: -4035248619903658227)
+2012-07-03 15:24:52 [INFO] Preparing spawn area for fluid_nether, 69%
+2012-07-03 15:24:52 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-07-03 15:24:52 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2012-07-03 15:24:52 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2012-07-03 15:24:52 [INFO] [Multiverse-Portals]  7 - Portals(s) loaded
+2012-07-03 15:24:52 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.4-b166
+2012-07-03 15:24:52 [INFO] [Multiverse-Inventories 2.4-b166] enabled.
+2012-07-03 15:24:52 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-07-03 15:24:52 [INFO] [CreeperMess v1.2] Enabled!
+2012-07-03 15:24:52 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b551
+2012-07-03 15:24:52 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b551 Enabled - By Rigby and fernferret
+2012-07-03 15:24:52 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-07-03 15:24:53 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-07-03 15:24:53 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-07-03 15:24:53 [INFO] Done (11.648s)! For help, type "help" or "?"
+2012-07-03 15:24:53 [INFO] Starting GS4 status listener
+2012-07-03 15:24:53 [INFO] Query running on 0.0.0.0:25564
+2012-07-03 15:25:24 [INFO] [mcMMO] Loading mcMMO spout.yml File...
+2012-07-03 15:25:24 [INFO] lluoc [/127.0.0.1:37495] logged in with entity id 1284 at ([fluid] -50.50101357897396, 78.0, 76.226188165554)
+2012-07-03 15:25:31 [INFO] dahlukeh [/127.0.0.1:37499] logged in with entity id 2655 at ([fluid] -166.87141677104322, 70.0, 502.37763865798996)
+2012-07-03 15:25:59 [INFO] [[35;1mFluid[37;1m]<lluoc> try the /deathcount command[m
+2012-07-03 15:26:10 [INFO] [[35;1mFluid[37;1m]<dahlukeh> dont have permission[m
+2012-07-03 15:26:16 [INFO] [[35;1mFluid[37;1m]<lluoc> really... sigh[m
+2012-07-03 15:26:39 [INFO] [[35;1mFluid[37;1m]<dahlukeh> yeah[m
+2012-07-03 15:27:03 [INFO] [[35;1mFluid[37;1m]<dahlukeh> you need to set defualt:true[m
+2012-07-03 15:27:28 [INFO] H4ZM4T [/127.0.0.1:37503] logged in with entity id 8634 at ([world] 1053.2206782058336, 88.0, -138.19007985786777)
+2012-07-03 15:27:44 [INFO] [[35;1mFluid[37;1m]<lluoc> I did. trying to work out what went wrong[m
+2012-07-03 15:27:45 [INFO] [[35;1mFluid[37;1m]<lluoc> hey[m
+2012-07-03 15:27:52 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hai[m
+2012-07-03 15:27:56 [INFO] [[35;1mFluid[37;1m]<lluoc> nelly, you should have access. try the /deathcount command[m
+2012-07-03 15:27:59 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hmmmm weird[m
+2012-07-03 15:28:10 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> uh[m
+2012-07-03 15:28:15 [INFO] [[35;1mFluid[37;1m]<dahlukeh> also did you make this plugin?[m
+2012-07-03 15:28:20 [INFO] [[35;1mFluid[37;1m]<lluoc> yes[m
+2012-07-03 15:28:21 [INFO] [[35;1mFluid[37;1m]<dahlukeh> or someone else?[m
+2012-07-03 15:28:23 [INFO] [[35;1mFluid[37;1m]<dahlukeh> ohhhh[m
+2012-07-03 15:28:31 [INFO] [[35;1mFluid[37;1m]<dahlukeh> are we allowed to make plugins now?[m
+2012-07-03 15:28:36 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> "INvalid usage: \deathcount [player] [general:mobs:players][m
+2012-07-03 15:28:38 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> "[m
+2012-07-03 15:28:58 [INFO] [[35;1mFluid[37;1m]<lluoc> ... nelly, '\deathcount lluoc general'[m
+2012-07-03 15:29:18 [INFO] [[35;1mFluid[37;1m]<lluoc> And yeah, if you have a plugin idea that you thinik is good make it[m
+2012-07-03 15:29:45 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> cactus death. Wouldn't that be emparrasing[m
+2012-07-03 15:29:58 [INFO] [[35;1mFluid[37;1m]<lluoc> Anything that gets added permanently will have to be voted on but if you want to dev[m
+2012-07-03 15:30:00 [INFO] [[35;1mFluid[37;1m]<lluoc> do it[m
+2012-07-03 15:30:09 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hmmmm right[m
+2012-07-03 15:30:32 [INFO] [[35;1mFluid[37;1m]<lluoc> I tested all deaths except for 'fire block'.[m
+2012-07-03 15:30:38 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I found I had left myself a set of diamond armor in the nether. So now I am pimping it[m
+2012-07-03 15:30:41 [INFO] [[35;1mFluid[37;1m]<lluoc> no idea what causes that count[m
+2012-07-03 15:30:55 [INFO] [[35;1mFluid[37;1m]<dahlukeh> fire?[m
+2012-07-03 15:31:02 [INFO] [[35;1mFluid[37;1m]<lluoc> ... you 'left' a set of diamond armout in the nether...[m
+2012-07-03 15:31:13 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> *the end[m
+2012-07-03 15:31:25 [INFO] [[35;1mFluid[37;1m]<lluoc> --> Nope. That either gets caught by 'lava' or 'fire effect'[m
+2012-07-03 15:31:44 [INFO] [[35;1mFluid[37;1m]<lluoc> By the way, does anyone know what happeened to my silktouch pick I had left in the end?[m
+2012-07-03 15:31:58 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> you left one? In an unlocked chest?[m
+2012-07-03 15:32:51 [INFO] [[35;1mFluid[37;1m]<lluoc> doh, i left it the command permission as :permission: <plugin name>.deathcount.stats[m
+2012-07-03 15:33:01 [INFO] [[35;1mFluid[37;1m]<dahlukeh> yeah[m
+2012-07-03 15:33:07 [INFO] [[35;1mFluid[37;1m]<lluoc> yeah. I tend to be trusting[m
+2012-07-03 15:34:01 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 70 in fluid, 2.8 blocks from dahlukeh
+2012-07-03 15:35:11 [INFO] [[35;1mFluid[37;1m]<lluoc> I just got called by a compter windows suppot scammer[m
+2012-07-03 15:35:17 [INFO] [[35;1mFluid[37;1m]<lluoc> heh heh heh[m
+2012-07-03 15:35:20 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hahaha[m
+2012-07-03 15:35:20 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hehehe[m
+2012-07-03 15:35:25 [INFO] [[35;1mFluid[37;1m]<dahlukeh> how do they get your number/[m
+2012-07-03 15:35:37 [INFO] [[35;1mFluid[37;1m]<lluoc> going up to 'senior supervisor'[m
+2012-07-03 15:35:45 [INFO] [[31;1mStatic Nether[37;1m]<H4ZM4T> I assume they rng it[m
+2012-07-03 15:35:51 [INFO] [[35;1mFluid[37;1m]<lluoc> yeah[m
+2012-07-03 15:35:56 [INFO] [[31;1mStatic Nether[37;1m]<H4ZM4T> which is illegal, yes, but so is the scamming[m
+2012-07-03 15:36:00 [INFO] [[35;1mFluid[37;1m]<dahlukeh> wait what?[m
+2012-07-03 15:36:03 [INFO] [[35;1mFluid[37;1m]<dahlukeh> rng?[m
+2012-07-03 15:36:04 [INFO] [[35;1mFluid[37;1m]<lluoc> heh heh hegh, now to waste as much time as possible[m
+2012-07-03 15:36:14 [INFO] [[35;1mFluid[37;1m]<lluoc> Also, I'm on linux[m
+2012-07-03 15:36:16 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> they random number generate it[m
+2012-07-03 15:36:18 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> HAH[m
+2012-07-03 15:36:19 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> epixc[m
+2012-07-03 15:36:22 [INFO] [[35;1mFluid[37;1m]<dahlukeh> oh right[m
+2012-07-03 15:36:28 [INFO] [[35;1mFluid[37;1m]<lluoc> 'Are you on the main desktop'[m
+2012-07-03 15:36:34 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> ....[m
+2012-07-03 15:37:04 [INFO] [[35;1mFluid[37;1m]<lluoc> 'the technical department of windows is calling you'[m
+2012-07-03 15:37:18 [INFO] [[35;1mFluid[37;1m]<dahlukeh> 'of windows' lol[m
+2012-07-03 15:38:01 [INFO] [[35;1mFluid[37;1m]<lluoc> hehe[m
+2012-07-03 15:40:03 [INFO] [[35;1mFluid[37;1m]<lluoc> look up eventvwr[m
+2012-07-03 15:40:23 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> huh?[m
+2012-07-03 15:41:26 [INFO] [[35;1mFluid[37;1m]<lluoc> he he he[m
+2012-07-03 15:41:32 [INFO] [[35;1mFluid[37;1m]<lluoc> that was fun[m
+2012-07-03 15:41:37 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> they realise?[m
+2012-07-03 15:41:37 [INFO] [[35;1mFluid[37;1m]<dahlukeh> it's over?[m
+2012-07-03 15:41:43 [INFO] [[35;1mFluid[37;1m]<lluoc> there is a scam going around.[m
+2012-07-03 15:42:03 [INFO] [[35;1mFluid[37;1m]<lluoc> they try to trick people by telling them to look at the windows wvent viewer[m
+2012-07-03 15:42:14 [INFO] [[35;1mFluid[37;1m]<dahlukeh> right...[m
+2012-07-03 15:42:22 [INFO] [[35;1mFluid[37;1m]<lluoc> And thell them that they have a virus[m
+2012-07-03 15:42:30 [INFO] [[35;1mFluid[37;1m]<lluoc> and then send them to a website.[m
+2012-07-03 15:42:40 [INFO] [[35;1mFluid[37;1m]<lluoc> if you look up 'eventvwr' you get more tdetails[m
+2012-07-03 15:42:58 [INFO] [[35;1mFluid[37;1m]<lluoc> but yeah, I had to stop at that point with a 'I'm on linux, go to hell'[m
+2012-07-03 15:43:18 [INFO] [[35;1mFluid[37;1m]<lluoc> as I have no idea what the event viewer window looks like[m
+2012-07-03 15:43:24 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hehe[m
+2012-07-03 15:43:27 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> nor do I actually[m
+2012-07-03 15:43:27 [INFO] [[35;1mFluid[37;1m]<lluoc> And no. they didn't realise[m
+2012-07-03 15:43:34 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> dehhhhh[m
+2012-07-03 15:43:34 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hmmmmm[m
+2012-07-03 15:43:40 [INFO] [[35;1mFluid[37;1m]<lluoc> Even when I just made mistake after mistake[m
+2012-07-03 15:43:44 [INFO] [[35;1mFluid[37;1m]<dahlukeh> I'm looking at the wondow now[m
+2012-07-03 15:43:52 [INFO] [[35;1mFluid[37;1m]<lluoc> They spelleded out 'eventvwr' 4 times[m
+2012-07-03 15:44:11 [INFO] [[35;1mFluid[37;1m]<lluoc> 'eveventrwr ?. No'[m
+2012-07-03 15:44:41 [INFO] [[35;1mFluid[37;1m]<lluoc> But yeah, 'we the support department of windows are calling you...'[m
+2012-07-03 15:44:50 [INFO] [[35;1mFluid[37;1m]<lluoc> he he he[m
+2012-07-03 15:45:12 [INFO] [[35;1mFluid[37;1m]<lluoc> now to fix those permissionjs[m
+2012-07-03 15:45:27 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-07-03 15:45:27 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-07-03 15:45:27 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b551
+2012-07-03 15:45:27 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-07-03 15:45:27 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-07-03 15:45:27 [INFO] [CreeperMess v1.2] Disabled!
+2012-07-03 15:45:27 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b166
+2012-07-03 15:45:27 [INFO] [Multiverse-Inventories 2.4-b166] disabled.
+2012-07-03 15:45:27 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+2012-07-03 15:45:27 [INFO] [mcMMO] Disabling mcMMO v1.3.09-b945
+2012-07-03 15:45:27 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.09-b945
+2012-07-03 15:45:27 [INFO] Backing up your mcMMO Configuration... 
+2012-07-03 15:45:27 [INFO] Backup Completed.
+2012-07-03 15:45:27 [INFO] mcMMO was disabled.
+2012-07-03 15:45:27 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.4-b551
+2012-07-03 15:45:27 [INFO] [Multiverse-Core] - Disabled
+2012-07-03 15:45:27 [INFO] [DeathCounter] Disabling DeathCounter v0.1
+2012-07-03 15:45:27 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-07-03 15:45:27 [INFO] Disabling PickBoat
+2012-07-03 15:45:27 [INFO] [Lockette] Disabling Lockette v1.6
+2012-07-03 15:45:27 [INFO] Lockette is being disabled...  ;.;
+2012-07-03 15:45:27 [INFO] [Lockette] Closing all automatic doors.
+2012-07-03 15:45:27 [INFO] [Vault] Disabling Vault v1.2.16-b184
+2012-07-03 15:45:27 [INFO] [Vault] Disabled Version 1.2.16-b184
+2012-07-03 15:45:27 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-07-03 15:45:27 [INFO] SilkSpawners disabled
+2012-07-03 15:45:27 [INFO] 182 recipes
+2012-07-03 15:45:27 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-07-03 15:45:27 [INFO] [Vault] Loading Vault v1.2.16-b184
+2012-07-03 15:45:27 [INFO] [Lockette] Loading Lockette v1.6
+2012-07-03 15:45:27 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-07-03 15:45:27 [INFO] [DeathCounter] Loading DeathCounter v0.1
+2012-07-03 15:45:27 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b551
+2012-07-03 15:45:27 [INFO] [mcMMO] Loading mcMMO v1.3.09-b945
+2012-07-03 15:45:27 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2012-07-03 15:45:27 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.4-b166
+2012-07-03 15:45:27 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-07-03 15:45:27 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b551
+2012-07-03 15:45:27 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-07-03 15:45:27 [INFO] [Vault] Enabling Vault v1.2.16-b184
+2012-07-03 15:45:27 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-07-03 15:45:28 [INFO] [Vault] Enabled Version 1.2.16-b184
+2012-07-03 15:45:28 [INFO] [mcMMO] Enabling mcMMO v1.3.09-b945
+2012-07-03 15:45:28 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-07-03 15:45:28 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-07-03 15:45:28 [INFO] [mcMMO] Loading repair.vanilla.yml repair config file...
+2012-07-03 15:45:28 [INFO] [mcMMO] Loading mcMMO spout.yml File...
+2012-07-03 15:45:28 [INFO] mcMMO version 1.3.09-b945 is enabled!
+2012-07-03 15:45:30 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-07-03 15:45:30 [INFO] SilkSpawners enabled
+2012-07-03 15:45:30 [INFO] [Lockette] Enabling Lockette v1.6
+2012-07-03 15:45:30 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-07-03 15:45:30 [INFO] [Lockette] Detected craftbukkit build [2222] ok.
+2012-07-03 15:45:30 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-07-03 15:45:30 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.09-b945
+2012-07-03 15:45:30 [INFO] [Lockette] Using ops file for admin permissions.
+2012-07-03 15:45:30 [INFO] [Lockette] Ready to protect your containers.
+2012-07-03 15:45:30 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-07-03 15:45:30 [INFO] PickBoat version 0.4 is enabled!
+2012-07-03 15:45:30 [INFO] [DeathCounter] Enabling DeathCounter v0.1
+2012-07-03 15:45:30 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b551
+2012-07-03 15:45:30 [INFO] [Multiverse-Core] - Version 2.4-b551 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-07-03 15:45:30 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b551
+2012-07-03 15:45:32 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-07-03 15:45:32 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2012-07-03 15:45:32 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2012-07-03 15:45:33 [INFO] [Multiverse-Portals]  7 - Portals(s) loaded
+2012-07-03 15:45:33 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.4-b166
+2012-07-03 15:45:33 [INFO] [Multiverse-Inventories 2.4-b166] enabled.
+2012-07-03 15:45:33 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-07-03 15:45:33 [INFO] [CreeperMess v1.2] Enabled!
+2012-07-03 15:45:33 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b551
+2012-07-03 15:45:33 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b551 Enabled - By Rigby and fernferret
+2012-07-03 15:45:33 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-07-03 15:45:34 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-07-03 15:45:34 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-07-03 15:45:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-03 15:45:58 [INFO] [[35;1mFluid[37;1m]<lluoc> deop lluoc[m
+2012-07-03 15:46:01 [INFO] lluoc: De-opping lluoc[m
+2012-07-03 15:46:04 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> toodles[m
+2012-07-03 15:46:05 [INFO] Connection reset
+2012-07-03 15:46:05 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-03 15:46:07 [INFO] Connection reset
+2012-07-03 15:46:07 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-03 15:46:09 [INFO] dahlukeh [/127.0.0.1:37514] logged in with entity id 61236 at ([fluid] -128.67190360009022, 70.0, 541.2676929469756)
+2012-07-03 15:47:11 [INFO] Unknown command. Type "help" for help.[m
+2012-07-03 15:47:13 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-07-03 15:47:13 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-07-03 15:47:13 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b551
+2012-07-03 15:47:13 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-07-03 15:47:13 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-07-03 15:47:13 [INFO] [CreeperMess v1.2] Disabled!
+2012-07-03 15:47:13 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b166
+2012-07-03 15:47:13 [INFO] [Multiverse-Inventories 2.4-b166] disabled.
+2012-07-03 15:47:13 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+2012-07-03 15:47:13 [INFO] [mcMMO] Disabling mcMMO v1.3.09-b945
+2012-07-03 15:47:13 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.09-b945
+2012-07-03 15:47:13 [INFO] Backing up your mcMMO Configuration... 
+2012-07-03 15:47:13 [INFO] Backup Completed.
+2012-07-03 15:47:13 [INFO] mcMMO was disabled.
+2012-07-03 15:47:13 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.4-b551
+2012-07-03 15:47:13 [INFO] [Multiverse-Core] - Disabled
+2012-07-03 15:47:13 [INFO] [DeathCounter] Disabling DeathCounter v0.1
+2012-07-03 15:47:13 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-07-03 15:47:13 [INFO] Disabling PickBoat
+2012-07-03 15:47:13 [INFO] [Lockette] Disabling Lockette v1.6
+2012-07-03 15:47:13 [INFO] Lockette is being disabled...  ;.;
+2012-07-03 15:47:13 [INFO] [Lockette] Closing all automatic doors.
+2012-07-03 15:47:13 [INFO] [Vault] Disabling Vault v1.2.16-b184
+2012-07-03 15:47:13 [INFO] [Vault] Disabled Version 1.2.16-b184
+2012-07-03 15:47:13 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-07-03 15:47:13 [INFO] SilkSpawners disabled
+2012-07-03 15:47:13 [INFO] 182 recipes
+2012-07-03 15:47:14 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-07-03 15:47:14 [INFO] [Vault] Loading Vault v1.2.16-b184
+2012-07-03 15:47:14 [INFO] [Lockette] Loading Lockette v1.6
+2012-07-03 15:47:14 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-07-03 15:47:14 [INFO] [DeathCounter] Loading DeathCounter v0.1
+2012-07-03 15:47:14 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b551
+2012-07-03 15:47:14 [INFO] [mcMMO] Loading mcMMO v1.3.09-b945
+2012-07-03 15:47:14 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2012-07-03 15:47:14 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.4-b166
+2012-07-03 15:47:14 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-07-03 15:47:14 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b551
+2012-07-03 15:47:14 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-07-03 15:47:14 [INFO] [Vault] Enabling Vault v1.2.16-b184
+2012-07-03 15:47:14 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-07-03 15:47:14 [INFO] [Vault] Enabled Version 1.2.16-b184
+2012-07-03 15:47:14 [INFO] [mcMMO] Enabling mcMMO v1.3.09-b945
+2012-07-03 15:47:14 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-07-03 15:47:14 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-07-03 15:47:14 [INFO] [mcMMO] Loading repair.vanilla.yml repair config file...
+2012-07-03 15:47:14 [INFO] [mcMMO] Loading mcMMO spout.yml File...
+2012-07-03 15:47:14 [INFO] mcMMO version 1.3.09-b945 is enabled!
+2012-07-03 15:47:16 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-07-03 15:47:16 [INFO] SilkSpawners enabled
+2012-07-03 15:47:16 [INFO] [Lockette] Enabling Lockette v1.6
+2012-07-03 15:47:16 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-07-03 15:47:16 [INFO] [Lockette] Detected craftbukkit build [2222] ok.
+2012-07-03 15:47:16 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-07-03 15:47:16 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.09-b945
+2012-07-03 15:47:16 [INFO] [Lockette] Using ops file for admin permissions.
+2012-07-03 15:47:16 [INFO] [Lockette] Ready to protect your containers.
+2012-07-03 15:47:16 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-07-03 15:47:16 [INFO] PickBoat version 0.4 is enabled!
+2012-07-03 15:47:16 [INFO] [DeathCounter] Enabling DeathCounter v0.1
+2012-07-03 15:47:16 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b551
+2012-07-03 15:47:16 [INFO] [Multiverse-Core] - Version 2.4-b551 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-07-03 15:47:16 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b551
+2012-07-03 15:47:16 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-07-03 15:47:16 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2012-07-03 15:47:16 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2012-07-03 15:47:17 [INFO] [Multiverse-Portals]  7 - Portals(s) loaded
+2012-07-03 15:47:17 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.4-b166
+2012-07-03 15:47:17 [INFO] [Multiverse-Inventories 2.4-b166] enabled.
+2012-07-03 15:47:17 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-07-03 15:47:17 [INFO] [CreeperMess v1.2] Enabled!
+2012-07-03 15:47:17 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b551
+2012-07-03 15:47:17 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b551 Enabled - By Rigby and fernferret
+2012-07-03 15:47:17 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-07-03 15:47:17 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-07-03 15:47:17 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-07-03 15:47:17 [INFO] [32;1mReload complete.[m
+2012-07-03 15:47:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-03 15:47:37 [INFO] [[35;1mFluid[37;1m]<lluoc> ... sigh.[m
+2012-07-03 15:47:42 [INFO] Connection reset
+2012-07-03 15:47:42 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-03 15:50:06 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 71 in fluid, 3.3 blocks from dahlukeh
+2012-07-03 15:50:12 [INFO] [MobRider] Disabling MobRider v0.45.2-b43
+2012-07-03 15:50:12 [INFO] [MobRider] 0.45.2-b43 disabled.
+2012-07-03 15:50:12 [INFO] [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b551
+2012-07-03 15:50:12 [INFO] [MultiVerse-NetherPortals] - Disabled
+2012-07-03 15:50:12 [INFO] [CreeperMess] Disabling CreeperMess v1.2
+2012-07-03 15:50:12 [INFO] [CreeperMess v1.2] Disabled!
+2012-07-03 15:50:12 [INFO] [Multiverse-Inventories] Disabling Multiverse-Inventories v2.4-b166
+2012-07-03 15:50:12 [INFO] [Multiverse-Inventories 2.4-b166] disabled.
+2012-07-03 15:50:12 [INFO] [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+2012-07-03 15:50:12 [INFO] [mcMMO] Disabling mcMMO v1.3.09-b945
+2012-07-03 15:50:12 [INFO] [Lockette] Disabled link to plugin mcMMO, version 1.3.09-b945
+2012-07-03 15:50:13 [INFO] Backing up your mcMMO Configuration... 
+2012-07-03 15:50:13 [INFO] Backup Completed.
+2012-07-03 15:50:13 [INFO] mcMMO was disabled.
+2012-07-03 15:50:13 [INFO] [Multiverse-Core] Disabling Multiverse-Core v2.4-b551
+2012-07-03 15:50:13 [INFO] [Multiverse-Core] - Disabled
+2012-07-03 15:50:13 [INFO] [DeathCounter] Disabling DeathCounter v0.1
+2012-07-03 15:50:13 [INFO] [PickBoat] Disabling PickBoat v0.4
+2012-07-03 15:50:13 [INFO] Disabling PickBoat
+2012-07-03 15:50:13 [INFO] [Lockette] Disabling Lockette v1.6
+2012-07-03 15:50:13 [INFO] Lockette is being disabled...  ;.;
+2012-07-03 15:50:13 [INFO] [Lockette] Closing all automatic doors.
+2012-07-03 15:50:13 [INFO] [Vault] Disabling Vault v1.2.16-b184
+2012-07-03 15:50:13 [INFO] [Vault] Disabled Version 1.2.16-b184
+2012-07-03 15:50:13 [INFO] [SilkSpawners] Disabling SilkSpawners v2.0.1
+2012-07-03 15:50:13 [INFO] SilkSpawners disabled
+2012-07-03 15:50:13 [INFO] 182 recipes
+2012-07-03 15:50:13 [INFO] [SilkSpawners] Loading SilkSpawners v2.0.1
+2012-07-03 15:50:13 [INFO] [Vault] Loading Vault v1.2.16-b184
+2012-07-03 15:50:13 [INFO] [Lockette] Loading Lockette v1.6
+2012-07-03 15:50:13 [INFO] [PickBoat] Loading PickBoat v0.4
+2012-07-03 15:50:13 [INFO] [DeathCounter] Loading DeathCounter v0.1
+2012-07-03 15:50:13 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b551
+2012-07-03 15:50:13 [INFO] [mcMMO] Loading mcMMO v1.3.09-b945
+2012-07-03 15:50:13 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2012-07-03 15:50:13 [INFO] [Multiverse-Inventories] Loading Multiverse-Inventories v2.4-b166
+2012-07-03 15:50:13 [INFO] [CreeperMess] Loading CreeperMess v1.2
+2012-07-03 15:50:13 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b551
+2012-07-03 15:50:13 [INFO] [MobRider] Loading MobRider v0.45.2-b43
+2012-07-03 15:50:13 [INFO] [Vault] Enabling Vault v1.2.16-b184
+2012-07-03 15:50:13 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2012-07-03 15:50:13 [INFO] [Vault] Enabled Version 1.2.16-b184
+2012-07-03 15:50:13 [INFO] [mcMMO] Enabling mcMMO v1.3.09-b945
+2012-07-03 15:50:13 [INFO] [mcMMO] Loading mcMMO config.yml File...
+2012-07-03 15:50:13 [INFO] [mcMMO] Loading mcMMO treasures.yml File...
+2012-07-03 15:50:13 [INFO] [mcMMO] Loading repair.vanilla.yml repair config file...
+2012-07-03 15:50:13 [INFO] [mcMMO] Loading mcMMO spout.yml File...
+2012-07-03 15:50:13 [INFO] mcMMO version 1.3.09-b945 is enabled!
+2012-07-03 15:50:15 [INFO] [SilkSpawners] Enabling SilkSpawners v2.0.1
+2012-07-03 15:50:15 [INFO] SilkSpawners enabled
+2012-07-03 15:50:15 [INFO] [Lockette] Enabling Lockette v1.6
+2012-07-03 15:50:15 [INFO] [Lockette] Version 1.6 is being enabled!  Yay!  (Core version 1.3.2)
+2012-07-03 15:50:15 [INFO] [Lockette] Detected craftbukkit build [2222] ok.
+2012-07-03 15:50:15 [INFO] [Lockette] Custom lockable block list: [116, 84, 57]
+2012-07-03 15:50:15 [INFO] [Lockette] Enabled link to plugin mcMMO for Groups, version 1.3.09-b945
+2012-07-03 15:50:15 [INFO] [Lockette] Using ops file for admin permissions.
+2012-07-03 15:50:15 [INFO] [Lockette] Ready to protect your containers.
+2012-07-03 15:50:15 [INFO] [PickBoat] Enabling PickBoat v0.4
+2012-07-03 15:50:15 [INFO] PickBoat version 0.4 is enabled!
+2012-07-03 15:50:15 [INFO] [DeathCounter] Enabling DeathCounter v0.1
+2012-07-03 15:50:15 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b551
+2012-07-03 15:50:15 [INFO] [Multiverse-Core] - Version 2.4-b551 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2012-07-03 15:50:15 [INFO] [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b551
+2012-07-03 15:50:16 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2012-07-03 15:50:16 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2012-07-03 15:50:16 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2012-07-03 15:50:16 [INFO] [Multiverse-Portals]  7 - Portals(s) loaded
+2012-07-03 15:50:16 [INFO] [Multiverse-Inventories] Enabling Multiverse-Inventories v2.4-b166
+2012-07-03 15:50:16 [INFO] [Multiverse-Inventories 2.4-b166] enabled.
+2012-07-03 15:50:16 [INFO] [CreeperMess] Enabling CreeperMess v1.2
+2012-07-03 15:50:16 [INFO] [CreeperMess v1.2] Enabled!
+2012-07-03 15:50:16 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b551
+2012-07-03 15:50:16 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b551 Enabled - By Rigby and fernferret
+2012-07-03 15:50:16 [INFO] [MobRider] Enabling MobRider v0.45.2-b43
+2012-07-03 15:50:16 [INFO] [MobRider] 0.45.2-b43 enabled.
+2012-07-03 15:50:16 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-07-03 15:50:16 [INFO] [32;1mReload complete.[m
+2012-07-03 15:50:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-03 15:50:19 [INFO] lluoc [/127.0.0.1:37526] logged in with entity id 67466 at ([fluid] -60.898028939728306, 77.5, 77.79247802735895)
+2012-07-03 15:50:30 [INFO] [[35;1mFluid[37;1m]<lluoc> yay[m
+2012-07-03 15:50:33 [INFO] [[35;1mFluid[37;1m]<lluoc> try i now[m
+2012-07-03 15:50:42 [INFO] [[35;1mFluid[37;1m]<lluoc> '/deathcount'[m
+2012-07-03 15:50:48 [INFO] CONSOLE: Opping lluoc[m
+2012-07-03 15:51:03 [INFO] [[35;1mFluid[37;1m]<dahlukeh> oh cool[m
+2012-07-03 15:51:06 [INFO] [[35;1mFluid[37;1m]<dahlukeh> it works :)[m
+2012-07-03 15:51:17 [INFO] [[35;1mFluid[37;1m]<lluoc> yay[m
+2012-07-03 15:51:27 [INFO] [[35;1mFluid[37;1m]<lluoc> The server side stuff is done[m
+2012-07-03 15:51:35 [INFO] [[35;1mFluid[37;1m]<lluoc> wait... let me kill you[m
+2012-07-03 15:51:46 [INFO] [[35;1mFluid[37;1m]<lluoc> or you kill me[m
+2012-07-03 15:51:57 [INFO] [[35;1mFluid[37;1m]<lluoc> ?[m
+2012-07-03 15:51:57 [INFO] [[35;1mFluid[37;1m]<dahlukeh> I have experience[m
+2012-07-03 15:52:10 [INFO] [[35;1mFluid[37;1m]<dahlukeh> also you're in creative or god mode[m
+2012-07-03 15:52:13 [INFO] [[35;1mFluid[37;1m]<lluoc> ... did I disable pvp?[m
+2012-07-03 15:52:16 [INFO] [[35;1mFluid[37;1m]<dahlukeh> I can't hit you[m
+2012-07-03 15:52:45 [INFO] [[35;1mFluid[37;1m]<lluoc> umm, just a moment[m
+2012-07-03 15:53:11 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 71 in fluid, 3.2 blocks from dahlukeh
+2012-07-03 15:53:31 [INFO] From the command line, WORLD is required.[m
+2012-07-03 15:53:31 [INFO] Modify various aspects of worlds. See the help wiki for how to use this command properly. If you do not include a world, the current world will be used.[m
+2012-07-03 15:53:31 [INFO] /mv modify[32;1m set {PROPERTY} {VALUE}[33;22m [WORLD][m
+2012-07-03 15:53:31 [INFO] Nothing changed.[m
+2012-07-03 15:53:39 [INFO] [32;1mSuccess![37;1m Property [36;1mpvp[37;1m was set to [32;1mtrue[m
+2012-07-03 15:54:01 [INFO] [[35;1mFluid[37;1m]<lluoc> trye now[m
+2012-07-03 15:54:15 [INFO] [[35;1mFluid[37;1m]<lluoc> well the fuck[m
+2012-07-03 15:54:19 [INFO] [[35;1mFluid[37;1m]<dahlukeh> still can't[m
+2012-07-03 15:54:26 [INFO] [[35;1mFluid[37;1m]<lluoc> I cant hit you either.[m
+2012-07-03 15:55:52 [INFO] [32;1mSuccess![37;1m Property [36;1mdifficulty[37;1m was set to [32;1mhard[m
+2012-07-03 15:55:58 [INFO] [32;1mSuccess![37;1m Property [36;1mdifficulty[37;1m was set to [32;1mhard[m
+2012-07-03 15:56:10 [INFO] [[35;1mFluid[37;1m]<lluoc> sigh. ther is a bug in multiverse[m
+2012-07-03 15:56:26 [INFO] [[35;1mFluid[37;1m]<dahlukeh> which is?[m
+2012-07-03 15:56:38 [INFO] [[35;1mFluid[37;1m]<lluoc> that seems to stop pvp.[m
+2012-07-03 15:56:52 [INFO] [[35;1mFluid[37;1m]<dahlukeh> oh... mm[m
+2012-07-03 15:56:53 [INFO] [[35;1mFluid[37;1m]<lluoc> sigh[m
+2012-07-03 15:57:19 [INFO] Connection reset
+2012-07-03 15:57:19 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-03 16:00:28 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-03 16:00:28 [INFO] Connection reset
+2012-07-03 16:09:53 [INFO] dahlukeh [/127.0.0.1:37532] logged in with entity id 76557 at ([fluid] -54.46521851905412, 63.0, 423.4372178260186)
+2012-07-03 17:09:50 [INFO] ultrajono [/127.0.0.1:37551] logged in with entity id 140948 at ([fluid] -27.59753581820186, 97.0, 152.56839724698668)
+2012-07-03 17:09:56 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hey hey[m
+2012-07-03 17:09:59 [INFO] [[35;1mFluid[37;1m]<ultrajono> howdy[m
+2012-07-03 17:10:09 [INFO] [[35;1mFluid[37;1m]<ultrajono> how you doin?[m
+2012-07-03 17:10:14 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hmmm[m
+2012-07-03 17:10:17 [INFO] [[35;1mFluid[37;1m]<dahlukeh> decent[m
+2012-07-03 17:10:20 [INFO] [[35;1mFluid[37;1m]<dahlukeh> digging[m
+2012-07-03 17:10:37 [INFO] [[35;1mFluid[37;1m]<ultrajono> who says you dont' know how to have fun :P[m
+2012-07-03 17:10:49 [INFO] [[35;1mFluid[37;1m]<dahlukeh> D:[m
+2012-07-03 17:11:02 [INFO] [[35;1mFluid[37;1m]<dahlukeh> its not fun... but I'm 10 levels away[m
+2012-07-03 17:11:09 [INFO] [[35;1mFluid[37;1m]<ultrajono> 10 from?[m
+2012-07-03 17:11:14 [INFO] [[35;1mFluid[37;1m]<dahlukeh> 350[m
+2012-07-03 17:11:17 [INFO] [[35;1mFluid[37;1m]<dahlukeh> and DIAMONDS[m
+2012-07-03 17:11:26 [INFO] [[35;1mFluid[37;1m]<ultrajono> how many do you have now anyway?[m
+2012-07-03 17:12:23 [INFO] [[35;1mFluid[37;1m]<dahlukeh> diamonds?[m
+2012-07-03 17:12:26 [INFO] [[35;1mFluid[37;1m]<dahlukeh> around 80[m
+2012-07-03 17:12:27 [INFO] [[35;1mFluid[37;1m]<ultrajono> hmm[m
+2012-07-03 17:12:34 [INFO] [[35;1mFluid[37;1m]<ultrajono> 80? you motherfucker :D[m
+2012-07-03 17:12:42 [INFO] [[35;1mFluid[37;1m]<dahlukeh> :D[m
+2012-07-03 17:12:52 [INFO] [[35;1mFluid[37;1m]<ultrajono> fuckin hell, how in the name of oprah did you get so many?[m
+2012-07-03 17:12:55 [INFO] [[35;1mFluid[37;1m]<dahlukeh> need more though... thats why I'm doing this![m
+2012-07-03 17:12:58 [INFO] [[35;1mFluid[37;1m]<dahlukeh> um[m
+2012-07-03 17:13:00 [INFO] [[35;1mFluid[37;1m]<ultrajono> what are you makin?[m
+2012-07-03 17:13:01 [INFO] [[35;1mFluid[37;1m]<dahlukeh> lots of mining[m
+2012-07-03 17:13:07 [INFO] [[35;1mFluid[37;1m]<dahlukeh> also I'm doing it with kenneth[m
+2012-07-03 17:13:10 [INFO] [[35;1mFluid[37;1m]<dahlukeh> not much[m
+2012-07-03 17:13:18 [INFO] [[35;1mFluid[37;1m]<ultrajono> kenneth? you mean trailz?[m
+2012-07-03 17:13:23 [INFO] [[35;1mFluid[37;1m]<dahlukeh> yep[m
+2012-07-03 17:13:42 [INFO] [[35;1mFluid[37;1m]<ultrajono> you guys always seem to be on together[m
+2012-07-03 17:13:46 [INFO] [[35;1mFluid[37;1m]<ultrajono> make a diamond lvl in yoru house[m
+2012-07-03 17:13:53 [INFO] [[35;1mFluid[37;1m]<dahlukeh> uhhhh[m
+2012-07-03 17:13:57 [INFO] [[35;1mFluid[37;1m]<dahlukeh> may be a bit hard[m
+2012-07-03 17:14:15 [INFO] [[35;1mFluid[37;1m]<ultrajono> smidge :P[m
+2012-07-03 17:15:22 [INFO] lluoc [/127.0.0.1:37557] logged in with entity id 158270 at ([fluid] -59.57704427332842, 63.0, 417.1551136392056)
+2012-07-03 17:15:33 [INFO] [[35;1mFluid[37;1m]<ultrajono> hey man[m
+2012-07-03 17:15:39 [INFO] [[35;1mFluid[37;1m]<lluoc> hey[m
+2012-07-03 17:15:44 [INFO] [[35;1mFluid[37;1m]<lluoc> yet to die i see[m
+2012-07-03 17:15:49 [INFO] [[35;1mFluid[37;1m]<ultrajono> whom?[m
+2012-07-03 17:15:53 [INFO] [[35;1mFluid[37;1m]<lluoc> you[m
+2012-07-03 17:16:02 [INFO] [[35;1mFluid[37;1m]<ultrajono> ever you mean?[m
+2012-07-03 17:16:18 [INFO] [[35;1mFluid[37;1m]<lluoc> I set up a death coutner.[m
+2012-07-03 17:16:23 [INFO] [[35;1mFluid[37;1m]<ultrajono> yeh i know[m
+2012-07-03 17:16:26 [INFO] [[35;1mFluid[37;1m]<lluoc> you haven't died since then[m
+2012-07-03 17:16:28 [INFO] [[35;1mFluid[37;1m]<ultrajono> oh, since then, ye, i haven't died[m
+2012-07-03 17:17:05 [INFO] [[35;1mFluid[37;1m]<lluoc> and neither has luke. Aww[m
+2012-07-03 17:17:10 [INFO] [[35;1mFluid[37;1m]<dahlukeh> dude[m
+2012-07-03 17:17:18 [INFO] [[35;1mFluid[37;1m]<dahlukeh> I'm wearing full diamond[m
+2012-07-03 17:17:21 [INFO] [[35;1mFluid[37;1m]<dahlukeh> not going to happen[m
+2012-07-03 17:17:29 [INFO] [[35;1mFluid[37;1m]<ultrajono> what happens if you fall in lava?[m
+2012-07-03 17:17:35 [INFO] [[35;1mFluid[37;1m]<lluoc> ... CHALLAGE ACCEPTED[m
+2012-07-03 17:17:39 [INFO] [[35;1mFluid[37;1m]<dahlukeh> I take about a heart a second[m
+2012-07-03 17:17:48 [INFO] [[35;1mFluid[37;1m]<lluoc> nope. You can live for quite some time in lava[m
+2012-07-03 17:17:56 [INFO] [[35;1mFluid[37;1m]<lluoc> If you enchant it with protection[m
+2012-07-03 17:18:44 [INFO] [[35;1mFluid[37;1m]<ultrajono> would harry care if i was to fill up his main hallway with leaves you think?[m
+2012-07-03 17:19:00 [INFO] [[34;1mStatic[37;1m]<lluoc> hmm, i don't think so[m
+2012-07-03 17:19:13 [INFO] [[34;1mStatic[37;1m]<lluoc> I can't see how anyone would mind that[m
+2012-07-03 17:19:33 [INFO] [[35;1mFluid[37;1m]<ultrajono> need me to dc luke?[m
+2012-07-03 17:19:39 [INFO] [[35;1mFluid[37;1m]<dahlukeh> nah[m
+2012-07-03 17:20:16 [INFO] [[35;1mFluid[37;1m]<ultrajono> nice work on bermans house btw :D[m
+2012-07-03 17:20:26 [INFO] [[34;1mStatic[37;1m]<lluoc> thanks[m
+2012-07-03 17:20:47 [INFO] [[34;1mStatic[37;1m]<lluoc> it looks really good with the texture pack Nelly posted.[m
+2012-07-03 17:20:57 [INFO] [[35;1mFluid[37;1m]<ultrajono> i still haven't used a single texture pac[m
+2012-07-03 17:21:23 [INFO] [[34;1mStatic[37;1m]<lluoc> I tend to sick to default[m
+2012-07-03 17:24:47 [INFO] Read timed out
+2012-07-03 17:24:47 [INFO] ultrajono lost connection: disconnect.endOfStream
+2012-07-03 17:30:05 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 17:30:07 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 17:30:08 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 17:30:11 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 17:31:29 [INFO] ultrajono [/127.0.0.1:37565] logged in with entity id 191491 at ([fluid] -25.053502213648038, 97.0, 153.96941090230803)
+2012-07-03 17:31:34 [INFO] [[35;1mFluid[37;1m]<ultrajono> ok, what happened?[m
+2012-07-03 17:31:43 [INFO] [[34;1mStatic[37;1m]<lluoc> ?[m
+2012-07-03 17:31:43 [INFO] [[35;1mFluid[37;1m]<dahlukeh> ?[m
+2012-07-03 17:31:49 [INFO] [[35;1mFluid[37;1m]<ultrajono> oh, just my net fucking up[m
+2012-07-03 17:32:09 [INFO] [[35;1mFluid[37;1m]<ultrajono> nevermind then :D[m
+2012-07-03 17:32:09 [INFO] [[34;1mStatic[37;1m]<lluoc> ... what happened?[m
+2012-07-03 17:32:19 [INFO] [[35;1mFluid[37;1m]<ultrajono> how i just left before?[m
+2012-07-03 17:32:56 [INFO] [[34;1mStatic[37;1m]<lluoc> How did you leave?[m
+2012-07-03 17:33:09 [INFO] [[35;1mFluid[37;1m]<ultrajono> i didn't mean to, there was just an error o n my screen and i was gone[m
+2012-07-03 17:33:21 [INFO] [[34;1mStatic[37;1m]<lluoc> waht type of error[m
+2012-07-03 17:33:31 [INFO] [[35;1mFluid[37;1m]<ultrajono> can't remember, i'll remember next time :D[m
+2012-07-03 17:34:12 [INFO] [[34;1mStatic[37;1m]<lluoc> ok. Hopefully it's not related to the new plugin[m
+2012-07-03 17:35:29 [INFO] [Lockette] dahlukeh has released a container.
+2012-07-03 17:35:31 [INFO] [Lockette] dahlukeh has released a container.
+2012-07-03 17:35:36 [INFO] [Lockette] dahlukeh has released a container.
+2012-07-03 17:35:37 [INFO] [Lockette] dahlukeh has released a container.
+2012-07-03 17:39:33 [INFO] lluoc: Setting lluoc to game mode 1[m
+2012-07-03 17:40:12 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 17:40:14 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 17:40:15 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 17:40:17 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 17:42:31 [INFO] [[35;1mFluid[37;1m]<ultrajono> does increasing your herbalism give you more melons and such when you farm?[m
+2012-07-03 17:42:38 [INFO] [[35;1mFluid[37;1m]<dahlukeh> I don't think so[m
+2012-07-03 17:42:43 [INFO] [[33;1mCreative[37;1m]<lluoc> not sure. Wiki?[m
+2012-07-03 17:43:28 [INFO] [[35;1mFluid[37;1m]<dahlukeh> sleep?[m
+2012-07-03 17:43:40 [INFO] [[35;1mFluid[37;1m]<ultrajono> sure, in bed[m
+2012-07-03 17:43:53 [INFO] [[33;1mCreative[37;1m]<lluoc> in anothger world[m
+2012-07-03 17:44:40 [INFO] [[35;1mFluid[37;1m]<dahlukeh> thanks[m
+2012-07-03 17:44:44 [INFO] [[35;1mFluid[37;1m]<ultrajono> ok, a castle made out of dirt[m
+2012-07-03 17:44:47 [INFO] [[35;1mFluid[37;1m]<ultrajono> and no problem :D[m
+2012-07-03 17:44:51 [INFO] [[33;1mCreative[37;1m]<lluoc> filled with water[m
+2012-07-03 17:44:55 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hmmmm?[m
+2012-07-03 17:44:55 [INFO] [[33;1mCreative[37;1m]<lluoc> who made that?[m
+2012-07-03 17:44:57 [INFO] [[35;1mFluid[37;1m]<ultrajono> so it is[m
+2012-07-03 17:45:01 [INFO] [[35;1mFluid[37;1m]<dahlukeh> did someone say they wanted dirt?[m
+2012-07-03 17:45:02 [INFO] [[35;1mFluid[37;1m]<dahlukeh> :[m
+2012-07-03 17:45:10 [INFO] [[35;1mFluid[37;1m]<dahlukeh> :D[m
+2012-07-03 17:45:24 [INFO] [[35;1mFluid[37;1m]<ultrajono> you make this luke?[m
+2012-07-03 17:45:31 [INFO] [[35;1mFluid[37;1m]<dahlukeh> oh?[m
+2012-07-03 17:45:33 [INFO] [[35;1mFluid[37;1m]<dahlukeh> no...[m
+2012-07-03 17:45:35 [INFO] [[35;1mFluid[37;1m]<dahlukeh> where is it?[m
+2012-07-03 17:45:36 [INFO] [[35;1mFluid[37;1m]<ultrajono> hello wolf :D[m
+2012-07-03 17:45:50 [INFO] [[35;1mFluid[37;1m]<ultrajono> damn, dn't got no bones[m
+2012-07-03 17:46:04 [INFO] [[33;1mCreative[37;1m]<lluoc> I know that feeling only too well[m
+2012-07-03 17:47:08 [INFO] [[35;1mFluid[37;1m]<ultrajono> might as well kill it then[m
+2012-07-03 17:47:13 [INFO] [[34;1mStatic[37;1m]<lluoc> hey[m
+2012-07-03 17:47:17 [INFO] lluoc: Setting lluoc to game mode 0[m
+2012-07-03 17:47:20 [INFO] [[34;1mStatic[37;1m]<lluoc> don't[m
+2012-07-03 17:47:34 [INFO] [[34;1mStatic[37;1m]<lluoc> they don't despawn for one[m
+2012-07-03 17:47:51 [INFO] [[34;1mStatic[37;1m]<lluoc> so it'll still be there if you come back[m
+2012-07-03 17:50:31 [INFO] [[35;1mFluid[37;1m]<ultrajono> stupid non lava buckets![m
+2012-07-03 17:50:33 [INFO] [[35;1mFluid[37;1m]<dahlukeh> Sweeeeeet diamonds[m
+2012-07-03 17:50:51 [INFO] [[34;1mStatic[37;1m]<lluoc> jono, I think luke is having a better day than you[m
+2012-07-03 17:51:00 [INFO] [[35;1mFluid[37;1m]<ultrajono> gee, what gave it away :P[m
+2012-07-03 17:51:06 [INFO] [[35;1mFluid[37;1m]<dahlukeh> :P[m
+2012-07-03 17:51:09 [INFO] [[34;1mStatic[37;1m]<lluoc> heh[m
+2012-07-03 17:51:31 [INFO] [[35;1mFluid[37;1m]<ultrajono> eh, in teh other world i have a bucketload of diamond, includign full armour/weapons/items[m
+2012-07-03 17:51:32 [INFO] [[35;1mFluid[37;1m]<ultrajono> eh[m
+2012-07-03 17:51:35 [INFO] [[34;1mStatic[37;1m]<lluoc> well fuck, just short of glowstone[m
+2012-07-03 17:51:54 [INFO] [[35;1mFluid[37;1m]<ultrajono> i has a supply of lava in my mine, all is shiny[m
+2012-07-03 17:52:18 [INFO] [[35;1mFluid[37;1m]<dahlukeh> I have about 8 glowstone stacks...[m
+2012-07-03 17:52:23 [INFO] [[34;1mStatic[37;1m]<lluoc> in static?[m
+2012-07-03 17:52:27 [INFO] [[35;1mFluid[37;1m]<dahlukeh> nup[m
+2012-07-03 17:52:31 [INFO] [[34;1mStatic[37;1m]<lluoc> aww[m
+2012-07-03 17:52:34 [INFO] [[35;1mFluid[37;1m]<ultrajono> i may have a glowstone or 6 you can borrow?[m
+2012-07-03 17:52:40 [INFO] [[35;1mFluid[37;1m]<ultrajono> where are you?[m
+2012-07-03 17:52:49 [INFO] [[34;1mStatic[37;1m]<lluoc> it's ok. I'm canabalising frmo my house[m
+2012-07-03 17:52:53 [INFO] [[34;1mStatic[37;1m]<lluoc> my house[m
+2012-07-03 17:52:54 [INFO] [[35;1mFluid[37;1m]<ultrajono> borrow i mean steal[m
+2012-07-03 17:52:57 [INFO] [[35;1mFluid[37;1m]<ultrajono> dude[m
+2012-07-03 17:53:01 [INFO] [[35;1mFluid[37;1m]<ultrajono> invite me to your group[m
+2012-07-03 17:53:10 [INFO] [[34;1mStatic[37;1m]<lluoc> your not in already... sorry[m
+2012-07-03 17:53:28 [INFO] [[34;1mStatic[37;1m]<ultrajono> let me check, it isn't far[m
+2012-07-03 17:53:44 [INFO] [[34;1mStatic[37;1m]<lluoc> Sorry, I though I'd invited you before[m
+2012-07-03 17:53:55 [INFO] [[34;1mStatic[37;1m]<ultrajono> all good wolf man :D[m
+2012-07-03 17:54:10 [INFO] [[34;1mStatic[37;1m]<lluoc> \[m
+2012-07-03 17:54:14 [INFO] [[34;1mStatic[37;1m]<ultrajono> transport back is easier as well :D[m
+2012-07-03 17:54:47 [INFO] [[34;1mStatic[37;1m]<lluoc> And no i don't have to feel guilty whenever I use the tp commands[m
+2012-07-03 17:56:16 [INFO] [[34;1mStatic[37;1m]<ultrajono> well bugger me, id ont' have any[m
+2012-07-03 17:56:29 [INFO] [[34;1mStatic[37;1m]<lluoc> heh, thanks for offering though[m
+2012-07-03 17:56:29 [INFO] [[34;1mStatic[37;1m]<ultrajono> thought i did, hmm[m
+2012-07-03 17:56:33 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 68 in fluid, 3.0 blocks from dahlukeh
+2012-07-03 17:56:48 [INFO] [[34;1mStatic[37;1m]<lluoc> Are you even trying to avoid them anymore luke?[m
+2012-07-03 17:57:32 [INFO] [[34;1mStatic[37;1m]<ultrajono> i think he's aiming for them[m
+2012-07-03 17:57:42 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hmmmm?[m
+2012-07-03 17:57:43 [INFO] [[35;1mFluid[37;1m]<dahlukeh> oh[m
+2012-07-03 17:57:48 [INFO] [[35;1mFluid[37;1m]<dahlukeh> he sneaked up behind me[m
+2012-07-03 17:57:48 [INFO] [[34;1mStatic[37;1m]<lluoc> ?[m
+2012-07-03 17:57:59 [INFO] [[35;1mFluid[37;1m]<dahlukeh> ohhhhh[m
+2012-07-03 17:58:03 [INFO] [[35;1mFluid[37;1m]<dahlukeh> anyone want music disks?[m
+2012-07-03 17:58:27 [INFO] [[34;1mStatic[37;1m]<ultrajono> where abouts are you luke?[m
+2012-07-03 17:58:31 [INFO] [[34;1mStatic[37;1m]<lluoc> I think this won't look good.[m
+2012-07-03 17:58:32 [INFO] [[35;1mFluid[37;1m]<dahlukeh> in fluid[m
+2012-07-03 17:58:33 [INFO] [[34;1mStatic[37;1m]<lluoc> what color?[m
+2012-07-03 17:58:37 [INFO] [[34;1mStatic[37;1m]<ultrajono> i know, i meant, where[m
+2012-07-03 17:58:40 [INFO] [[35;1mFluid[37;1m]<dahlukeh> green and gold[m
+2012-07-03 17:58:42 [INFO] [[35;1mFluid[37;1m]<dahlukeh> in my house[m
+2012-07-03 17:58:46 [INFO] [[35;1mFluid[37;1m]<dahlukeh> follow the tunnel[m
+2012-07-03 17:59:08 [INFO] [[34;1mStatic[37;1m]<ultrajono> hmm, not sure if its easier to team up with you and go back, or just go through here[m
+2012-07-03 17:59:13 [INFO] [[34;1mStatic[37;1m]<ultrajono> diamond, nice touch :P[m
+2012-07-03 17:59:23 [INFO] [[34;1mStatic[37;1m]<ultrajono> if only it was one down. . . .[m
+2012-07-03 17:59:28 [INFO] [[34;1mStatic[37;1m]<lluoc> hmm, i don't think it works[m
+2012-07-03 17:59:35 [INFO] [[34;1mStatic[37;1m]<lluoc> or one up[m
+2012-07-03 17:59:42 [INFO] [[34;1mStatic[37;1m]<ultrajono> nah, it doesn't man, i'll take the diamond off your hands[m
+2012-07-03 17:59:44 [INFO] [[34;1mStatic[37;1m]<lluoc> heh[m
+2012-07-03 17:59:53 [INFO] [[34;1mStatic[37;1m]<ultrajono> for the team[m
+2012-07-03 17:59:53 [INFO] [[34;1mStatic[37;1m]<lluoc> grr[m
+2012-07-03 18:00:05 [INFO] [[34;1mStatic[37;1m]<ultrajono> move your whole house down one, easy enough?[m
+2012-07-03 18:00:15 [INFO] [[34;1mStatic[37;1m]<lluoc> ok, sounds good[m
+2012-07-03 18:02:20 [INFO] [[35;1mFluid[37;1m]<ultrajono> yeh, mine skill is up to 20, BOOM![m
+2012-07-03 18:02:44 [INFO] [[35;1mFluid[37;1m]<dahlukeh> haha[m
+2012-07-03 18:02:46 [INFO] [[35;1mFluid[37;1m]<dahlukeh> nice?[m
+2012-07-03 18:02:51 [INFO] [[35;1mFluid[37;1m]<ultrajono> you aint got nothin :P[m
+2012-07-03 18:03:25 [INFO] [[34;1mStatic[37;1m]<lluoc> damn, when did you get to 1200?[m
+2012-07-03 18:03:41 [INFO] [[35;1mFluid[37;1m]<dahlukeh> a couple of minutes ago?[m
+2012-07-03 18:03:52 [INFO] [[34;1mStatic[37;1m]<lluoc> I;m only 86...[m
+2012-07-03 18:03:57 [INFO] [[35;1mFluid[37;1m]<dahlukeh> awwwwwww[m
+2012-07-03 18:04:00 [INFO] [[35;1mFluid[37;1m]<ultrajono> in mining?[m
+2012-07-03 18:04:00 [INFO] [[35;1mFluid[37;1m]<dahlukeh> need to play more[m
+2012-07-03 18:04:17 [INFO] [[34;1mStatic[37;1m]<lluoc> evidently[m
+2012-07-03 18:04:23 [INFO] [[34;1mStatic[37;1m]<lluoc> total[m
+2012-07-03 18:04:26 [INFO] [[35;1mFluid[37;1m]<ultrajono> ?[m
+2012-07-03 18:06:40 [INFO] [[35;1mFluid[37;1m]<ultrajono> whoever said mining obsidian wasnt' fun[m
+2012-07-03 18:06:55 [INFO] [[34;1mStatic[37;1m]<lluoc> ... everyone[m
+2012-07-03 18:07:06 [INFO] [[34;1mStatic[37;1m]<lluoc> Jeferson?[m
+2012-07-03 18:07:40 [INFO] [[35;1mFluid[37;1m]<ultrajono> again!, stupid wrong lava![m
+2012-07-03 18:07:54 [INFO] [[34;1mStatic[37;1m]<lluoc> also mining at 36[m
+2012-07-03 18:10:13 [INFO] [[35;1mFluid[37;1m]<ultrajono> hello chests full of stuff in front of lukes. . .d[m
+2012-07-03 18:10:18 [INFO] [[35;1mFluid[37;1m]<dahlukeh> oh yea[m
+2012-07-03 18:10:22 [INFO] [[35;1mFluid[37;1m]<dahlukeh> take as much as you need[m
+2012-07-03 18:10:25 [INFO] [[35;1mFluid[37;1m]<ultrajono> may, have to put a sign on those. . .[m
+2012-07-03 18:10:35 [INFO] [[35;1mFluid[37;1m]<dahlukeh> nah, don't care[m
+2012-07-03 18:10:46 [INFO] [[35;1mFluid[37;1m]<ultrajono> what?[m
+2012-07-03 18:11:06 [INFO] [[35;1mFluid[37;1m]<ultrajono> ??[m
+2012-07-03 18:11:10 [INFO] [[35;1mFluid[37;1m]<dahlukeh> ?[m
+2012-07-03 18:11:17 [INFO] [[35;1mFluid[37;1m]<ultrajono> that stuff is for everyoen to steal?[m
+2012-07-03 18:11:25 [INFO] [[35;1mFluid[37;1m]<dahlukeh> yeah... its pretty useless[m
+2012-07-03 18:11:37 [INFO] [[35;1mFluid[37;1m]<ultrajono> where's your enchanting room?[m
+2012-07-03 18:11:47 [INFO] [[35;1mFluid[37;1m]<dahlukeh> don't have one[m
+2012-07-03 18:11:53 [INFO] [[35;1mFluid[37;1m]<ultrajono> use harry's?[m
+2012-07-03 18:12:09 [INFO] [[35;1mFluid[37;1m]<dahlukeh> nah, I'll make my own when nessacary[m
+2012-07-03 18:12:19 [INFO] [[35;1mFluid[37;1m]<ultrajono> some of that stuff is enchanted?[m
+2012-07-03 18:13:21 [INFO] [[35;1mFluid[37;1m]<ultrajono> your storagea area is nice man :D[m
+2012-07-03 18:13:25 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hmmmm[m
+2012-07-03 18:13:30 [INFO] [[35;1mFluid[37;1m]<dahlukeh> making it better though[m
+2012-07-03 18:14:35 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 18:14:37 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 18:14:38 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 18:14:41 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 18:14:54 [INFO] [[35;1mFluid[37;1m]<ultrajono> how do you not get confused as to where everything is?[m
+2012-07-03 18:14:56 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 18:14:58 [INFO] [[35;1mFluid[37;1m]<dahlukeh> um[m
+2012-07-03 18:15:07 [INFO] [[35;1mFluid[37;1m]<dahlukeh> That's what I'm going to fix[m
+2012-07-03 18:15:12 [INFO] [[35;1mFluid[37;1m]<dahlukeh> make it easier[m
+2012-07-03 18:15:14 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 18:15:14 [INFO] [[34;1mStatic[37;1m]<lluoc> heh[m
+2012-07-03 18:15:17 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 18:15:24 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 18:15:26 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 18:15:29 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 18:15:31 [INFO] [[34;1mStatic[37;1m]<lluoc> oh, out os sandstone... aww, I hate mining sandstone[m
+2012-07-03 18:15:31 [INFO] [[35;1mFluid[37;1m]<ultrajono> oh, i bet you miss auto melon farms :P[m
+2012-07-03 18:15:57 [INFO] H4ZM4T [/127.0.0.1:37578] logged in with entity id 311095 at ([world] 651.1835022856258, 34.0, 101.55348913243058)
+2012-07-03 18:16:00 [INFO] [[35;1mFluid[37;1m]<dahlukeh> here[m
+2012-07-03 18:16:12 [INFO] [[34;1mStatic[37;1m]<lluoc> hey[m
+2012-07-03 18:16:15 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hai[m
+2012-07-03 18:16:18 [INFO] [[35;1mFluid[37;1m]<ultrajono> hey[m
+2012-07-03 18:16:48 [INFO] [[35;1mFluid[37;1m]<ultrajono> thats a lot of fish :P[m
+2012-07-03 18:16:52 [INFO] [[35;1mFluid[37;1m]<dahlukeh> yep![m
+2012-07-03 18:17:02 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> you got to level 150 yet?[m
+2012-07-03 18:17:04 [INFO] [[35;1mFluid[37;1m]<ultrajono> so, gonna fix this up, that will be a bitch[m
+2012-07-03 18:17:10 [INFO] [[35;1mFluid[37;1m]<dahlukeh> hmmmmmmm[m
+2012-07-03 18:17:15 [INFO] [[35;1mFluid[37;1m]<dahlukeh> fix what up?[m
+2012-07-03 18:17:26 [INFO] [[35;1mFluid[37;1m]<ultrajono> put the iron block in the floor, easier to move aroudn it?[m
+2012-07-03 18:17:31 [INFO] [[35;1mFluid[37;1m]<dahlukeh> oh hey[m
+2012-07-03 18:17:50 [INFO] Connection reset
+2012-07-03 18:17:50 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-03 18:19:00 [INFO] [[35;1mFluid[37;1m]<ultrajono> off for now, toodles[m
+2012-07-03 18:19:02 [INFO] Connection reset
+2012-07-03 18:19:02 [INFO] ultrajono lost connection: disconnect.quitting
+2012-07-03 18:19:24 [INFO] [Lockette] dahlukeh has released a container.
+2012-07-03 18:20:57 [INFO] [Lockette] dahlukeh has released a container.
+2012-07-03 18:21:03 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 18:21:14 [INFO] [Lockette] dahlukeh has released a container.
+2012-07-03 18:21:42 [INFO] [Lockette] dahlukeh has claimed a container.
+2012-07-03 18:23:00 [INFO] [Lockette] dahlukeh has released a container.
+2012-07-03 18:24:15 [INFO] [Lockette] dahlukeh has released a container.
+2012-07-03 18:25:11 [INFO] [Lockette] dahlukeh has released a container.
+2012-07-03 18:26:00 [INFO] [Lockette] dahlukeh has released a container.
+2012-07-03 18:26:05 [INFO] [Lockette] dahlukeh has released a container.
+2012-07-03 18:33:36 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-03 18:33:36 [INFO] Connection reset
+2012-07-03 18:33:43 [INFO] Connection reset
+2012-07-03 18:33:43 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-03 19:46:14 [INFO] Yinsano [/127.0.0.1:37607] logged in with entity id 349864 at ([world] 1040.235980085064, 73.0, -109.50945972225499)
+2012-07-03 20:18:44 [INFO] TrialZ [/127.0.0.1:37618] logged in with entity id 371678 at ([fluid] -48.36966508436814, 84.0, 436.30000001192093)
+2012-07-03 20:18:54 [INFO] [[34;1mStatic[37;1m]<Yinsano> Hey[m
+2012-07-03 20:18:57 [INFO] [[35;1mFluid[37;1m]<TrialZ> yet[m
+2012-07-03 20:19:05 [INFO] [[35;1mFluid[37;1m]<TrialZ> hey*[m
+2012-07-03 20:19:43 [INFO] [[34;1mStatic[37;1m]<Yinsano> So how is?[m
+2012-07-03 20:20:23 [INFO] [[35;1mFluid[37;1m]<TrialZ> imagine the following: two people with only a bow and a set of arrows, except left clicking with the[m
+2012-07-03 20:20:30 [INFO] [[35;1mFluid[37;1m]<TrialZ> bow makes the arrows explode like TNT[m
+2012-07-03 20:20:37 [INFO] [[35;1mFluid[37;1m]<TrialZ> trying to kill each other on a newly generated map[m
+2012-07-03 20:20:43 [INFO] [[34;1mStatic[37;1m]<Yinsano> Say what?[m
+2012-07-03 20:21:19 [INFO] [[35;1mFluid[37;1m]<TrialZ> that's what we've (dahlukeh and i) have been doing[m
+2012-07-03 20:21:25 [INFO] [[35;1mFluid[37;1m]<TrialZ> it's ridiculously fun[m
+2012-07-03 20:21:43 [INFO] [[35;1mFluid[37;1m]<TrialZ> it's like trying to lob a grenade with remote detenation[m
+2012-07-03 20:21:45 [INFO] [[34;1mStatic[37;1m]<Yinsano> That I can beleive[m
+2012-07-03 20:24:11 [INFO] Ellethwen11 [/127.0.0.1:37624] logged in with entity id 381051 at ([world] 3.107798408490115, 63.0, -12.280210462917466)
+2012-07-03 20:25:15 [INFO] [[34;1mStatic[37;1m]<Yinsano> Hey[m
+2012-07-03 20:25:23 [INFO] [[35;1mFluid[37;1m]<Ellethwen11> hey[m
+2012-07-03 20:25:53 [INFO] Connection reset
+2012-07-03 20:25:53 [INFO] Ellethwen11 lost connection: disconnect.quitting
+2012-07-03 20:33:18 [INFO] dahlukeh [/127.0.0.1:37630] logged in with entity id 399002 at ([fluid] -61.32363246710297, 63.0, 423.1728428141668)
+2012-07-03 20:34:52 [INFO] Connection reset
+2012-07-03 20:34:52 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-03 20:35:20 [INFO] Connection reset
+2012-07-03 20:35:20 [INFO] TrialZ lost connection: disconnect.quitting
+2012-07-03 20:36:40 [INFO] Connection reset
+2012-07-03 20:49:43 [INFO] TrialZ [/127.0.0.1:37651] lost connection
+2012-07-03 20:53:57 [INFO] Yinsano lost connection: disconnect.endOfStream
+2012-07-03 21:05:32 [INFO] Yinsano [/127.0.0.1:37659] logged in with entity id 407531 at ([world] 1167.3389715422838, 49.0, 116.37713445870662)
+2012-07-03 21:11:24 [INFO] hornetblack [/127.0.0.1:37666] logged in with entity id 409479 at ([world] 3917.8533923131563, 77.0, 3682.745213099865)
+2012-07-03 21:11:35 [INFO] [[34;1mStatic[37;1m]<Yinsano> Hi there[m
+2012-07-03 21:11:38 [INFO] [[34;1mStatic[37;1m]<hornetblack> Hello[m
+2012-07-03 21:12:06 [INFO] [[34;1mStatic[37;1m]<Yinsano> Haven't seen you before[m
+2012-07-03 21:12:27 [INFO] [[34;1mStatic[37;1m]<hornetblack> I've only been on a couple of times.[m
+2012-07-03 21:16:20 [INFO] Connection reset
+2012-07-03 21:16:20 [INFO] hornetblack lost connection: disconnect.quitting
+2012-07-03 21:24:06 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 44 in world, 5.6 blocks from Yinsano
+2012-07-03 21:24:37 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 42 in world, 2.6 blocks from Yinsano
+2012-07-03 21:28:45 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 42 in world, 2.7 blocks from Yinsano
+2012-07-03 21:29:02 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 42 in world, 3.6 blocks from Yinsano
+2012-07-03 22:04:41 [INFO] Connection reset
+2012-07-03 22:04:41 [INFO] Yinsano lost connection: disconnect.quitting
+2012-07-03 22:09:58 [INFO] Yinsano [/127.0.0.1:37696] logged in with entity id 448873 at ([world] 1165.3068383932484, 49.0, 115.3088253161311)
+2012-07-03 22:10:06 [INFO] Unknown command. Type "help" for help.[m
+2012-07-03 22:10:06 [INFO] CONSOLE: Giving Yinsano some 341 (SLIME_BALL)[m
+2012-07-03 22:11:50 [INFO] H4ZM4T [/127.0.0.1:37702] logged in with entity id 449723 at ([fluid] -55.07883586376015, 63.0, 421.30000001192093)
+2012-07-03 22:12:08 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 68 in world, 2.7 blocks from Yinsano
+2012-07-03 22:12:09 [INFO] [[34;1mStatic[37;1m]<Yinsano> WHAT DID YE DO WILLY[m
+2012-07-03 22:12:14 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> ??[m
+2012-07-03 22:12:35 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> define?[m
+2012-07-03 22:12:55 [INFO] [[34;1mStatic[37;1m]<Yinsano> I'm not actually sure[m
+2012-07-03 22:13:00 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> also[m
+2012-07-03 22:13:03 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> come[m
+2012-07-03 22:13:04 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> look[m
+2012-07-03 22:13:28 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> follow the lights[m
+2012-07-03 22:13:37 [INFO] [[34;1mStatic[37;1m]<Yinsano> to stronghold?[m
+2012-07-03 22:13:40 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> mhmm[m
+2012-07-03 22:13:46 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> do you like what I made there?[m
+2012-07-03 22:13:53 [INFO] [[34;1mStatic[37;1m]<Yinsano> Have yet to go[m
+2012-07-03 22:13:57 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> come now[m
+2012-07-03 22:14:03 [INFO] [[34;1mStatic[37;1m]<Yinsano> one sec[m
+2012-07-03 22:14:52 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I see the pistons are now ender stone[m
+2012-07-03 22:15:11 [INFO] [[34;1mStatic[37;1m]<Yinsano> Yep, still not as High a BR as I'd Like[m
+2012-07-03 22:15:29 [INFO] [[34;1mStatic[37;1m]<Yinsano> Also, who was Camping in the Stairwell?[m
+2012-07-03 22:15:32 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> anything higher?[m
+2012-07-03 22:15:34 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> that was me[m
+2012-07-03 22:15:38 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> acro levelling[m
+2012-07-03 22:15:43 [INFO] [[34;1mStatic[37;1m]<Yinsano> Nothing that moves[m
+2012-07-03 22:16:05 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> go through the portal to the stronghold[m
+2012-07-03 22:16:09 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I made it purdy[m
+2012-07-03 22:16:39 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> come up[m
+2012-07-03 22:16:42 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> upstairs[m
+2012-07-03 22:16:47 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> nooooo[m
+2012-07-03 22:16:55 [INFO] [[34;1mStatic[37;1m]<Yinsano> It's so Pretty[m
+2012-07-03 22:16:56 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> don't go in there[m
+2012-07-03 22:17:13 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> noooo[m
+2012-07-03 22:17:21 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> follow[m
+2012-07-03 22:17:55 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> like?[m
+2012-07-03 22:18:08 [INFO] [[34;1mStatic[37;1m]<Yinsano> is OK[m
+2012-07-03 22:18:12 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> :([m
+2012-07-03 22:18:42 [INFO] [[34;1mStatic[37;1m]<Yinsano> While I like the Asthetics of the Ruins, it lacks defensibility[m
+2012-07-03 22:18:53 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> it has doors[m
+2012-07-03 22:18:59 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> and is well lit[m
+2012-07-03 22:20:11 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I also mined some more[m
+2012-07-03 22:20:19 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> and put more eggs in the dispensers[m
+2012-07-03 22:20:21 [INFO] [[34;1mStatic[37;1m]<Yinsano> where?[m
+2012-07-03 22:20:27 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I shall show you[m
+2012-07-03 22:20:57 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> also, these foundations look like a penis on the map[m
+2012-07-03 22:21:01 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> (with the path)[m
+2012-07-03 22:21:13 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> (minimap)[m
+2012-07-03 22:21:40 [INFO] [[34;1mStatic[37;1m]<Yinsano> Is that because of the Path?[m
+2012-07-03 22:21:47 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> mhmm[m
+2012-07-03 22:22:29 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> over here[m
+2012-07-03 22:22:30 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> the mine[m
+2012-07-03 22:22:53 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> too low[m
+2012-07-03 22:23:01 [INFO] [[34;1mStatic[37;1m]<Yinsano> oH[m
+2012-07-03 22:23:04 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> heh[m
+2012-07-03 22:23:07 [INFO] [[34;1mStatic[37;1m]<Yinsano> Oh[m
+2012-07-03 22:23:19 [INFO] [[34;1mStatic[37;1m]<Yinsano> Well don[m
+2012-07-03 22:23:26 [INFO] [[34;1mStatic[37;1m]<Yinsano> *done[m
+2012-07-03 22:23:35 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> it ends in lava and death[m
+2012-07-03 22:23:51 [INFO] [[34;1mStatic[37;1m]<Yinsano> Don't they all?[m
+2012-07-03 22:24:15 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> don't dig above here too[m
+2012-07-03 22:24:21 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> ALL of the mosnters. Ever[m
+2012-07-03 22:24:29 [INFO] [[34;1mStatic[37;1m]<Yinsano> Really?[m
+2012-07-03 22:24:33 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> mhmm[m
+2012-07-03 22:25:29 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> oh hey[m
+2012-07-03 22:25:36 [INFO] [[34;1mStatic[37;1m]<Yinsano> What>?[m
+2012-07-03 22:25:40 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> it connects to the ravine you can fall in from above[m
+2012-07-03 22:26:42 [INFO] [[34;1mStatic[37;1m]<Yinsano> I gotta sleep man. I've been working too much[m
+2012-07-03 22:26:46 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> kk[m
+2012-07-03 22:26:47 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> bai[m
+2012-07-03 22:29:12 [INFO] [[34;1mStatic[37;1m]<Yinsano> BaIII[m
+2012-07-03 22:29:14 [INFO] Yinsano lost connection: disconnect.quitting
+2012-07-03 22:29:14 [INFO] Connection reset
+2012-07-03 22:29:16 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> baiii[m
+2012-07-03 22:29:18 [INFO] Connection reset
+2012-07-03 22:29:18 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-03 22:50:40 [INFO] dahlukeh [/127.0.0.1:37723] logged in with entity id 464817 at ([fluid] -56.69999998807907, 79.5, 425.8118036411219)
+2012-07-03 22:55:29 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in fluid, 6.9 blocks from dahlukeh
+2012-07-03 22:59:42 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 68 in fluid, 6.9 blocks from dahlukeh
+2012-07-03 23:13:22 [INFO] Connection reset
+2012-07-03 23:13:22 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-04 07:37:30 [INFO] adrianjboyer [/127.0.0.1:37849] logged in with entity id 492370 at ([world_the_end] 351.5588962292363, 5.0, 0.6999999880790791)
+2012-07-04 07:44:48 [INFO] Connection reset
+2012-07-04 07:44:48 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-07-04 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-07-04 08:00:01 [INFO] [35;1m[Server] Starting backup.[m
+2012-07-04 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-07-04 08:00:01 [INFO] CONSOLE: Forcing save..[m
+2012-07-04 08:00:01 [INFO] CONSOLE: Save complete.[m
+2012-07-04 08:00:04 [INFO] Unknown command. Type "help" for help.[m
+2012-07-04 08:00:04 [INFO] CONSOLE: Disabling level saving..[m

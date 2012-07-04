@@ -49129,3 +49129,40 @@ expected <block end>, but found Key
 2012-07-04 08:00:01 [INFO] CONSOLE: Save complete.[m
 2012-07-04 08:00:04 [INFO] Unknown command. Type "help" for help.[m
 2012-07-04 08:00:04 [INFO] CONSOLE: Disabling level saving..[m
+2012-07-04 08:05:11 [INFO] Unknown command. Type "help" for help.[m
+2012-07-04 08:05:11 [INFO] CONSOLE: Enabling level saving..[m
+2012-07-04 13:45:03 [INFO] dahlukeh [/127.0.0.1:37938] logged in with entity id 509476 at ([fluid] -61.30765652592996, 63.0, 425.486066840194)
+2012-07-04 13:45:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-04 13:55:53 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 67 in fluid, 6.8 blocks from dahlukeh
+2012-07-04 13:57:17 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 65 in fluid, 5.6 blocks from dahlukeh
+2012-07-04 14:06:59 [INFO] TrialZ [/127.0.0.1:37947] logged in with entity id 522221 at ([fluid] -48.52743100705729, 84.0, 436.30000001192093)
+2012-07-04 14:07:07 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-04 14:07:07 [INFO] Connection reset
+2012-07-04 14:10:50 [INFO] Connection reset
+2012-07-04 14:10:50 [INFO] TrialZ lost connection: disconnect.quitting
+2012-07-04 15:59:29 [INFO] lluoc [/127.0.0.1:37989] logged in with entity id 526336 at ([world] -70.27494438021465, 89.0, -21.116641396245043)
+2012-07-04 15:59:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-04 16:00:40 [INFO] Connection reset
+2012-07-04 16:00:40 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-04 16:30:55 [INFO] TrialZ [/127.0.0.1:38002] logged in with entity id 527873 at ([fluid] -48.52743100705729, 84.0, 436.30000001192093)
+2012-07-04 16:30:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-04 16:52:44 [INFO] Connection reset
+2012-07-04 16:52:44 [INFO] TrialZ lost connection: disconnect.quitting
+2012-07-04 19:02:26 [INFO] ultrajono [/127.0.0.1:38039] logged in with entity id 540797 at ([fluid] -58.69999998807907, 63.0, 421.06197351919525)
+2012-07-04 19:18:05 [INFO] Unknown command. Type "help" for help.[m
+2012-07-04 19:18:05 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[m
+2012-07-04 19:18:38 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 70 in fluid, 6.9 blocks from ultrajono
+2012-07-04 19:32:33 [INFO] Connection reset
+2012-07-04 19:32:33 [INFO] ultrajono lost connection: disconnect.quitting
+2012-07-04 21:42:53 [INFO] H4ZM4T [/127.0.0.1:38093] logged in with entity id 581943 at ([world] 1041.3288509483914, 10.0, -62.89666814133518)
+2012-07-04 21:42:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-04 21:43:09 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-04 21:43:09 [INFO] Connection reset
+2012-07-05 04:42:07 [INFO] [Metrics] http://mcstats.org/report/mcMMO
+2012-07-05 08:00:02 [INFO] Unknown command. Type "help" for help.[m
+2012-07-05 08:00:02 [INFO] [35;1m[Server] Starting backup.[m
+2012-07-05 08:00:02 [INFO] Unknown command. Type "help" for help.[m
+2012-07-05 08:00:02 [INFO] CONSOLE: Forcing save..[m
+2012-07-05 08:00:02 [INFO] CONSOLE: Save complete.[m
+2012-07-05 08:00:05 [INFO] Unknown command. Type "help" for help.[m
+2012-07-05 08:00:05 [INFO] CONSOLE: Disabling level saving..[m

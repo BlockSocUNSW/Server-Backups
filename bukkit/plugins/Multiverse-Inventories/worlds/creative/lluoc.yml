@@ -3,7 +3,7 @@ SURVIVAL:
   inventoryContents: 0:t:287;#:4/1:t:368;#:15/2:t:22/3:t:41/4:t:57/5:t:57/6:t:98;#:64/7:t:368;#:15/8:t:123/9:t:289;#:9/10:t:7/11:t:367;#:3/12:t:262/13:t:352;#:2/14:t:44;#:64/15:t:44;#:9/16:t:98;#:64
   bedSpawnLocation: wo:world;x:-72.0;y:80.0;z:-25.0;pi:0.0;ya:0.0
   potions: ''
-  stats: fd:0.0;ra:300;ft:-20;sa:5.0;el:0;hp:20;ex:0.54449993;xp:0.0;ma:300;txp:0;fl:20
+  stats: fd:0.0;ra:300;ft:-20;sa:5.0;el:0;hp:20;ex:1.2405001;xp:0.0;ma:300;txp:0;fl:20
 CREATIVE:
   potions: ''
   armorContents: ''

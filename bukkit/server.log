@@ -49166,3 +49166,498 @@ expected <block end>, but found Key
 2012-07-05 08:00:02 [INFO] CONSOLE: Save complete.[m
 2012-07-05 08:00:05 [INFO] Unknown command. Type "help" for help.[m
 2012-07-05 08:00:05 [INFO] CONSOLE: Disabling level saving..[m
+2012-07-05 08:03:05 [INFO] Unknown command. Type "help" for help.[m
+2012-07-05 08:03:05 [INFO] CONSOLE: Enabling level saving..[m
+2012-07-05 08:03:05 [INFO] Unknown command. Type "help" for help.[m
+2012-07-05 08:03:05 [INFO] CONSOLE: Forcing save..[m
+2012-07-05 08:03:05 [INFO] CONSOLE: Save complete.[m
+2012-07-05 08:03:05 [INFO] Unknown command. Type "help" for help.[m
+2012-07-05 08:03:05 [INFO] [35;1m[Server] Backup complete.[m
+2012-07-05 12:11:28 [INFO] Connection reset
+2012-07-05 12:51:27 [INFO] dahlukeh [/127.0.0.1:38343] logged in with entity id 594235 at ([fluid] -58.23157410068855, 63.0, 420.87308988956704)
+2012-07-05 12:51:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-05 12:52:09 [INFO] Connection reset
+2012-07-05 12:52:09 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-05 13:09:34 [INFO] dahlukeh [/127.0.0.1:38352] logged in with entity id 595212 at ([fluid] -56.9931052965988, 63.0, 421.69999998807907)
+2012-07-05 13:20:33 [INFO] Connection reset
+2012-07-05 13:20:33 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-05 17:10:26 [INFO] [Metrics] http://mcstats.org/report/mcMMO
+2012-07-05 18:46:54 [INFO] H4ZM4T [/127.0.0.1:38448] logged in with entity id 614428 at ([world] 1041.3288509483914, 10.0, -62.89666814133518)
+2012-07-05 18:46:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-05 18:47:17 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-07-05 19:04:25 [INFO] TrialZ [/127.0.0.1:38458] logged in with entity id 614831 at ([fluid] -48.52743100705729, 84.0, 436.30000001192093)
+2012-07-05 19:28:26 [INFO] H4ZM4T [/127.0.0.1:38466] logged in with entity id 635258 at ([world] 1041.3288509483914, 10.0, -62.89666814133518)
+2012-07-05 19:28:35 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-07-05 19:50:04 [INFO] Read timed out
+2012-07-05 19:50:04 [INFO] TrialZ lost connection: disconnect.endOfStream
+2012-07-05 22:38:13 [INFO] dahlukeh [/127.0.0.1:38524] logged in with entity id 654456 at ([fluid] -59.69999998807908, 63.0, 421.5992240927058)
+2012-07-05 22:38:26 [INFO] Unknown command. Type "help" for help.[m
+2012-07-05 22:38:26 [INFO] CONSOLE: Giving dahlukeh some 341 (SLIME_BALL)[m
+2012-07-05 22:38:37 [INFO] Connection reset
+2012-07-05 22:38:37 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-05 23:01:54 [INFO] ultrajono [/127.0.0.1:38546] logged in with entity id 655315 at ([fluid] -22.943823226932036, 97.0, 151.2051612547106)
+2012-07-05 23:02:00 [INFO] Unknown command. Type "help" for help.[m
+2012-07-05 23:02:00 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[m
+2012-07-05 23:04:40 [INFO] Connection reset
+2012-07-05 23:04:40 [INFO] ultrajono lost connection: disconnect.quitting
+2012-07-05 23:51:05 [INFO] H4ZM4T [/127.0.0.1:38573] logged in with entity id 658616 at ([world] 1041.3288509483914, 10.0, -62.89666814133518)
+2012-07-05 23:52:55 [INFO] ultrajono [/127.0.0.1:38577] logged in with entity id 659329 at ([fluid] -28.198205428359792, 97.0, 152.97618992977627)
+2012-07-05 23:52:59 [INFO] [[35;1mFluid[37;1m]<ultrajono> hey man[m
+2012-07-05 23:53:04 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hai[m
+2012-07-05 23:53:05 [INFO] [[35;1mFluid[37;1m]<ultrajono> actually wanted to ask you somethin[m
+2012-07-05 23:53:24 [INFO] [[35;1mFluid[37;1m]<ultrajono> you know my place, how it has a cross like look on the ground?[m
+2012-07-05 23:53:31 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> yeah?[m
+2012-07-05 23:53:45 [INFO] [[35;1mFluid[37;1m]<ultrajono> i'm tempted, to fill up the borders all the way up wiht obsidian[m
+2012-07-05 23:54:22 [INFO] [[35;1mFluid[37;1m]<ultrajono> all the way round, leaving 4 sets of double iron doors in front of the spaces for my water elevator[m
+2012-07-05 23:54:31 [INFO] [[35;1mFluid[37;1m]<ultrajono> all the way round, and all teh way up[m
+2012-07-05 23:54:34 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> that is reaaaaly expensive[m
+2012-07-05 23:55:25 [INFO] [[35;1mFluid[37;1m]<ultrajono> but apart from cost?[m
+2012-07-05 23:55:54 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> not quite sure how you mean it would look, would need to see it finished to know[m
+2012-07-05 23:57:35 [INFO] [[35;1mFluid[37;1m]<ultrajono> 146 all teh way around[m
+2012-07-05 23:57:43 [INFO] [[35;1mFluid[37;1m]<ultrajono> and i think its 15 high, ok, that will take a bit of work[m
+2012-07-05 23:58:07 [INFO] [[35;1mFluid[37;1m]<ultrajono> 2190 blocks of obsidian, ok, bit of work[m
+2012-07-05 23:58:43 [INFO] [[35;1mFluid[37;1m]<ultrajono> oh, any chance you coudl move your mine/path 2 blocks to teh left :P[m
+2012-07-05 23:58:51 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> nooooo[m
+2012-07-05 23:59:26 [INFO] [[35;1mFluid[37;1m]<ultrajono> i dunno, it just looks lke it'll be alright, where abouts in static are you anyway?[m
+2012-07-05 23:59:34 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> the end[m
+2012-07-05 23:59:41 [INFO] [[35;1mFluid[37;1m]<ultrajono> oh, it comes up with it now, shiny[m
+2012-07-05 23:59:48 [INFO] [[35;1mFluid[37;1m]<ultrajono> apparently the grinder is fucked?[m
+2012-07-06 00:00:01 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> will be when the next update comes in[m
+2012-07-06 00:00:12 [INFO] [[35;1mFluid[37;1m]<ultrajono> and now?[m
+2012-07-06 00:00:20 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> ....should be fine?[m
+2012-07-06 00:00:25 [INFO] [[35;1mFluid[37;1m]<ultrajono> i meant, how is it?[m
+2012-07-06 00:00:33 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> not there yet[m
+2012-07-06 00:02:08 [INFO] [[35;1mFluid[37;1m]<ultrajono> no, i mean, didn't the grinder fuck up with the latest update?[m
+2012-07-06 00:09:10 [INFO] [[35;1mFluid[37;1m]<ultrajono> what you workin on?[m
+2012-07-06 00:09:28 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I am killin the enders[m
+2012-07-06 00:09:37 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> the next update will kill the grinder[m
+2012-07-06 00:09:39 [INFO] [[35;1mFluid[37;1m]<ultrajono> what did they do to you?[m
+2012-07-06 00:09:46 [INFO] [[35;1mFluid[37;1m]<ultrajono> thats what i bloody asked man: P[m
+2012-07-06 00:09:56 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> but lluoc is considering hacking fixing it, due to all the work put into it[m
+2012-07-06 00:10:05 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I am killin them, because exp[m
+2012-07-06 00:15:05 [INFO] [[35;1mFluid[37;1m]<ultrajono> time to go piss off harry[m
+2012-07-06 00:15:08 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> ??\[m
+2012-07-06 00:15:16 [INFO] [[35;1mFluid[37;1m]<ultrajono> need more glass[m
+2012-07-06 00:15:19 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> no[m
+2012-07-06 00:15:24 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> don't dig out his desert[m
+2012-07-06 00:15:27 [INFO] [[35;1mFluid[37;1m]<ultrajono> i'm not[m
+2012-07-06 00:15:36 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> then where are you digging?[m
+2012-07-06 00:15:39 [INFO] [[35;1mFluid[37;1m]<ultrajono> i'm going to be digging away from his line of site[m
+2012-07-06 00:15:42 [INFO] [[35;1mFluid[37;1m]<ultrajono> sight[m
+2012-07-06 00:15:53 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> he has asked everyone to not even dig in that area[m
+2012-07-06 00:16:10 [INFO] [[35;1mFluid[37;1m]<ultrajono> well, thats a bit unreasonable[m
+2012-07-06 00:16:19 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> he says there is another desert to the north[m
+2012-07-06 00:16:38 [INFO] [[35;1mFluid[37;1m]<ultrajono> ok, hypotetically, where does his 'dominion' end?[m
+2012-07-06 00:16:42 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> askhim[m
+2012-07-06 00:16:46 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> don't know sorry[m
+2012-07-06 00:16:56 [INFO] [[35;1mFluid[37;1m]<ultrajono> not gonna happen[m
+2012-07-06 00:17:12 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> then you face his wrath[m
+2012-07-06 00:17:35 [INFO] [[35;1mFluid[37;1m]<ultrajono> you coudl ask me not to do anything apart from within my 'cross' house[m
+2012-07-06 00:17:49 [INFO] [[35;1mFluid[37;1m]<ultrajono> i could ask you nto to do anything within a 500 block ragne of my house[m
+2012-07-06 00:18:22 [INFO] [[35;1mFluid[37;1m]<ultrajono> wow, check out gamer.gg[m
+2012-07-06 00:18:37 [INFO] [[35;1mFluid[37;1m]<ultrajono> fuck, igotta check this out[m
+2012-07-06 00:19:02 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> what am I checking out?[m
+2012-07-06 00:19:22 [INFO] [[35;1mFluid[37;1m]<ultrajono> look at teh area north of your mine, someone's been building, unless thats a village[m
+2012-07-06 00:19:40 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> that be a village[m
+2012-07-06 00:20:11 [INFO] [[35;1mFluid[37;1m]<ultrajono> the desert harry is talking about, links up to his one[m
+2012-07-06 00:20:20 [INFO] [[35;1mFluid[37;1m]<ultrajono> and i say 'his one' because its the one that is near his mountain[m
+2012-07-06 00:22:20 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> he means the one the other side of the village[m
+2012-07-06 00:22:49 [INFO] [[35;1mFluid[37;1m]<ultrajono> he wants someone to go all teh way there, because this ENTIRE desert is his?[m
+2012-07-06 00:23:00 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> look, I don't know okay. Ask him[m
+2012-07-06 00:23:22 [INFO] [[35;1mFluid[37;1m]<ultrajono> and what do you thinka bout it then?[m
+2012-07-06 00:23:22 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> maybe do it at the other end of the desert he resides in, not in visual range[m
+2012-07-06 00:28:18 [INFO] lluoc [/127.0.0.1:38587] logged in with entity id 733840 at ([world] -70.27494438021465, 89.0, -21.116641396245043)
+2012-07-06 00:28:27 [INFO] [[34;1mStatic[37;1m]<lluoc> hey[m
+2012-07-06 00:28:28 [INFO] [[35;1mFluid[37;1m]<ultrajono> hey man[m
+2012-07-06 00:28:32 [INFO] Unknown command. Type "help" for help.[m
+2012-07-06 00:28:32 [INFO] CONSOLE: Giving lluoc some 341 (SLIME_BALL)[m
+2012-07-06 00:28:54 [INFO] [[35;1mFluid[37;1m]<ultrajono> how goes it?[m
+2012-07-06 00:29:01 [INFO] [[34;1mStatic[37;1m]<lluoc> I slept till 8pm[m
+2012-07-06 00:29:12 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> haiii[m
+2012-07-06 00:29:17 [INFO] [[34;1mStatic[37;1m]<lluoc> still tired[m
+2012-07-06 00:29:19 [INFO] [[34;1mStatic[37;1m]<lluoc> hey[m
+2012-07-06 00:29:20 [INFO] [[35;1mFluid[37;1m]<ultrajono> you lazy bastar[m
+2012-07-06 00:29:21 [INFO] [[34;1mStatic[37;1m]<lluoc> the end?[m
+2012-07-06 00:29:27 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> lluoc, is there a way of messaging specific players?[m
+2012-07-06 00:29:36 [INFO] [[34;1mStatic[37;1m]<lluoc> I've been up to 6+am each night[m
+2012-07-06 00:29:44 [INFO] [[34;1mStatic[37;1m]<lluoc> umm. /tell I think[m
+2012-07-06 00:29:51 [INFO] [[34;1mStatic[37;1m]<lluoc> yeah /tell[m
+2012-07-06 00:29:54 [INFO] [[34;1mStatic[37;1m]<lluoc> why?[m
+2012-07-06 00:30:08 [INFO] [[35;1mFluid[37;1m]<ultrajono> help me then, i need 2014 obsidian i think it is :P[m
+2012-07-06 00:30:22 [INFO] [lluoc] H4ZM4T ?
+2012-07-06 00:30:22 [INFO] [35;1m[Server] H4ZM4T ?[m
+2012-07-06 00:30:27 [INFO] [lluoc] H4ZM4T what slimes?
+2012-07-06 00:30:28 [INFO] [35;1m[Server] H4ZM4T what slimes?[m
+2012-07-06 00:30:36 [INFO] [[34;1mStatic[37;1m]<lluoc> doh[m
+2012-07-06 00:30:37 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> oooooooooh[m
+2012-07-06 00:30:41 [INFO] [[35;1mFluid[37;1m]<ultrajono> now nellie is a server admin?[m
+2012-07-06 00:31:08 [INFO] [[34;1mStatic[37;1m]<lluoc> always mixing up /say and /tell[m
+2012-07-06 00:31:25 [INFO] [[34;1mStatic[37;1m]<lluoc> 2014 obsideon... the hell are you making[m
+2012-07-06 00:31:44 [INFO] [[35;1mFluid[37;1m]<ultrajono> you know how my house has a look of a cross[m
+2012-07-06 00:31:53 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> Ultrajono: I cannot make server messages[m
+2012-07-06 00:31:54 [INFO] [[35;1mFluid[37;1m]<ultrajono> i think its 2014, i can't remember, its over 2000 eithe rway[m
+2012-07-06 00:31:57 [INFO] [[34;1mStatic[37;1m]<lluoc> yeah[m
+2012-07-06 00:32:11 [INFO] [[34;1mStatic[37;1m]<lluoc> ... good luck[m
+2012-07-06 00:32:14 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> heheh[m
+2012-07-06 00:32:19 [INFO] [[35;1mFluid[37;1m]<ultrajono> you know already huh :P[m
+2012-07-06 00:32:44 [INFO] [[34;1mStatic[37;1m]<lluoc> It took me hours just to get 64 obsideon[m
+2012-07-06 00:32:52 [INFO] [[34;1mStatic[37;1m]<lluoc> I'd recommend using the poral trick[m
+2012-07-06 00:33:00 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> the portal trick?[m
+2012-07-06 00:33:08 [INFO] [[35;1mFluid[37;1m]<ultrajono> trick with portals?[m
+2012-07-06 00:33:09 [INFO] [[34;1mStatic[37;1m]<lluoc> Portals can't form above layer 128[m
+2012-07-06 00:33:16 [INFO] [[34;1mStatic[37;1m]<lluoc> from the nether[m
+2012-07-06 00:33:22 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> oooh, shiny[m
+2012-07-06 00:33:28 [INFO] [[34;1mStatic[37;1m]<lluoc> but you can make a portal to the nether in the overworld above 128[m
+2012-07-06 00:33:34 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I thought you meant the oooold portal glitch[m
+2012-07-06 00:33:35 [INFO] [[34;1mStatic[37;1m]<lluoc> activate it, go in and then exit[m
+2012-07-06 00:34:08 [INFO] [[34;1mStatic[37;1m]<lluoc> and a new poral will fom in the overworld below the portal you made. Mine it, rerpeat[m
+2012-07-06 00:34:19 [INFO] [[34;1mStatic[37;1m]<lluoc> And no. not THAT glitch.[m
+2012-07-06 00:34:24 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> hehehe[m
+2012-07-06 00:34:38 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I had at one point more tnt than hiroshima[m
+2012-07-06 00:35:12 [INFO] [[34;1mStatic[37;1m]<lluoc> did you ever set it off?[m
+2012-07-06 00:35:28 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> heh, it worked out to be 20,000 tnt[m
+2012-07-06 00:35:31 [INFO] [[35;1mFluid[37;1m]<ultrajono> so in short, it'll take me a lifetime to do?[m
+2012-07-06 00:35:45 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> this was back when tnt was horrific, and so anything more than 1000 would have crashed the server[m
+2012-07-06 00:35:52 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> 10000 being a SP game limit[m
+2012-07-06 00:35:58 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> now it staggers the explosion[m
+2012-07-06 00:36:05 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> and the code is a little neater[m
+2012-07-06 00:36:34 [INFO] [[35;1mFluid[37;1m]<ultrajono> how is it, that no one in flluid has found any chickens?[m
+2012-07-06 00:37:20 [INFO] [[31;1mStatic Nether[37;1m]<lluoc> In the tnt event someone was causeing a ton of lag with spawner eggs[m
+2012-07-06 00:37:46 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> heh[m
+2012-07-06 00:37:48 [INFO] [[31;1mStatic Nether[37;1m]<lluoc> it was so bad that when we tried to blow up the serface of The Island it took 10 minutes to propogat[m
+2012-07-06 00:37:52 [INFO] [[31;1mStatic Nether[37;1m]<lluoc> and it wasn[m
+2012-07-06 00:37:54 [INFO] [[31;1mStatic Nether[37;1m]<lluoc> 't[m
+2012-07-06 00:38:06 [INFO] [[31;1mStatic Nether[37;1m]<lluoc> even thicklty spread[m
+2012-07-06 00:38:20 [INFO] [[31;1mStatic Nether[37;1m]<lluoc> *boom* 20 secods later *boom*[m
+2012-07-06 00:38:50 [INFO] [[35;1mFluid[37;1m]<ultrajono> yay for glowstone for exavation[m
+2012-07-06 00:38:54 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> oh man, I've been looking at tekkit. Absolutely amazing stuff. But soo gamechanging[m
+2012-07-06 00:38:59 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> its ridiculous[m
+2012-07-06 00:40:03 [INFO] [[35;1mFluid[37;1m]<ultrajono> i could use say, fences to board in the area, but it won't look as cool me thinks[m
+2012-07-06 00:41:29 [INFO] Connection reset
+2012-07-06 00:41:29 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-06 00:42:05 [INFO] [[35;1mFluid[37;1m]<ultrajono> why you no devil stick more at circus?[m
+2012-07-06 00:44:06 [INFO] [[35;1mFluid[37;1m]<ultrajono> nellie?[m
+2012-07-06 00:46:23 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> because I oft be tired, distracted or forget[m
+2012-07-06 00:48:44 [INFO] [[35;1mFluid[37;1m]<ultrajono> me thinks i may use the glowstone i get from getting sand to make glowstone 'torches' along the[m
+2012-07-06 00:48:46 [INFO] [[35;1mFluid[37;1m]<ultrajono> way to harrys[m
+2012-07-06 00:53:29 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> cool[m
+2012-07-06 00:53:40 [INFO] [[35;1mFluid[37;1m]<ultrajono> that will be a bitch to do though[m
+2012-07-06 00:54:51 [INFO] [[35;1mFluid[37;1m]<ultrajono> 24 stacks of sand, do you think he'll notice?[m
+2012-07-06 00:55:05 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I don't know, but I will have no part of this[m
+2012-07-06 00:55:22 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> brb[m
+2012-07-06 00:59:41 [INFO] [[35;22mFluid Nether[37;1m]<ultrajono> fuck[m
+2012-07-06 01:05:14 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> HEY[m
+2012-07-06 01:05:17 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> MY KILLS[m
+2012-07-06 01:05:19 [INFO] [[37;1mThe End[37;1m]<ultrajono> ya?[m
+2012-07-06 01:05:25 [INFO] [[37;1mThe End[37;1m]<ultrajono> seriously?[m
+2012-07-06 01:05:28 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I was away to wait for them to spawn[m
+2012-07-06 01:05:33 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> deehhhhhhhh[m
+2012-07-06 01:05:46 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I am trying to level[m
+2012-07-06 01:05:58 [INFO] [[37;1mThe End[37;1m]<ultrajono> i just remember you doin the same to me a while back, all good, sorry[m
+2012-07-06 01:08:02 [INFO] [[34;1mStatic[37;1m]<ultrajono> ok, spawned at bermans, what the fuck?[m
+2012-07-06 01:08:09 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> yeah....that happens[m
+2012-07-06 01:08:30 [INFO] [[34;1mStatic[37;1m]<ultrajono> at least his portal is still active[m
+2012-07-06 01:15:01 [INFO] ultrajono lost connection: disconnect.quitting
+2012-07-06 01:15:01 [INFO] Connection reset
+2012-07-06 01:23:07 [WARNING] H4ZM4T moved wrongly!
+2012-07-06 01:23:07 [INFO] Got position 358.00040768963123, 2.495200877005912, -1.5812435683736352
+2012-07-06 01:23:07 [INFO] Expected 358.30000001192093, 2.495200877005912, -1.5812435683736352
+2012-07-06 01:28:18 [INFO] lluoc [/127.0.0.1:38606] logged in with entity id 812115 at ([world_nether] -8.249777126681549, 110.0, -1.5482728107598211)
+2012-07-06 01:28:28 [INFO] [[31;1mStatic Nether[37;1m]<lluoc> AHH[m
+2012-07-06 01:28:30 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> ?[m
+2012-07-06 01:28:46 [INFO] [[31;1mStatic Nether[37;1m]<lluoc> Put the texture pack back to Tekken[m
+2012-07-06 01:28:50 [INFO] [[31;1mStatic Nether[37;1m]<lluoc> was in the nther[m
+2012-07-06 01:28:56 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> tekken?[m
+2012-07-06 01:29:04 [INFO] [[31;1mStatic Nether[37;1m]<lluoc> this place looks mor elike hell.[m
+2012-07-06 01:29:08 [INFO] [[31;1mStatic Nether[37;1m]<lluoc> yeah[m
+2012-07-06 01:30:02 [INFO] [[34;1mStatic[37;1m]<lluoc> did you ever play Just Cause 2?[m
+2012-07-06 01:30:07 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> a little[m
+2012-07-06 01:30:36 [INFO] [[34;1mStatic[37;1m]<lluoc> I'd forotten how fun it was to just spend hours indescrimently blowing shit up[m
+2012-07-06 01:30:56 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> heheheh[m
+2012-07-06 01:39:36 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> ALL OF THE MURDER[m
+2012-07-06 01:39:41 [INFO] [[34;1mStatic[37;1m]<lluoc> ?[m
+2012-07-06 01:39:42 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> (grinding enders[m
+2012-07-06 01:39:44 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> )[m
+2012-07-06 01:39:46 [INFO] [[34;1mStatic[37;1m]<lluoc> ahh[m
+2012-07-06 01:40:18 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> ony the plus side, I have almost level 70 unarmed[m
+2012-07-06 01:40:18 [INFO] [[34;1mStatic[37;1m]<lluoc> yeah, that thing is scarier than my chicken grinder[m
+2012-07-06 01:40:34 [INFO] [[34;1mStatic[37;1m]<lluoc> ... heh, didn't think of that[m
+2012-07-06 01:40:45 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> swords, axes and unarmed[m
+2012-07-06 01:41:04 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> though to be honest, swords and axes are really good against normal mobs, making it worth assaulting[m
+2012-07-06 01:41:31 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> when I punch, I now do 4 hearts of damage[m
+2012-07-06 01:41:41 [INFO] [[34;1mStatic[37;1m]<lluoc> ?[m
+2012-07-06 01:41:46 [INFO] [[34;1mStatic[37;1m]<lluoc> ... remind me not to hit you ok[m
+2012-07-06 01:41:49 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> (unarmed)[m
+2012-07-06 01:42:08 [INFO] [[34;1mStatic[37;1m]<lluoc> I meant your commnet before 'worth assaulting'[m
+2012-07-06 01:42:10 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I also am enchanting my diamond armor and have a sharpness 4 diamond sword soooo[m
+2012-07-06 01:42:32 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> as in, it is worth going out and murdering bad mobs at night for their loots and levels[m
+2012-07-06 01:42:42 [INFO] [[34;1mStatic[37;1m]<lluoc> sharpness IV, knockback II, fireaspect II[m
+2012-07-06 01:42:46 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> purely because the damage buffs you will get and already have are good[m
+2012-07-06 01:42:53 [INFO] [[34;1mStatic[37;1m]<lluoc> ahh, ok.[m
+2012-07-06 01:42:58 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> how in samm hell did you get that?[m
+2012-07-06 01:43:13 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I've gotten only sharpness 3 and 4 off of 48 enchant[m
+2012-07-06 01:43:14 [INFO] [[34;1mStatic[37;1m]<lluoc> Rememebr that perisod of time when I spend most of my time in a grinder[m
+2012-07-06 01:43:22 [INFO] [[34;1mStatic[37;1m]<lluoc> getting up to level 60[m
+2012-07-06 01:43:28 [INFO] [[34;1mStatic[37;1m]<lluoc> and then enchanting someting[m
+2012-07-06 01:43:28 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> why 60?[m
+2012-07-06 01:43:47 [INFO] [[34;1mStatic[37;1m]<lluoc> more xp so better chance of multiple enchantments[m
+2012-07-06 01:43:55 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> but 50 is max[m
+2012-07-06 01:44:01 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> (enchant)[m
+2012-07-06 01:44:17 [INFO] [[34;1mStatic[37;1m]<lluoc> as even if you use a level 50 enchantment there is more remaining which can be used in secondary[m
+2012-07-06 01:44:27 [INFO] [[34;1mStatic[37;1m]<lluoc> or more enchantments[m
+2012-07-06 01:44:43 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> but you can't re enchant, and I thought it only took the 50 levels away[m
+2012-07-06 01:44:57 [INFO] [[34;1mStatic[37;1m]<lluoc> re-enchant?[m
+2012-07-06 01:45:07 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> you can't enchant an enchanted item[m
+2012-07-06 01:45:18 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> and it only takes away the level you put in, I thought[m
+2012-07-06 01:45:20 [INFO] [[34;1mStatic[37;1m]<lluoc> Yeah... I;m confused.[m
+2012-07-06 01:46:21 [INFO] [[34;1mStatic[37;1m]<lluoc> I'm farily sure it can take more levels and that the amount you put in is only the level of your[m
+2012-07-06 01:46:25 [INFO] [[34;1mStatic[37;1m]<lluoc> first enchantment[m
+2012-07-06 01:46:28 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> nope[m
+2012-07-06 01:46:30 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> just tested[m
+2012-07-06 01:46:33 [INFO] [[34;1mStatic[37;1m]<lluoc> but now that you mention it, I'm not sure[m
+2012-07-06 01:46:39 [INFO] [[34;1mStatic[37;1m]<lluoc> really.... well fucks[m
+2012-07-06 01:46:40 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> 24 enchant, used 24 of 25[m
+2012-07-06 01:47:14 [INFO] [[34;1mStatic[37;1m]<lluoc> oh umm you need enought xp to get multiple enchantments[m
+2012-07-06 01:47:18 [INFO] lluoc: Setting lluoc to game mode 1[m
+2012-07-06 01:47:43 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> but it had two enchantments on it?[m
+2012-07-06 01:47:52 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> fortune and unbreaking[m
+2012-07-06 01:48:18 [INFO] [[34;1mStatic[37;1m]<lluoc> hmm. ok i'm going to stand here for 5 minutes throwning bottles of enchamtnents[m
+2012-07-06 01:48:27 [INFO] [[34;1mStatic[37;1m]<lluoc> and get myself up to level 65[m
+2012-07-06 01:48:31 [INFO] [[34;1mStatic[37;1m]<lluoc> and try then.[m
+2012-07-06 01:48:42 [INFO] [[34;1mStatic[37;1m]<lluoc> your probab ly right though[m
+2012-07-06 01:49:00 [INFO] [[34;1mStatic[37;1m]<lluoc> which means I wasted a lot of time[m
+2012-07-06 01:50:22 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> turns out you can't enchant a hoe[m
+2012-07-06 01:50:40 [INFO] [[34;1mStatic[37;1m]<lluoc> why would you?[m
+2012-07-06 01:50:44 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> shiggles[m
+2012-07-06 01:50:49 [INFO] [[34;1mStatic[37;1m]<lluoc> ahh[m
+2012-07-06 01:55:20 [INFO] [[34;1mStatic[37;1m]<lluoc> woops, level 77[m
+2012-07-06 01:55:56 [INFO] [[34;1mStatic[37;1m]<lluoc> well fuck level 77, made a level 47 enchantment[m
+2012-07-06 01:56:01 [INFO] H4ZM4T: Setting H4ZM4T to game mode 1[m
+2012-07-06 01:56:04 [INFO] [[34;1mStatic[37;1m]<lluoc> reamined at level 30.[m
+2012-07-06 01:56:09 [INFO] [[34;1mStatic[37;1m]<lluoc> your right[m
+2012-07-06 01:56:21 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> huh[m
+2012-07-06 01:56:24 [INFO] [[34;1mStatic[37;1m]<lluoc> also the only sword I've ever got that has looting[m
+2012-07-06 01:56:36 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I was just about to get into the exp party[m
+2012-07-06 01:56:43 [INFO] [[34;1mStatic[37;1m]<lluoc> and sharpness 4[m
+2012-07-06 01:56:50 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> loooting is good[m
+2012-07-06 01:56:53 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> go try it[m
+2012-07-06 01:57:15 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> ....[m
+2012-07-06 01:57:22 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> ....[m
+2012-07-06 01:57:49 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I once got 5 ender pearls from a single ender[m
+2012-07-06 01:57:54 [INFO] [[34;1mStatic[37;1m]<lluoc> damn[m
+2012-07-06 01:58:06 [INFO] [[34;1mStatic[37;1m]<lluoc> it took hours for me to get the perls to open the first gate[m
+2012-07-06 01:58:07 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I kept getting all my drops like that[m
+2012-07-06 01:58:25 [INFO] [[34;1mStatic[37;1m]<lluoc> HOLY FUCK THEIR FACES[m
+2012-07-06 01:58:27 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> what looting is it?[m
+2012-07-06 01:58:30 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> :D[m
+2012-07-06 01:58:49 [INFO] [[34;1mStatic[37;1m]<lluoc> anyhow, I'd better go die in a fire[m
+2012-07-06 01:59:18 [INFO] [[34;1mStatic[37;1m]<lluoc> ?[m
+2012-07-06 01:59:32 [INFO] H4ZM4T: Setting H4ZM4T to game mode 0[m
+2012-07-06 01:59:54 [INFO] lluoc: Setting lluoc to game mode 0[m
+2012-07-06 02:00:35 [INFO] [[34;1mStatic[37;1m]<lluoc> hmm, maybe I should change the deat h coutner so it only shows death types that you have, well[m
+2012-07-06 02:00:40 [INFO] [[34;1mStatic[37;1m]<lluoc> 'died' in[m
+2012-07-06 02:01:51 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> how badass is the armor[m
+2012-07-06 02:02:08 [INFO] [[34;1mStatic[37;1m]<lluoc> spin spin spin[m
+2012-07-06 02:02:14 [INFO] [[34;1mStatic[37;1m]<lluoc> he he[m
+2012-07-06 02:02:17 [INFO] [[34;1mStatic[37;1m]<lluoc> hey[m
+2012-07-06 02:02:28 [INFO] [[34;1mStatic[37;1m]<lluoc> oh good[m
+2012-07-06 02:02:33 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> ?[m
+2012-07-06 02:02:34 [INFO] [[34;1mStatic[37;1m]<lluoc> it's still alive[m
+2012-07-06 02:02:48 [INFO] [[34;1mStatic[37;1m]<lluoc> finished this floor[m
+2012-07-06 02:03:06 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I like the diamond flourish[m
+2012-07-06 02:03:27 [INFO] [[34;1mStatic[37;1m]<lluoc> gave up trying to work out how to decorate it and DIAMOND GOLD LAPIS ROOF[m
+2012-07-06 02:04:08 [INFO] [[34;1mStatic[37;1m]<lluoc> their texture is great[m
+2012-07-06 02:04:12 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> yeah[m
+2012-07-06 02:04:30 [INFO] [[34;1mStatic[37;1m]<lluoc> I should really go finish off that floating island[m
+2012-07-06 02:05:03 [INFO] [[34;1mStatic[37;1m]<lluoc> and get rid of these vines[m
+2012-07-06 02:05:13 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> but the vines help you climb[m
+2012-07-06 02:05:31 [INFO] [[34;1mStatic[37;1m]<lluoc> I know but they don't fit with the building style[m
+2012-07-06 02:05:40 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> HOLYSHIT ALL THE GUNPOWDER[m
+2012-07-06 02:05:44 [INFO] [[34;1mStatic[37;1m]<lluoc> heh[m
+2012-07-06 02:05:57 [INFO] [[34;1mStatic[37;1m]<lluoc> and that is from just idal gathering[m
+2012-07-06 02:06:01 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> ![m
+2012-07-06 02:06:03 [INFO] [[34;1mStatic[37;1m]<lluoc> I have no sand though[m
+2012-07-06 02:06:18 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> heheh, may I remind you that my current house is a castle in the desert[m
+2012-07-06 02:06:20 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> :D[m
+2012-07-06 02:06:25 [INFO] [[34;1mStatic[37;1m]<lluoc> yeah[m
+2012-07-06 02:06:46 [INFO] [[34;1mStatic[37;1m]<lluoc> Maybe next tie when re revamp an abandon house we should make it a tnt house[m
+2012-07-06 02:06:55 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hehehehe[m
+2012-07-06 02:06:58 [INFO] [[34;1mStatic[37;1m]<lluoc> I;ve always been short on supplies in this world[m
+2012-07-06 02:07:32 [INFO] [[34;1mStatic[37;1m]<lluoc> these two enchantments[m
+2012-07-06 02:07:42 [INFO] [[34;1mStatic[37;1m]<lluoc> wait, you can open that?[m
+2012-07-06 02:07:44 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> there are spawners in here[m
+2012-07-06 02:07:50 [INFO] [[34;1mStatic[37;1m]<lluoc> oh, ok[m
+2012-07-06 02:07:56 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> ?[m
+2012-07-06 02:07:57 [INFO] [[34;1mStatic[37;1m]<lluoc> woops[m
+2012-07-06 02:08:08 [INFO] [[34;1mStatic[37;1m]<lluoc> I put them in the wrong chest[m
+2012-07-06 02:08:11 [INFO] [[34;1mStatic[37;1m]<lluoc> look in this one[m
+2012-07-06 02:08:20 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hehe[m
+2012-07-06 02:08:23 [INFO] [[34;1mStatic[37;1m]<lluoc> ?[m
+2012-07-06 02:08:25 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> they removed picklocking[m
+2012-07-06 02:08:37 [INFO] [[34;1mStatic[37;1m]<lluoc> what was picklocking?[m
+2012-07-06 02:08:48 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> it would take like 20 hoes, but you could unlock locked chests[m
+2012-07-06 02:08:56 [INFO] [[34;1mStatic[37;1m]<lluoc> !!![m
+2012-07-06 02:09:06 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> several iterations of the server ago[m
+2012-07-06 02:09:34 [INFO] [[34;1mStatic[37;1m]<lluoc> jono traded me at silktouch/eff 4, unbreking 3 pick for a fourtune 3 pick a while back[m
+2012-07-06 02:09:46 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> wow[m
+2012-07-06 02:09:54 [INFO] [[34;1mStatic[37;1m]<lluoc> I told him it was unfair[m
+2012-07-06 02:09:57 [INFO] [[34;1mStatic[37;1m]<lluoc> in my bias[m
+2012-07-06 02:10:11 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> but everyone wants fortune[m
+2012-07-06 02:10:14 [INFO] [[34;1mStatic[37;1m]<lluoc> though before that I may have been going to his house, mining his diamond for him and getting[m
+2012-07-06 02:10:17 [INFO] [[34;1mStatic[37;1m]<lluoc> a 'fee'[m
+2012-07-06 02:10:23 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hehe[m
+2012-07-06 02:10:26 [INFO] [[34;1mStatic[37;1m]<lluoc> of like a quater of the diamond[m
+2012-07-06 02:10:27 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I charged a fee too[m
+2012-07-06 02:10:33 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> well, mine was one or two[m
+2012-07-06 02:10:36 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> generally of 12[m
+2012-07-06 02:10:45 [INFO] [[34;1mStatic[37;1m]<lluoc> also this[m
+2012-07-06 02:10:55 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> oooooh[m
+2012-07-06 02:10:58 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> aqua affinity[m
+2012-07-06 02:11:18 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> you diver you[m
+2012-07-06 02:11:21 [INFO] [[34;1mStatic[37;1m]<lluoc> hmm, should I assume my silk touch pick got stolen?[m
+2012-07-06 02:11:28 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> ...?[m
+2012-07-06 02:11:36 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> how, would you not have put it in the locked chest?[m
+2012-07-06 02:11:38 [INFO] [[34;1mStatic[37;1m]<lluoc> I left one in a chest when we were making the ender grinder[m
+2012-07-06 02:11:43 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> also, didn't a bunch of those burn[m
+2012-07-06 02:11:47 [INFO] [[34;1mStatic[37;1m]<lluoc> I tend to trust people[m
+2012-07-06 02:11:56 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> look next to the end spawn[m
+2012-07-06 02:12:00 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> there are a few chests there[m
+2012-07-06 02:12:04 [INFO] [[34;1mStatic[37;1m]<lluoc> not in them[m
+2012-07-06 02:12:07 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> tis where I found my old diamond armor[m
+2012-07-06 02:12:23 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> dafuq[m
+2012-07-06 02:12:28 [INFO] lluoc: Setting lluoc to game mode 1[m
+2012-07-06 02:12:29 [INFO] [[37;1mThe End[37;1m]<lluoc> ?[m
+2012-07-06 02:12:32 [INFO] H4ZM4T: Setting H4ZM4T to game mode 1[m
+2012-07-06 02:12:37 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> you dissapeared[m
+2012-07-06 02:12:45 [INFO] [[37;1mThe End[37;1m]<lluoc> oh, look up '/mvtp'[m
+2012-07-06 02:13:04 [INFO] [[37;1mThe End[37;1m]<lluoc> you have access to it[m
+2012-07-06 02:13:22 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> how does one make the end[m
+2012-07-06 02:13:25 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> _?[m
+2012-07-06 02:13:36 [INFO] [[37;1mThe End[37;1m]<lluoc> "/mvtp world_the_end '[m
+2012-07-06 02:13:42 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> ahhhh[m
+2012-07-06 02:13:56 [INFO] [[37;1mThe End[37;1m]<lluoc> or '/mvtp "The End" '[m
+2012-07-06 02:14:07 [INFO] [[37;1mThe End[37;1m]<lluoc> ot you know, just ptp to me[m
+2012-07-06 02:14:11 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> interesting, it just puts you anywhere[m
+2012-07-06 02:14:33 [INFO] [[37;1mThe End[37;1m]<lluoc> umm, no. It can but i it takes to to spawn in each world[m
+2012-07-06 02:14:45 [INFO] [[37;1mThe End[37;1m]<lluoc> to 0,0,63 in the end for some reason[m
+2012-07-06 02:14:54 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> interesting[m
+2012-07-06 02:14:55 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> also,[m
+2012-07-06 02:14:55 [INFO] [[37;1mThe End[37;1m]<lluoc> but you can ask for a spesific location[m
+2012-07-06 02:14:57 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> come here[m
+2012-07-06 02:15:11 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> exactly here[m
+2012-07-06 02:15:18 [INFO] [[37;1mThe End[37;1m]<lluoc> why is there a tree... never mind[m
+2012-07-06 02:15:21 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> and look at the bridge[m
+2012-07-06 02:15:33 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> can you see that weird shadow[m
+2012-07-06 02:15:34 [INFO] [[37;1mThe End[37;1m]<lluoc> it sparkls[m
+2012-07-06 02:15:40 [INFO] [[37;1mThe End[37;1m]<lluoc> yeah[m
+2012-07-06 02:15:48 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> its werid[m
+2012-07-06 02:15:53 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I noticed it on SP the other day[m
+2012-07-06 02:15:54 [INFO] [[37;1mThe End[37;1m]<lluoc> kind of nice though[m
+2012-07-06 02:15:59 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> I don't know if it a creative thing[m
+2012-07-06 02:16:14 [INFO] [[37;1mThe End[37;1m]<lluoc> I saw it too when I was fixing the wonky platform thing[m
+2012-07-06 02:16:20 [INFO] H4ZM4T: Setting H4ZM4T to game mode 0[m
+2012-07-06 02:16:23 [INFO] [[37;1mThe End[37;1m]<lluoc> didn't think anythong of it though[m
+2012-07-06 02:16:24 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> hrmmm[m
+2012-07-06 02:16:26 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> still there[m
+2012-07-06 02:16:38 [INFO] [[37;1mThe End[37;1m]<lluoc> justa  case of LOL MINECRAFT[m
+2012-07-06 02:16:39 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> weird..... I think it is some sort of bugged shadow of the end exit portal[m
+2012-07-06 02:16:52 [INFO] H4ZM4T: Setting H4ZM4T to game mode 1[m
+2012-07-06 02:17:06 [INFO] [[37;1mThe End[37;1m]<lluoc> nope. looks different[m
+2012-07-06 02:17:09 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> also, mining end stone is good for your mining skill[m
+2012-07-06 02:17:21 [INFO] [[37;1mThe End[37;1m]<lluoc> but limited resource[m
+2012-07-06 02:17:27 [INFO] [[37;1mThe End[37;1m]<lluoc> what multipliuer do you get?[m
+2012-07-06 02:17:38 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> well, in my single player, it is pinky purple sparkly[m
+2012-07-06 02:17:48 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> well, if you use the super breaker at about 180 mining[m
+2012-07-06 02:17:58 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> you can level 4 times within that one superbreaker[m
+2012-07-06 02:18:10 [INFO] [[37;1mThe End[37;1m]<lluoc> the fuck[m
+2012-07-06 02:18:14 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> come look at what I did[m
+2012-07-06 02:18:33 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> it is why my level spiked a bit the other day[m
+2012-07-06 02:19:16 [INFO] [[37;1mThe End[37;1m]<lluoc> I'm only level 29[m
+2012-07-06 02:19:22 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> 0.O[m
+2012-07-06 02:19:23 [INFO] [[37;1mThe End[37;1m]<lluoc> 39[m
+2012-07-06 02:19:26 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> * o.O[m
+2012-07-06 02:19:29 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> wow[m
+2012-07-06 02:19:39 [INFO] [[37;1mThe End[37;1m]<lluoc> I haven't really been mining[m
+2012-07-06 02:19:42 [INFO] [[37;1mThe End[37;1m]<lluoc> or leveling,[m
+2012-07-06 02:19:46 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> or anytrhing in fact[m
+2012-07-06 02:19:47 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> hehe[m
+2012-07-06 02:19:53 [INFO] [[37;1mThe End[37;1m]<lluoc> yeah[m
+2012-07-06 02:19:57 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> luke and trial are insan[m
+2012-07-06 02:19:59 [INFO] [[37;1mThe End[37;1m]<H4ZM4T> e[m
+2012-07-06 02:20:03 [INFO] [[37;1mThe End[37;1m]<lluoc> oh yeah[m
+2012-07-06 02:20:16 [INFO] [[37;1mThe End[37;1m]<lluoc> i don't even... how[m
+2012-07-06 02:20:44 [INFO] [[34;1mStatic[37;1m]<lluoc> hmm, the vines didn't get to bad[m
+2012-07-06 02:20:49 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> yeah[m
+2012-07-06 02:20:53 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> they've been p good\[m
+2012-07-06 02:21:56 [INFO] lluoc: Setting lluoc to game mode 0[m
+2012-07-06 02:22:08 [INFO] H4ZM4T: Setting H4ZM4T to game mode 0[m
+2012-07-06 02:23:06 [INFO] [[33;1mCreative[37;1m]<H4ZM4T> uh[m
+2012-07-06 02:23:09 [INFO] [[33;1mCreative[37;1m]<H4ZM4T> interesting[m
+2012-07-06 02:23:13 [INFO] [[34;1mStatic[37;1m]<lluoc> oh right[m
+2012-07-06 02:23:14 [INFO] [[33;1mCreative[37;1m]<H4ZM4T> I am not in creative[m
+2012-07-06 02:23:18 [INFO] [[34;1mStatic[37;1m]<lluoc> I forgot to tell you[m
+2012-07-06 02:23:30 [INFO] H4ZM4T: Setting H4ZM4T to game mode 1[m
+2012-07-06 02:23:31 [INFO] [[34;1mStatic[37;1m]<lluoc> they changed the default permissions of multiverse[m
+2012-07-06 02:23:34 [INFO] [[33;1mCreative[37;1m]<H4ZM4T> ah[m
+2012-07-06 02:23:35 [INFO] [[33;1mCreative[37;1m]<H4ZM4T> kk[m
+2012-07-06 02:23:45 [INFO] [[34;1mStatic[37;1m]<lluoc> so ops gamemode don't get changed when you  chagne worlds[m
+2012-07-06 02:24:30 [INFO] [[35;1mFluid[37;1m]<lluoc> HOLY FUCK YES[m
+2012-07-06 02:24:32 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> WOAH[m
+2012-07-06 02:24:36 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> FUCKING EPIC[m
+2012-07-06 02:24:55 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> SPIDERJCOKEY[m
+2012-07-06 02:24:55 [INFO] [[35;1mFluid[37;1m]<lluoc> wow[m
+2012-07-06 02:25:03 [INFO] [[35;1mFluid[37;1m]<lluoc> umm[m
+2012-07-06 02:25:12 [INFO] [[35;1mFluid[37;1m]<lluoc> ?[m
+2012-07-06 02:25:13 [INFO] H4ZM4T: Setting H4ZM4T to game mode 0[m
+2012-07-06 02:25:16 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> woops[m
+2012-07-06 02:25:21 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> *fixed[m
+2012-07-06 02:25:33 [INFO] [[35;1mFluid[37;1m]<lluoc> heh[m
+2012-07-06 02:25:45 [INFO] [[35;1mFluid[37;1m]<lluoc> this one[m
+2012-07-06 02:25:53 [INFO] [[35;1mFluid[37;1m]<lluoc> second down far right[m
+2012-07-06 02:26:00 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> ehehe[m
+2012-07-06 02:26:39 [INFO] [[35;1mFluid[37;1m]<lluoc> Might start expanding on this place again[m
+2012-07-06 02:26:55 [INFO] [[35;1mFluid[37;1m]<lluoc> nit sure what though[m
+2012-07-06 02:27:34 [INFO] [[35;1mFluid[37;1m]<lluoc> ?[m
+2012-07-06 02:27:39 [INFO] [[35;1mFluid[37;1m]<lluoc> umm[m
+2012-07-06 02:27:45 [INFO] [[35;1mFluid[37;1m]<lluoc> I prefer the old one[m
+2012-07-06 02:28:07 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> what you got on your screen?[m
+2012-07-06 02:28:18 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> I got a terraria style world[m
+2012-07-06 02:28:20 [INFO] [[35;1mFluid[37;1m]<lluoc> like a crossection of[m
+2012-07-06 02:28:21 [INFO] [[35;1mFluid[37;1m]<lluoc> yeah[m
+2012-07-06 02:28:23 [INFO] [[35;1mFluid[37;1m]<lluoc> that[m
+2012-07-06 02:28:32 [INFO] [[35;1mFluid[37;1m]<lluoc> before it was a creepy skeleton in a shell[m
+2012-07-06 02:28:39 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> mhmm[m
+2012-07-06 02:28:48 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> and you got a couple of spiderjockey pics[m
+2012-07-06 02:28:55 [INFO] [[35;1mFluid[37;1m]<lluoc> hey[m
+2012-07-06 02:29:18 [INFO] [[35;1mFluid[37;1m]<lluoc> ?[m
+2012-07-06 02:29:23 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> .....[m
+2012-07-06 02:29:28 [INFO] [[35;1mFluid[37;1m]<lluoc> aww[m
+2012-07-06 02:29:34 [INFO] lluoc: Setting lluoc to game mode 1[m
+2012-07-06 02:29:36 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> it went to the nether?[m
+2012-07-06 02:29:49 [INFO] [[35;1mFluid[37;1m]<lluoc> THE FUCK[m
+2012-07-06 02:29:56 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> R34[m
+2012-07-06 02:30:00 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> R34![m
+2012-07-06 02:30:01 [INFO] [[35;1mFluid[37;1m]<lluoc> ok, cute I guess[m
+2012-07-06 02:30:05 [INFO] [[35;1mFluid[37;1m]<lluoc> but yeah[m
+2012-07-06 02:30:07 [INFO] [[35;1mFluid[37;1m]<lluoc> ...[m
+2012-07-06 02:30:27 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> I much prefer all these to the originals[m
+2012-07-06 02:30:29 [INFO] [[35;1mFluid[37;1m]<lluoc> I wonder if there is a mod to get maps as paintings[m
+2012-07-06 02:30:35 [INFO] [[35;1mFluid[37;1m]<lluoc> heh, yeah[m
+2012-07-06 02:30:42 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> I love the giant zombie[m
+2012-07-06 02:30:43 [INFO] [[35;1mFluid[37;1m]<lluoc> oh right, you were having a thing with maps[m
+2012-07-06 02:31:19 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> anyway[m
+2012-07-06 02:31:20 [INFO] [[35;1mFluid[37;1m]<lluoc> oh, brb[m
+2012-07-06 02:31:23 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> I shall leave you to it[m
+2012-07-06 02:31:24 [INFO] [[35;1mFluid[37;1m]<H4ZM4T> tooodles[m
+2012-07-06 02:31:30 [INFO] Connection reset
+2012-07-06 02:31:30 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-06 02:34:25 [INFO] lluoc: Setting lluoc to game mode 0[m
+2012-07-06 02:34:44 [INFO] lluoc lost connection: disconnect.quitting
+2012-07-06 02:34:44 [INFO] Connection reset
+2012-07-06 08:00:02 [INFO] Unknown command. Type "help" for help.[m
+2012-07-06 08:00:02 [INFO] [35;1m[Server] Starting backup.[m
+2012-07-06 08:00:02 [INFO] Unknown command. Type "help" for help.[m
+2012-07-06 08:00:02 [INFO] CONSOLE: Forcing save..[m
+2012-07-06 08:00:02 [INFO] CONSOLE: Save complete.[m
+2012-07-06 08:00:05 [INFO] Unknown command. Type "help" for help.[m
+2012-07-06 08:00:05 [INFO] CONSOLE: Disabling level saving..[m

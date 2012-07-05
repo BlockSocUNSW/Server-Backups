@@ -11,7 +11,7 @@ lluoc:
     Fire Effect: 0
     Lava: 0
     Mob: 0
-    Other: 1
+    Other: 2
     Potion of Harming: 0
     PvP: 0
     Starvation: 0
@@ -111,8 +111,8 @@ ultrajono:
     Fell: 0
     Fire Block: 0
     Fire Effect: 0
-    Lava: 0
-    Mob: 0
+    Lava: 1
+    Mob: 1
     Other: 0
     Potion of Harming: 0
     PvP: 0
@@ -123,7 +123,7 @@ ultrajono:
     Blaze: 0
     Cave Spider: 0
     Ender Dragon: 0
-    Enderman: 0
+    Enderman: 1
     Giant: 0
     Magma Cube: 0
     Silverfish: 0

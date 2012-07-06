@@ -49661,3 +49661,34 @@ expected <block end>, but found Key
 2012-07-06 08:00:02 [INFO] CONSOLE: Save complete.[m
 2012-07-06 08:00:05 [INFO] Unknown command. Type "help" for help.[m
 2012-07-06 08:00:05 [INFO] CONSOLE: Disabling level saving..[m
+2012-07-06 08:05:10 [INFO] Unknown command. Type "help" for help.[m
+2012-07-06 08:05:11 [INFO] CONSOLE: Enabling level saving..[m
+2012-07-06 08:05:11 [INFO] Unknown command. Type "help" for help.[m
+2012-07-06 08:05:11 [INFO] CONSOLE: Forcing save..[m
+2012-07-06 08:05:12 [INFO] CONSOLE: Save complete.[m
+2012-07-06 08:05:12 [INFO] Unknown command. Type "help" for help.[m
+2012-07-06 08:05:12 [INFO] [35;1m[Server] Backup complete.[m
+2012-07-06 09:54:04 [INFO] Yinsano [/127.0.0.1:38723] logged in with entity id 909160 at ([world] 1039.535697977378, 10.0, -13.742600637673755)
+2012-07-06 09:54:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-06 09:57:12 [INFO] Yinsano lost connection: disconnect.quitting
+2012-07-06 09:57:12 [INFO] Connection reset
+2012-07-06 18:15:02 [INFO] Connected players: [m
+2012-07-06 19:33:16 [INFO] /127.0.0.1:38861 lost connection
+2012-07-06 19:40:48 [INFO] Unknown command. Type "help" for help.[m
+2012-07-06 19:40:53 [INFO] Unknown command. Type "help" for help.[m
+2012-07-06 19:59:36 [INFO] dahlukeh [/127.0.0.1:38880] logged in with entity id 918896 at ([fluid] -54.561244024787804, 63.0, 425.53183622943334)
+2012-07-06 19:59:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-06 19:59:49 [INFO] Connection reset
+2012-07-06 19:59:49 [INFO] dahlukeh lost connection: disconnect.quitting
+2012-07-07 00:33:07 [INFO] ultrajono [/127.0.0.1:38953] logged in with entity id 923564 at ([fluid] -25.855678208785974, 93.0, 141.4921662581653)
+2012-07-07 00:33:12 [INFO] Unknown command. Type "help" for help.[m
+2012-07-07 00:33:12 [INFO] CONSOLE: Giving ultrajono some 341 (SLIME_BALL)[m
+2012-07-07 00:33:13 [INFO] Connection reset
+2012-07-07 00:33:13 [INFO] ultrajono lost connection: disconnect.quitting
+2012-07-07 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-07-07 08:00:01 [INFO] [35;1m[Server] Starting backup.[m
+2012-07-07 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-07-07 08:00:01 [INFO] CONSOLE: Forcing save..[m
+2012-07-07 08:00:01 [INFO] CONSOLE: Save complete.[m
+2012-07-07 08:00:04 [INFO] Unknown command. Type "help" for help.[m
+2012-07-07 08:00:04 [INFO] CONSOLE: Disabling level saving..[m

@@ -49692,3 +49692,142 @@ expected <block end>, but found Key
 2012-07-07 08:00:01 [INFO] CONSOLE: Save complete.[m
 2012-07-07 08:00:04 [INFO] Unknown command. Type "help" for help.[m
 2012-07-07 08:00:04 [INFO] CONSOLE: Disabling level saving..[m
+2012-07-07 08:04:23 [INFO] Unknown command. Type "help" for help.[m
+2012-07-07 08:04:24 [INFO] CONSOLE: Enabling level saving..[m
+2012-07-07 08:04:24 [INFO] Unknown command. Type "help" for help.[m
+2012-07-07 08:04:24 [INFO] CONSOLE: Forcing save..[m
+2012-07-07 08:04:24 [INFO] CONSOLE: Save complete.[m
+2012-07-07 08:04:24 [INFO] Unknown command. Type "help" for help.[m
+2012-07-07 08:04:24 [INFO] [35;1m[Server] Backup complete.[m
+2012-07-07 14:31:24 [INFO] adrianjboyer [/127.0.0.1:39141] logged in with entity id 936521 at ([fluid] -104.3331183020492, 80.0, 9.535116236148106)
+2012-07-07 14:31:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-07 14:35:05 [INFO] adrianjboyer lost connection: disconnect.quitting
+2012-07-07 14:35:05 [INFO] Connection reset
+2012-07-07 15:05:57 [INFO] H4ZM4T [/127.0.0.1:39155] logged in with entity id 943050 at ([fluid] -55.887837495568846, 77.5, 84.59552113588002)
+2012-07-07 15:06:21 [INFO] Unknown command. Type "help" for help.[m
+2012-07-07 15:06:21 [INFO] CONSOLE: Giving H4ZM4T some 341 (SLIME_BALL)[m
+2012-07-07 15:07:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-07 15:07:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-07 15:11:13 [INFO] Connection reset
+2012-07-07 15:11:13 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-07 15:51:23 [INFO] H4ZM4T [/127.0.0.1:39172] logged in with entity id 951150 at ([world] 1052.8079177387008, 88.0, -136.8370710133702)
+2012-07-07 16:35:01 [INFO] Connection reset
+2012-07-07 16:35:01 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-07 17:10:57 [INFO] H4ZM4T [/127.0.0.1:39192] logged in with entity id 1003846 at ([world] 1052.8825525477591, 88.0, -139.81652747260185)
+2012-07-07 17:11:09 [INFO] Connection reset
+2012-07-07 17:11:09 [INFO] H4ZM4T lost connection: disconnect.endOfStream
+2012-07-07 17:28:38 [INFO] H4ZM4T [/127.0.0.1:39199] logged in with entity id 1004283 at ([world] 1052.8825525477591, 88.0, -139.81652747260185)
+2012-07-07 17:58:40 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 28 in world, 6.9 blocks from H4ZM4T
+2012-07-07 18:05:22 [INFO] Connection reset
+2012-07-07 18:05:22 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-07 18:14:04 [INFO] H4ZM4T [/127.0.0.1:39218] logged in with entity id 1019772 at ([world] 1048.300000011921, 32.0, 41.122841780718126)
+2012-07-07 18:21:02 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-07 18:21:02 [INFO] Connection reset
+2012-07-07 19:24:50 [INFO] H4ZM4T [/127.0.0.1:39241] logged in with entity id 1025121 at ([world] 982.1870515320926, 17.0, -7.003376574194988)
+2012-07-07 19:24:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-07 19:28:39 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-07 19:28:39 [INFO] Connection reset
+2012-07-07 19:38:43 [INFO] The_Whistler [/127.0.0.1:39247] logged in with entity id 1034519 at ([world] -5070.570076925027, 99.0, -1273.7225210121755)
+2012-07-07 19:39:46 [INFO] The_Whistler lost connection: disconnect.endOfStream
+2012-07-07 19:48:59 [INFO] Yinsano [/127.0.0.1:39253] logged in with entity id 1034990 at ([world] 1040.3656780786118, 11.0, -135.05477250293876)
+2012-07-07 19:49:08 [INFO] Unknown command. Type "help" for help.[m
+2012-07-07 19:49:08 [INFO] CONSOLE: Giving Yinsano some 341 (SLIME_BALL)[m
+2012-07-07 19:49:17 [INFO] Connection reset
+2012-07-07 19:49:17 [INFO] Yinsano lost connection: disconnect.quitting
+2012-07-07 20:38:02 [INFO] ultrajono [/127.0.0.1:39269] logged in with entity id 1036076 at ([fluid] -25.855678208785974, 93.0, 141.4921662581653)
+2012-07-07 20:38:17 [INFO] Connection reset
+2012-07-07 20:38:17 [INFO] ultrajono lost connection: disconnect.quitting
+2012-07-07 21:20:09 [INFO] Connected players: [m
+2012-07-07 21:30:57 [INFO] Yinsano [/127.0.0.1:39289] logged in with entity id 1038204 at ([world] 1040.3656780786118, 11.0, -135.05477250293876)
+2012-07-07 21:46:38 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 18 in world, 5.7 blocks from Yinsano
+2012-07-07 21:48:29 [INFO] H4ZM4T [/127.0.0.1:39298] logged in with entity id 1047565 at ([world] 974.8257136400016, 31.0, 5.1551269055400795)
+2012-07-07 21:48:38 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> hai[m
+2012-07-07 21:48:40 [INFO] [[34;1mStatic[37;1m]<Yinsano> Alive?[m
+2012-07-07 21:48:42 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> yup[m
+2012-07-07 21:48:46 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I have a bunch of stack[m
+2012-07-07 21:48:47 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> s[m
+2012-07-07 21:48:53 [INFO] [[34;1mStatic[37;1m]<Yinsano> Co-Ords?[m
+2012-07-07 21:48:54 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> of iron, and some coal[m
+2012-07-07 21:48:56 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I am fine[m
+2012-07-07 21:49:20 [INFO] [[34;1mStatic[37;1m]<Yinsano> Found your way?[m
+2012-07-07 21:49:34 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> still lost down ehre. tis fucking ridiculous, gonna dig up[m
+2012-07-07 21:50:06 [INFO] [[34;1mStatic[37;1m]<Yinsano> Call it in, save a life[m
+2012-07-07 21:50:14 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I am digging my way out[m
+2012-07-07 21:50:19 [INFO] [35;1m[Server] hey[m
+2012-07-07 21:50:27 [INFO] [[34;1mStatic[37;1m]<Yinsano> hey[m
+2012-07-07 21:50:30 [INFO] [35;1m[Server] you know there is always ptp[m
+2012-07-07 21:50:41 [INFO] [CreeperMess v1.2] §2A creeper blew up at level 16 in world, 2.7 blocks from Yinsano
+2012-07-07 21:50:42 [INFO] [[34;1mStatic[37;1m]<Yinsano> He knows, he's just[m
+2012-07-07 21:50:47 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> yeah, but I want to get back down where I left[m
+2012-07-07 21:50:51 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> sooo much to exploire[m
+2012-07-07 21:51:03 [INFO] [35;1m[Server] ... mini map coords, mine down[m
+2012-07-07 21:51:07 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> there are two stacks of iron in the furnaces[m
+2012-07-07 21:51:24 [INFO] [[34;1mStatic[37;1m]<Yinsano> Especialy since your dungeoneering is terrible[m
+2012-07-07 21:51:36 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I found 3 more spawners[m
+2012-07-07 21:51:45 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> making it 5 in 200m of each other[m
+2012-07-07 21:51:49 [INFO] [35;1m[Server] what type?[m
+2012-07-07 21:52:07 [INFO] [[34;1mStatic[37;1m]<Yinsano> Joy[m
+2012-07-07 21:52:07 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> we have two zombles, two skellies one spider[m
+2012-07-07 21:52:40 [INFO] [35;1m[Server] hmm... might have to make a larger spawner grinder soon[m
+2012-07-07 21:52:43 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> damn....broke my pick[m
+2012-07-07 21:53:08 [INFO] [[34;1mStatic[37;1m]<Yinsano> I'm gonna grab some wood and join you, OK?[m
+2012-07-07 21:53:09 [INFO] [35;1m[Server] there was what, 5 in my chest. And 3 or 4 zombies in my old grinder[m
+2012-07-07 21:53:30 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> fuuuu water[m
+2012-07-07 21:54:30 [INFO] [[34;1mStatic[37;1m]<Yinsano> OH GOD WHAT IS THAT SOUND?[m
+2012-07-07 21:54:31 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> come to the blast doors[m
+2012-07-07 21:55:10 [INFO] [35;1m[Server] you have a blast door...[m
+2012-07-07 21:55:17 [INFO] [[34;1mStatic[37;1m]<Yinsano> Don't you?[m
+2012-07-07 21:55:21 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> actually, come to the bedroomw[m
+2012-07-07 21:55:28 [INFO] [[34;1mStatic[37;1m]<Yinsano> oh baby[m
+2012-07-07 21:55:30 [INFO] [35;1m[Server] well my chest room is clad in obsidion...[m
+2012-07-07 21:55:36 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> over here[m
+2012-07-07 21:55:57 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> and two stacks in here too[m
+2012-07-07 21:56:02 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> now one[m
+2012-07-07 21:56:07 [INFO] [[34;1mStatic[37;1m]<Yinsano> What do with these?[m
+2012-07-07 21:56:20 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> put them in a ores chest for the both of us[m
+2012-07-07 21:56:35 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I also accidentally got a cd[m
+2012-07-07 21:57:16 [INFO] [Lockette] Yinsano has claimed a container.
+2012-07-07 21:58:54 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> put all our ore in there k?[m
+2012-07-07 21:59:11 [INFO] [[34;1mStatic[37;1m]<Yinsano> Lapis too?[m
+2012-07-07 21:59:16 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> waiit[m
+2012-07-07 21:59:22 [INFO] [Lockette] H4ZM4T has claimed a container.
+2012-07-07 21:59:23 [INFO] [[34;1mStatic[37;1m]<Yinsano> What?[m
+2012-07-07 21:59:42 [INFO] [Lockette] H4ZM4T has claimed a container.
+2012-07-07 22:00:05 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> now we have chests for gems, ore and coal[m
+2012-07-07 22:01:01 [INFO] [[34;1mStatic[37;1m]<Yinsano> ??[m
+2012-07-07 22:01:35 [INFO] [Lockette] H4ZM4T has claimed a container.
+2012-07-07 22:02:06 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> loook at all the coal[m
+2012-07-07 22:02:30 [INFO] [[34;1mStatic[37;1m]<Yinsano> Lightstone a gem qui?[m
+2012-07-07 22:02:32 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> oh and, look into gems in 5 seconds[m
+2012-07-07 22:02:55 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> 33 diamonds :D[m
+2012-07-07 22:03:00 [INFO] [[34;1mStatic[37;1m]<Yinsano> dafuq you get so much Diamond?[m
+2012-07-07 22:03:05 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> being awesome[m
+2012-07-07 22:03:28 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> seriously though, all of the mining and running from creepers like a boss[m
+2012-07-07 22:03:51 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> anyway[m
+2012-07-07 22:03:56 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> I am le off, have fun[m
+2012-07-07 22:04:00 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> don't waste all the diamonda[m
+2012-07-07 22:04:03 [INFO] [[34;1mStatic[37;1m]<H4ZM4T> tooodles[m
+2012-07-07 22:04:05 [INFO] Connection reset
+2012-07-07 22:04:05 [INFO] H4ZM4T lost connection: disconnect.quitting
+2012-07-07 22:21:31 [INFO] Connection reset
+2012-07-07 22:21:31 [INFO] Yinsano lost connection: disconnect.quitting
+2012-07-07 23:00:46 [INFO] daevd [/127.0.0.1:39334] logged in with entity id 1072855 at ([creative] -101.31582685651682, 65.40310070875985, 80.0174966819884)
+2012-07-07 23:00:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-07-08 00:57:43 [INFO] daevd lost connection: disconnect.quitting
+2012-07-08 00:57:43 [INFO] Connection reset
+2012-07-08 01:03:52 [INFO] [Metrics] Connection timed out
+2012-07-08 01:13:52 [INFO] [Metrics] Connection timed out
+2012-07-08 01:33:51 [INFO] [Metrics] Connection timed out
+2012-07-08 01:43:52 [INFO] [Metrics] Connection timed out
+2012-07-08 01:53:52 [INFO] [Metrics] Connection timed out
+2012-07-08 02:13:51 [INFO] [Metrics] Connection timed out
+2012-07-08 02:23:52 [INFO] [Metrics] Connection timed out
+2012-07-08 02:33:52 [INFO] [Metrics] Connection timed out
+2012-07-08 02:35:05 [INFO] Connected players: [m
+2012-07-08 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-07-08 08:00:01 [INFO] [35;1m[Server] Starting backup.[m
+2012-07-08 08:00:01 [INFO] Unknown command. Type "help" for help.[m
+2012-07-08 08:00:01 [INFO] CONSOLE: Forcing save..[m
+2012-07-08 08:00:01 [INFO] CONSOLE: Save complete.[m
+2012-07-08 08:00:04 [INFO] Unknown command. Type "help" for help.[m
+2012-07-08 08:00:04 [INFO] CONSOLE: Disabling level saving..[m

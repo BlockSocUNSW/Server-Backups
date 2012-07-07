@@ -305,3 +305,71 @@ adrianjboyer:
     Zombie Pigman: 0
   players:
     Herobrine: 1
+The_Whistler:
+  ==: blocksoc.PlayerDeathStat
+  counters:
+    Cactus: 0
+    Dispenser: 0
+    Drowned: 0
+    Explosion: 0
+    Fell: 0
+    Fire Block: 0
+    Fire Effect: 0
+    Lava: 0
+    Mob: 0
+    Other: 0
+    Potion of Harming: 0
+    PvP: 0
+    Starvation: 0
+    Suffocation: 0
+    Void: 0
+  mobs:
+    Blaze: 0
+    Cave Spider: 0
+    Ender Dragon: 0
+    Enderman: 0
+    Giant: 0
+    Magma Cube: 0
+    Silverfish: 0
+    Skeleton: 0
+    Slime: 0
+    Spider: 0
+    Wolf: 0
+    Zombie: 0
+    Zombie Pigman: 0
+  players:
+    Herobrine: 1
+daevd:
+  ==: blocksoc.PlayerDeathStat
+  counters:
+    Cactus: 0
+    Dispenser: 0
+    Drowned: 0
+    Explosion: 0
+    Fell: 0
+    Fire Block: 0
+    Fire Effect: 0
+    Lava: 0
+    Mob: 0
+    Other: 0
+    Potion of Harming: 0
+    PvP: 0
+    Starvation: 0
+    Suffocation: 0
+    Void: 0
+  mobs:
+    Blaze: 0
+    Cave Spider: 0
+    Ender Dragon: 0
+    Enderman: 0
+    Giant: 0
+    Magma Cube: 0
+    Silverfish: 0
+    Skeleton: 0
+    Slime: 0
+    Spider: 0
+    Wolf: 0
+    Zombie: 0
+    Zombie Pigman: 0
+  players:
+    Herobrine: 1

@@ -1,9 +1,9 @@
 SURVIVAL:
-  armorContents: 0:t:313;d:46;e:PROTECTION_ENVIRONMENTAL:3/1:t:312;d:46;e:PROTECTION_ENVIRONMENTAL:3/2:t:311;d:46;e:PROTECTION_FIRE:4/3:t:310;d:40;e:PROTECTION_FIRE:2
-  inventoryContents: 0:t:297;#:32/1:t:261;d:8;e:ARROW_DAMAGE:5/2:t:276;d:109;e:DAMAGE_ALL:3/3:t:50;#:10/4:t:257;e:LOOT_BONUS_BLOCKS:1,DIG_SPEED:2/5:t:3;#:50/6:t:256;e:DURABILITY:3,DIG_SPEED:2/7:t:292/9:t:5;d:1;#:64/10:t:263;#:64/11:t:289;#:15/12:t:352;#:14/13:t:15;#:9/14:t:287;#:2/15:t:264;#:4/17:t:262;#:35/18:t:5;d:1;#:10/19:t:348;#:6/22:t:261;e:ARROW_DAMAGE:5/23:t:295;#:64/27:t:280;#:57/28:t:265;#:30/30:t:65;#:12/33:t:326/34:t:258;e:DURABILITY:2,DIG_SPEED:2/35:t:259
+  armorContents: 0:t:313;d:109/1:t:312;d:69/2:t:311;d:239;e:PROTECTION_FIRE:4/3:t:310;d:234;e:PROTECTION_FIRE:2
+  inventoryContents: 0:t:297;#:63/1:t:261;d:26;e:ARROW_DAMAGE:5/2:t:276;d:435;e:DAMAGE_ALL:3/3:t:50;#:63/4:t:257;d:1/5:t:42/6:t:256;d:125;e:DURABILITY:3,DIG_SPEED:2/7:t:4;#:58/8:t:368;#:3/9:t:17;d:1;#:22/10:t:263;#:64/12:t:12;#:53/13:t:12;#:64/14:t:352;#:2/15:t:289/16:t:326/17:t:262;#:57/18:t:5;#:59/22:t:87;#:34/26:t:65;#:12/27:t:280;#:38/28:t:265;#:63/34:t:258;d:24;e:DURABILITY:2,DIG_SPEED:2/35:t:259;d:22
   bedSpawnLocation: wo:world;x:1041.0;y:88.0;z:-132.0;pi:0.0;ya:0.0
   potions: ''
-  stats: fd:0.0;ra:300;ft:-20;sa:0.0;el:3;hp:20;ex:3.8003614;xp:0.65891725;ma:300;fl:20;txp:16422
+  stats: fd:0.0;ra:300;ft:-20;sa:0.0;el:6;hp:20;ex:1.363935;xp:0.24999997;ma:300;fl:18;txp:100
 CREATIVE:
   inventoryContents: 0:t:297;#:64/1:t:267;d:95/2:t:50;#:26/3:t:257;d:58/4:t:256;d:5/5:t:98/6:t:98;d:2;#:17/7:t:98;d:1;#:48/8:t:368;#:16/9:t:5;#:64/10:t:263;#:23/11:t:4;#:64/12:t:12;#:64/13:t:12;#:64/14:t:12;#:64/16:t:259;d:38/17:t:262;#:17/18:t:5;#:50/19:t:265;#:49/21:t:348;#:29/22:t:12;#:58/23:t:42/24:t:4;#:64/25:t:327/26:t:15;#:8/27:t:280;#:64/28:t:261;d:26/30:t:295;#:53/33:t:258;d:42/34:t:292;d:21/35:t:65;#:23
   armorContents: 0:t:309;d:48/1:t:308;d:48/2:t:307;d:48/3:t:306;d:48

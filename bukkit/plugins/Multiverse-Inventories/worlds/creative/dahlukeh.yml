@@ -1,7 +1,12 @@
-SURVIVAL: &id001
+SURVIVAL:
+  potions: ''
+  inventoryContents: 0:t:331;#:17/1:t:365;#:13/2:t:288;#:17/3:t:29;d:7/4:t:89/7:t:46;#:5/9:t:288;#:64/10:t:344;#:14/11:t:288;#:64/12:t:366;#:64
+  bedSpawnLocation: wo:creative;x:-245.0;y:115.0;z:36.0;pi:0.0;ya:0.0
+  armorContents: ''
+  stats: ft:-20;txp:4;sa:5.0;ex:0.0;xp:0.5714286;fd:0.0;hp:20;ma:300;el:0;ra:300;fl:20
+CREATIVE:
   inventoryContents: 0:t:383;d:56
   potions: ''
   armorContents: ''
   bedSpawnLocation: wo:creative;x:-245.0;y:115.0;z:36.0;pi:0.0;ya:0.0
   stats: ma:300;el:0;sa:5.0;xp:0.0;fl:20;ra:300;ft:-20;fd:0.0;hp:20;ex:0.0;txp:0
-CREATIVE: *id001

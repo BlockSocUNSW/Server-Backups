@@ -4,7 +4,7 @@ lluoc:
   counters:
     Cactus: 0
     Dispenser: 0
-    Drowned: 0
+    Drowned: 1
     Explosion: 0
     Fell: 2
     Fire Block: 0
@@ -13,7 +13,7 @@ lluoc:
     Mob: 1
     Other: 2
     Potion of Harming: 0
-    PvP: 0
+    PvP: 1
     Starvation: 0
     Suffocation: 0
     Void: 0
@@ -33,6 +33,7 @@ lluoc:
     Zombie Pigman: 0
   players:
     Herobrine: 1
+    dejai: 1
 dahlukeh:
   ==: blocksoc.PlayerDeathStat
   counters:
@@ -418,7 +419,7 @@ dejai:
     Fire Block: 0
     Fire Effect: 0
     Lava: 0
-    Mob: 2
+    Mob: 3
     Other: 0
     Potion of Harming: 0
     PvP: 0
@@ -433,7 +434,7 @@ dejai:
     Giant: 0
     Magma Cube: 0
     Silverfish: 0
-    Skeleton: 0
+    Skeleton: 1
     Slime: 0
     Spider: 0
     Wolf: 0
@@ -446,13 +447,47 @@ phisi:
   counters:
     Cactus: 0
     Dispenser: 0
-    Drowned: 0
-    Explosion: 2
-    Fell: 0
+    Drowned: 1
+    Explosion: 4
+    Fell: 10
     Fire Block: 0
     Fire Effect: 0
     Lava: 0
-    Mob: 6
+    Mob: 24
+    Other: 0
+    Potion of Harming: 0
+    PvP: 0
+    Starvation: 0
+    Suffocation: 0
+    Void: 0
+  mobs:
+    Blaze: 0
+    Cave Spider: 0
+    Ender Dragon: 0
+    Enderman: 0
+    Giant: 0
+    Magma Cube: 0
+    Silverfish: 0
+    Skeleton: 6
+    Slime: 0
+    Spider: 13
+    Wolf: 0
+    Zombie: 5
+    Zombie Pigman: 0
+  players:
+    Herobrine: 1
+Mr_Psychotic:
+  ==: blocksoc.PlayerDeathStat
+  counters:
+    Cactus: 0
+    Dispenser: 0
+    Drowned: 0
+    Explosion: 2
+    Fell: 2
+    Fire Block: 1
+    Fire Effect: 0
+    Lava: 1
+    Mob: 2
     Other: 0
     Potion of Harming: 0
     PvP: 0
@@ -469,18 +504,18 @@ phisi:
     Silverfish: 0
     Skeleton: 2
     Slime: 0
-    Spider: 4
+    Spider: 0
     Wolf: 0
     Zombie: 0
     Zombie Pigman: 0
   players:
     Herobrine: 1
-Mr_Psychotic:
+stupidalias:
   ==: blocksoc.PlayerDeathStat
   counters:
     Cactus: 0
     Dispenser: 0
-    Drowned: 0
+    Drowned: 1
     Explosion: 0
     Fell: 0
     Fire Block: 0

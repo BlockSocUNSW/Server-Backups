@@ -1,0 +1,31 @@
+dbName: stats.db
+dbLocation: /home/minecraft
+mobs:
+- Blaze
+- Cave Spider
+- Ender Dragon
+- Enderman
+- Giant
+- Ghast
+- Magma Cube
+- Silverfish
+- Skeleton
+- Slime
+- Spider
+- Wolf
+- Zombie
+- Zombie Pigman
+deaths:
+- Cactus: pricked to death
+  Dispenser: arrow
+  Drowned: drowned
+  Explosion: blew up
+  Fell: too hard
+  Fire Block: went up in flames
+  Fire Effect: burned to death
+  Lava: in lava
+  Other: died
+  Potion of Harming: killed by magic
+  Starvation: starved to death
+  Suffocation: wall
+  Void: the world

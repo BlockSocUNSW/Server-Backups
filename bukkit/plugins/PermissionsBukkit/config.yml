@@ -37,6 +37,12 @@ users:
     - default
     permissions:
       'false': true
+  h4zm4t:
+    groups:
+    - op
+  dejai:
+    groups:
+    - op
 groups:
   default:
     permissions:
@@ -57,6 +63,23 @@ groups:
         coolplugin.item: true
     inheritance:
     - default
+  op:
+    permissions:
+      bukkit.command.kick: true
+      bukkit.command.ban.player: true
+      bukkit.command.ban.list: true
+      bukkit.command.unban.player: true
+      bukkit.command.teleport: true
+      bukkit.command.give: true
+      bukkit.command.list: true
+      bukkit.command.time.add: true
+      bukkit.command.time.set: true
+      bukkit.command.gamemode: true
+      multiverse.core.list: true
+      multiverse.teleport.other.*: true
+      multiverse.teleport.self.*: true
+    inheritance:
+    - user
 messages:
   build: '&cYou do not have permission to build here.'
 debug: false

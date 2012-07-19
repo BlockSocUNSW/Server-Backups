@@ -10,10 +10,15 @@ Lemon:
   - Yinsano
   - daevd
   - dejai
-  - stupidalias
   - phisi
   - Mr_Psychotic
   - stin89
   - lluoc
   - Sherper
   - Ice2089
+  - NotQuiteAs1
+parrot:
+  Leader: NotQuiteAs1
+  Locked: false
+  Members:
+  - stupidalias

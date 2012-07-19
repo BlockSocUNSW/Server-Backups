@@ -1,4 +1,8 @@
 SURVIVAL:
-  stats: xp:0.0;txp:0;el:0
+  bedSpawnLocation: wo:world;x:1195.0;y:109.0;z:-1162.0;pi:0.0;ya:0.0
+  armorContents: ''
+  potions: ''
+  inventoryContents: 0:t:267;d:180/1:t:257/2:t:3;#:64/3:t:4;#:64/4:t:5;#:51/8:t:50;#:27/27:t:257
+  stats: sa:0.0;ma:300;ra:300;ex:2.9953003;xp:0.0;fd:0.0;fl:13;el:0;hp:20;txp:0;ft:-20
 CREATIVE:
   stats: el:0;xp:0.0;txp:0

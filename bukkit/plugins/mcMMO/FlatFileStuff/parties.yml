@@ -15,10 +15,14 @@ Lemon:
   - stin89
   - lluoc
   - Sherper
-  - Ice2089
-  - NotQuiteAs1
 parrot:
   Leader: NotQuiteAs1
   Locked: false
   Members:
   - stupidalias
+lemon:
+  Leader: Ice2089
+  Locked: false
+  Members:
+  - Ice2089
+  - NotQuiteAs1

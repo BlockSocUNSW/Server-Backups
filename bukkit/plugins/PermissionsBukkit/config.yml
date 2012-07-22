@@ -42,7 +42,7 @@ users:
     - op
   dejai:
     groups:
-    - op
+    - user
 groups:
   default:
     permissions:

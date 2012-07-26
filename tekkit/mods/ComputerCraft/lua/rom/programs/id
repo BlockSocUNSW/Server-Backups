@@ -1,0 +1,7 @@
+
+print( "This is computer #"..os.getComputerID() )
+
+local label = os.getComputerLabel()
+if label then
+	print( "This computer is labelled \""..label.."\"" )
+end

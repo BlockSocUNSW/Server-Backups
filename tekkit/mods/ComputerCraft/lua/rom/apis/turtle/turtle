@@ -1,0 +1,34 @@
+
+if not turtle then
+	error( "Cannot load turtle API on computer" )
+end
+
+native = turtle.native or turtle
+
+local function wrap( _sCommand )
+	return function( ... )
+		local id = native[_sCommand]( ... )
+		local event, responseID, success
+		while event ~= "turtle_response" or responseID ~= id do
+			event, responseID, success = os.pullEvent( "turtle_response" )
+		end
+		return success
+	end
+end
+
+local turtle = {}
+turtle["getItemCount"] = native.getItemCount
+turtle["getItemSpace"] = native.getItemSpace
+
+for k,v in pairs( native ) do
+	if type( k ) == "string" and type( v ) == "function" then
+		if turtle[k] == nil then
+			turtle[k] = wrap( k )
+		end
+	end
+end
+
+local env = getfenv()
+for k,v in pairs( turtle ) do
+	env[k] = v
+end

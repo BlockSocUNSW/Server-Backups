@@ -1,0 +1,518 @@
+2012-07-27 00:56:05 [INFO] Forge Mod Loader version 2.2.91.162 for Minecraft 1.2.5 loading
+2012-07-27 00:56:05 [FINE] Attempting to load mods contained in the minecraft jar file and associated classes
+2012-07-27 00:56:05 [FINE] Minecraft is a file at /home/minecraft/server/tekkit/Tekkit.jar, loading
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_MinecraftForge in file Tekkit.jar, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_MinecraftForge found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_MinecraftForge loaded
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_MinecraftForge loaded successfully
+2012-07-27 00:56:05 [FINE] Minecraft jar mods loaded successfully
+2012-07-27 00:56:05 [INFO] Loading mods from /home/minecraft/server/tekkit/mods
+2012-07-27 00:56:05 [FINE] Found a zip or jar file AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_AdditionalPipes in file AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_AdditionalPipes found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_AdditionalPipes loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip for mod_AdditionalPipes
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_AdditionalPipes loaded successfully
+2012-07-27 00:56:05 [FINE] File AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file BalkonsWeaponMod1.2.5.jar, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_WeaponMod in file BalkonsWeaponMod1.2.5.jar, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WeaponMod found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WeaponMod loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in BalkonsWeaponMod1.2.5.jar for mod_WeaponMod
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_WeaponMod loaded successfully
+2012-07-27 00:56:05 [FINE] File BalkonsWeaponMod1.2.5.jar loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file CodeChickenCore-Bukkit 0.5.3r3.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_CodeChickenCore in file CodeChickenCore-Bukkit 0.5.3r3.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CodeChickenCore found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CodeChickenCore loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in CodeChickenCore-Bukkit 0.5.3r3.zip for mod_CodeChickenCore
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_CodeChickenCore loaded successfully
+2012-07-27 00:56:05 [FINE] File CodeChickenCore-Bukkit 0.5.3r3.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a directory ComputerCraft, attempting to load it
+2012-07-27 00:56:05 [FINEST] Recursing into package dan200
+2012-07-27 00:56:05 [FINEST] Recursing into package dan200.computer
+2012-07-27 00:56:05 [FINEST] Recursing into package dan200.computer.api
+2012-07-27 00:56:05 [FINEST] Recursing into package dan200.computer.core
+2012-07-27 00:56:05 [FINEST] Recursing into package dan200.computer.shared
+2012-07-27 00:56:05 [FINEST] Recursing into package dan200.turtle
+2012-07-27 00:56:05 [FINEST] Recursing into package dan200.turtle.api
+2012-07-27 00:56:05 [FINEST] Recursing into package dan200.turtle.shared
+2012-07-27 00:56:05 [FINEST] Recursing into package eloraam
+2012-07-27 00:56:05 [FINEST] Recursing into package eloraam.core
+2012-07-27 00:56:05 [FINEST] Recursing into package licenses
+2012-07-27 00:56:05 [FINEST] Recursing into package lua
+2012-07-27 00:56:05 [FINEST] Recursing into package lua.rom
+2012-07-27 00:56:05 [FINEST] Recursing into package lua.rom.apis
+2012-07-27 00:56:05 [FINEST] Recursing into package lua.rom.apis.turtle
+2012-07-27 00:56:05 [FINEST] Recursing into package lua.rom.help
+2012-07-27 00:56:05 [FINEST] Recursing into package lua.rom.programs
+2012-07-27 00:56:05 [FINEST] Recursing into package lua.rom.programs.computer
+2012-07-27 00:56:05 [FINEST] Recursing into package lua.rom.programs.http
+2012-07-27 00:56:05 [FINEST] Recursing into package lua.rom.programs.secret
+2012-07-27 00:56:05 [FINEST] Recursing into package lua.rom.programs.turtle
+2012-07-27 00:56:05 [FINEST] Recursing into package net
+2012-07-27 00:56:05 [FINEST] Recursing into package net.minecraft
+2012-07-27 00:56:05 [FINEST] Recursing into package net.minecraft.server
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_CCTurtle in directory server, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CCTurtle found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CCTurtle loaded
+2012-07-27 00:56:05 [FINE] Successfully loaded mod class mod_CCTurtle.class
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_ComputerCraft in directory server, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ComputerCraft found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ComputerCraft loaded
+2012-07-27 00:56:05 [FINE] Successfully loaded mod class mod_ComputerCraft.class
+2012-07-27 00:56:05 [FINEST] Recursing into package org
+2012-07-27 00:56:05 [FINEST] Recursing into package org.luaj
+2012-07-27 00:56:05 [FINEST] Recursing into package org.luaj.vm2
+2012-07-27 00:56:05 [FINEST] Recursing into package org.luaj.vm2.ast
+2012-07-27 00:56:05 [FINEST] Recursing into package org.luaj.vm2.compiler
+2012-07-27 00:56:05 [FINEST] Recursing into package org.luaj.vm2.lib
+2012-07-27 00:56:05 [FINEST] Recursing into package org.luaj.vm2.lib.jse
+2012-07-27 00:56:05 [FINEST] Recursing into package org.luaj.vm2.lua2java
+2012-07-27 00:56:05 [FINEST] Recursing into package org.luaj.vm2.luajc
+2012-07-27 00:56:05 [FINEST] Recursing into package org.luaj.vm2.parser
+2012-07-27 00:56:05 [FINEST] Recursing into package org.luaj.vm2.script
+2012-07-27 00:56:05 [FINE] Directory ComputerCraft loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_EE in file EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_EE found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_EE loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip for mod_EE
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_EE loaded successfully
+2012-07-27 00:56:05 [FINE] File EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file EnderStorage-Bukkit 1.1.3r2.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_EnderStorage in file EnderStorage-Bukkit 1.1.3r2.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_EnderStorage found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_EnderStorage loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in EnderStorage-Bukkit 1.1.3r2.zip for mod_EnderStorage
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_EnderStorage loaded successfully
+2012-07-27 00:56:05 [FINE] File EnderStorage-Bukkit 1.1.3r2.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file NotEnoughItems-Bukkit 1.2.2.3r3.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_NotEnoughItems in file NotEnoughItems-Bukkit 1.2.2.3r3.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_NotEnoughItems found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_NotEnoughItems loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in NotEnoughItems-Bukkit 1.2.2.3r3.zip for mod_NotEnoughItems
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_NotEnoughItems loaded successfully
+2012-07-27 00:56:05 [FINE] File NotEnoughItems-Bukkit 1.2.2.3r3.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file PowerConverters-1.3.4-mcpc78-r1 (1).zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_PowerConverters in file PowerConverters-1.3.4-mcpc78-r1 (1).zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_PowerConverters found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_PowerConverters loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in PowerConverters-1.3.4-mcpc78-r1 (1).zip for mod_PowerConverters
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_PowerConverters loaded successfully
+2012-07-27 00:56:05 [FINE] File PowerConverters-1.3.4-mcpc78-r1 (1).zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file Railcraft-5.3.3-MCPC-1.2.5-r7.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_Railcraft in file Railcraft-5.3.3-MCPC-1.2.5-r7.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_Railcraft found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_Railcraft loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in Railcraft-5.3.3-MCPC-1.2.5-r7.zip for mod_Railcraft
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_Railcraft loaded successfully
+2012-07-27 00:56:05 [FINE] File Railcraft-5.3.3-MCPC-1.2.5-r7.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file WR-CBE Addons-Bukkit 1.2.2.3.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_WirelessRedstoneAddons in file WR-CBE Addons-Bukkit 1.2.2.3.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WirelessRedstoneAddons found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WirelessRedstoneAddons loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in WR-CBE Addons-Bukkit 1.2.2.3.zip for mod_WirelessRedstoneAddons
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_WirelessRedstoneAddons loaded successfully
+2012-07-27 00:56:05 [FINE] File WR-CBE Addons-Bukkit 1.2.2.3.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file WR-CBE Core-Bukkit 1.2.2.3r2.zip.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_WirelessRedstoneCore in file WR-CBE Core-Bukkit 1.2.2.3r2.zip.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WirelessRedstoneCore found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WirelessRedstoneCore loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in WR-CBE Core-Bukkit 1.2.2.3r2.zip.zip for mod_WirelessRedstoneCore
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_WirelessRedstoneCore loaded successfully
+2012-07-27 00:56:05 [FINE] File WR-CBE Core-Bukkit 1.2.2.3r2.zip.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file WR-CBE RedPower-Bukkit 1.2.2.1.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_WirelessRedstoneRedPower in file WR-CBE RedPower-Bukkit 1.2.2.1.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WirelessRedstoneRedPower found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_WirelessRedstoneRedPower loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in WR-CBE RedPower-Bukkit 1.2.2.1.zip for mod_WirelessRedstoneRedPower
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_WirelessRedstoneRedPower loaded successfully
+2012-07-27 00:56:05 [FINE] File WR-CBE RedPower-Bukkit 1.2.2.1.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file advancedMachines_4.0_bukkit.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_IC2AdvancedMachines in file advancedMachines_4.0_bukkit.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2AdvancedMachines found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2AdvancedMachines loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in advancedMachines_4.0_bukkit.zip for mod_IC2AdvancedMachines
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_IC2AdvancedMachines loaded successfully
+2012-07-27 00:56:05 [FINE] File advancedMachines_4.0_bukkit.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftTransport in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftTransport found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftTransport loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftTransport
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_BuildCraftTransport loaded successfully
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftFactory in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftFactory found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftFactory loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftFactory
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_BuildCraftFactory loaded successfully
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftEnergy in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftEnergy found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftEnergy loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftEnergy
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_BuildCraftEnergy loaded successfully
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftCore in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftCore found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftCore loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftCore
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_BuildCraftCore loaded successfully
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_BuildCraftBuilders in file buildcraft-2.2.14-mcpc1.2.5-r8.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftBuilders found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_BuildCraftBuilders loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in buildcraft-2.2.14-mcpc1.2.5-r8.zip for mod_BuildCraftBuilders
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_BuildCraftBuilders loaded successfully
+2012-07-27 00:56:05 [FINE] File buildcraft-2.2.14-mcpc1.2.5-r8.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file immibis-core_49.1.1_for_1.2.5-bukkit.jar, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_ImmibisCore in file immibis-core_49.1.1_for_1.2.5-bukkit.jar, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ImmibisCore found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_ImmibisCore loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in immibis-core_49.1.1_for_1.2.5-bukkit.jar for mod_ImmibisCore
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_ImmibisCore loaded successfully
+2012-07-27 00:56:05 [FINE] File immibis-core_49.1.1_for_1.2.5-bukkit.jar loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file industrialcraft2-1.97-mcpc1.2.5-r1.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_IC2 in file industrialcraft2-1.97-mcpc1.2.5-r1.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2 found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2 loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in industrialcraft2-1.97-mcpc1.2.5-r1.zip for mod_IC2
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_IC2 loaded successfully
+2012-07-27 00:56:05 [FINE] File industrialcraft2-1.97-mcpc1.2.5-r1.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file mffs_rev5_for_1.2.5-bukkit.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class mffs.mod_ModularForceFieldSystem in file mffs_rev5_for_1.2.5-bukkit.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class mffs.mod_ModularForceFieldSystem found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class mffs.mod_ModularForceFieldSystem loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in mffs_rev5_for_1.2.5-bukkit.zip for mod_ModularForceFieldSystem
+2012-07-27 00:56:05 [FINE] Mod class mffs.mod_ModularForceFieldSystem loaded successfully
+2012-07-27 00:56:05 [FINE] File mffs_rev5_for_1.2.5-bukkit.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_IC2NuclearControl in file mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2NuclearControl found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2NuclearControl loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip for mod_IC2NuclearControl
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_IC2NuclearControl loaded successfully
+2012-07-27 00:56:05 [FINE] File mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file mod_NetherOres.jar, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_NetherOres in file mod_NetherOres.jar, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_NetherOres found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_NetherOres loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in mod_NetherOres.jar for mod_NetherOres
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_NetherOres loaded successfully
+2012-07-27 00:56:05 [FINE] File mod_NetherOres.jar loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_IC2_ChargingBench in file mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2_ChargingBench found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_IC2_ChargingBench loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip for mod_IC2_ChargingBench
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_IC2_ChargingBench loaded successfully
+2012-07-27 00:56:05 [FINE] File mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_CompactSolars in file mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CompactSolars found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_CompactSolars loaded
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_CompactSolars loaded successfully
+2012-07-27 00:56:05 [FINE] File mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file mod_ironchests-server-3.8.0.40-bukkit-mcpc-1.2.5.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class cpw.mods.ironchest.mod_IronChest in file mod_ironchests-server-3.8.0.40-bukkit-mcpc-1.2.5.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class cpw.mods.ironchest.mod_IronChest found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class cpw.mods.ironchest.mod_IronChest loaded
+2012-07-27 00:56:05 [FINE] Mod class cpw.mods.ironchest.mod_IronChest loaded successfully
+2012-07-27 00:56:05 [FINE] File mod_ironchests-server-3.8.0.40-bukkit-mcpc-1.2.5.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file redpower-all-2.0p5b2-mcpc1.2.5-r14.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_RedPowerControl in file redpower-all-2.0p5b2-mcpc1.2.5-r14.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerControl found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerControl loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r14.zip for mod_RedPowerControl
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_RedPowerControl loaded successfully
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_RedPowerLogic in file redpower-all-2.0p5b2-mcpc1.2.5-r14.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerLogic found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerLogic loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r14.zip for mod_RedPowerLogic
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_RedPowerLogic loaded successfully
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_RedPowerLighting in file redpower-all-2.0p5b2-mcpc1.2.5-r14.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerLighting found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerLighting loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r14.zip for mod_RedPowerLighting
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_RedPowerLighting loaded successfully
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_RedPowerWiring in file redpower-all-2.0p5b2-mcpc1.2.5-r14.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerWiring found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerWiring loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r14.zip for mod_RedPowerWiring
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_RedPowerWiring loaded successfully
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_RedPowerCore in file redpower-all-2.0p5b2-mcpc1.2.5-r14.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerCore found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerCore loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r14.zip for mod_RedPowerCore
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_RedPowerCore loaded successfully
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_RedPowerMachine in file redpower-all-2.0p5b2-mcpc1.2.5-r14.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerMachine found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerMachine loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r14.zip for mod_RedPowerMachine
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_RedPowerMachine loaded successfully
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_RedPowerWorld in file redpower-all-2.0p5b2-mcpc1.2.5-r14.zip, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerWorld found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_RedPowerWorld loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in redpower-all-2.0p5b2-mcpc1.2.5-r14.zip for mod_RedPowerWorld
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_RedPowerWorld loaded successfully
+2012-07-27 00:56:05 [FINE] File redpower-all-2.0p5b2-mcpc1.2.5-r14.zip loaded successfully
+2012-07-27 00:56:05 [FINE] Found a zip or jar file tubestuff_49.1.1_for_1.2.5-bukkit.jar, attempting to load it
+2012-07-27 00:56:05 [FINE] Found a mod class net.minecraft.server.mod_TubeStuff in file tubestuff_49.1.1_for_1.2.5-bukkit.jar, attempting to load it
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_TubeStuff found, loading
+2012-07-27 00:56:05 [FINE] ModLoader BaseMod class net.minecraft.server.mod_TubeStuff loaded
+2012-07-27 00:56:05 [FINE] Failed to find mcmod.info file in tubestuff_49.1.1_for_1.2.5-bukkit.jar for mod_TubeStuff
+2012-07-27 00:56:05 [FINE] Mod class net.minecraft.server.mod_TubeStuff loaded successfully
+2012-07-27 00:56:05 [FINE] File tubestuff_49.1.1_for_1.2.5-bukkit.jar loaded successfully
+2012-07-27 00:56:05 [FINE] Found a directory weaponmod, attempting to load it
+2012-07-27 00:56:05 [INFO] Directory weaponmod contained no mods
+2012-07-27 00:56:05 [INFO] Forge Mod Loader has loaded 36 mods
+2012-07-27 00:56:05 [FINE] Beginning mod pre-initialization
+2012-07-27 00:56:05 [FINER] Pre-initializing /home/minecraft/server/tekkit/Tekkit.jar
+2012-07-27 00:56:05 [FINE] Reading existing configuration file for mod_MinecraftForge : mod_MinecraftForge.cfg
+2012-07-27 00:56:05 [FINEST] Configuration for mod_MinecraftForge.DISABLE_DARK_ROOMS found values default: false, configured: false, interpreted: false
+2012-07-27 00:56:05 [FINEST] Configuration for mod_MinecraftForge.SPAWNER_ALLOW_ON_INVERTED found values default: true, configured: true, interpreted: true
+2012-07-27 00:56:05 [FINEST] Configuration for mod_MinecraftForge.NO_FORGE_KICK_MESSAGE found values default: This server requires you to have Minecraft Forge installed. http://MinecraftForge.net/, configured: This server requires you to have Minecraft Forge installed. http://MinecraftForge.net/, interpreted: This server requires you to have Minecraft Forge installed. http://MinecraftForge.net/
+2012-07-27 00:56:05 [FINEST] Configuration for mod_MinecraftForge.SPAWNER_MAKE_MORE_RANDOM found values default: false, configured: false, interpreted: false
+2012-07-27 00:56:05 [FINE] Configuration for mod_MinecraftForge written to mod_MinecraftForge.cfg
+2012-07-27 00:56:05 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip
+2012-07-27 00:56:05 [FINE] No MLProp configuration for mod_AdditionalPipes found or required. No file written
+2012-07-27 00:56:05 [INFO] MinecraftForge v3.3.8.152 Initialized
+
+2012-07-27 00:56:05 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/BalkonsWeaponMod1.2.5.jar
+2012-07-27 00:56:05 [FINE] No MLProp configuration for mod_WeaponMod found or required. No file written
+2012-07-27 00:56:05 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/CodeChickenCore-Bukkit 0.5.3r3.zip
+2012-07-27 00:56:05 [FINE] No MLProp configuration for mod_CodeChickenCore found or required. No file written
+2012-07-27 00:56:05 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/ComputerCraft/net/minecraft/server
+2012-07-27 00:56:05 [FINE] Reading existing configuration file for mod_CCTurtle : mod_CCTurtle.cfg
+2012-07-27 00:56:05 [FINEST] Configuration for mod_CCTurtle.turtleBlockID found values default: 209, configured: 216, interpreted: 216
+2012-07-27 00:56:05 [FINEST] Configuration for mod_CCTurtle.turtleBlockID value set to: 216
+2012-07-27 00:56:05 [FINEST] Configuration for mod_CCTurtle.turtleGUIID found values default: 101, configured: 101, interpreted: 101
+2012-07-27 00:56:05 [FINEST] Configuration for mod_CCTurtle.turtle_fakeplayer_method found values default: perturtle, configured: perturtle, interpreted: perturtle
+2012-07-27 00:56:05 [FINEST] Configuration for mod_CCTurtle.turtle_fakeplayer_dologin found values default: false, configured: false, interpreted: false
+2012-07-27 00:56:05 [FINE] Configuration for mod_CCTurtle written to mod_CCTurtle.cfg
+2012-07-27 00:56:05 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/ComputerCraft/net/minecraft/server
+2012-07-27 00:56:05 [FINE] Reading existing configuration file for mod_ComputerCraft : mod_ComputerCraft.cfg
+2012-07-27 00:56:05 [FINEST] Configuration for mod_ComputerCraft.computerBlockID found values default: 207, configured: 207, interpreted: 207
+2012-07-27 00:56:05 [FINEST] Configuration for mod_ComputerCraft.diskDriveBlockID found values default: 208, configured: 208, interpreted: 208
+2012-07-27 00:56:05 [FINEST] Configuration for mod_ComputerCraft.diskItemID found values default: 4000, configured: 4000, interpreted: 4000
+2012-07-27 00:56:05 [FINEST] Configuration for mod_ComputerCraft.diskDriveGUIID found values default: 100, configured: 100, interpreted: 100
+2012-07-27 00:56:05 [WARNING] Configuration for mod_ComputerCraft.enableAPI_http found value 0 outside acceptable range 4.9E-324,1.7976931348623157E308
+2012-07-27 00:56:05 [FINEST] Configuration for mod_ComputerCraft.enableAPI_http found values default: 0, configured: 0, interpreted: null
+2012-07-27 00:56:05 [FINEST] Configuration for mod_ComputerCraft.modem_range found values default: 64, configured: 64, interpreted: 64
+2012-07-27 00:56:05 [FINEST] Configuration for mod_ComputerCraft.modem_rangeDuringStorm found values default: 1, configured: 16, interpreted: 16
+2012-07-27 00:56:05 [FINEST] Configuration for mod_ComputerCraft.modem_rangeDuringStorm value set to: 16
+2012-07-27 00:56:05 [FINE] Configuration for mod_ComputerCraft written to mod_ComputerCraft.cfg
+2012-07-27 00:56:05 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip
+2012-07-27 00:56:05 [FINE] No MLProp configuration for mod_EE found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/EnderStorage-Bukkit 1.1.3r2.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_EnderStorage found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/NotEnoughItems-Bukkit 1.2.2.3r3.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_NotEnoughItems found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/PowerConverters-1.3.4-mcpc78-r1 (1).zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_PowerConverters found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/Railcraft-5.3.3-MCPC-1.2.5-r7.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_Railcraft found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/WR-CBE Addons-Bukkit 1.2.2.3.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_WirelessRedstoneAddons found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/WR-CBE Core-Bukkit 1.2.2.3r2.zip.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_WirelessRedstoneCore found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/WR-CBE RedPower-Bukkit 1.2.2.1.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_WirelessRedstoneRedPower found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/advancedMachines_4.0_bukkit.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_IC2AdvancedMachines found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/buildcraft-2.2.14-mcpc1.2.5-r8.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_BuildCraftTransport found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/buildcraft-2.2.14-mcpc1.2.5-r8.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_BuildCraftFactory found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/buildcraft-2.2.14-mcpc1.2.5-r8.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_BuildCraftEnergy found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/buildcraft-2.2.14-mcpc1.2.5-r8.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_BuildCraftCore found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/buildcraft-2.2.14-mcpc1.2.5-r8.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_BuildCraftBuilders found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/immibis-core_49.1.1_for_1.2.5-bukkit.jar
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_ImmibisCore found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/industrialcraft2-1.97-mcpc1.2.5-r1.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_IC2 found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/mffs_rev5_for_1.2.5-bukkit.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_ModularForceFieldSystem found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_IC2NuclearControl found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/mod_NetherOres.jar
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_NetherOres found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_IC2_ChargingBench found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_CompactSolars found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/mod_ironchests-server-3.8.0.40-bukkit-mcpc-1.2.5.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_IronChest found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/redpower-all-2.0p5b2-mcpc1.2.5-r14.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_RedPowerControl found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/redpower-all-2.0p5b2-mcpc1.2.5-r14.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_RedPowerLogic found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/redpower-all-2.0p5b2-mcpc1.2.5-r14.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_RedPowerLighting found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/redpower-all-2.0p5b2-mcpc1.2.5-r14.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_RedPowerWiring found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/redpower-all-2.0p5b2-mcpc1.2.5-r14.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_RedPowerCore found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/redpower-all-2.0p5b2-mcpc1.2.5-r14.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_RedPowerMachine found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/redpower-all-2.0p5b2-mcpc1.2.5-r14.zip
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_RedPowerWorld found or required. No file written
+2012-07-27 00:56:06 [FINER] Pre-initializing /home/minecraft/server/tekkit/mods/tubestuff_49.1.1_for_1.2.5-bukkit.jar
+2012-07-27 00:56:06 [FINE] No MLProp configuration for mod_TubeStuff found or required. No file written
+2012-07-27 00:56:06 [FINE] Mod pre-initialization complete
+2012-07-27 00:56:06 [FINE] Verifying mod dependencies are satisfied
+2012-07-27 00:56:06 [FINE] All dependencies are satisfied
+2012-07-27 00:56:06 [FINE] Sorting mods into an ordered list
+2012-07-27 00:56:06 [FINE] Sorted mod list:
+2012-07-27 00:56:06 [FINE] 	mod_CodeChickenCore: CodeChickenCore-Bukkit 0.5.3r3.zip (before:*)
+2012-07-27 00:56:06 [FINE] 	mod_MinecraftForge: Tekkit.jar ()
+2012-07-27 00:56:06 [FINE] 	mod_BuildCraftTransport: buildcraft-2.2.14-mcpc1.2.5-r8.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_AdditionalPipes: AdditionalPipes-2.1.3-MCPC1.2.5-r3.zip (after:mod_BuildCraftTransport)
+2012-07-27 00:56:06 [FINE] 	Balkon's WeaponMod: BalkonsWeaponMod1.2.5.jar ()
+2012-07-27 00:56:06 [FINE] 	mod_RedPowerLogic: redpower-all-2.0p5b2-mcpc1.2.5-r14.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_RedPowerLighting: redpower-all-2.0p5b2-mcpc1.2.5-r14.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_RedPowerWiring: redpower-all-2.0p5b2-mcpc1.2.5-r14.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_RedPowerCore: redpower-all-2.0p5b2-mcpc1.2.5-r14.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_RedPowerMachine: redpower-all-2.0p5b2-mcpc1.2.5-r14.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_RedPowerWorld: redpower-all-2.0p5b2-mcpc1.2.5-r14.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_ComputerCraft: server (after:mod_RedPowerCore;after:mod_RedPowerArray;after:mod_RedPowerLighting;after:mod_RedPowerLogic;after:mod_RedPowerMachine;after:mod_RedPowerWiring;after:mod_RedPowerWorld)
+2012-07-27 00:56:06 [FINE] 	mod_CCTurtle: server (after:mod_ComputerCraft;after:mod_RedPowerCore;after:mod_RedPowerArray;after:mod_RedPowerLighting;after:mod_RedPowerLogic;after:mod_RedPowerMachine;after:mod_RedPowerWiring;after:mod_RedPowerWorld)
+2012-07-27 00:56:06 [FINE] 	mod_EE: EE2ServerV1.4.6.5-bukkit-mcpc-1.2.5-r5.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_EnderStorage: EnderStorage-Bukkit 1.1.3r2.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_NotEnoughItems: NotEnoughItems-Bukkit 1.2.2.3r3.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_BuildCraftEnergy: buildcraft-2.2.14-mcpc1.2.5-r8.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_BuildCraftCore: buildcraft-2.2.14-mcpc1.2.5-r8.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_IC2: industrialcraft2-1.97-mcpc1.2.5-r1.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_PowerConverters: PowerConverters-1.3.4-mcpc78-r1 (1).zip (after:mod_BuildCraftCore;after:mod_BuildCraftEnergy;after:mod_IC2)
+2012-07-27 00:56:06 [FINE] 	mod_Railcraft: Railcraft-5.3.3-MCPC-1.2.5-r7.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_WirelessRedstoneCore: WR-CBE Core-Bukkit 1.2.2.3r2.zip.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_WirelessRedstoneAddons: WR-CBE Addons-Bukkit 1.2.2.3.zip (after:mod_WirelessRedstoneCore)
+2012-07-27 00:56:06 [FINE] 	mod_WirelessRedstoneRedPower: WR-CBE RedPower-Bukkit 1.2.2.1.zip (after:mod_WirelessRedstoneCore)
+2012-07-27 00:56:06 [FINE] 	mod_IC2AdvancedMachines: advancedMachines_4.0_bukkit.zip (after:mod_IC2)
+2012-07-27 00:56:06 [FINE] 	mod_BuildCraftFactory: buildcraft-2.2.14-mcpc1.2.5-r8.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_BuildCraftBuilders: buildcraft-2.2.14-mcpc1.2.5-r8.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_ImmibisCore: immibis-core_49.1.1_for_1.2.5-bukkit.jar ()
+2012-07-27 00:56:06 [FINE] 	mod_ModularForceFieldSystem: mffs_rev5_for_1.2.5-bukkit.zip (after:mod_IC2;after:mod_ImmibisCore)
+2012-07-27 00:56:06 [FINE] 	mod_IC2NuclearControl: mod_IC2NuclearControl-1.1.10b-mcpc-r1.zip (after:mod_IC2)
+2012-07-27 00:56:06 [FINE] 	mod_NetherOres: mod_NetherOres.jar (after:mod_IC2;after:mod_RedPowerCore)
+2012-07-27 00:56:06 [FINE] 	mod_IC2_ChargingBench: mod_chargingbench-server-1.95b-mcpc1.2.5-r2.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_CompactSolars: mod_compactsolars-server-2.3.2.10-bukkit-mcpc-1.2.5.zip (after:mod_IC2)
+2012-07-27 00:56:06 [FINE] 	mod_IronChest: mod_ironchests-server-3.8.0.40-bukkit-mcpc-1.2.5.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_RedPowerControl: redpower-all-2.0p5b2-mcpc1.2.5-r14.zip ()
+2012-07-27 00:56:06 [FINE] 	mod_TubeStuff: tubestuff_49.1.1_for_1.2.5-bukkit.jar (after:mod_ImmibisCore)
+2012-07-27 00:56:06 [FINE] Beginning mod initialization
+2012-07-27 00:56:06 [FINER] Initializing mod_CodeChickenCore
+2012-07-27 00:56:07 [FINER] Initializing mod_MinecraftForge
+2012-07-27 00:56:07 [FINER] Initializing mod_BuildCraftTransport
+2012-07-27 00:56:07 [FINER] Initializing mod_AdditionalPipes
+2012-07-27 00:56:07 [FINER] Initializing Balkon's WeaponMod
+2012-07-27 00:56:07 [FINER] Initializing mod_RedPowerLogic
+2012-07-27 00:56:07 [FINER] Initializing mod_RedPowerLighting
+2012-07-27 00:56:07 [FINER] Initializing mod_RedPowerWiring
+2012-07-27 00:56:07 [FINER] Initializing mod_RedPowerCore
+2012-07-27 00:56:07 [FINER] Initializing mod_RedPowerMachine
+2012-07-27 00:56:07 [FINER] Initializing mod_RedPowerWorld
+2012-07-27 00:56:07 [FINER] Initializing mod_ComputerCraft
+2012-07-27 00:56:07 [FINER] Initializing mod_CCTurtle
+2012-07-27 00:56:07 [FINER] Initializing mod_EE
+2012-07-27 00:56:07 [FINER] Initializing mod_EnderStorage
+2012-07-27 00:56:07 [FINER] Initializing mod_NotEnoughItems
+2012-07-27 00:56:07 [FINER] Initializing mod_BuildCraftEnergy
+2012-07-27 00:56:07 [FINER] Initializing mod_BuildCraftCore
+2012-07-27 00:56:07 [FINER] Initializing mod_IC2
+2012-07-27 00:56:08 [FINER] Initializing mod_PowerConverters
+2012-07-27 00:56:08 [FINER] Initializing mod_Railcraft
+2012-07-27 00:56:08 [FINER] Railcraft Core Module: Bronze detected, adding alternative minecart recipe: {0}, id={1}
+2012-07-27 00:56:08 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:08 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:08 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:08 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:08 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:08 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:08 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:08 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:08 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:08 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:08 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:08 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:08 [FINER] Railcraft IC2 Module: Tin detected, adding Energy Detector recipe: id={0}
+2012-07-27 00:56:08 [FINER] Railcraft Factory Module: Bronze detected, adding alternative recipes: {0}, id={1}
+2012-07-27 00:56:08 [FINER] Railcraft Factory Module: Refined Iron detected, adding alternative recipes: {0}, id={1}
+2012-07-27 00:56:08 [FINER] Initializing mod_WirelessRedstoneCore
+2012-07-27 00:56:08 [FINER] Initializing mod_WirelessRedstoneAddons
+2012-07-27 00:56:08 [FINER] Initializing mod_WirelessRedstoneRedPower
+2012-07-27 00:56:08 [FINER] Railcraft IC2 Module: Tin detected, adding Energy Detector recipe: id={0}
+2012-07-27 00:56:08 [FINE] Starting BuildCraft 2.2.14
+2012-07-27 00:56:08 [FINE] Copyright (c) SpaceToad, 2011
+2012-07-27 00:56:08 [FINE] http://www.mod-buildcraft.com
+2012-07-27 00:56:08 [FINER] Initializing mod_IC2AdvancedMachines
+2012-07-27 00:56:08 [FINER] Initializing mod_BuildCraftFactory
+2012-07-27 00:56:08 [FINER] Initializing mod_BuildCraftBuilders
+2012-07-27 00:56:08 [FINER] Initializing mod_ImmibisCore
+2012-07-27 00:56:08 [FINER] Initializing mod_ModularForceFieldSystem
+2012-07-27 00:56:08 [FINER] Initializing mod_IC2NuclearControl
+2012-07-27 00:56:08 [FINER] Initializing mod_NetherOres
+2012-07-27 00:56:08 [FINER] Initializing mod_IC2_ChargingBench
+2012-07-27 00:56:08 [FINER] Initializing mod_CompactSolars
+2012-07-27 00:56:08 [FINER] Initializing mod_IronChest
+2012-07-27 00:56:08 [FINER] Initializing mod_RedPowerControl
+2012-07-27 00:56:08 [FINER] Initializing mod_TubeStuff
+2012-07-27 00:56:08 [FINE] Mod initialization complete
+2012-07-27 00:56:08 [FINE] Beginning mod post-initialization
+2012-07-27 00:56:08 [FINER] Post-initializing mod_CodeChickenCore
+2012-07-27 00:56:08 [FINER] Post-initializing mod_MinecraftForge
+2012-07-27 00:56:08 [FINER] Post-initializing mod_BuildCraftTransport
+2012-07-27 00:56:08 [FINER] Post-initializing mod_AdditionalPipes
+2012-07-27 00:56:08 [FINER] Post-initializing Balkon's WeaponMod
+2012-07-27 00:56:08 [FINER] Post-initializing mod_RedPowerLogic
+2012-07-27 00:56:08 [FINER] Post-initializing mod_RedPowerLighting
+2012-07-27 00:56:09 [FINER] Post-initializing mod_RedPowerWiring
+2012-07-27 00:56:09 [FINER] Post-initializing mod_RedPowerCore
+2012-07-27 00:56:09 [FINER] Post-initializing mod_RedPowerMachine
+2012-07-27 00:56:09 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:09 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:09 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:09 [FINER] Railcraft Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: {0}, id={1} meta={2}
+2012-07-27 00:56:09 [FINER] Post-initializing mod_RedPowerWorld
+2012-07-27 00:56:09 [FINER] Post-initializing mod_ComputerCraft
+2012-07-27 00:56:09 [FINER] Post-initializing mod_CCTurtle
+2012-07-27 00:56:09 [FINER] Post-initializing mod_EE
+2012-07-27 00:56:09 [FINER] Post-initializing mod_EnderStorage
+2012-07-27 00:56:09 [FINER] Post-initializing mod_NotEnoughItems
+2012-07-27 00:56:09 [FINER] Post-initializing mod_BuildCraftEnergy
+2012-07-27 00:56:09 [FINER] Post-initializing mod_BuildCraftCore
+2012-07-27 00:56:09 [FINER] Post-initializing mod_IC2
+2012-07-27 00:56:09 [FINER] Post-initializing mod_PowerConverters
+2012-07-27 00:56:09 [FINER] Post-initializing mod_Railcraft
+2012-07-27 00:56:09 [FINER] Post-initializing mod_WirelessRedstoneCore
+2012-07-27 00:56:09 [FINER] Post-initializing mod_WirelessRedstoneAddons
+2012-07-27 00:56:09 [FINER] Post-initializing mod_WirelessRedstoneRedPower
+2012-07-27 00:56:09 [FINER] Post-initializing mod_IC2AdvancedMachines
+2012-07-27 00:56:09 [FINER] Post-initializing mod_BuildCraftFactory
+2012-07-27 00:56:09 [FINER] Post-initializing mod_BuildCraftBuilders
+2012-07-27 00:56:09 [FINER] Post-initializing mod_ImmibisCore
+2012-07-27 00:56:09 [FINER] Post-initializing mod_ModularForceFieldSystem
+2012-07-27 00:56:09 [FINER] Post-initializing mod_IC2NuclearControl
+2012-07-27 00:56:09 [FINER] Post-initializing mod_NetherOres
+2012-07-27 00:56:09 [FINER] Post-initializing mod_IC2_ChargingBench
+2012-07-27 00:56:09 [FINER] Post-initializing mod_CompactSolars
+2012-07-27 00:56:09 [FINER] Post-initializing mod_IronChest
+2012-07-27 00:56:09 [FINE] mod_IronChest registered chests with Equivalent Exchange
+2012-07-27 00:56:09 [FINER] Post-initializing mod_RedPowerControl
+2012-07-27 00:56:09 [FINER] Post-initializing mod_TubeStuff
+2012-07-27 00:56:09 [FINE] Mod post-initialization complete
+2012-07-27 00:56:09 [INFO] Forge Mod Loader load complete, 36 mods loaded
+2012-07-27 00:56:10 [INFO] Registering world world, dimension 0, of providertype net.minecraft.server.WorldProviderNormal@1ecfb24(0) with Minecraft Forge
+2012-07-27 00:56:10 [INFO] Registering world world_the_end, dimension 1, of providertype net.minecraft.server.WorldProviderTheEnd@14029a9(0) with Minecraft Forge
+2012-07-27 00:56:10 [INFO] Registering world world_nether, dimension -1, of providertype net.minecraft.server.WorldProviderHell@109423b(0) with Minecraft Forge
+2012-07-27 00:56:15 [FINER] Railcraft IC2 Module {0}: IC2 Detected, creating MFE Cart and Energy Loader recipes.
+2012-07-27 00:56:15 [FINEST] [Railcraft] Loaded 2 saved Anchors
+2012-07-27 00:56:15 [FINE] [EE2] Loaded EE2-RP2 Core Addon
+2012-07-27 00:56:15 [FINE] [EE2] Loaded EE2-RP2 Core Addon
+2012-07-27 00:56:15 [FINE] [EE2] Loaded EE2-RP2 World Addon
+2012-07-27 00:56:15 [FINE] [EE2] Loaded EE2-IC2 Addon
+2012-07-27 00:56:15 [FINE] [EE2] Loaded EE2-IC2 Addon
+2012-07-27 00:56:15 [FINE] [EE2] Loaded EE2-IC2 Addon
+2012-07-27 00:56:15 [FINE] [EE2] Loaded EE2-IC2 Addon
+2012-07-27 00:57:13 [INFO] lluoc joined with: [CodeChickenCore 0.5.3, MinecraftForge 3.3.8.164, NotEnoughItems 1.2.2.4, ReiMinimap v3.2_03 [1.2.5], IC2 v1.97, IC2AdvancedMachines v4.0, BuildCraftCore 2.2.14, BuildCraftBuilders 2.2.14, BuildCraftEnergy 2.2.14, BuildCraftFactory 2.2.14, BuildCraftTransport 2.2.14, AdditionalPipes 2.1.3 (Minecraft 1.2.5, Buildcraft 2.2.14, Forge 3.0.1.75), ComputerCraft 1.33, CCTurtle 1.33, EE 1.4.6.5, EnderStorage 1.1.3, IC2NuclearControl v1.1.10, ImmibisCore 49.1.1, InvTweaks 1.41b (1.2.4), MAtmos_forModLoader r12 for 1.1.x, ModularForceFieldSystem rev5, IC2_ChargingBench 1.95b, CompactSolars 2.3.2, IronChest 3.8, RedPowerCore 2.0pr5b2, NetherOres 1.2.5R1.2.2, PowerConverters 1.2.5R1.3.4, Railcraft 5.3.3, RedPowerControl 2.0pr5b2, RedPowerLighting 2.0pr5b2, RedPowerLogic 2.0pr5b2, RedPowerMachine 2.0pr5b2, RedPowerWiring 2.0pr5b2, RedPowerWorld 2.0pr5b2, TubeStuff 49.1.1, Balkon's WeaponMod 1.2.5 v8.6.0, WirelessRedstoneCore 1.2.2.3, WirelessRedstoneAddons 1.2.2.3, WirelessRedstoneRedPower 1.2.2.1]

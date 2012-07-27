@@ -1,0 +1,374 @@
+
+Backup: Sat Jun  9 02:49:43 EST 2012
+Origin directory: /home/minecraft/server
+Moved to: /home/minecraft/server
+Adding all updates.
+Commiting under name: Sat Jun  9 02:49:43 EST 2012
+[master e37d980] Sat Jun  9 02:49:43 EST 2012
+ 70 files changed, 1082 insertions(+), 17 deletions(-)
+ create mode 100644 bukkit/fluid/level.dat
+ create mode 100644 bukkit/fluid/level.dat_old
+ create mode 100644 bukkit/fluid/region/r.-1.-1.mca
+ create mode 100644 bukkit/fluid/region/r.-1.0.mca
+ create mode 100644 bukkit/fluid/region/r.0.-1.mca
+ create mode 100644 bukkit/fluid/region/r.0.0.mca
+ create mode 100644 bukkit/fluid/session.lock
+ create mode 100644 bukkit/fluid/uid.dat
+ create mode 100644 bukkit/fluid_nether/DIM-1/region/r.-1.-1.mca
+ create mode 100644 bukkit/fluid_nether/DIM-1/region/r.-1.0.mca
+ create mode 100644 bukkit/fluid_nether/DIM-1/region/r.0.-1.mca
+ create mode 100644 bukkit/fluid_nether/DIM-1/region/r.0.0.mca
+ create mode 100644 bukkit/fluid_nether/level.dat
+ create mode 100644 bukkit/fluid_nether/level.dat_old
+ create mode 100644 bukkit/fluid_nether/session.lock
+ create mode 100644 bukkit/fluid_nether/uid.dat
+ create mode 100644 bukkit/plugins/Multiverse-Core/worlds.yml~
+ create mode 100644 bukkit/plugins/Multiverse-Inventories/config.yml~
+ create mode 100644 bukkit/plugins/Multiverse-Inventories/groups/fluid_system/lluoc.yml
+ create mode 100644 bukkit/plugins/Multiverse-Inventories/worlds/fluid/lluoc.yml
+ create mode 100644 bukkit/plugins/Multiverse-Inventories/worlds/fluid_nether/lluoc.yml
+ create mode 100644 bukkit/plugins/Multiverse-NetherPortals-2.4.jar
+ create mode 100644 bukkit/plugins/Multiverse-NetherPortals/config.yml
+ create mode 100644 bukkit/plugins/Multiverse-NetherPortals/debug.log
+ create mode 100644 bukkit/plugins/Multiverse-NetherPortals/debug.log.1
+ create mode 100644 bukkit/plugins/Multiverse-NetherPortals/debug.log.1.lck
+ create mode 100644 bukkit/plugins/Multiverse-NetherPortals/debug.log.2
+ create mode 100644 bukkit/plugins/Multiverse-NetherPortals/debug.log.2.lck
+ create mode 100644 bukkit/plugins/Multiverse-NetherPortals/debug.log.3
+ create mode 100644 bukkit/plugins/Multiverse-NetherPortals/debug.log.3.lck
+ create mode 100644 bukkit/plugins/Multiverse-NetherPortals/debug.log.4
+ create mode 100644 bukkit/plugins/Multiverse-NetherPortals/debug.log.lck
+ rewrite bukkit/world/players/H4ZM4T.dat (100%)
+ rewrite bukkit/world/players/lluoc.dat (100%)
+Pushing to github
+To git@github.com:BlockSocUNSW/Server-Backups.git
+   574df1e..e37d980  master -> master
+Branch master set up to track remote branch master from origin.
+Cleaning
+Repo size:
+28 objects, 112 kilobytes
+Returning to original directory.
+
+Backup: Sat Jun  9 08:00:02 EST 2012
+Origin directory: /home/minecraft
+Moved to: /home/minecraft/server
+Adding all updates.
+fatal: confused by unstable object source data for 071b3bdf8d6332de09eb904cc6b3725dddd609e2
+Commiting under name: Sat Jun  9 08:00:02 EST 2012
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   MCProxy
+#	modified:   backup_log
+#	modified:   bukkit/creative/level.dat
+#	modified:   bukkit/creative/level.dat_old
+#	modified:   bukkit/creative/region/r.-1.-1.mca
+#	modified:   bukkit/creative/region/r.-1.0.mca
+#	modified:   bukkit/creative/session.lock
+#	modified:   bukkit/fluid/level.dat
+#	modified:   bukkit/fluid/level.dat_old
+#	modified:   bukkit/fluid/region/r.-1.-1.mca
+#	modified:   bukkit/fluid/region/r.-1.0.mca
+#	modified:   bukkit/fluid/region/r.0.-1.mca
+#	modified:   bukkit/fluid/region/r.0.0.mca
+#	modified:   bukkit/fluid/session.lock
+#	modified:   bukkit/fluid_nether/DIM-1/region/r.-1.-1.mca
+#	modified:   bukkit/fluid_nether/DIM-1/region/r.-1.0.mca
+#	modified:   bukkit/fluid_nether/DIM-1/region/r.0.-1.mca
+#	modified:   bukkit/fluid_nether/DIM-1/region/r.0.0.mca
+#	modified:   bukkit/fluid_nether/level.dat
+#	modified:   bukkit/fluid_nether/level.dat_old
+#	modified:   bukkit/fluid_nether/session.lock
+#	modified:   bukkit/plugins/Multiverse-Core/debug.log
+#	modified:   bukkit/plugins/Multiverse-Inventories/debug.log
+#	modified:   bukkit/plugins/Multiverse-Inventories/groups/default/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Portals/debug.log
+#	deleted:    bukkit/plugins/Multiverse-Portals/debug.log.5.lck
+#	deleted:    bukkit/plugins/Multiverse-Portals/debug.log.9.lck
+#	modified:   bukkit/server.log
+#	modified:   bukkit/world/level.dat
+#	modified:   bukkit/world/level.dat_old
+#	deleted:    bukkit/world/players/_tmp_.dat
+#	modified:   bukkit/world/players/daevd.dat
+#	modified:   bukkit/world/players/lluoc.dat
+#	modified:   bukkit/world/region/r.-1.-1.mca
+#	modified:   bukkit/world/region/r.-1.-2.mca
+#	modified:   bukkit/world/region/r.-1.0.mca
+#	modified:   bukkit/world/region/r.0.-1.mca
+#	modified:   bukkit/world/region/r.0.-2.mca
+#	modified:   bukkit/world/region/r.0.0.mca
+#	modified:   bukkit/world/session.lock
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.0.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.0.mca
+#	modified:   bukkit/world_nether/level.dat
+#	modified:   bukkit/world_nether/level.dat_old
+#	modified:   bukkit/world_nether/session.lock
+#	modified:   bukkit/world_the_end/DIM1/region/r.-1.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.-1.0.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.0.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.0.0.mca
+#	modified:   bukkit/world_the_end/level.dat
+#	modified:   bukkit/world_the_end/level.dat_old
+#	modified:   bukkit/world_the_end/session.lock
+#	modified:   git_backup.sh
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	backup_log.old
+no changes added to commit (use "git add" and/or "git commit -a")
+Pushing to github
+Everything up-to-date
+Branch master set up to track remote branch master from origin.
+Cleaning
+Repo size:
+29 objects, 2136 kilobytes
+Returning to original directory.
+
+Backup: Sun Jun 10 08:00:01 EST 2012
+Origin directory: /home/minecraft
+Moved to: /home/minecraft/server
+Adding all updates.
+fatal: confused by unstable object source data for 886cd36927873afcda78febd6b96e5c3abda461b
+Commiting under name: Sun Jun 10 08:00:01 EST 2012
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   MCProxy
+#	modified:   backup_log
+#	modified:   bukkit/creative/level.dat
+#	modified:   bukkit/creative/level.dat_old
+#	modified:   bukkit/creative/region/r.-1.-1.mca
+#	modified:   bukkit/creative/region/r.-1.0.mca
+#	modified:   bukkit/creative/region/r.-2.-1.mca
+#	modified:   bukkit/creative/region/r.-2.0.mca
+#	modified:   bukkit/creative/session.lock
+#	modified:   bukkit/fluid/level.dat
+#	modified:   bukkit/fluid/level.dat_old
+#	modified:   bukkit/fluid/region/r.-1.-1.mca
+#	modified:   bukkit/fluid/region/r.-1.0.mca
+#	modified:   bukkit/fluid/region/r.0.-1.mca
+#	modified:   bukkit/fluid/region/r.0.0.mca
+#	modified:   bukkit/fluid/session.lock
+#	modified:   bukkit/fluid_nether/DIM-1/region/r.-1.-1.mca
+#	modified:   bukkit/fluid_nether/DIM-1/region/r.-1.0.mca
+#	modified:   bukkit/fluid_nether/DIM-1/region/r.0.-1.mca
+#	modified:   bukkit/fluid_nether/DIM-1/region/r.0.0.mca
+#	modified:   bukkit/fluid_nether/level.dat
+#	modified:   bukkit/fluid_nether/level.dat_old
+#	modified:   bukkit/fluid_nether/session.lock
+#	modified:   bukkit/plugins/Multiverse-Core/debug.log
+#	modified:   bukkit/plugins/Multiverse-Inventories/debug.log
+#	modified:   bukkit/plugins/Multiverse-Inventories/groups/default/H4ZM4T.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/groups/default/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/groups/default/ultrajono.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/groups/fluid_system/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/creative/H4ZM4T.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/creative/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/creative/ultrajono.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/fluid/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/fluid_nether/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world/H4ZM4T.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world/ultrajono.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world_nether/H4ZM4T.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world_nether/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world_nether/ultrajono.yml
+#	modified:   bukkit/plugins/Multiverse-Portals/debug.log
+#	deleted:    bukkit/plugins/Multiverse-Portals/debug.log.5.lck
+#	deleted:    bukkit/plugins/Multiverse-Portals/debug.log.9.lck
+#	modified:   bukkit/server.log
+#	modified:   bukkit/world/level.dat
+#	modified:   bukkit/world/level.dat_old
+#	modified:   bukkit/world/players/H4ZM4T.dat
+#	deleted:    bukkit/world/players/_tmp_.dat
+#	modified:   bukkit/world/players/daevd.dat
+#	modified:   bukkit/world/players/lluoc.dat
+#	modified:   bukkit/world/players/ultrajono.dat
+#	modified:   bukkit/world/region/r.-1.-1.mca
+#	modified:   bukkit/world/region/r.-1.-2.mca
+#	modified:   bukkit/world/region/r.-1.-4.mca
+#	modified:   bukkit/world/region/r.-1.-5.mca
+#	modified:   bukkit/world/region/r.-1.0.mca
+#	modified:   bukkit/world/region/r.0.-1.mca
+#	modified:   bukkit/world/region/r.0.-2.mca
+#	modified:   bukkit/world/region/r.0.-4.mca
+#	modified:   bukkit/world/region/r.0.-5.mca
+#	modified:   bukkit/world/region/r.0.0.mca
+#	modified:   bukkit/world/region/r.1.-1.mca
+#	modified:   bukkit/world/region/r.1.-2.mca
+#	modified:   bukkit/world/session.lock
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.0.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.0.mca
+#	modified:   bukkit/world_nether/level.dat
+#	modified:   bukkit/world_nether/level.dat_old
+#	modified:   bukkit/world_nether/session.lock
+#	modified:   bukkit/world_the_end/DIM1/region/r.-1.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.-1.0.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.0.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.0.0.mca
+#	modified:   bukkit/world_the_end/level.dat
+#	modified:   bukkit/world_the_end/level.dat_old
+#	modified:   bukkit/world_the_end/session.lock
+#	modified:   git_backup.sh
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	backup_log.old
+#	bukkit/plugins/Multiverse-Inventories/groups/fluid_system/H4ZM4T.yml
+#	bukkit/plugins/Multiverse-Inventories/groups/fluid_system/ultrajono.yml
+#	bukkit/plugins/Multiverse-Inventories/worlds/fluid/H4ZM4T.yml
+#	bukkit/plugins/Multiverse-Inventories/worlds/fluid/ultrajono.yml
+#	bukkit/plugins/Multiverse-Inventories/worlds/fluid_nether/H4ZM4T.yml
+no changes added to commit (use "git add" and/or "git commit -a")
+Pushing to github
+Everything up-to-date
+Branch master set up to track remote branch master from origin.
+Cleaning
+Repo size:
+29 objects, 2136 kilobytes
+Returning to original directory.
+
+Backup: Mon Jun 11 04:38:43 EST 2012
+Origin directory: /home/minecraft/projects/scripts
+Moved to: /home/minecraft/server
+Adding all updates.
+fatal: confused by unstable object source data for 1a5d2e46bee0f1a98a27b05a0f0aaa3b3ba8b928
+Commiting under name: Mon Jun 11 04:38:43 EST 2012
+# On branch master
+# Changed but not updated:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   MCProxy
+#	modified:   backup_log
+#	modified:   bukkit/creative/level.dat
+#	modified:   bukkit/creative/level.dat_old
+#	modified:   bukkit/creative/region/r.-1.-1.mca
+#	modified:   bukkit/creative/region/r.-1.0.mca
+#	modified:   bukkit/creative/region/r.-1.1.mca
+#	modified:   bukkit/creative/region/r.-2.-1.mca
+#	modified:   bukkit/creative/region/r.-2.0.mca
+#	modified:   bukkit/creative/region/r.-2.1.mca
+#	modified:   bukkit/creative/region/r.0.-1.mca
+#	modified:   bukkit/creative/region/r.0.0.mca
+#	modified:   bukkit/creative/session.lock
+#	modified:   bukkit/fluid/level.dat
+#	modified:   bukkit/fluid/level.dat_old
+#	modified:   bukkit/fluid/region/r.-1.-1.mca
+#	modified:   bukkit/fluid/region/r.-1.0.mca
+#	modified:   bukkit/fluid/region/r.0.-1.mca
+#	modified:   bukkit/fluid/region/r.0.0.mca
+#	modified:   bukkit/fluid/session.lock
+#	modified:   bukkit/fluid_nether/DIM-1/region/r.-1.-1.mca
+#	modified:   bukkit/fluid_nether/DIM-1/region/r.-1.0.mca
+#	modified:   bukkit/fluid_nether/DIM-1/region/r.0.-1.mca
+#	modified:   bukkit/fluid_nether/DIM-1/region/r.0.0.mca
+#	modified:   bukkit/fluid_nether/level.dat
+#	modified:   bukkit/fluid_nether/level.dat_old
+#	modified:   bukkit/fluid_nether/session.lock
+#	modified:   bukkit/plugins/Multiverse-Core/debug.log
+#	modified:   bukkit/plugins/Multiverse-Inventories/debug.log
+#	modified:   bukkit/plugins/Multiverse-Inventories/groups/default/Ellethwen11.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/groups/default/H4ZM4T.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/groups/default/adrianjboyer.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/groups/default/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/groups/default/ultrajono.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/groups/fluid_system/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/creative/H4ZM4T.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/creative/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/creative/ultrajono.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/fluid/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/fluid_nether/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world/Ellethwen11.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world/H4ZM4T.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world/adrianjboyer.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world/ultrajono.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world_nether/H4ZM4T.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world_nether/adrianjboyer.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world_nether/lluoc.yml
+#	modified:   bukkit/plugins/Multiverse-Inventories/worlds/world_nether/ultrajono.yml
+#	modified:   bukkit/plugins/Multiverse-Portals/debug.log
+#	deleted:    bukkit/plugins/Multiverse-Portals/debug.log.5.lck
+#	deleted:    bukkit/plugins/Multiverse-Portals/debug.log.9.lck
+#	modified:   bukkit/server.log
+#	modified:   bukkit/world/level.dat
+#	modified:   bukkit/world/level.dat_old
+#	modified:   bukkit/world/players/Ellethwen11.dat
+#	modified:   bukkit/world/players/H4ZM4T.dat
+#	modified:   bukkit/world/players/NotQuiteAs1.dat
+#	deleted:    bukkit/world/players/_tmp_.dat
+#	modified:   bukkit/world/players/adrianjboyer.dat
+#	modified:   bukkit/world/players/daevd.dat
+#	modified:   bukkit/world/players/lluoc.dat
+#	modified:   bukkit/world/players/ultrajono.dat
+#	modified:   bukkit/world/region/r.-1.-1.mca
+#	modified:   bukkit/world/region/r.-1.-2.mca
+#	modified:   bukkit/world/region/r.-1.-4.mca
+#	modified:   bukkit/world/region/r.-1.-5.mca
+#	modified:   bukkit/world/region/r.-1.0.mca
+#	modified:   bukkit/world/region/r.0.-1.mca
+#	modified:   bukkit/world/region/r.0.-2.mca
+#	modified:   bukkit/world/region/r.0.-4.mca
+#	modified:   bukkit/world/region/r.0.-5.mca
+#	modified:   bukkit/world/region/r.0.0.mca
+#	modified:   bukkit/world/region/r.1.-1.mca
+#	modified:   bukkit/world/region/r.1.-2.mca
+#	modified:   bukkit/world/region/r.1.-3.mca
+#	modified:   bukkit/world/region/r.2.-2.mca
+#	modified:   bukkit/world/region/r.2.-3.mca
+#	modified:   bukkit/world/session.lock
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.-1.0.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.-1.mca
+#	modified:   bukkit/world_nether/DIM-1/region/r.0.0.mca
+#	modified:   bukkit/world_nether/level.dat
+#	modified:   bukkit/world_nether/level.dat_old
+#	modified:   bukkit/world_nether/session.lock
+#	modified:   bukkit/world_the_end/DIM1/region/r.-1.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.-1.0.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.0.-1.mca
+#	modified:   bukkit/world_the_end/DIM1/region/r.0.0.mca
+#	modified:   bukkit/world_the_end/level.dat
+#	modified:   bukkit/world_the_end/level.dat_old
+#	modified:   bukkit/world_the_end/session.lock
+#	modified:   git_backup.sh
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	backup_log.old
+#	bukkit/plugins/Multiverse-Inventories/groups/default/NotQuiteAs1.yml
+#	bukkit/plugins/Multiverse-Inventories/groups/fluid_system/Ellethwen11.yml
+#	bukkit/plugins/Multiverse-Inventories/groups/fluid_system/H4ZM4T.yml
+#	bukkit/plugins/Multiverse-Inventories/groups/fluid_system/NotQuiteAs1.yml
+#	bukkit/plugins/Multiverse-Inventories/groups/fluid_system/adrianjboyer.yml
+#	bukkit/plugins/Multiverse-Inventories/groups/fluid_system/ultrajono.yml
+#	bukkit/plugins/Multiverse-Inventories/worlds/creative/NotQuiteAs1.yml
+#	bukkit/plugins/Multiverse-Inventories/worlds/fluid/H4ZM4T.yml
+#	bukkit/plugins/Multiverse-Inventories/worlds/fluid/NotQuiteAs1.yml
+#	bukkit/plugins/Multiverse-Inventories/worlds/fluid/ultrajono.yml
+#	bukkit/plugins/Multiverse-Inventories/worlds/fluid_nether/H4ZM4T.yml
+#	bukkit/plugins/Multiverse-Inventories/worlds/fluid_nether/NotQuiteAs1.yml
+#	bukkit/plugins/Multiverse-Inventories/worlds/fluid_nether/ultrajono.yml
+#	bukkit/plugins/Multiverse-Inventories/worlds/world/NotQuiteAs1.yml
+#	bukkit/plugins/Multiverse-Inventories/worlds/world_nether/NotQuiteAs1.yml
+no changes added to commit (use "git add" and/or "git commit -a")
+Pushing to github
+Everything up-to-date
+Branch master set up to track remote branch master from origin.
+Cleaning
+Repo size:
+31 objects, 2144 kilobytes
+Returning to original directory.

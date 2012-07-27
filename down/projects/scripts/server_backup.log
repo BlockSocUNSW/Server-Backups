@@ -1,0 +1,142 @@
+2012-04-26 20:00:03,416	INFO	Starting backup process.
+2012-04-26 20:00:03,416	INFO	    Sending server command: say Starting backup.
+2012-04-26 20:00:03,423	INFO	    Exit Status: 0
+2012-04-26 20:00:03,424	INFO	    Sending server command: save-all
+2012-04-26 20:00:03,432	INFO	    Exit Status: 0
+2012-04-26 20:00:03,432	INFO	    Sending server command: save-off
+2012-04-26 20:00:03,439	INFO	    Exit Status: 0
+2012-04-26 20:00:03,440	INFO	Calling git update script.
+2012-04-26 20:00:22,031	INFO	Current Backups: 
+2012-04-26 20:00:22,038	INFO	    16-04-2012-14-35-01:1334586901.tar
+2012-04-26 20:00:22,038	INFO	    26-04-2012-02-11-38:1335406298.tar
+2012-04-26 20:00:22,038	INFO	Preforming tar check.
+2012-04-26 20:00:22,038	INFO	Tar check done.
+2012-04-26 20:00:22,038	INFO	    Sending server command: save-on
+2012-04-26 20:00:22,143	INFO	    Exit Status: 0
+2012-04-26 20:00:22,144	INFO	    Sending server command: save-all
+2012-04-26 20:00:22,155	INFO	    Exit Status: 0
+2012-04-26 20:00:22,155	INFO	    Sending server command: say Backup complete.
+2012-04-26 20:00:22,168	INFO	    Exit Status: 0
+2012-04-26 20:00:22,169	INFO	Backup done.
+2012-04-29 12:37:40,976	INFO	Starting backup process.
+2012-04-29 12:37:40,976	INFO	    Sending server command: say Starting backup.
+2012-04-29 12:37:40,983	INFO	    Exit Status: 0
+2012-04-29 12:37:40,984	INFO	    Sending server command: save-all
+2012-04-29 12:37:40,993	INFO	    Exit Status: 0
+2012-04-29 12:37:40,993	INFO	    Sending server command: save-off
+2012-04-29 12:37:41,003	INFO	    Exit Status: 0
+2012-04-29 12:37:41,504	INFO	Calling git update script.
+2012-04-29 12:38:02,961	INFO	Current Backups: 
+2012-04-29 12:38:02,961	INFO	    16-04-2012-14-35-01:1334586901.tar
+2012-04-29 12:38:02,961	INFO	    26-04-2012-02-11-38:1335406298.tar
+2012-04-29 12:38:02,961	INFO	Preforming tar check.
+2012-04-29 12:38:02,961	INFO	Tar check done.
+2012-04-29 12:38:02,962	INFO	    Sending server command: save-on
+2012-04-29 12:38:03,039	INFO	    Exit Status: 0
+2012-04-29 12:38:03,039	INFO	    Sending server command: save-all
+2012-04-29 12:38:03,048	INFO	    Exit Status: 0
+2012-04-29 12:38:03,049	INFO	    Sending server command: say Backup complete.
+2012-04-29 12:38:03,056	INFO	    Exit Status: 0
+2012-04-29 12:38:03,057	INFO	Backup done.
+2012-05-04 16:49:13,373	INFO	Starting backup process.
+2012-05-04 16:49:13,384	INFO	    Sending server command: say Starting backup.
+2012-05-04 16:49:13,395	INFO	    Exit Status: 256
+2012-05-04 16:49:13,395	CRITICAL	    Failed to send command
+2012-05-04 16:49:13,395	INFO	    Sending server command: save-all
+2012-05-04 16:49:13,405	INFO	    Exit Status: 256
+2012-05-04 16:49:13,406	CRITICAL	    Failed to send command
+2012-05-04 16:49:13,406	INFO	    Sending server command: save-off
+2012-05-04 16:49:13,416	INFO	    Exit Status: 256
+2012-05-04 16:49:13,416	CRITICAL	    Failed to send command
+2012-05-04 16:49:13,917	INFO	Calling git update script.
+2012-05-04 16:50:41,106	INFO	Current Backups: 
+2012-05-04 16:50:41,108	INFO	    16-04-2012-14-35-01:1334586901.tar
+2012-05-04 16:50:41,108	INFO	    26-04-2012-02-11-38:1335406298.tar
+2012-05-04 16:50:41,108	INFO	Preforming tar check.
+2012-05-04 16:50:41,109	INFO	    Creating backup with command: tar -cf /home/minecraft/backup/04-05-2012-06-50-41:1336114241.tar * --exclude .git MCProxy 
+2012-05-04 16:51:04,040	INFO	    Exit Status: 0
+2012-05-04 16:51:04,052	INFO	Tar check done.
+2012-05-04 16:51:04,063	INFO	    Sending server command: save-on
+2012-05-04 16:51:04,229	INFO	    Exit Status: 256
+2012-05-04 16:51:04,230	CRITICAL	    Failed to send command
+2012-05-04 16:51:04,230	INFO	    Sending server command: save-all
+2012-05-04 16:51:04,240	INFO	    Exit Status: 256
+2012-05-04 16:51:04,240	CRITICAL	    Failed to send command
+2012-05-04 16:51:04,241	INFO	    Sending server command: say Backup complete.
+2012-05-04 16:51:04,264	INFO	    Exit Status: 256
+2012-05-04 16:51:04,264	CRITICAL	    Failed to send command
+2012-05-04 16:51:04,264	INFO	Backup done.
+2012-05-23 17:16:17,476	INFO	Starting backup process.
+2012-05-23 17:16:17,485	INFO	    Sending server command: 
+say Starting backup.
+2012-05-23 17:16:17,493	INFO	    Exit Status: 0
+2012-05-23 17:16:17,493	INFO	    Sending server command: save-all
+2012-05-23 17:16:17,500	INFO	    Exit Status: 0
+2012-05-23 17:16:17,501	INFO	    Sending server command: save-off
+2012-05-23 17:16:17,508	INFO	    Exit Status: 0
+2012-05-23 17:16:18,009	INFO	Calling git update script.
+2012-05-23 17:16:42,914	INFO	Current Backups: 
+2012-05-23 17:16:42,914	INFO	    26-04-2012-02-11-38:1335406298.tar
+2012-05-23 17:16:42,915	INFO	    04-05-2012-06-50-41:1336114241.tar
+2012-05-23 17:16:42,915	INFO	    11-05-2012-22-00-25:1336773625.tar
+2012-05-23 17:16:42,915	INFO	    18-05-2012-22-00-22:1337378422.tar
+2012-05-23 17:16:42,915	INFO	Preforming tar check.
+2012-05-23 17:16:42,915	INFO	Tar check done.
+2012-05-23 17:16:42,915	INFO	    Sending server command: save-on
+2012-05-23 17:16:42,988	INFO	    Exit Status: 0
+2012-05-23 17:16:42,988	INFO	    Sending server command: save-all
+2012-05-23 17:16:42,996	INFO	    Exit Status: 0
+2012-05-23 17:16:42,996	INFO	    Sending server command: say Backup complete.
+2012-05-23 17:16:43,005	INFO	    Exit Status: 0
+2012-05-23 17:16:43,005	INFO	Backup done.
+2012-06-11 04:38:42,496	INFO	Starting backup process.
+2012-06-11 04:38:42,503	INFO	    Sending server command: 
+say Starting backup.
+2012-06-11 04:38:42,513	INFO	    Exit Status: 0
+2012-06-11 04:38:42,513	INFO	    Sending server command: save-all
+2012-06-11 04:38:42,521	INFO	    Exit Status: 0
+2012-06-11 04:38:42,521	INFO	    Sending server command: save-off
+2012-06-11 04:38:42,529	INFO	    Exit Status: 0
+2012-06-11 04:38:43,530	INFO	Calling git update script.
+2012-06-11 04:39:15,613	INFO	Current Backups: 
+2012-06-11 04:39:15,613	INFO	    18-05-2012-22-00-22:1337378422.tar
+2012-06-11 04:39:15,613	INFO	    25-05-2012-22-00-26:1337983226.tar
+2012-06-11 04:39:15,613	INFO	    01-06-2012-22-00-31:1338588031.tar
+2012-06-11 04:39:15,614	INFO	    08-06-2012-22-00-27:1339192827.tar
+2012-06-11 04:39:15,614	INFO	Preforming tar check.
+2012-06-11 04:39:15,614	INFO	Tar check done.
+2012-06-11 04:39:15,614	INFO	    Sending server command: save-on
+2012-06-11 04:39:15,691	INFO	    Exit Status: 0
+2012-06-11 04:39:15,691	INFO	    Sending server command: save-all
+2012-06-11 04:39:15,699	INFO	    Exit Status: 0
+2012-06-11 04:39:15,700	INFO	    Sending server command: say Backup complete.
+2012-06-11 04:39:15,707	INFO	    Exit Status: 0
+2012-06-11 04:39:15,708	INFO	Backup done.
+2012-06-17 13:24:51,675	INFO	Starting backup process.
+2012-06-17 13:24:51,685	INFO	    Sending server command: 
+say Starting backup.
+2012-06-17 13:24:51,763	INFO	    Exit Status: 0
+2012-06-17 13:24:51,764	INFO	    Sending server command: 
+save-all
+2012-06-17 13:24:51,772	INFO	    Exit Status: 0
+2012-06-17 13:24:54,776	INFO	    Sending server command: 
+save-off
+2012-06-17 13:24:54,788	INFO	    Exit Status: 0
+2012-06-17 13:24:57,790	INFO	Calling git update script.
+2012-06-17 13:26:45,470	INFO	Current Backups: 
+2012-06-17 13:26:45,495	INFO	    25-05-2012-22-00-26:1337983226.tar
+2012-06-17 13:26:45,495	INFO	    01-06-2012-22-00-31:1338588031.tar
+2012-06-17 13:26:45,495	INFO	    08-06-2012-22-00-27:1339192827.tar
+2012-06-17 13:26:45,495	INFO	    15-06-2012-22-00-36:1339797636.tar
+2012-06-17 13:26:45,495	INFO	Preforming tar check.
+2012-06-17 13:26:45,496	INFO	Tar check done.
+2012-06-17 13:26:45,496	INFO	    Sending server command: 
+save-on
+2012-06-17 13:26:45,614	INFO	    Exit Status: 0
+2012-06-17 13:26:45,614	INFO	    Sending server command: 
+save-all
+2012-06-17 13:26:45,625	INFO	    Exit Status: 0
+2012-06-17 13:26:45,626	INFO	    Sending server command: 
+say Backup complete.
+2012-06-17 13:26:45,636	INFO	    Exit Status: 0
+2012-06-17 13:26:45,637	INFO	Backup done.

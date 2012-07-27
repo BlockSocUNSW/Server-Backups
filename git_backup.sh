@@ -16,7 +16,8 @@ echo "Origin directory: ${current_dir}" >> backup_log 2>&1
 echo "Moved to: ${server_dir}" >> backup_log 2>&1
 
 echo "Adding all updates." >> backup_log 2>&1
-git add --all >> backup_log 2>&1
+x=`git add bukkit tekkit`
+echo $x >> backup_log 2>&1
 
 echo "Commiting under name: ${name}" >> backup_log 2>&1
 git commit  -m "${name}" >> backup_log 2>&1

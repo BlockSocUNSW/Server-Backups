@@ -1,0 +1,1761 @@
+Script started on Sat 24 Mar 2012 07:22:46 AM EDT
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ./resume.sh s[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cat typescript 
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ script --help
+script: invalid option -- '-'
+usage: script [-a] [-f] [-q] [-t] [file]
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd scripts/
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ls
+[0m[01;34mbackup[0m  [01;34mmap[0m  [01;32mmap_update.sh[0m  README
+[m]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ c[Kcat README 
+README
+-------------------
+Every script in this directory is executed by a cron job. These include
+small tasks like pushing out updates of the map, moving around things on
+the webserver and the like.
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ cat map_update.sh 
+#!/bin/bash
+# Simple script to update the map overview.
+python /home/minecraft/projects/map_generator/overviewer.py --config=/home/minecraft/projects/map_generator/blocksoc_config.py
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ cd ..
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd map_generator/
+]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls
+blocksoc_config.py  [0m[01;34mcontrib[0m            CONTRIBUTORS.rst  [01;34mdocs[0m       MANIFEST.in      [01;32moverviewer.py[0m  [01;32msetup.py[0m     [01;34mtest[0m
+[01;34mbuild[0m               [01;32mcontribManager.py[0m  COPYING.txt       [01;32mgenPOI.py[0m  [01;34moverviewer_core[0m  README.rst     [01;35mterrain.png[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ cat blocksoc_config.py 
+# This is a sample config file, meant to give you an idea of how to format your
+# config file and what's possible.
+
+# Define the path to your world here. 'My World' in this case will show up as
+# the world name on the map interface. If you change it, be sure to also change
+# the referenced world names in the render definitions below.
+worlds['Blocksoc'] = "/home/minecraft/bukkit/world"
+worlds['Blocksoc Nether'] = "/home/minecraft/bukkit/world_nether"
+
+# Define where to put the output here.
+outputdir = "/home/minecraft/maps"
+
+# This is an item usually specified in a renders dictionary below, but if you
+# set it here like this, it becomes the default for all renders that don't
+# define it.
+# Try "smooth_lighting" for even better looking maps!
+rendermode = "smooth_lighting"
+
+renders["overworld"] = {
+        'world': 'Blocksoc',
+        'title': 'World',
+	'texturepath': 'terrain.png',
+	'dimension': 'overworld',
+}
+
+renders["nether"] = {
+	'world': 'Blocksoc Nether',
+	'title': 'Nether',
+	'texturepath': 'terrain.png',
+	'dimension': 'nether',
+	'rendermode': 'nether_smooth_lighting',
+}
+
+
+]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls ../[K[K[K/[K~[K/home/tnt_[K[K[K[K[K/minecraft/tnt_event/
+banned-ips.txt      bukkit.yml             help.yml              ops.txt          [0m[01;34mplugins[0m    server.log         [01;32mstart_event[0m  white-list.txt  [01;34mworld_nether[0m
+banned-players.txt  [01;31mcraftbukkit.1.2.3.jar[0m  [01;31mminecraft_server.jar[0m  permissions.yml  [01;32mresume.sh[0m  server.properties  [01;32mstart.sh[0m     [01;34mworld[0m           [01;34mworld_the_end[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ c[Knano blocksoc_config.py 
+[?1049h[1;32r[m(B[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m[m(B[H[2J[0;7m(B  GNU nano 2.2.2                                     File: blocksoc_config.py                                                                                 [3;1H[0;1m(B[31m# This is a sample config file, meant to give you an idea of how to format your[4d# config file and what's possible.[6d# Define the path to your world here. 'My World' in this case will show up as[7d# the world name on the map interface. If you change it, be sure to also change[8d# the referenced world names in the render definitions below.[9d[39;49m[m(Bworlds[[0;1m(B[32m'Blocksoc'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/bukkit/world"[10d[39;49m[m(Bworlds[[0;1m(B[32m'Blocksoc Nether'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/bukkit/world_nether"[12d[31m# Define where to put the output here.[13d[39;49m[m(Boutputdir = [0;1m(B[32m"/home/minecraft/maps"[15d[31m# This is an item usually specified in a renders dictionary below, but if you[16d# set it here like this, it becomes the default for all renders that don't[17d# define it.[18d# Try "smooth_lighting" for even better looking maps![19d[39;49m[m(Brendermode = [0;1m(B[32m"smooth_lighting"[21d[39;49m[m(Brenders[[0;1m(B[32m"overworld"[39;49m[m(B] = {[22;9H[0;1m(B[32m'world'[39;49m[m(B: [0;1m(B[32m'Blocksoc'[39;49m[m(B,[23;9H[0;1m(B[32m'title'[39;49m[m(B: [0;1m(B[32m'World'[39;49m[m(B,[24;9H[0;1m(B[32m'texturepath'[39;49m[m(B: [0;1m(B[32m'terrain.png'[39;49m[m(B,[25;9H[0;1m(B[32m'dimension'[39;49m[m(B: [0;1m(B[32m'overworld'[39;49m[m(B,[26d}[28drenders[[0;1m(B[32m"nether"[39;49m[m(B] = {[29;9H[0;1m(B[32m'world'[39;49m[m(B: [0;1m(B[32m'Blocksoc Nether'[39;49m[m(B,[30;71H[0;7m(B[ Read 34 lines ][31d^G[m(B Get Help[31;27H[0;7m(B^O[m(B WriteOut[31;53H[0;7m(B^R[m(B Read File[31;79H[0;7m(B^Y[m(B Prev Page[31;105H[0;7m(B^K[m(B Cut Text[31;131H[0;7m(B^C[m(B Cur Pos[32d[0;7m(B^X[m(B Exit[32;27H[0;7m(B^J[m(B Justify[32;53H[0;7m(B^W[m(B Where Is[32;79H[0;7m(B^V[m(B Next Page[32;105H[0;7m(B^U[m(B UnCut Text[32;131H[0;7m(B^T[m(B To Spell[3d[4d[5d[6d[7d[8d[9d[10d[11d[12d[13d[14d[15d[A[A[A[A7[11;29r8M[1;32r[1;149H[0;7m(BModified[12d[m(B[11;29r[11;1HM[1;32r[13;1H[A[0;1m(B[31m#[39;49m[m(B[0;1m(B[31mt[39;49m[m(B[0;1m(B[31mn[39;49m[m(B[0;1m(B[31mt[39;49m[m(B[0;1m(B[31m [39;49m[m(B[0;1m(B[31me[39;49m[m(B[0;1m(B[31mv[30d[39;49m[m(B[K[12;8H[0;1m(B[31me[39;49m[m(B[0;1m(B[31mn[39;49m[m(B[0;1m(B[31mt[39;49m[m(B[0;1m(B[31m [39;49m[m(B[0;1m(B[31mt[39;49m[m(B[0;1m(B[31me[39;49m[m(B[0;1m(B[31mm[39;49m[m(B[0;1m(B[31mp[39;49m[m(B[0;1m(B[31m [39;49m[m(B[0;1m(B[31mm[39;49m[m(B[0;1m(B[31ma[39;49m[m(B[0;1m(B[31mp[39;49m[m(B[0;1m(B[31ms[39;49m[m(B7[13;30r8[13dM[1;32r[13;1H7[13;29r8M[1;32r[14;1H[13;29r[13;1HM[1;32r[14;1Hworlds[[0;1m(B[32m'Blocksoc'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/bukkit/world"[15d[39;49m[m(B[14;52H[1P[1P[1P[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P7[15;29r8[15dM[1;32r[14;22H"/home/minecraft/tnt_event/[15d/world"[15;30r[30;1H
+[1;32r[14;22H[0;1m(B[32m"/home/minecraft/tnt_event//world"[29;9H'texturepath'[39;49m[m(B: [0;1m(B[32m'terrain.png'[39;49m[m(B,[14;49H[1P[C[C[C[C[1P[1P[1P[1P[1P[1P[1P''[1P[0;1m(B[32m'T'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;10H[39;49m[m(B[0;1m(B[32mN'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;11H[39;49m[m(B[0;1m(B[32mT'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;12H[39;49m[m(B[0;1m(B[32m '[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;13H[39;49m[m(B[0;1m(B[32mE'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;14H[39;49m[m(B[0;1m(B[32mv'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;15H[39;49m[m(B[0;1m(B[32me'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;16H[39;49m[m(B[0;1m(B[32mn'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;17H[39;49m[m(B[0;1m(B[32mt'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;18H[39;49m[m(B[0;1m(B[32m '[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;19H[39;49m[m(B[0;1m(B[32mW'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;20H[39;49m[m(B[0;1m(B[32mo'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;21H[39;49m[m(B[0;1m(B[32mr'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;22H[39;49m[m(B[0;1m(B[32ml'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;23H[39;49m[m(B[0;1m(B[32md'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[14;24H[39;49m[m(B[30d[0;7m(BSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                                                                                                  [31;1H Y[m(B Yes[K[32d[0;7m(B N[m(B No  [32;17H[0;7m(B^C[m(B Cancel[K[30;62H[0;7m(BFile Name to Write: blocksoc_config.py                      [31d^G[m(B Get Help[31;40H[0;7m(BM-D[m(B DOS Format[31;79H[0;7m(BM-A[m(B Append[31;118H[0;7m(BM-B[m(B Backup File[32d[0;7m(B^C[m(B Cancel[17G         [32;40H[0;7m(BM-M[m(B Mac Format[32;79H[0;7m(BM-P[m(B Prepend[30;39H[31d[39;49m[m(B[J[1;149H[0;7m(B        [30;70H[m(B[1K [0;7m(B[ Wrote 39 lines ][m(B[K[32;158H[32;1H[?1049l[?1l>]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ nano blocksoc_config.py 
+[?1049h[1;32r[m(B[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m[m(B[H[2J[0;7m(B  GNU nano 2.2.2                                     File: blocksoc_config.py                                                                                 [3;1H[0;1m(B[31m# This is a sample config file, meant to give you an idea of how to format your[4d# config file and what's possible.[6d# Define the path to your world here. 'My World' in this case will show up as[7d# the world name on the map interface. If you change it, be sure to also change[8d# the referenced world names in the render definitions below.[9d[39;49m[m(Bworlds[[0;1m(B[32m'Blocksoc'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/bukkit/world"[10d[39;49m[m(Bworlds[[0;1m(B[32m'Blocksoc Nether'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/bukkit/world_nether"[12d[31m#tnt event temp maps[14d[39;49m[m(Bworlds[[0;1m(B[32m'TNT Event World'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[17d[31m# Define where to put the output here.[18d[39;49m[m(Boutputdir = [0;1m(B[32m"/home/minecraft/maps"[20d[31m# This is an item usually specified in a renders dictionary below, but if you[21d# set it here like this, it becomes the default for all renders that don't[22d# define it.[23d# Try "smooth_lighting" for even better looking maps![24d[39;49m[m(Brendermode = [0;1m(B[32m"smooth_lighting"[26d[39;49m[m(Brenders[[0;1m(B[32m"overworld"[39;49m[m(B] = {[27;9H[0;1m(B[32m'world'[39;49m[m(B: [0;1m(B[32m'Blocksoc'[39;49m[m(B,[28;9H[0;1m(B[32m'title'[39;49m[m(B: [0;1m(B[32m'World'[39;49m[m(B,[29;9H[0;1m(B[32m'texturepath'[39;49m[m(B: [0;1m(B[32m'terrain.png'[39;49m[m(B,[30;71H[0;7m(B[ Read 39 lines ][31d^G[m(B Get Help[31;27H[0;7m(B^O[m(B WriteOut[31;53H[0;7m(B^R[m(B Read File[31;79H[0;7m(B^Y[m(B Prev Page[31;105H[0;7m(B^K[m(B Cut Text[31;131H[0;7m(B^C[m(B Cur Pos[32d[0;7m(B^X[m(B Exit[32;27H[0;7m(B^J[m(B Justify[32;53H[0;7m(B^W[m(B Where Is[32;79H[0;7m(B^V[m(B Next Page[32;105H[0;7m(B^U[m(B UnCut Text[32;131H[0;7m(B^T[m(B To Spell[3d[4d[5d[6d[7d[8d[9d[10d[11d[12d[13d[14d[15d[16d[17d[18d[19d[20d[21d[22d[23d[24d[25d[26d[27d[28d[30d[K[A7[2;30r8[30d[14S[1;32r[16;9H[0;1m(B[32m'dimension'[39;49m[m(B: [0;1m(B[32m'overworld'[39;49m[m(B,[17d}[19drenders[[0;1m(B[32m"nether"[39;49m[m(B] = {[20;9H[0;1m(B[32m'world'[39;49m[m(B: [0;1m(B[32m'Blocksoc Nether'[39;49m[m(B,[21;9H[0;1m(B[32m'title'[39;49m[m(B: [0;1m(B[32m'Nether'[39;49m[m(B,[22;9H[0;1m(B[32m'texturepath'[39;49m[m(B: [0;1m(B[32m'terrain.png'[39;49m[m(B,[23;9H[0;1m(B[32m'dimension'[39;49m[m(B: [0;1m(B[32m'nether'[39;49m[m(B,[24;9H[0;1m(B[32m'rendermode'[39;49m[m(B: [0;1m(B[32m'nether_smooth_lighting'[39;49m[m(B,[25d}[16d[17d[18d[19d[20d[21d[22d[23d[24d[25d[26d[27d[28d[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[2;29r[2;1H[14T[1;32r[3;1H[0;1m(B[31m# This is a sample config file, meant to give you an idea of how to format your[4d# config file and what's possible.[6d# Define the path to your world here. 'My World' in this case will show up as[7d# the world name on the map interface. If you change it, be sure to also change[8d# the referenced world names in the render definitions below.[9d[39;49m[m(Bworlds[[0;1m(B[32m'Blocksoc'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/bukkit/world"[10d[39;49m[m(Bworlds[[0;1m(B[32m'Blocksoc Nether'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/bukkit/world_nether"[12d[31m#tnt event temp maps[14d[39;49m[m(Bworlds[[0;1m(B[32m'TNT Event World'[39;49m[m(B] = [0;1m(B[32m"/home/minecraft/tnt_event/world"[16d[39;49m[m(B[A[A[A[A[A[A[A[A[A[A[A[A[A[4d[5d[6d[7d[8d[9d[10d[11d[12d[13d[14d[15d[16d[17d[18d[19d[20d[21d[22d[23d[24d[25d[26d[27d[28d[29d7[2;30r8[30d[14S[1;32r[16;9H[0;1m(B[32m'dimension'[39;49m[m(B: [0;1m(B[32m'overworld'[39;49m[m(B,[17d}[19drenders[[0;1m(B[32m"nether"[39;49m[m(B] = {[20;9H[0;1m(B[32m'world'[39;49m[m(B: [0;1m(B[32m'Blocksoc Nether'[39;49m[m(B,[21;9H[0;1m(B[32m'title'[39;49m[m(B: [0;1m(B[32m'Nether'[39;49m[m(B,[22;9H[0;1m(B[32m'texturepath'[39;49m[m(B: [0;1m(B[32m'terrain.png'[39;49m[m(B,[23;9H[0;1m(B[32m'dimension'[39;49m[m(B: [0;1m(B[32m'nether'[39;49m[m(B,[24;9H[0;1m(B[32m'rendermode'[39;49m[m(B: [0;1m(B[32m'nether_smooth_lighting'[39;49m[m(B,[25d}[16d[17d[18d[19d[20d[21d[22d[23d[24d[31d[J[32;158H[32;1H[?1049l[?1l>]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls
+blocksoc_config.py  [0m[01;34mcontrib[0m            CONTRIBUTORS.rst  [01;34mdocs[0m       MANIFEST.in      [01;32moverviewer.py[0m  [01;32msetup.py[0m     [01;34mtest[0m
+[01;34mbuild[0m               [01;32mcontribManager.py[0m  COPYING.txt       [01;32mgenPOI.py[0m  [01;34moverviewer_core[0m  README.rst     [01;35mterrain.png[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ cd ..
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd scripts/
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ls
+[0m[01;34mbackup[0m  [01;34mmap[0m  [01;32mmap_update.sh[0m  README
+[m]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ./map_update.sh 
+2012-03-24 07:26:11  Welcome to Minecraft Overviewer!
+2012-03-24 07:26:58  Rendered 0 of 57842.  0% complete
+2012-03-24 07:27:01  Rendered 100 of 57842.  0% complete
+2012-03-24 07:27:03  Rendered 201 of 57842.  0% complete
+2012-03-24 07:27:05  Rendered 301 of 57842.  0% complete
+2012-03-24 07:27:08  Rendered 402 of 57842.  0% complete
+2012-03-24 07:27:11  Rendered 503 of 57842.  0% complete
+2012-03-24 07:27:14  Rendered 604 of 57842.  1% complete
+2012-03-24 07:27:16  Rendered 704 of 57842.  1% complete
+2012-03-24 07:27:23  Rendered 804 of 57842.  1% complete
+2012-03-24 07:27:31  Rendered 905 of 57842.  1% complete
+2012-03-24 07:27:42  Rendered 1006 of 57842.  1% complete
+2012-03-24 07:27:52  Rendered 1106 of 57842.  1% complete
+2012-03-24 07:27:56  Rendered 1206 of 57842.  2% complete
+2012-03-24 07:27:59  Rendered 1308 of 57842.  2% complete
+2012-03-24 07:28:05  Rendered 1408 of 57842.  2% complete
+2012-03-24 07:28:10  Rendered 1509 of 57842.  2% complete
+2012-03-24 07:28:17  Rendered 1609 of 57842.  2% complete
+2012-03-24 07:28:27  Rendered 1709 of 57842.  2% complete
+2012-03-24 07:28:36  Rendered 1810 of 57842.  3% complete
+2012-03-24 07:28:44  Rendered 1910 of 57842.  3% complete
+2012-03-24 07:28:46  Rendered 2010 of 57842.  3% complete
+2012-03-24 07:28:51  Rendered 2110 of 57842.  3% complete
+2012-03-24 07:28:58  Rendered 2210 of 57842.  3% complete
+2012-03-24 07:29:07  Rendered 2310 of 57842.  3% complete
+2012-03-24 07:29:19  Rendered 2411 of 57842.  4% complete
+2012-03-24 07:29:29  Rendered 2511 of 57842.  4% complete
+2012-03-24 07:29:39  Rendered 2613 of 57842.  4% complete
+2012-03-24 07:29:42  Rendered 2714 of 57842.  4% complete
+2012-03-24 07:29:45  Rendered 2814 of 57842.  4% complete
+2012-03-24 07:29:50  Rendered 2914 of 57842.  5% complete
+2012-03-24 07:29:58  Rendered 3014 of 57842.  5% complete
+2012-03-24 07:30:05  Rendered 3114 of 57842.  5% complete
+2012-03-24 07:30:15  Rendered 3214 of 57842.  5% complete
+2012-03-24 07:30:22  Rendered 3314 of 57842.  5% complete
+2012-03-24 07:30:28  Rendered 3414 of 57842.  5% complete
+2012-03-24 07:30:33  Rendered 3514 of 57842.  6% complete
+2012-03-24 07:30:35  Rendered 3615 of 57842.  6% complete
+2012-03-24 07:30:39  Rendered 3715 of 57842.  6% complete
+2012-03-24 07:30:44  Rendered 3816 of 57842.  6% complete
+2012-03-24 07:30:52  Rendered 3916 of 57842.  6% complete
+2012-03-24 07:30:57  Rendered 4016 of 57842.  6% complete
+2012-03-24 07:31:06  Rendered 4116 of 57842.  7% complete
+2012-03-24 07:31:11  Rendered 4217 of 57842.  7% complete
+2012-03-24 07:31:17  Rendered 4317 of 57842.  7% complete
+2012-03-24 07:31:20  Rendered 4419 of 57842.  7% complete
+2012-03-24 07:31:25  Rendered 4519 of 57842.  7% complete
+2012-03-24 07:31:32  Rendered 4619 of 57842.  7% complete
+2012-03-24 07:31:45  Rendered 4719 of 57842.  8% complete
+2012-03-24 07:31:57  Rendered 4819 of 57842.  8% complete
+2012-03-24 07:32:08  Rendered 4920 of 57842.  8% complete
+2012-03-24 07:32:16  Rendered 5021 of 57842.  8% complete
+2012-03-24 07:32:25  Rendered 5121 of 57842.  8% complete
+2012-03-24 07:32:31  Rendered 5221 of 57842.  9% complete
+2012-03-24 07:32:40  Rendered 5321 of 57842.  9% complete
+2012-03-24 07:32:50  Rendered 5421 of 57842.  9% complete
+2012-03-24 07:33:01  Rendered 5522 of 57842.  9% complete
+2012-03-24 07:33:11  Rendered 5623 of 57842.  9% complete
+2012-03-24 07:33:17  Rendered 5723 of 57842.  9% complete
+2012-03-24 07:33:26  Rendered 5824 of 57842.  10% complete
+2012-03-24 07:33:31  Rendered 5924 of 57842.  10% complete
+2012-03-24 07:33:35  Rendered 6024 of 57842.  10% complete
+2012-03-24 07:33:42  Rendered 6125 of 57842.  10% complete
+2012-03-24 07:33:54  Rendered 6226 of 57842.  10% complete
+2012-03-24 07:34:07  Rendered 6326 of 57842.  10% complete
+2012-03-24 07:34:20  Rendered 6426 of 57842.  11% complete
+2012-03-24 07:34:32  Rendered 6526 of 57842.  11% complete
+2012-03-24 07:34:44  Rendered 6627 of 57842.  11% complete
+2012-03-24 07:34:55  Rendered 6727 of 57842.  11% complete
+2012-03-24 07:35:05  Rendered 6827 of 57842.  11% complete
+2012-03-24 07:35:15  Rendered 6927 of 57842.  11% complete
+2012-03-24 07:35:26  Rendered 7027 of 57842.  12% complete
+2012-03-24 07:35:34  Rendered 7127 of 57842.  12% complete
+2012-03-24 07:35:44  Rendered 7227 of 57842.  12% complete
+2012-03-24 07:35:54  Rendered 7329 of 57842.  12% complete
+2012-03-24 07:36:02  Rendered 7429 of 57842.  12% complete
+2012-03-24 07:36:10  Rendered 7530 of 57842.  13% complete
+2012-03-24 07:36:16  Rendered 7630 of 57842.  13% complete
+2012-03-24 07:36:20  Rendered 7733 of 57842.  13% complete
+2012-03-24 07:36:25  Rendered 7834 of 57842.  13% complete
+2012-03-24 07:36:33  Rendered 7934 of 57842.  13% complete
+2012-03-24 07:36:40  Rendered 8035 of 57842.  13% complete
+2012-03-24 07:36:48  Rendered 8135 of 57842.  14% complete
+2012-03-24 07:36:56  Rendered 8236 of 57842.  14% complete
+2012-03-24 07:37:05  Rendered 8336 of 57842.  14% complete
+2012-03-24 07:37:16  Rendered 8436 of 57842.  14% complete
+2012-03-24 07:37:26  Rendered 8536 of 57842.  14% complete
+2012-03-24 07:37:35  Rendered 8636 of 57842.  14% complete
+2012-03-24 07:37:45  Rendered 8736 of 57842.  15% complete
+2012-03-24 07:37:56  Rendered 8836 of 57842.  15% complete
+2012-03-24 07:38:04  Rendered 8936 of 57842.  15% complete
+2012-03-24 07:38:11  Rendered 9036 of 57842.  15% complete
+2012-03-24 07:38:21  Rendered 9136 of 57842.  15% complete
+2012-03-24 07:38:32  Rendered 9236 of 57842.  15% complete
+2012-03-24 07:38:43  Rendered 9336 of 57842.  16% complete
+2012-03-24 07:38:53  Rendered 9436 of 57842.  16% complete
+2012-03-24 07:38:58  Rendered 9536 of 57842.  16% complete
+2012-03-24 07:39:01  Rendered 9636 of 57842.  16% complete
+2012-03-24 07:39:05  Rendered 9736 of 57842.  16% complete
+2012-03-24 07:39:07  Rendered 9836 of 57842.  17% complete
+2012-03-24 07:39:12  Rendered 9936 of 57842.  17% complete
+2012-03-24 07:39:24  Rendered 10037 of 57842.  17% complete
+2012-03-24 07:39:32  Rendered 10137 of 57842.  17% complete
+2012-03-24 07:39:40  Rendered 10237 of 57842.  17% complete
+2012-03-24 07:39:42  Rendered 10337 of 57842.  17% complete
+2012-03-24 07:39:49  Rendered 10438 of 57842.  18% complete
+2012-03-24 07:39:55  Rendered 10538 of 57842.  18% complete
+2012-03-24 07:40:01  Rendered 10638 of 57842.  18% complete
+2012-03-24 07:40:12  Rendered 10738 of 57842.  18% complete
+2012-03-24 07:40:23  Rendered 10838 of 57842.  18% complete
+2012-03-24 07:40:32  Rendered 10938 of 57842.  18% complete
+2012-03-24 07:40:39  Rendered 11038 of 57842.  19% complete
+2012-03-24 07:40:45  Rendered 11139 of 57842.  19% complete
+2012-03-24 07:40:49  Rendered 11239 of 57842.  19% complete
+2012-03-24 07:40:51  Rendered 11339 of 57842.  19% complete
+2012-03-24 07:40:56  Rendered 11439 of 57842.  19% complete
+2012-03-24 07:40:59  Rendered 11539 of 57842.  19% complete
+2012-03-24 07:41:05  Rendered 11639 of 57842.  20% complete
+2012-03-24 07:41:14  Rendered 11739 of 57842.  20% complete
+2012-03-24 07:41:17  Rendered 11839 of 57842.  20% complete
+2012-03-24 07:41:21  Rendered 11940 of 57842.  20% complete
+2012-03-24 07:41:24  Rendered 12040 of 57842.  20% complete
+2012-03-24 07:41:33  Rendered 12140 of 57842.  20% complete
+2012-03-24 07:41:44  Rendered 12240 of 57842.  21% complete
+2012-03-24 07:41:54  Rendered 12340 of 57842.  21% complete
+2012-03-24 07:42:08  Rendered 12440 of 57842.  21% complete
+2012-03-24 07:42:19  Rendered 12540 of 57842.  21% complete
+2012-03-24 07:42:30  Rendered 12640 of 57842.  21% complete
+2012-03-24 07:42:43  Rendered 12740 of 57842.  22% complete
+2012-03-24 07:42:54  Rendered 12840 of 57842.  22% complete
+2012-03-24 07:43:06  Rendered 12940 of 57842.  22% complete
+2012-03-24 07:43:18  Rendered 13040 of 57842.  22% complete
+2012-03-24 07:43:30  Rendered 13140 of 57842.  22% complete
+2012-03-24 07:43:42  Rendered 13240 of 57842.  22% complete
+2012-03-24 07:43:54  Rendered 13340 of 57842.  23% complete
+2012-03-24 07:44:05  Rendered 13440 of 57842.  23% complete
+2012-03-24 07:44:17  Rendered 13541 of 57842.  23% complete
+2012-03-24 07:44:27  Rendered 13641 of 57842.  23% complete
+2012-03-24 07:44:38  Rendered 13742 of 57842.  23% complete
+2012-03-24 07:44:49  Rendered 13842 of 57842.  23% complete
+2012-03-24 07:45:01  Rendered 13942 of 57842.  24% complete
+2012-03-24 07:45:12  Rendered 14042 of 57842.  24% complete
+2012-03-24 07:45:22  Rendered 14143 of 57842.  24% complete
+2012-03-24 07:45:33  Rendered 14244 of 57842.  24% complete
+2012-03-24 07:45:44  Rendered 14344 of 57842.  24% complete
+2012-03-24 07:45:54  Rendered 14444 of 57842.  24% complete
+2012-03-24 07:46:05  Rendered 14544 of 57842.  25% complete
+2012-03-24 07:46:12  Rendered 14644 of 57842.  25% complete
+2012-03-24 07:46:17  Rendered 14744 of 57842.  25% complete
+2012-03-24 07:46:20  Rendered 14844 of 57842.  25% complete
+2012-03-24 07:46:28  Rendered 14944 of 57842.  25% complete
+2012-03-24 07:46:33  Rendered 15044 of 57842.  26% complete
+2012-03-24 07:46:35  Rendered 15144 of 57842.  26% complete
+2012-03-24 07:46:42  Rendered 15244 of 57842.  26% complete
+2012-03-24 07:46:53  Rendered 15344 of 57842.  26% complete
+2012-03-24 07:47:03  Rendered 15446 of 57842.  26% complete
+2012-03-24 07:47:13  Rendered 15546 of 57842.  26% complete
+2012-03-24 07:47:23  Rendered 15646 of 57842.  27% complete
+2012-03-24 07:47:35  Rendered 15746 of 57842.  27% complete
+2012-03-24 07:47:46  Rendered 15847 of 57842.  27% complete
+2012-03-24 07:47:57  Rendered 15947 of 57842.  27% complete
+2012-03-24 07:48:08  Rendered 16048 of 57842.  27% complete
+2012-03-24 07:48:19  Rendered 16148 of 57842.  27% complete
+2012-03-24 07:48:27  Rendered 16248 of 57842.  28% complete
+2012-03-24 07:48:34  Rendered 16349 of 57842.  28% complete
+2012-03-24 07:48:44  Rendered 16449 of 57842.  28% complete
+2012-03-24 07:48:50  Rendered 16550 of 57842.  28% complete
+2012-03-24 07:49:00  Rendered 16651 of 57842.  28% complete
+2012-03-24 07:49:08  Rendered 16751 of 57842.  28% complete
+2012-03-24 07:49:17  Rendered 16851 of 57842.  29% complete
+2012-03-24 07:49:24  Rendered 16951 of 57842.  29% complete
+2012-03-24 07:49:30  Rendered 17052 of 57842.  29% complete
+2012-03-24 07:49:40  Rendered 17152 of 57842.  29% complete
+2012-03-24 07:49:48  Rendered 17253 of 57842.  29% complete
+2012-03-24 07:49:53  Rendered 17353 of 57842.  30% complete
+2012-03-24 07:49:56  Rendered 17453 of 57842.  30% complete
+2012-03-24 07:50:03  Rendered 17555 of 57842.  30% complete
+2012-03-24 07:50:06  Rendered 17655 of 57842.  30% complete
+2012-03-24 07:50:09  Rendered 17755 of 57842.  30% complete
+2012-03-24 07:50:17  Rendered 17855 of 57842.  30% complete
+2012-03-24 07:50:19  Rendered 17956 of 57842.  31% complete
+2012-03-24 07:50:24  Rendered 18056 of 57842.  31% complete
+2012-03-24 07:50:35  Rendered 18156 of 57842.  31% complete
+2012-03-24 07:50:38  Rendered 18258 of 57842.  31% complete
+2012-03-24 07:50:45  Rendered 18358 of 57842.  31% complete
+2012-03-24 07:50:53  Rendered 18458 of 57842.  31% complete
+2012-03-24 07:50:56  Rendered 18558 of 57842.  32% complete
+2012-03-24 07:50:58  Rendered 18658 of 57842.  32% complete
+2012-03-24 07:51:04  Rendered 18758 of 57842.  32% complete
+2012-03-24 07:51:10  Rendered 18858 of 57842.  32% complete
+2012-03-24 07:51:17  Rendered 18959 of 57842.  32% complete
+2012-03-24 07:51:21  Rendered 19060 of 57842.  32% complete
+2012-03-24 07:51:23  Rendered 19160 of 57842.  33% complete
+2012-03-24 07:51:32  Rendered 19260 of 57842.  33% complete
+2012-03-24 07:51:36  Rendered 19360 of 57842.  33% complete
+2012-03-24 07:51:37  Rendered 19460 of 57842.  33% complete
+2012-03-24 07:51:39  Rendered 19560 of 57842.  33% complete
+2012-03-24 07:51:43  Rendered 19661 of 57842.  33% complete
+2012-03-24 07:51:51  Rendered 19761 of 57842.  34% complete
+2012-03-24 07:51:58  Rendered 19861 of 57842.  34% complete
+2012-03-24 07:52:00  Rendered 19961 of 57842.  34% complete
+2012-03-24 07:52:02  Rendered 20062 of 57842.  34% complete
+2012-03-24 07:52:09  Rendered 20162 of 57842.  34% complete
+2012-03-24 07:52:19  Rendered 20262 of 57842.  35% complete
+2012-03-24 07:52:29  Rendered 20362 of 57842.  35% complete
+2012-03-24 07:52:35  Rendered 20463 of 57842.  35% complete
+2012-03-24 07:52:42  Rendered 20563 of 57842.  35% complete
+2012-03-24 07:52:44  Rendered 20663 of 57842.  35% complete
+2012-03-24 07:52:46  Rendered 20764 of 57842.  35% complete
+2012-03-24 07:52:48  Rendered 20865 of 57842.  36% complete
+2012-03-24 07:52:56  Rendered 20965 of 57842.  36% complete
+2012-03-24 07:53:01  Rendered 21065 of 57842.  36% complete
+2012-03-24 07:53:06  Rendered 21165 of 57842.  36% complete
+2012-03-24 07:53:21  Rendered 21265 of 57842.  36% complete
+2012-03-24 07:53:28  Rendered 21366 of 57842.  36% complete
+2012-03-24 07:53:32  Rendered 21467 of 57842.  37% complete
+2012-03-24 07:53:38  Rendered 21567 of 57842.  37% complete
+2012-03-24 07:53:44  Rendered 21668 of 57842.  37% complete
+2012-03-24 07:53:48  Rendered 21768 of 57842.  37% complete
+2012-03-24 07:53:49  Rendered 21869 of 57842.  37% complete
+2012-03-24 07:53:53  Rendered 21969 of 57842.  37% complete
+2012-03-24 07:54:01  Rendered 22069 of 57842.  38% complete
+2012-03-24 07:54:12  Rendered 22169 of 57842.  38% complete
+2012-03-24 07:54:15  Rendered 22269 of 57842.  38% complete
+2012-03-24 07:54:21  Rendered 22369 of 57842.  38% complete
+2012-03-24 07:54:22  Rendered 22469 of 57842.  38% complete
+2012-03-24 07:54:24  Rendered 22569 of 57842.  39% complete
+2012-03-24 07:54:25  Rendered 22670 of 57842.  39% complete
+2012-03-24 07:54:27  Rendered 22773 of 57842.  39% complete
+2012-03-24 07:54:28  Rendered 22876 of 57842.  39% complete
+2012-03-24 07:54:30  Rendered 22978 of 57842.  39% complete
+2012-03-24 07:54:31  Rendered 23080 of 57842.  39% complete
+2012-03-24 07:54:32  Rendered 23180 of 57842.  40% complete
+2012-03-24 07:54:34  Rendered 23281 of 57842.  40% complete
+2012-03-24 07:54:35  Rendered 23382 of 57842.  40% complete
+2012-03-24 07:54:36  Rendered 23482 of 57842.  40% complete
+2012-03-24 07:54:38  Rendered 23582 of 57842.  40% complete
+2012-03-24 07:54:39  Rendered 23682 of 57842.  40% complete
+2012-03-24 07:54:40  Rendered 23782 of 57842.  41% complete
+2012-03-24 07:54:42  Rendered 23882 of 57842.  41% complete
+2012-03-24 07:54:44  Rendered 23982 of 57842.  41% complete
+2012-03-24 07:54:46  Rendered 24083 of 57842.  41% complete
+2012-03-24 07:54:51  Rendered 24183 of 57842.  41% complete
+2012-03-24 07:54:58  Rendered 24284 of 57842.  41% complete
+2012-03-24 07:55:06  Rendered 24384 of 57842.  42% complete
+2012-03-24 07:55:12  Rendered 24484 of 57842.  42% complete
+2012-03-24 07:55:15  Rendered 24584 of 57842.  42% complete
+2012-03-24 07:55:21  Rendered 24684 of 57842.  42% complete
+2012-03-24 07:55:27  Rendered 24784 of 57842.  42% complete
+2012-03-24 07:55:33  Rendered 24884 of 57842.  43% complete
+2012-03-24 07:55:39  Rendered 24984 of 57842.  43% complete
+2012-03-24 07:55:43  Rendered 25085 of 57842.  43% complete
+2012-03-24 07:55:45  Rendered 25186 of 57842.  43% complete
+2012-03-24 07:55:48  Rendered 25287 of 57842.  43% complete
+2012-03-24 07:55:55  Rendered 25388 of 57842.  43% complete
+2012-03-24 07:56:02  Rendered 25488 of 57842.  44% complete
+2012-03-24 07:56:11  Rendered 25588 of 57842.  44% complete
+2012-03-24 07:56:17  Rendered 25688 of 57842.  44% complete
+2012-03-24 07:56:24  Rendered 25788 of 57842.  44% complete
+2012-03-24 07:56:29  Rendered 25890 of 57842.  44% complete
+2012-03-24 07:56:36  Rendered 25990 of 57842.  44% complete
+2012-03-24 07:56:41  Rendered 26091 of 57842.  45% complete
+2012-03-24 07:56:44  Rendered 26193 of 57842.  45% complete
+2012-03-24 07:56:46  Rendered 26294 of 57842.  45% complete
+2012-03-24 07:56:51  Rendered 26394 of 57842.  45% complete
+2012-03-24 07:56:57  Rendered 26494 of 57842.  45% complete
+2012-03-24 07:57:05  Rendered 26594 of 57842.  45% complete
+2012-03-24 07:57:10  Rendered 26694 of 57842.  46% complete
+2012-03-24 07:57:17  Rendered 26795 of 57842.  46% complete
+2012-03-24 07:57:24  Rendered 26896 of 57842.  46% complete
+2012-03-24 07:57:31  Rendered 26997 of 57842.  46% complete
+2012-03-24 07:57:36  Rendered 27097 of 57842.  46% complete
+2012-03-24 07:57:40  Rendered 27197 of 57842.  47% complete
+2012-03-24 07:57:46  Rendered 27298 of 57842.  47% complete
+2012-03-24 07:57:52  Rendered 27400 of 57842.  47% complete
+2012-03-24 07:57:56  Rendered 27501 of 57842.  47% complete
+2012-03-24 07:58:02  Rendered 27601 of 57842.  47% complete
+2012-03-24 07:58:09  Rendered 27701 of 57842.  47% complete
+2012-03-24 07:58:15  Rendered 27802 of 57842.  48% complete
+2012-03-24 07:58:20  Rendered 27903 of 57842.  48% complete
+2012-03-24 07:58:24  Rendered 28004 of 57842.  48% complete
+2012-03-24 07:58:34  Rendered 28104 of 57842.  48% complete
+2012-03-24 07:58:41  Rendered 28204 of 57842.  48% complete
+2012-03-24 07:58:48  Rendered 28305 of 57842.  48% complete
+2012-03-24 07:58:51  Rendered 28405 of 57842.  49% complete
+2012-03-24 07:58:57  Rendered 28505 of 57842.  49% complete
+2012-03-24 07:59:01  Rendered 28606 of 57842.  49% complete
+2012-03-24 07:59:02  Rendered 28707 of 57842.  49% complete
+2012-03-24 07:59:05  Rendered 28807 of 57842.  49% complete
+2012-03-24 07:59:12  Rendered 28908 of 57842.  49% complete
+2012-03-24 07:59:20  Rendered 29008 of 57842.  50% complete
+2012-03-24 07:59:24  Rendered 29108 of 57842.  50% complete
+2012-03-24 07:59:28  Rendered 29208 of 57842.  50% complete
+2012-03-24 07:59:32  Rendered 29308 of 57842.  50% complete
+2012-03-24 07:59:38  Rendered 29408 of 57842.  50% complete
+2012-03-24 07:59:44  Rendered 29508 of 57842.  51% complete
+2012-03-24 07:59:54  Rendered 29609 of 57842.  51% complete
+2012-03-24 07:59:59  Rendered 29709 of 57842.  51% complete
+2012-03-24 08:00:08  Rendered 29809 of 57842.  51% complete
+2012-03-24 08:00:13  Rendered 29909 of 57842.  51% complete
+2012-03-24 08:00:17  Rendered 30009 of 57842.  51% complete
+2012-03-24 08:00:27  Rendered 30109 of 57842.  52% complete
+2012-03-24 08:00:33  Rendered 30209 of 57842.  52% complete
+2012-03-24 08:00:41  Rendered 30309 of 57842.  52% complete
+2012-03-24 08:00:50  Rendered 30409 of 57842.  52% complete
+2012-03-24 08:00:57  Rendered 30509 of 57842.  52% complete
+2012-03-24 08:01:07  Rendered 30609 of 57842.  52% complete
+2012-03-24 08:01:17  Rendered 30709 of 57842.  53% complete
+2012-03-24 08:01:28  Rendered 30809 of 57842.  53% complete
+2012-03-24 08:01:40  Rendered 30910 of 57842.  53% complete
+2012-03-24 08:01:51  Rendered 31010 of 57842.  53% complete
+2012-03-24 08:02:02  Rendered 31110 of 57842.  53% complete
+2012-03-24 08:02:13  Rendered 31210 of 57842.  53% complete
+2012-03-24 08:02:24  Rendered 31310 of 57842.  54% complete
+2012-03-24 08:02:36  Rendered 31410 of 57842.  54% complete
+2012-03-24 08:02:47  Rendered 31512 of 57842.  54% complete
+2012-03-24 08:02:58  Rendered 31612 of 57842.  54% complete
+2012-03-24 08:03:10  Rendered 31714 of 57842.  54% complete
+2012-03-24 08:03:21  Rendered 31815 of 57842.  55% complete
+2012-03-24 08:03:30  Rendered 31917 of 57842.  55% complete
+2012-03-24 08:03:39  Rendered 32017 of 57842.  55% complete
+2012-03-24 08:03:50  Rendered 32117 of 57842.  55% complete
+2012-03-24 08:03:57  Rendered 32217 of 57842.  55% complete
+2012-03-24 08:04:05  Rendered 32318 of 57842.  55% complete
+2012-03-24 08:04:11  Rendered 32418 of 57842.  56% complete
+2012-03-24 08:04:22  Rendered 32518 of 57842.  56% complete
+2012-03-24 08:04:32  Rendered 32619 of 57842.  56% complete
+2012-03-24 08:04:44  Rendered 32719 of 57842.  56% complete
+2012-03-24 08:04:55  Rendered 32820 of 57842.  56% complete
+2012-03-24 08:05:04  Rendered 32920 of 57842.  56% complete
+2012-03-24 08:05:14  Rendered 33020 of 57842.  57% complete
+2012-03-24 08:05:25  Rendered 33120 of 57842.  57% complete
+2012-03-24 08:05:36  Rendered 33220 of 57842.  57% complete
+2012-03-24 08:05:43  Rendered 33320 of 57842.  57% complete
+2012-03-24 08:05:51  Rendered 33420 of 57842.  57% complete
+2012-03-24 08:06:03  Rendered 33520 of 57842.  57% complete
+2012-03-24 08:06:12  Rendered 33620 of 57842.  58% complete
+2012-03-24 08:06:22  Rendered 33720 of 57842.  58% complete
+2012-03-24 08:06:33  Rendered 33820 of 57842.  58% complete
+2012-03-24 08:06:43  Rendered 33920 of 57842.  58% complete
+2012-03-24 08:06:54  Rendered 34021 of 57842.  58% complete
+2012-03-24 08:07:06  Rendered 34121 of 57842.  58% complete
+2012-03-24 08:07:18  Rendered 34222 of 57842.  59% complete
+2012-03-24 08:07:33  Rendered 34322 of 57842.  59% complete
+2012-03-24 08:07:43  Rendered 34422 of 57842.  59% complete
+2012-03-24 08:07:50  Rendered 34522 of 57842.  59% complete
+2012-03-24 08:08:01  Rendered 34622 of 57842.  59% complete
+2012-03-24 08:08:14  Rendered 34724 of 57842.  60% complete
+2012-03-24 08:08:18  Rendered 34825 of 57842.  60% complete
+2012-03-24 08:08:25  Rendered 34925 of 57842.  60% complete
+2012-03-24 08:08:30  Rendered 35026 of 57842.  60% complete
+2012-03-24 08:08:38  Rendered 35128 of 57842.  60% complete
+2012-03-24 08:08:46  Rendered 35228 of 57842.  60% complete
+2012-03-24 08:08:57  Rendered 35328 of 57842.  61% complete
+2012-03-24 08:09:04  Rendered 35428 of 57842.  61% complete
+2012-03-24 08:09:14  Rendered 35529 of 57842.  61% complete
+2012-03-24 08:09:25  Rendered 35630 of 57842.  61% complete
+2012-03-24 08:09:36  Rendered 35731 of 57842.  61% complete
+2012-03-24 08:09:46  Rendered 35831 of 57842.  61% complete
+2012-03-24 08:09:56  Rendered 35932 of 57842.  62% complete
+2012-03-24 08:10:00  Rendered 36032 of 57842.  62% complete
+2012-03-24 08:10:04  Rendered 36133 of 57842.  62% complete
+2012-03-24 08:10:11  Rendered 36233 of 57842.  62% complete
+2012-03-24 08:10:24  Rendered 36333 of 57842.  62% complete
+2012-03-24 08:10:34  Rendered 36433 of 57842.  62% complete
+2012-03-24 08:10:41  Rendered 36533 of 57842.  63% complete
+2012-03-24 08:10:47  Rendered 36633 of 57842.  63% complete
+2012-03-24 08:10:54  Rendered 36733 of 57842.  63% complete
+2012-03-24 08:11:04  Rendered 36834 of 57842.  63% complete
+2012-03-24 08:11:07  Rendered 36935 of 57842.  63% complete
+2012-03-24 08:11:14  Rendered 37036 of 57842.  64% complete
+2012-03-24 08:11:20  Rendered 37136 of 57842.  64% complete
+2012-03-24 08:11:27  Rendered 37237 of 57842.  64% complete
+2012-03-24 08:11:38  Rendered 37338 of 57842.  64% complete
+2012-03-24 08:11:48  Rendered 37438 of 57842.  64% complete
+2012-03-24 08:11:58  Rendered 37538 of 57842.  64% complete
+2012-03-24 08:12:03  Rendered 37639 of 57842.  65% complete
+2012-03-24 08:12:04  Rendered 37740 of 57842.  65% complete
+2012-03-24 08:12:07  Rendered 37840 of 57842.  65% complete
+2012-03-24 08:12:14  Rendered 37940 of 57842.  65% complete
+2012-03-24 08:12:23  Rendered 38040 of 57842.  65% complete
+2012-03-24 08:12:32  Rendered 38140 of 57842.  65% complete
+2012-03-24 08:12:38  Rendered 38240 of 57842.  66% complete
+2012-03-24 08:12:49  Rendered 38340 of 57842.  66% complete
+2012-03-24 08:12:57  Rendered 38441 of 57842.  66% complete
+2012-03-24 08:13:02  Rendered 38541 of 57842.  66% complete
+2012-03-24 08:13:12  Rendered 38641 of 57842.  66% complete
+2012-03-24 08:13:20  Rendered 38741 of 57842.  66% complete
+2012-03-24 08:13:27  Rendered 38841 of 57842.  67% complete
+2012-03-24 08:13:33  Rendered 38941 of 57842.  67% complete
+2012-03-24 08:13:41  Rendered 39041 of 57842.  67% complete
+2012-03-24 08:13:46  Rendered 39141 of 57842.  67% complete
+2012-03-24 08:13:54  Rendered 39241 of 57842.  67% complete
+2012-03-24 08:13:59  Rendered 39342 of 57842.  68% complete
+2012-03-24 08:14:06  Rendered 39443 of 57842.  68% complete
+2012-03-24 08:14:14  Rendered 39543 of 57842.  68% complete
+2012-03-24 08:14:20  Rendered 39643 of 57842.  68% complete
+2012-03-24 08:14:23  Rendered 39744 of 57842.  68% complete
+2012-03-24 08:14:28  Rendered 39845 of 57842.  68% complete
+2012-03-24 08:14:34  Rendered 39945 of 57842.  69% complete
+2012-03-24 08:14:42  Rendered 40045 of 57842.  69% complete
+2012-03-24 08:14:53  Rendered 40145 of 57842.  69% complete
+2012-03-24 08:14:59  Rendered 40245 of 57842.  69% complete
+2012-03-24 08:15:03  Rendered 40345 of 57842.  69% complete
+2012-03-24 08:15:08  Rendered 40446 of 57842.  69% complete
+2012-03-24 08:15:16  Rendered 40546 of 57842.  70% complete
+2012-03-24 08:15:23  Rendered 40646 of 57842.  70% complete
+2012-03-24 08:15:29  Rendered 40746 of 57842.  70% complete
+2012-03-24 08:15:30  Rendered 40848 of 57842.  70% complete
+2012-03-24 08:15:33  Rendered 40948 of 57842.  70% complete
+2012-03-24 08:15:37  Rendered 41049 of 57842.  70% complete
+2012-03-24 08:15:39  Rendered 41150 of 57842.  71% complete
+2012-03-24 08:15:46  Rendered 41250 of 57842.  71% complete
+2012-03-24 08:15:53  Rendered 41350 of 57842.  71% complete
+2012-03-24 08:16:00  Rendered 41451 of 57842.  71% complete
+2012-03-24 08:16:05  Rendered 41553 of 57842.  71% complete
+2012-03-24 08:16:09  Rendered 41655 of 57842.  72% complete
+2012-03-24 08:16:11  Rendered 41755 of 57842.  72% complete
+2012-03-24 08:16:17  Rendered 41855 of 57842.  72% complete
+2012-03-24 08:16:20  Rendered 41955 of 57842.  72% complete
+2012-03-24 08:16:25  Rendered 42056 of 57842.  72% complete
+2012-03-24 08:16:31  Rendered 42156 of 57842.  72% complete
+2012-03-24 08:16:38  Rendered 42256 of 57842.  73% complete
+2012-03-24 08:16:43  Rendered 42356 of 57842.  73% complete
+2012-03-24 08:16:50  Rendered 42456 of 57842.  73% complete
+2012-03-24 08:16:54  Rendered 42556 of 57842.  73% complete
+2012-03-24 08:16:57  Rendered 42657 of 57842.  73% complete
+2012-03-24 08:17:01  Rendered 42757 of 57842.  73% complete
+2012-03-24 08:17:04  Rendered 42857 of 57842.  74% complete
+2012-03-24 08:17:10  Rendered 42957 of 57842.  74% complete
+2012-03-24 08:17:18  Rendered 43057 of 57842.  74% complete
+2012-03-24 08:17:24  Rendered 43157 of 57842.  74% complete
+2012-03-24 08:17:33  Rendered 43257 of 57842.  74% complete
+2012-03-24 08:17:40  Rendered 43358 of 57842.  74% complete
+2012-03-24 08:17:42  Rendered 43460 of 57842.  75% complete
+2012-03-24 08:17:46  Rendered 43561 of 57842.  75% complete
+2012-03-24 08:17:53  Rendered 43661 of 57842.  75% complete
+2012-03-24 08:17:58  Rendered 43762 of 57842.  75% complete
+2012-03-24 08:18:04  Rendered 43862 of 57842.  75% complete
+2012-03-24 08:18:12  Rendered 43962 of 57842.  76% complete
+2012-03-24 08:18:19  Rendered 44062 of 57842.  76% complete
+2012-03-24 08:18:23  Rendered 44162 of 57842.  76% complete
+2012-03-24 08:18:34  Rendered 44262 of 57842.  76% complete
+2012-03-24 08:18:45  Rendered 44362 of 57842.  76% complete
+2012-03-24 08:18:54  Rendered 44462 of 57842.  76% complete
+2012-03-24 08:19:04  Rendered 44563 of 57842.  77% complete
+2012-03-24 08:19:13  Rendered 44663 of 57842.  77% complete
+2012-03-24 08:19:21  Rendered 44764 of 57842.  77% complete
+2012-03-24 08:19:28  Rendered 44866 of 57842.  77% complete
+2012-03-24 08:19:32  Rendered 44966 of 57842.  77% complete
+2012-03-24 08:19:39  Rendered 45066 of 57842.  77% complete
+2012-03-24 08:19:41  Rendered 45166 of 57842.  78% complete
+2012-03-24 08:19:44  Rendered 45266 of 57842.  78% complete
+2012-03-24 08:19:50  Rendered 45366 of 57842.  78% complete
+2012-03-24 08:19:53  Rendered 45467 of 57842.  78% complete
+2012-03-24 08:19:59  Rendered 45569 of 57842.  78% complete
+2012-03-24 08:20:07  Rendered 45669 of 57842.  78% complete
+2012-03-24 08:20:17  Rendered 45769 of 57842.  79% complete
+2012-03-24 08:20:24  Rendered 45869 of 57842.  79% complete
+2012-03-24 08:20:31  Rendered 45970 of 57842.  79% complete
+2012-03-24 08:20:33  Rendered 46070 of 57842.  79% complete
+2012-03-24 08:20:35  Rendered 46170 of 57842.  79% complete
+2012-03-24 08:20:42  Rendered 46271 of 57842.  79% complete
+2012-03-24 08:20:48  Rendered 46372 of 57842.  80% complete
+2012-03-24 08:20:51  Rendered 46472 of 57842.  80% complete
+2012-03-24 08:20:58  Rendered 46572 of 57842.  80% complete
+2012-03-24 08:21:05  Rendered 46672 of 57842.  80% complete
+2012-03-24 08:21:10  Rendered 46773 of 57842.  80% complete
+2012-03-24 08:21:16  Rendered 46873 of 57842.  81% complete
+2012-03-24 08:21:20  Rendered 46973 of 57842.  81% complete
+2012-03-24 08:21:25  Rendered 47074 of 57842.  81% complete
+2012-03-24 08:21:27  Rendered 47175 of 57842.  81% complete
+2012-03-24 08:21:33  Rendered 47276 of 57842.  81% complete
+2012-03-24 08:21:41  Rendered 47376 of 57842.  81% complete
+2012-03-24 08:21:46  Rendered 47477 of 57842.  82% complete
+2012-03-24 08:21:52  Rendered 47578 of 57842.  82% complete
+2012-03-24 08:21:56  Rendered 47679 of 57842.  82% complete
+2012-03-24 08:22:03  Rendered 47779 of 57842.  82% complete
+2012-03-24 08:22:11  Rendered 47879 of 57842.  82% complete
+2012-03-24 08:22:13  Rendered 47980 of 57842.  82% complete
+2012-03-24 08:22:15  Rendered 48080 of 57842.  83% complete
+2012-03-24 08:22:21  Rendered 48180 of 57842.  83% complete
+2012-03-24 08:22:25  Rendered 48280 of 57842.  83% complete
+2012-03-24 08:22:27  Rendered 48380 of 57842.  83% complete
+2012-03-24 08:22:34  Rendered 48482 of 57842.  83% complete
+2012-03-24 08:22:41  Rendered 48582 of 57842.  83% complete
+2012-03-24 08:22:42  Rendered 48683 of 57842.  84% complete
+2012-03-24 08:22:47  Rendered 48783 of 57842.  84% complete
+2012-03-24 08:22:52  Rendered 48885 of 57842.  84% complete
+2012-03-24 08:22:59  Rendered 48985 of 57842.  84% complete
+2012-03-24 08:23:07  Rendered 49086 of 57842.  84% complete
+2012-03-24 08:23:14  Rendered 49186 of 57842.  85% complete
+2012-03-24 08:23:22  Rendered 49287 of 57842.  85% complete
+2012-03-24 08:23:31  Rendered 49388 of 57842.  85% complete
+2012-03-24 08:23:39  Rendered 49488 of 57842.  85% complete
+2012-03-24 08:23:45  Rendered 49588 of 57842.  85% complete
+2012-03-24 08:23:52  Rendered 49688 of 57842.  85% complete
+2012-03-24 08:23:58  Rendered 49788 of 57842.  86% complete
+2012-03-24 08:24:04  Rendered 49888 of 57842.  86% complete
+2012-03-24 08:24:11  Rendered 49989 of 57842.  86% complete
+2012-03-24 08:24:18  Rendered 50090 of 57842.  86% complete
+2012-03-24 08:24:24  Rendered 50190 of 57842.  86% complete
+2012-03-24 08:24:31  Rendered 50291 of 57842.  86% complete
+2012-03-24 08:24:37  Rendered 50391 of 57842.  87% complete
+2012-03-24 08:24:39  Rendered 50492 of 57842.  87% complete
+2012-03-24 08:24:40  Rendered 50592 of 57842.  87% complete
+2012-03-24 08:24:42  Rendered 50693 of 57842.  87% complete
+2012-03-24 08:24:45  Rendered 50793 of 57842.  87% complete
+2012-03-24 08:24:53  Rendered 50894 of 57842.  87% complete
+2012-03-24 08:24:59  Rendered 50995 of 57842.  88% complete
+2012-03-24 08:25:05  Rendered 51095 of 57842.  88% complete
+2012-03-24 08:25:13  Rendered 51195 of 57842.  88% complete
+2012-03-24 08:25:16  Rendered 51295 of 57842.  88% complete
+2012-03-24 08:25:18  Rendered 51395 of 57842.  88% complete
+2012-03-24 08:25:22  Rendered 51495 of 57842.  89% complete
+2012-03-24 08:25:25  Rendered 51597 of 57842.  89% complete
+2012-03-24 08:25:28  Rendered 51697 of 57842.  89% complete
+2012-03-24 08:25:35  Rendered 51798 of 57842.  89% complete
+2012-03-24 08:25:42  Rendered 51899 of 57842.  89% complete
+2012-03-24 08:25:48  Rendered 52000 of 57842.  89% complete
+2012-03-24 08:25:53  Rendered 52100 of 57842.  90% complete
+2012-03-24 08:25:58  Rendered 52201 of 57842.  90% complete
+2012-03-24 08:26:01  Rendered 52301 of 57842.  90% complete
+2012-03-24 08:26:07  Rendered 52401 of 57842.  90% complete
+2012-03-24 08:26:13  Rendered 52501 of 57842.  90% complete
+2012-03-24 08:26:16  Rendered 52601 of 57842.  90% complete
+2012-03-24 08:26:19  Rendered 52701 of 57842.  91% complete
+2012-03-24 08:26:25  Rendered 52801 of 57842.  91% complete
+2012-03-24 08:26:31  Rendered 52902 of 57842.  91% complete
+2012-03-24 08:26:36  Rendered 53002 of 57842.  91% complete
+2012-03-24 08:26:38  Rendered 53102 of 57842.  91% complete
+2012-03-24 08:26:42  Rendered 53202 of 57842.  91% complete
+2012-03-24 08:26:48  Rendered 53302 of 57842.  92% complete
+2012-03-24 08:26:55  Rendered 53403 of 57842.  92% complete
+2012-03-24 08:26:57  Rendered 53503 of 57842.  92% complete
+2012-03-24 08:27:01  Rendered 53605 of 57842.  92% complete
+2012-03-24 08:27:06  Rendered 53705 of 57842.  92% complete
+2012-03-24 08:27:11  Rendered 53806 of 57842.  93% complete
+2012-03-24 08:27:14  Rendered 53906 of 57842.  93% complete
+2012-03-24 08:27:18  Rendered 54006 of 57842.  93% complete
+2012-03-24 08:27:25  Rendered 54106 of 57842.  93% complete
+2012-03-24 08:27:31  Rendered 54206 of 57842.  93% complete
+2012-03-24 08:27:37  Rendered 54306 of 57842.  93% complete
+2012-03-24 08:27:44  Rendered 54406 of 57842.  94% complete
+2012-03-24 08:27:49  Rendered 54509 of 57842.  94% complete
+2012-03-24 08:27:54  Rendered 54609 of 57842.  94% complete
+2012-03-24 08:28:01  Rendered 54710 of 57842.  94% complete
+2012-03-24 08:28:07  Rendered 54810 of 57842.  94% complete
+2012-03-24 08:28:12  Rendered 54910 of 57842.  94% complete
+2012-03-24 08:28:18  Rendered 55010 of 57842.  95% complete
+2012-03-24 08:28:24  Rendered 55110 of 57842.  95% complete
+2012-03-24 08:28:28  Rendered 55210 of 57842.  95% complete
+2012-03-24 08:28:34  Rendered 55311 of 57842.  95% complete
+2012-03-24 08:28:41  Rendered 55411 of 57842.  95% complete
+2012-03-24 08:28:46  Rendered 55511 of 57842.  95% complete
+2012-03-24 08:28:51  Rendered 55611 of 57842.  96% complete
+2012-03-24 08:28:58  Rendered 55711 of 57842.  96% complete
+2012-03-24 08:29:03  Rendered 55812 of 57842.  96% complete
+2012-03-24 08:29:07  Rendered 55912 of 57842.  96% complete
+2012-03-24 08:29:13  Rendered 56012 of 57842.  96% complete
+2012-03-24 08:29:20  Rendered 56113 of 57842.  97% complete
+2012-03-24 08:29:24  Rendered 56213 of 57842.  97% complete
+2012-03-24 08:29:30  Rendered 56314 of 57842.  97% complete
+2012-03-24 08:29:36  Rendered 56414 of 57842.  97% complete
+2012-03-24 08:29:41  Rendered 56514 of 57842.  97% complete
+2012-03-24 08:29:45  Rendered 56614 of 57842.  97% complete
+2012-03-24 08:29:51  Rendered 56714 of 57842.  98% complete
+2012-03-24 08:29:56  Rendered 56815 of 57842.  98% complete
+2012-03-24 08:30:00  Rendered 56916 of 57842.  98% complete
+2012-03-24 08:30:07  Rendered 57017 of 57842.  98% complete
+2012-03-24 08:30:14  Rendered 57119 of 57842.  98% complete
+2012-03-24 08:30:19  Rendered 57219 of 57842.  98% complete
+2012-03-24 08:30:26  Rendered 57319 of 57842.  99% complete
+2012-03-24 08:30:34  Rendered 57419 of 57842.  99% complete
+2012-03-24 08:30:40  Rendered 57519 of 57842.  99% complete
+2012-03-24 08:30:45  Rendered 57619 of 57842.  99% complete
+2012-03-24 08:30:50  Rendered 57719 of 57842.  99% complete
+2012-03-24 08:30:54  Rendered 57819 of 57842.  99% complete
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ls
+[0m[01;34mbackup[0m  [01;34mmap[0m  [01;32mmap_update.sh[0m  README
+[m]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ cd map
+]0;minecraft@li250-48: ~/projects/scripts/mapminecraft@li250-48:~/projects/scripts/map$ ls
+]0;minecraft@li250-48: ~/projects/scripts/mapminecraft@li250-48:~/projects/scripts/map$ cd ..
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ls
+[0m[01;34mbackup[0m  [01;34mmap[0m  [01;32mmap_update.sh[0m  README
+[m]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ cat map_update.sh 
+#!/bin/bash
+# Simple script to update the map overview.
+python /home/minecraft/projects/map_generator/overviewer.py --config=/home/minecraft/projects/map_generator/blocksoc_config.py
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ cd ..
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd ..[K[K[K[K[Kls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd `[K~
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ mv maps maps.old
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ cp [K[K[Kls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps.old[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd projects/
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd map_generator/
+]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls
+blocksoc_config.py  [0m[01;34mcontrib[0m            CONTRIBUTORS.rst  [01;34mdocs[0m       MANIFEST.in      [01;32moverviewer.py[0m  [01;32msetup.py[0m     [01;34mtest[0m
+[01;34mbuild[0m               [01;32mcontribManager.py[0m  COPYING.txt       [01;32mgenPOI.py[0m  [01;34moverviewer_core[0m  README.rst     [01;35mterrain.png[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ cat overviewer.py
+#!/usr/bin/env python
+
+#    This file is part of the Minecraft Overviewer.
+#
+#    Minecraft Overviewer is free software: you can redistribute it and/or
+#    modify it under the terms of the GNU General Public License as published
+#    by the Free Software Foundation, either version 3 of the License, or (at
+#    your option) any later version.
+#
+#    Minecraft Overviewer is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General
+#    Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License along
+#    with the Overviewer.  If not, see <http://www.gnu.org/licenses/>.
+
+import platform
+import sys
+
+# quick version check
+if not (sys.version_info[0] == 2 and sys.version_info[1] >= 6):
+    print "Sorry, the Overviewer requires at least Python 2.6 to run"
+    if sys.version_info[0] >= 3:
+        print "and will not run on Python 3.0 or later"
+    sys.exit(1)
+
+import os
+import os.path
+import re
+import subprocess
+import multiprocessing
+import time
+import logging
+from optparse import OptionParser
+
+from overviewer_core import util
+from overviewer_core import logger
+from overviewer_core import textures
+from overviewer_core import optimizeimages, world
+from overviewer_core import configParser, tileset, assetmanager, dispatcher
+from overviewer_core import cache
+
+helptext = """
+%prog [--rendermodes=...] [options] <World> <Output Dir>
+%prog --config=<config file> [options]"""
+
+def main():
+    # bootstrap the logger with defaults
+    logger.configure()
+
+    try:
+        cpus = multiprocessing.cpu_count()
+    except NotImplementedError:
+        cpus = 1
+    
+    #avail_rendermodes = c_overviewer.get_render_modes()
+    avail_north_dirs = ['lower-left', 'upper-left', 'upper-right', 'lower-right', 'auto']
+
+    # Parse for basic options
+    parser = OptionParser(usage=helptext)
+    parser.add_option("--config", dest="config", action="store", help="Specify the config file to use.")
+    parser.add_option("-p", "--processes", dest="procs", action="store", type="int",
+            help="The number of local worker processes to spawn. Defaults to the number of CPU cores your computer has")
+
+    # Options that only apply to the config-less render usage
+    parser.add_option("--rendermodes", dest="rendermodes", action="store",
+            help="If you're not using a config file, specify which rendermodes to render with this option. This is a comma-separated list.")
+    
+    # Useful one-time render modifiers:
+    parser.add_option("--forcerender", dest="forcerender", action="store_true",
+            help="Force re-rendering the entire map.")
+    parser.add_option("--check-tiles", dest="checktiles", action="store_true",
+            help="Check each tile on disk and re-render old tiles")
+    parser.add_option("--no-tile-checks", dest="notilechecks", action="store_true",
+            help="Only render tiles that come from chunks that have changed since the last render (the default)")
+
+    # Useful one-time debugging options:
+    parser.add_option("--check-terrain", dest="check_terrain", action="store_true",
+            help="Prints the location and hash of terrain.png, useful for debugging terrain.png problems")
+    parser.add_option("-V", "--version", dest="version",
+            help="Displays version information and then exits", action="store_true")
+
+    # Log level options:
+    parser.add_option("-q", "--quiet", dest="quiet", action="count", default=0,
+            help="Print less output. You can specify this option multiple times.")
+    parser.add_option("-v", "--verbose", dest="verbose", action="count", default=0,
+            help="Print more output. You can specify this option multiple times.")
+
+    options, args = parser.parse_args()
+
+    # re-configure the logger now that we've processed the command line options
+    logger.configure(logging.INFO + 10*options.quiet - 10*options.verbose,
+                     options.verbose > 0)
+
+    ##########################################################################
+    # This section of main() runs in response to any one-time options we have,
+    # such as -V for version reporting
+    if options.version:
+        print "Minecraft Overviewer %s" % util.findGitVersion(),
+        print "(%s)" % util.findGitHash()[:7]
+        try:
+            import overviewer_core.overviewer_version as overviewer_version
+            print "built on %s" % overviewer_version.BUILD_DATE
+            if options.verbose > 0:
+                print "Build machine: %s %s" % (overviewer_version.BUILD_PLATFORM, overviewer_version.BUILD_OS)
+        except ImportError:
+            print "(build info not found)"
+        return 0
+
+    if options.check_terrain:
+        import hashlib
+        from overviewer_core.textures import Textures
+        # TODO custom textures path?
+        tex = Textures()
+
+        try:
+            f = tex.find_file("terrain.png", verbose=True)
+        except IOError:
+            logging.error("Could not find the file terrain.png")
+            return 1
+
+        h = hashlib.sha1()
+        h.update(f.read())
+        logging.info("Hash of terrain.png file is: `%s`", h.hexdigest())
+        return 0
+
+    # if no arguments are provided, print out a helpful message
+    if len(args) == 0 and not options.config:
+        # first provide an appropriate error for bare-console users
+        # that don't provide any options
+        if util.is_bare_console():
+            print "\n"
+            print "The Overviewer is a console program.  Please open a Windows command prompt"
+            print "first and run Overviewer from there.   Further documentation is available at"
+            print "http://docs.overviewer.org/\n"
+        else:
+            # more helpful message for users who know what they're doing
+            logging.error("You must either specify --config or give me a world directory and output directory")
+            parser.print_help()
+            list_worlds()
+        return 1
+    
+    ##########################################################################
+    # This section does some sanity checking on the command line options passed
+    # in. It checks to see if --config was given that no worldname/destdir were
+    # given, and vice versa
+    if options.config and args:
+        print
+        print "If you specify --config, you need to specify the world to render as well as"
+        print "the destination in the config file, not on the command line."
+        print "Put something like this in your config file:"
+        print "worlds['myworld'] = %r" % args[0]
+        print "outputdir = %r" % (args[1] if len(args) > 1 else "/path/to/output")
+        print
+        logging.error("Cannot specify both --config AND a world + output directory on the command line.")
+        parser.print_help()
+        return 1
+    
+    if not options.config and len(args) < 2:
+        logging.error("You must specify both the world directory and an output directory")
+        parser.print_help()
+        return 1
+    if not options.config and len(args) > 2:
+        # it's possible the user has a space in one of their paths but didn't
+        # properly escape it attempt to detect this case
+        for start in range(len(args)):
+            if not os.path.exists(args[start]):
+                for end in range(start+1, len(args)+1):
+                    if os.path.exists(" ".join(args[start:end])):
+                        logging.warning("It looks like you meant to specify \"%s\" as your world dir or your output\n\
+dir but you forgot to put quotes around the directory, since it contains spaces." % " ".join(args[start:end]))
+                        return 1
+        logging.error("Too many command line arguments")
+        parser.print_help()
+        return 1
+
+    #########################################################################
+    # These two halfs of this if statement unify config-file mode and
+    # command-line mode.
+    mw_parser = configParser.MultiWorldParser()
+
+    if not options.config:
+        # No config file mode.
+        worldpath, destdir = map(os.path.expanduser, args)
+        logging.debug("Using %r as the world directory", worldpath)
+        logging.debug("Using %r as the output directory", destdir)
+        
+        mw_parser.set_config_item("worlds", {'world': worldpath})
+        mw_parser.set_config_item("outputdir", destdir)
+
+        rendermodes = ['lighting']
+        if options.rendermodes:
+            rendermodes = options.rendermodes.replace("-","_").split(",")
+
+        # Now for some good defaults
+        renders = util.OrderedDict()
+        for rm in rendermodes:
+            renders["world-" + rm] = {
+                    "world": "world",
+                    "title": "Overviewer Render (%s)" % rm,
+                    "rendermode": rm,
+                    }
+        mw_parser.set_config_item("renders", renders)
+
+    else:
+        if options.rendermodes:
+            logging.error("You cannot specify --rendermodes if you give a config file. Configure your rendermodes in the config file instead")
+            parser.print_help()
+            return 1
+
+        # Parse the config file
+        mw_parser = configParser.MultiWorldParser()
+        mw_parser.parse(options.config)
+
+    # Add in the command options here, perhaps overriding values specified in
+    # the config
+    if options.procs:
+        mw_parser.set_config_item("processes", options.procs)
+
+    # Now parse and return the validated config
+    try:
+        config = mw_parser.get_validated_config()
+    except Exception:
+        logging.exception("An error was encountered with your configuration. See the info below.")
+        return 1
+
+       
+
+    ############################################################
+    # Final validation steps and creation of the destination directory
+    logging.info("Welcome to Minecraft Overviewer!")
+    logging.debug("Current log level: {0}".format(logging.getLogger().level))
+
+    # Override some render configdict options depending on one-time command line
+    # modifiers
+    if (
+            bool(options.forcerender) +
+            bool(options.checktiles) +
+            bool(options.notilechecks)
+            ) > 1:
+        logging.error("You cannot specify more than one of --forcerender, "+
+        "--check-tiles, and --no-tile-checks. These options conflict.")
+        parser.print_help()
+        return 1
+    if options.forcerender:
+        logging.info("Forcerender mode activated. ALL tiles will be rendered")
+        for render in config['renders'].itervalues():
+            render['renderchecks'] = 2
+    elif options.checktiles:
+        logging.info("Checking all tiles for updates manually.")
+        for render in config['renders'].itervalues():
+            render['renderchecks'] = 1
+    elif options.notilechecks:
+        logging.info("Disabling all tile mtime checks. Only rendering tiles "+
+        "that need updating since last render")
+        for render in config['renders'].itervalues():
+            render['renderchecks'] = 0
+
+    if not config['renders']:
+        logging.error("You must specify at least one render in your config file. See the docs if you're having trouble")
+        return 1
+
+    #####################
+    # Do a few last minute things to each render dictionary here
+    for rname, render in config['renders'].iteritems():
+        # Convert render['world'] to the world path, and store the original
+        # in render['worldname_orig']
+        try:
+            worldpath = config['worlds'][render['world']]
+        except KeyError:
+            logging.error("Render %s's world is '%s', but I could not find a corresponding entry in the worlds dictionary.",
+                    rname, render['world'])
+            return 1
+        render['worldname_orig'] = render['world']
+        render['world'] = worldpath
+
+        # If 'forcerender' is set, change renderchecks to 2
+        if render.get('forcerender', False):
+            render['renderchecks'] = 2
+
+    destdir = config['outputdir']
+    if not destdir:
+        logging.error("You must specify the output directory in your config file.")
+        logging.error("e.g. outputdir = '/path/to/outputdir'")
+        return 1
+    if not os.path.exists(destdir):
+        try:
+            os.mkdir(destdir)
+        except OSError:
+            logging.exception("Could not create the output directory.")
+            return 1
+
+    # The changelist support.
+    changelists = {}
+    for render in config['renders'].itervalues():
+        if 'changelist' in render:
+            path = render['changelist']
+            if path not in changelists:
+                out = open(path, "w")
+                logging.debug("Opening changelist %s (%s)", out, out.fileno())
+                changelists[path] = out
+            else:
+                out = changelists[path]
+            render['changelist'] = out.fileno()
+
+
+    ########################################################################
+    # Now we start the actual processing, now that all the configuration has
+    # been gathered and validated
+    # create our asset manager... ASSMAN
+    assetMrg = assetmanager.AssetManager(destdir)
+
+    tilesets = []
+
+    # saves us from creating the same World object over and over again
+    worldcache = {}
+    # same for textures
+    texcache = {}
+
+    # Set up the cache objects to use
+    caches = []
+    caches.append(cache.LRUCache(size=100))
+    if config.get("memcached_host", False):
+        caches.append(cache.Memcached(config['memcached_host']))
+    # TODO: optionally more caching layers here
+
+    renders = config['renders']
+    for render_name, render in renders.iteritems():
+        logging.debug("Found the following render thing: %r", render)
+
+        # find or create the world object
+        try:
+            w = worldcache[render['world']]
+        except KeyError:
+            w = world.World(render['world'])
+            worldcache[render['world']] = w
+        
+        # find or create the textures object
+        texopts = util.dict_subset(render, ["texturepath", "bgcolor", "northdirection"])
+        texopts_key = tuple(texopts.items())
+        if texopts_key not in texcache:
+            tex = textures.Textures(**texopts)
+            tex.generate()
+            texcache[texopts_key] = tex
+        else:
+            tex = texcache[texopts_key]
+
+        rset = w.get_regionset(render['dimension'])
+        if rset == None: # indicates no such dimension was found:
+            logging.error("Sorry, you requested dimension '%s' for %s, but I couldn't find it", render['dimension'], render_name)
+            return 1
+
+        #################
+        # Apply any regionset transformations here
+
+        # Insert a layer of caching above the real regionset. Any world
+        # tranformations will pull from this cache, but their results will not
+        # be cached by this layer. This uses a common pool of caches; each
+        # regionset cache pulls from the same underlying cache object.
+        rset = world.CachedRegionSet(rset, caches)
+
+        # If a crop is requested, wrap the regionset here
+        if "crop" in render:
+            rset = world.CroppedRegionSet(rset, *render['crop'])
+        
+        # If this is to be a rotated regionset, wrap it in a RotatedRegionSet
+        # object
+        if (render['northdirection'] > 0):
+            rset = world.RotatedRegionSet(rset, render['northdirection'])
+        logging.debug("Using RegionSet %r", rset) 
+
+        ###############################
+        # Do the final prep and create the TileSet object
+
+        # create our TileSet from this RegionSet
+        tileset_dir = os.path.abspath(os.path.join(destdir, render_name))
+
+        # only pass to the TileSet the options it really cares about
+        render['name'] = render_name # perhaps a hack. This is stored here for the asset manager
+        tileSetOpts = util.dict_subset(render, ["name", "imgformat", "renderchecks", "rerenderprob", "bgcolor", "imgquality", "optimizeimg", "rendermode", "worldname_orig", "title", "dimension", "changelist"])
+        tileSetOpts.update({"spawn": w.find_true_spawn()}) # TODO find a better way to do this
+        tset = tileset.TileSet(rset, assetMrg, tex, tileSetOpts, tileset_dir)
+        tilesets.append(tset)
+
+    # Do tileset preprocessing here, before we start dispatching jobs
+    for ts in tilesets:
+        ts.do_preprocessing()
+
+    # Output initial static data and configuration
+    assetMrg.initialize(tilesets)
+   
+    # multiprocessing dispatcher
+    if config['processes'] == 1:
+        dispatch = dispatcher.Dispatcher()
+    else:
+        dispatch = dispatcher.MultiprocessingDispatcher(local_procs=config['processes'])
+    last_status_print = time.time()
+    def print_status(phase, completed, total):
+        # phase is ignored.  it's always zero?
+        if (total == 0):
+            percent = 100
+            logging.info("Rendered %d of %d tiles.  %d%% complete", completed, total, percent)
+        elif total == None:
+            logging.info("Rendered %d tiles.", completed)
+        else:
+            percent = int(100* completed/total)
+            logging.info("Rendered %d of %d.  %d%% complete", completed, total, percent)
+
+    dispatch.render_all(tilesets, print_status)
+    dispatch.close()
+
+    assetMrg.finalize(tilesets)
+
+    for out in changelists.itervalues():
+        logging.debug("Closing %s (%s)", out, out.fileno())
+        out.close()
+
+    if config['processes'] == 1:
+        logging.debug("Final cache stats:")
+        for c in caches:
+            logging.debug("\t%s: %s hits, %s misses", c.__class__.__name__, c.hits, c.misses)
+
+    return 0
+
+def list_worlds():
+    "Prints out a brief summary of saves found in the default directory"
+    print 
+    worlds = world.get_worlds()
+    if not worlds:
+        print 'No world saves found in the usual place'
+        return
+    print "Detected saves:"
+
+    # get max length of world name
+    worldNameLen = max([len(str(x)) for x in worlds] + [len("World")])
+
+    formatString = "%-" + str(worldNameLen) + "s | %-8s | %-8s | %-16s | %s "
+    print formatString % ("World", "Size", "Playtime", "Modified", "Path")
+    print formatString % ("-"*worldNameLen, "-"*8, "-"*8, '-'*16, '-'*4)
+    for name, info in sorted(worlds.iteritems()):
+        if isinstance(name, basestring) and name.startswith("World") and len(name) == 6:
+            try:
+                world_n = int(name[-1])
+                # we'll catch this one later, when it shows up as an
+                # integer key
+                continue
+            except ValueError:
+                pass
+        timestamp = time.strftime("%Y-%m-%d %H:%M",
+                                  time.localtime(info['LastPlayed'] / 1000))
+        playtime = info['Time'] / 20
+        playstamp = '%d:%02d' % (playtime / 3600, playtime / 60 % 60)
+        size = "%.2fMB" % (info['SizeOnDisk'] / 1024. / 1024.)
+        path = info['path']
+        print formatString % (name, size, playstamp, timestamp, path)
+
+if __name__ == "__main__":
+    multiprocessing.freeze_support()
+    try:
+        ret = main()
+        util.nice_exit(ret)
+    except Exception, e:
+        logging.exception("""An error has occurred. This may be a bug. Please let us know!
+See http://docs.overviewer.org/en/latest/index.html#help
+
+This is the error that occurred:""")
+        util.nice_exit(1)
+]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls
+blocksoc_config.py  [0m[01;34mcontrib[0m            CONTRIBUTORS.rst  [01;34mdocs[0m       MANIFEST.in      [01;32moverviewer.py[0m  [01;32msetup.py[0m     [01;34mtest[0m
+[01;34mbuild[0m               [01;32mcontribManager.py[0m  COPYING.txt       [01;32mgenPOI.py[0m  [01;34moverviewer_core[0m  README.rst     [01;35mterrain.png[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ cd build
+]0;minecraft@li250-48: ~/projects/map_generator/buildminecraft@li250-48:~/projects/map_generator/build$ ls
+[0m[01;34mlib.linux-i686-2.6[0m  [01;34mscripts-2.6[0m  [01;34mtemp.linux-i686-2.6[0m
+[m]0;minecraft@li250-48: ~/projects/map_generator/buildminecraft@li250-48:~/projects/map_generator/build$ cd ..
+]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls
+blocksoc_config.py  [0m[01;34mcontrib[0m            CONTRIBUTORS.rst  [01;34mdocs[0m       MANIFEST.in      [01;32moverviewer.py[0m  [01;32msetup.py[0m     [01;34mtest[0m
+[01;34mbuild[0m               [01;32mcontribManager.py[0m  COPYING.txt       [01;32mgenPOI.py[0m  [01;34moverviewer_core[0m  README.rst     [01;35mterrain.png[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ cd ..
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd ..
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps.old[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd maps.old/
+]0;minecraft@li250-48: ~/maps.oldminecraft@li250-48:~/maps.old$ ls
+backbone.js             [0m[01;35mcompass_lower-right.png[0m  [01;35mcontrol-bg-active.png[0m  [01;34mnether[0m               overviewer.js  [01;35msignpost_icon.png[0m    underscore.js
+baseMarkers.js          [01;35mcompass_upper-left.png[0m   [01;35mcontrol-bg.png[0m         overviewerConfig.js  [01;34moverworld[0m      [01;35msignpost.png[0m
+[01;35mcompass_lower-left.png[0m  [01;35mcompass_upper-right.png[0m  index.html             overviewer.css       regions.js     [01;35msignpost-shadow.png[0m
+[m]0;minecraft@li250-48: ~/maps.oldminecraft@li250-48:~/maps.old$ cd ..
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps.old[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd projects/
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd map_generator/
+]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls
+blocksoc_config.py  [0m[01;34mcontrib[0m            CONTRIBUTORS.rst  [01;34mdocs[0m       MANIFEST.in      [01;32moverviewer.py[0m  [01;32msetup.py[0m     [01;34mtest[0m
+[01;34mbuild[0m               [01;32mcontribManager.py[0m  COPYING.txt       [01;32mgenPOI.py[0m  [01;34moverviewer_core[0m  README.rst     [01;35mterrain.png[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ cd test
+]0;minecraft@li250-48: ~/projects/map_generator/testminecraft@li250-48:~/projects/map_generator/test$ ls
+[0m[01;34mdata[0m  test_all.py  test_cache.py  test_rendertileset.py  test_settings.py  test_tileobj.py  test_tileset.py  test_world.py
+[m]0;minecraft@li250-48: ~/projects/map_generator/testminecraft@li250-48:~/projects/map_generator/test$ cd ..
+]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ s[Kls
+blocksoc_config.py  [0m[01;34mcontrib[0m            CONTRIBUTORS.rst  [01;34mdocs[0m       MANIFEST.in      [01;32moverviewer.py[0m  [01;32msetup.py[0m     [01;34mtest[0m
+[01;34mbuild[0m               [01;32mcontribManager.py[0m  COPYING.txt       [01;32mgenPOI.py[0m  [01;34moverviewer_core[0m  README.rst     [01;35mterrain.png[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ cd contrib
+]0;minecraft@li250-48: ~/projects/map_generator/contribminecraft@li250-48:~/projects/map_generator/contrib$ ls
+clearOldCache.py  cyrillic_convert.py  findSigns.py  gallery.py  playerInspect.py  rerenderBlocks.py  testRender.py  validateRegionFile.py
+]0;minecraft@li250-48: ~/projects/map_generator/contribminecraft@li250-48:~/projects/map_generator/contrib$ cd ..
+]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ cd overviewer_core/
+]0;minecraft@li250-48: ~/projects/map_generator/overviewer_coreminecraft@li250-48:~/projects/map_generator/overviewer_core$ ls
+assetmanager.py   configParser.pyc  files.py      logger.py          optimizeimages.pyc      settingsDefinition.py   signals.pyc   tileset.pyc
+assetmanager.pyc  [0m[01;32mc_overviewer.so[0m   files.pyc     logger.pyc         overviewer_version.py   settingsDefinition.pyc  [01;34msrc[0m           util.py
+cache.py          [01;34mdata[0m              __init__.py   nbt.py             overviewer_version.pyc  settingsValidators.py   textures.py   util.pyc
+cache.pyc         dispatcher.py     __init__.pyc  nbt.pyc            rendermodes.py          settingsValidators.pyc  textures.pyc  world.py
+configParser.py   dispatcher.pyc    items.py      optimizeimages.py  rendermodes.pyc         signals.py              tileset.py    world.pyc
+[m]0;minecraft@li250-48: ~/projects/map_generator/overviewer_coreminecraft@li250-48:~/projects/map_generator/overviewer_core$ cd ..
+]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls
+blocksoc_config.py  [0m[01;34mcontrib[0m            CONTRIBUTORS.rst  [01;34mdocs[0m       MANIFEST.in      [01;32moverviewer.py[0m  [01;32msetup.py[0m     [01;34mtest[0m
+[01;34mbuild[0m               [01;32mcontribManager.py[0m  COPYING.txt       [01;32mgenPOI.py[0m  [01;34moverviewer_core[0m  README.rst     [01;35mterrain.png[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ cd ..[K[K[K[K[Kcd ..
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd logger/
+]0;minecraft@li250-48: ~/projects/loggerminecraft@li250-48:~/projects/logger$ ls
+config.py  config.pyc  [0m[01;34mhook[0m  logger.py
+[m]0;minecraft@li250-48: ~/projects/loggerminecraft@li250-48:~/projects/logger$ cd ..
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd ..
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps.old[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd [K[K[Kmv maps.old/ maps
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd maps/
+]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ ls
+backbone.js             [0m[01;35mcompass_lower-right.png[0m  [01;35mcontrol-bg-active.png[0m  [01;34mnether[0m               overviewer.js  [01;35msignpost_icon.png[0m    underscore.js
+baseMarkers.js          [01;35mcompass_upper-left.png[0m   [01;35mcontrol-bg.png[0m         overviewerConfig.js  [01;34moverworld[0m      [01;35msignpost.png[0m
+[01;35mcompass_lower-left.png[0m  [01;35mcompass_upper-right.png[0m  index.html             overviewer.css       regions.js     [01;35msignpost-shadow.png[0m
+[m]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ cd ..
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd projects/
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd scripts/
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ls
+[0m[01;34mbackup[0m  [01;34mmap[0m  [01;32mmap_update.sh[0m  README
+[m]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ cd map
+]0;minecraft@li250-48: ~/projects/scripts/mapminecraft@li250-48:~/projects/scripts/map$ ls
+]0;minecraft@li250-48: ~/projects/scripts/mapminecraft@li250-48:~/projects/scripts/map$ ls
+]0;minecraft@li250-48: ~/projects/scripts/mapminecraft@li250-48:~/projects/scripts/map$ cd ..
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ls
+[0m[01;34mbackup[0m  [01;34mmap[0m  [01;32mmap_update.sh[0m  README
+[m]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ cd backup/
+]0;minecraft@li250-48: ~/projects/scripts/backupminecraft@li250-48:~/projects/scripts/backup$ ls
+backup_list  [0m[01;32mbackup.sh[0m
+[m]0;minecraft@li250-48: ~/projects/scripts/backupminecraft@li250-48:~/projects/scripts/backup$ cd ..
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ls
+[0m[01;34mbackup[0m  [01;34mmap[0m  [01;32mmap_update.sh[0m  README
+[m]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ls -la
+total 24
+drwxr-xr-x 4 minecraft minecraft 4096 2012-03-21 19:51 [0m[01;34m.[0m
+drwxr-xr-x 5 minecraft minecraft 4096 2012-03-24 07:22 [01;34m..[0m
+drwxr-xr-x 2 minecraft minecraft 4096 2012-03-21 19:50 [01;34mbackup[0m
+drwxr-xr-x 2 minecraft minecraft 4096 2012-03-21 19:51 [01;34mmap[0m
+-rwxr-xr-x 1 minecraft minecraft  183 2012-03-21 18:56 [01;32mmap_update.sh[0m
+-rw-r--r-- 1 minecraft minecraft  200 2012-03-21 18:55 README
+[m]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ cd [K[K[Kcat map_update.sh 
+#!/bin/bash
+# Simple script to update the map overview.
+python /home/minecraft/projects/map_generator/overviewer.py --config=/home/minecraft/projects/map_generator/blocksoc_config.py
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ cd ..
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd ..
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ mkdir[K[K[K[K[Kls -la
+total 724476
+drwxr-xr-x 10 minecraft minecraft      4096 2012-03-24 08:38 [0m[01;34m.[0m
+drwxr-xr-x  3 root      root           4096 2012-03-20 05:01 [01;34m..[0m
+drwxr-xr-x  2 minecraft minecraft      4096 2012-03-23 21:04 [01;34mbackup[0m
+-rw-------  1 minecraft minecraft     12856 2012-03-24 07:35 .bash_history
+-rw-r--r--  1 minecraft minecraft       220 2012-03-20 05:01 .bash_logout
+-rw-r--r--  1 minecraft minecraft      3103 2012-03-20 05:01 .bashrc
+-rw-r--r--  1 minecraft minecraft 741048157 2012-03-20 05:35 bk.mcb
+drwxr-xr-x  6 minecraft minecraft      4096 2012-03-23 21:29 [01;34mbukkit[0m
+drwx------  2 minecraft minecraft      4096 2012-03-20 05:03 [01;34m.cache[0m
+drwxr-xr-x  4 minecraft minecraft      4096 2012-03-24 08:30 [01;34mmaps[0m
+drwxr-xr-x  4 minecraft minecraft      4096 2012-03-21 02:54 [01;34mobsolete_stuff[0m
+-rw-r--r--  1 minecraft minecraft       675 2012-03-20 05:01 .profile
+drwxr-xr-x  5 minecraft minecraft      4096 2012-03-24 07:22 [01;34mprojects[0m
+-rw-r--r--  1 minecraft minecraft       235 2012-03-20 05:53 README
+drwx------  2 minecraft minecraft      4096 2012-03-20 05:58 [01;34m.ssh[0m
+drwxr-xr-x  6 minecraft minecraft      4096 2012-03-23 21:03 [01;34mtnt_event[0m
+-rw-------  1 minecraft minecraft      7732 2012-03-21 19:50 .viminfo
+-rw-------  1 minecraft minecraft       108 2012-03-22 03:20 .Xauthority
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd backup/
+]0;minecraft@li250-48: ~/backupminecraft@li250-48:~/backup$ ls
+[0m[01;31mbukkit_transition.tar[0m  servercraft.mcb  [01;31mtnt_event_end.tar[0m  [01;31mtnt_event.tar[0m
+[m]0;minecraft@li250-48: ~/backupminecraft@li250-48:~/backup$ cd ..
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd projects/[K[K[K[K[K[K[K[K[K[K[K[Kcd bukkit/
+]0;minecraft@li250-48: ~/bukkitminecraft@li250-48:~/bukkit$ ls
+banned-ips.txt      bukkit.yml             help.yml         [0m[01;34mplugins[0m     server.log.after.tnt  [01;32mstart.sh[0m        [01;34mworld_nether[0m
+banned-players.txt  [01;31mcraftbukkit.1.2.3.jar[0m  ops.txt          [01;32mresume.sh[0m   server.log.lck        white-list.txt  [01;34mworld_the_end[0m
+[01;31mbk.tar[0m              [01;31mcraftbukkit-dev.jar[0m    permissions.yml  server.log  server.properties     [01;34mworld[0m
+[m]0;minecraft@li250-48: ~/bukkitminecraft@li250-48:~/bukkit$ cd ..
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd tnt_event/
+]0;minecraft@li250-48: ~/tnt_eventminecraft@li250-48:~/tnt_event$ ls
+banned-ips.txt      bukkit.yml             help.yml              ops.txt          [0m[01;34mplugins[0m    server.log         [01;32mstart_event[0m  white-list.txt  [01;34mworld_nether[0m
+banned-players.txt  [01;31mcraftbukkit.1.2.3.jar[0m  [01;31mminecraft_server.jar[0m  permissions.yml  [01;32mresume.sh[0m  server.properties  [01;32mstart.sh[0m     [01;34mworld[0m           [01;34mworld_the_end[0m
+[m]0;minecraft@li250-48: ~/tnt_eventminecraft@li250-48:~/tnt_event$ cd ..
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd projects/[K[K[K[K[K[K[K[K[K[K[K[Kcd projects/
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ sl[K[Kls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ fdisk -l
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ df
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/xvda             40525728  21597208  17261288  56% /
+devtmpfs                511852       112    511740   1% /dev
+none                    512044         0    512044   0% /dev/shm
+none                    512044        52    511992   1% /var/run
+none                    512044         0    512044   0% /var/lock
+none                    512044         0    512044   0% /lib/init/rw
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd .[K[K[K[Kcd map_generator/
+]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls
+blocksoc_config.py  [0m[01;34mcontrib[0m            CONTRIBUTORS.rst  [01;34mdocs[0m       MANIFEST.in      [01;32moverviewer.py[0m  [01;32msetup.py[0m     [01;34mtest[0m
+[01;34mbuild[0m               [01;32mcontribManager.py[0m  COPYING.txt       [01;32mgenPOI.py[0m  [01;34moverviewer_core[0m  README.rst     [01;35mterrain.png[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls -la
+total 228
+drwxr-xr-x 8 minecraft minecraft  4096 2012-03-21 19:12 [0m[01;34m.[0m
+drwxr-xr-x 5 minecraft minecraft  4096 2012-03-24 07:22 [01;34m..[0m
+-rw-r--r-- 1 minecraft minecraft  1180 2012-03-24 07:25 blocksoc_config.py
+drwxr-xr-x 5 minecraft minecraft  4096 2012-03-20 07:54 [01;34mbuild[0m
+drwxr-xr-x 2 minecraft minecraft  4096 2012-03-20 07:53 [01;34mcontrib[0m
+-rwxr-xr-x 1 minecraft minecraft  2425 2012-03-20 07:53 [01;32mcontribManager.py[0m
+-rw-r--r-- 1 minecraft minecraft  2140 2012-03-20 07:53 CONTRIBUTORS.rst
+-rw-r--r-- 1 minecraft minecraft 35147 2012-03-20 07:53 COPYING.txt
+drwxr-xr-x 4 minecraft minecraft  4096 2012-03-21 18:59 [01;34mdocs[0m
+-rwxr-xr-x 1 minecraft minecraft  4471 2012-03-20 07:53 [01;32mgenPOI.py[0m
+drwxr-xr-x 8 minecraft minecraft  4096 2012-03-21 18:59 [01;34m.git[0m
+-rw-r--r-- 1 minecraft minecraft   675 2012-03-20 07:53 .gitignore
+-rw-r--r-- 1 minecraft minecraft   116 2012-03-20 07:53 .gitmodules
+-rw-r--r-- 1 minecraft minecraft   400 2012-03-20 07:53 MANIFEST.in
+drwxr-xr-x 4 minecraft minecraft  4096 2012-03-21 19:13 [01;34moverviewer_core[0m
+-rwxr-xr-x 1 minecraft minecraft 19417 2012-03-20 07:53 [01;32moverviewer.py[0m
+-rw-r--r-- 1 minecraft minecraft  3064 2012-03-20 07:53 README.rst
+-rwxr-xr-x 1 minecraft minecraft 10451 2012-03-20 07:53 [01;32msetup.py[0m
+-rw-r--r-- 1 minecraft minecraft 86269 2012-03-20 08:07 [01;35mterrain.png[0m
+drwxr-xr-x 3 minecraft minecraft  4096 2012-03-20 07:53 [01;34mtest[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ cd //
+]0;minecraft@li250-48: //minecraft@li250-48://$ cd ~
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd projects/[K
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls -la
+total 112
+drwxr-xr-x  5 minecraft minecraft  4096 2012-03-24 07:22 [0m[01;34m.[0m
+drwxr-xr-x 10 minecraft minecraft  4096 2012-03-24 08:38 [01;34m..[0m
+drwxr-xr-x  3 minecraft minecraft  4096 2012-03-20 10:39 [01;34mlogger[0m
+drwxr-xr-x  8 minecraft minecraft  4096 2012-03-21 19:12 [01;34mmap_generator[0m
+drwxr-xr-x  4 minecraft minecraft  4096 2012-03-21 19:51 [01;34mscripts[0m
+-rw-r--r--  1 minecraft minecraft 90112 2012-03-24 08:41 typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd map_generator/
+]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls
+blocksoc_config.py  [0m[01;34mcontrib[0m            CONTRIBUTORS.rst  [01;34mdocs[0m       MANIFEST.in      [01;32moverviewer.py[0m  [01;32msetup.py[0m     [01;34mtest[0m
+[01;34mbuild[0m               [01;32mcontribManager.py[0m  COPYING.txt       [01;32mgenPOI.py[0m  [01;34moverviewer_core[0m  README.rst     [01;35mterrain.png[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ cat setup.py 
+#!/usr/bin/env python
+
+from distutils.core import setup
+from distutils.extension import Extension
+from distutils.command.build import build
+from distutils.command.clean import clean
+from distutils.command.build_ext import build_ext
+from distutils.command.sdist import sdist
+from distutils.cmd import Command
+from distutils.dir_util import remove_tree
+from distutils.sysconfig import get_python_inc
+from distutils import log
+import sys, os, os.path
+import glob
+import platform
+import time
+import overviewer_core.util as util
+import numpy
+
+try:
+    import py2exe
+except ImportError:
+    py2exe = None
+
+try:
+    import py2app
+    from setuptools.extension import Extension
+except ImportError:
+    py2app = None
+
+# make sure our current working directory is the same directory
+# setup.py is in
+curdir = os.path.split(sys.argv[0])[0]
+if curdir:
+    os.chdir(curdir)
+
+# now, setup the keyword arguments for setup
+# (because we don't know until runtime if py2exe/py2app is available)
+setup_kwargs = {}
+setup_kwargs['ext_modules'] = []
+setup_kwargs['cmdclass'] = {}
+setup_kwargs['options'] = {}
+
+#
+# metadata
+#
+
+# Utility function to read the README file.
+# Used for the long_description.  It's nice, because now 1) we have a top level
+# README file and 2) it's easier to type in the README file than to put a raw
+# string in below ...
+def read(fname):
+    return open(fname).read()
+
+setup_kwargs['name'] = 'Minecraft-Overviewer'
+setup_kwargs['version'] = util.findGitVersion()
+setup_kwargs['description'] = 'Generates large resolution images of a Minecraft map.'
+setup_kwargs['url'] = 'http://overviewer.org/'
+setup_kwargs['author'] = 'Andrew Brown'
+setup_kwargs['author_email'] = 'brownan@gmail.com'
+setup_kwargs['license'] = 'GNU General Public License v3'
+setup_kwargs['long_description'] = read('README.rst')
+
+# top-level files that should be included as documentation
+doc_files = ['COPYING.txt', 'README.rst', 'CONTRIBUTORS.rst', 'sample_config.py']
+
+# helper to create a 'data_files'-type sequence recursively for a given dir
+def recursive_data_files(src, dest=None):
+    if dest is None:
+        dest = src
+
+    ret = []
+    for dirpath, dirnames, filenames in os.walk(src):
+        current_dest = os.path.relpath(dirpath, src)
+        if current_dest == '.':
+            current_dest = dest
+        else:
+            current_dest = os.path.join(dest, current_dest)
+
+        current_sources = map(lambda p: os.path.join(dirpath, p), filenames)
+
+        ret.append((current_dest, current_sources))
+    return ret
+
+# helper to create a 'package_data'-type sequence recursively for a given dir
+def recursive_package_data(src, package_dir='overviewer_core'):
+    full_src = os.path.join(package_dir, src)
+    ret = []
+    for dirpath, dirnames, filenames in os.walk(full_src, topdown=False):
+        current_path = os.path.relpath(dirpath, package_dir)
+        for filename in filenames:
+            ret.append(os.path.join(current_path, filename))
+
+    return ret
+
+#
+# py2exe options
+#
+
+if py2exe is not None:
+    setup_kwargs['comments'] = "http://overviewer.org"
+    # py2exe likes a very particular type of version number:
+    setup_kwargs['version'] = util.findGitVersion().replace("-",".")
+
+    setup_kwargs['console'] = ['overviewer.py', 'contribManager.py']
+    setup_kwargs['data_files'] = [('', doc_files)]
+    setup_kwargs['data_files'] += recursive_data_files('overviewer_core/data/textures', 'textures')
+    setup_kwargs['data_files'] += recursive_data_files('overviewer_core/data/web_assets', 'web_assets')
+    setup_kwargs['data_files'] += recursive_data_files('overviewer_core/data/js_src', 'js_src')
+    setup_kwargs['data_files'] += recursive_data_files('contrib', 'contrib')
+    setup_kwargs['zipfile'] = None
+    if platform.system() == 'Windows' and '64bit' in platform.architecture():
+        b = 3
+    else:
+        b = 1
+    setup_kwargs['options']['py2exe'] = {'bundle_files' : b, 'excludes': 'Tkinter', 'includes':['fileinput', 'overviewer_core.items']}
+
+#
+# py2app options
+#
+
+if py2app is not None:
+    setup_kwargs['app'] = ['overviewer.py']
+    setup_kwargs['options']['py2app'] = {'argv_emulation' : False}
+    setup_kwargs['setup_requires'] = ['py2app']
+
+#
+# script, package, and data
+#
+
+setup_kwargs['packages'] = ['overviewer_core']
+setup_kwargs['scripts'] = ['overviewer.py']
+setup_kwargs['package_data'] = {'overviewer_core': recursive_package_data('data/textures') + recursive_package_data('data/web_assets') + recursive_package_data('data/js_src')}
+
+if py2exe is None:
+    setup_kwargs['data_files'] = [('share/doc/minecraft-overviewer', doc_files)]
+
+
+#
+# c_overviewer extension
+#
+
+# Third-party modules - we depend on numpy for everything
+# Obtain the numpy include directory.  This logic works across numpy versions.
+try:
+    numpy_include = numpy.get_include()
+except AttributeError:
+    numpy_include = numpy.get_numpy_include()
+
+try:
+    pil_include = os.environ['PIL_INCLUDE_DIR'].split(os.pathsep)
+except Exception:
+    pil_include = [ os.path.join(get_python_inc(plat_specific=1), 'Imaging') ]
+    if not os.path.exists(pil_include[0]):
+        pil_include = [ ]
+
+
+# used to figure out what files to compile
+# auto-created from files in primitives/, but we need the raw names so
+# we can use them later.
+primitives = []
+for name in glob.glob("overviewer_core/src/primitives/*.c"):
+    name = os.path.split(name)[-1]
+    name = os.path.splitext(name)[0]
+    primitives.append(name)
+
+c_overviewer_files = ['main.c', 'composite.c', 'iterate.c', 'endian.c', 'rendermodes.c']
+c_overviewer_files += map(lambda mode: 'primitives/%s.c' % (mode,), primitives)
+c_overviewer_files += ['Draw.c']
+c_overviewer_includes = ['overviewer.h', 'rendermodes.h']
+
+c_overviewer_files = map(lambda s: 'overviewer_core/src/'+s, c_overviewer_files)
+c_overviewer_includes = map(lambda s: 'overviewer_core/src/'+s, c_overviewer_includes)
+
+setup_kwargs['ext_modules'].append(Extension('overviewer_core.c_overviewer', c_overviewer_files, include_dirs=['.', numpy_include] + pil_include, depends=c_overviewer_includes, extra_link_args=[]))
+
+
+# tell build_ext to build the extension in-place
+# (NOT in build/)
+setup_kwargs['options']['build_ext'] = {'inplace' : 1}
+
+# custom clean command to remove in-place extension
+# and the version file, primitives header
+class CustomClean(clean):
+    def run(self):
+        # do the normal cleanup
+        clean.run(self)
+
+        # try to remove '_composite.{so,pyd,...}' extension,
+        # regardless of the current system's extension name convention
+        build_ext = self.get_finalized_command('build_ext')
+        ext_fname = build_ext.get_ext_filename('overviewer_core.c_overviewer')
+        versionpath = os.path.join("overviewer_core", "overviewer_version.py")
+        primspath = os.path.join("overviewer_core", "src", "primitives.h")
+
+        for fname in [ext_fname, primspath]:
+            if os.path.exists(fname):
+                try:
+                    log.info("removing '%s'", fname)
+                    if not self.dry_run:
+                        os.remove(fname)
+
+                except OSError:
+                    log.warn("'%s' could not be cleaned -- permission denied",
+                             fname)
+            else:
+                log.debug("'%s' does not exist -- can't clean it",
+                          fname)
+
+        # now try to purge all *.pyc files
+        for root, dirs, files in os.walk(os.path.join(os.path.dirname(__file__), ".")):
+            for f in files:
+                if f.endswith(".pyc"):
+                    if self.dry_run:
+                        log.warn("Would remove %s", os.path.join(root,f))
+                    else:
+                        os.remove(os.path.join(root, f))
+
+def generate_version_py():
+    try:
+        outstr = ""
+        outstr += "VERSION=%r\n" % util.findGitVersion()
+        outstr += "HASH=%r\n" % util.findGitHash()
+        outstr += "BUILD_DATE=%r\n" % time.asctime()
+        outstr += "BUILD_PLATFORM=%r\n" % platform.processor()
+        outstr += "BUILD_OS=%r\n" % platform.platform()
+        f = open("overviewer_core/overviewer_version.py", "w")
+        f.write(outstr)
+        f.close()
+    except Exception:
+        print "WARNING: failed to build overviewer_version file"
+
+def generate_primitives_h():
+    global primitives
+    prims = [p.lower().replace('-', '_') for p in primitives]
+
+    outstr = "/* this file is auto-generated by setup.py */\n"
+    for p in prims:
+        outstr += "extern RenderPrimitiveInterface primitive_{0};\n".format(p)
+    outstr += "static RenderPrimitiveInterface *render_primitives[] = {\n"
+    for p in prims:
+        outstr += "    &primitive_{0},\n".format(p)
+    outstr += "    NULL\n"
+    outstr += "};\n"
+
+    with open("overviewer_core/src/primitives.h", "w") as f:
+        f.write(outstr)
+
+class CustomSDist(sdist):
+    def run(self):
+        # generate the version file
+        generate_version_py()
+        generate_primitives_h()
+        sdist.run(self)
+
+class CustomBuild(build):
+    def run(self):
+        # generate the version file
+        generate_version_py()
+        generate_primitives_h()
+        build.run(self)
+        print "\nBuild Complete"
+
+class CustomBuildExt(build_ext):
+    def build_extensions(self):
+        c = self.compiler.compiler_type
+        if c == "msvc":
+            # customize the build options for this compilier
+            for e in self.extensions:
+                e.extra_link_args.append("/MANIFEST")
+        if c == "unix":
+            # customize the build options for this compilier
+            for e in self.extensions:
+                e.extra_compile_args.append("-Wno-unused-variable") # quell some annoying warnings
+                e.extra_compile_args.append("-Wno-unused-function") # quell some annoying warnings
+                e.extra_compile_args.append("-Wdeclaration-after-statement")
+                p = platform.linux_distribution()
+                if not (p[0] == 'CentOS' and p[1][0] == '5'):
+                    e.extra_compile_args.append("-Werror=declaration-after-statement")
+
+
+        # build in place, and in the build/ tree
+        self.inplace = False
+        build_ext.build_extensions(self)
+        self.inplace = True
+        build_ext.build_extensions(self)
+
+
+setup_kwargs['cmdclass']['clean'] = CustomClean
+setup_kwargs['cmdclass']['sdist'] = CustomSDist
+setup_kwargs['cmdclass']['build'] = CustomBuild
+setup_kwargs['cmdclass']['build_ext'] = CustomBuildExt
+###
+
+setup(**setup_kwargs)
+
+]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls
+blocksoc_config.py  [0m[01;34mcontrib[0m            CONTRIBUTORS.rst  [01;34mdocs[0m       MANIFEST.in      [01;32moverviewer.py[0m  [01;32msetup.py[0m     [01;34mtest[0m
+[01;34mbuild[0m               [01;32mcontribManager.py[0m  COPYING.txt       [01;32mgenPOI.py[0m  [01;34moverviewer_core[0m  README.rst     [01;35mterrain.png[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ ls
+blocksoc_config.py  [0m[01;34mcontrib[0m            CONTRIBUTORS.rst  [01;34mdocs[0m       MANIFEST.in      [01;32moverviewer.py[0m  [01;32msetup.py[0m     [01;34mtest[0m
+[01;34mbuild[0m               [01;32mcontribManager.py[0m  COPYING.txt       [01;32mgenPOI.py[0m  [01;34moverviewer_core[0m  README.rst     [01;35mterrain.png[0m
+[m]0;minecraft@li250-48: ~/projects/map_generatorminecraft@li250-48:~/projects/map_generator$ cd ..
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd scripts/
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ls
+[0m[01;34mbackup[0m  [01;34mmap[0m  [01;32mmap_update.sh[0m  README
+[m]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ c[Kcat map_update.sh 
+#!/bin/bash
+# Simple script to update the map overview.
+python /home/minecraft/projects/map_generator/overviewer.py --config=/home/minecraft/projects/map_generator/blocksoc_config.py
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ls
+[0m[01;34mbackup[0m  [01;34mmap[0m  [01;32mmap_update.sh[0m  README
+[m]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ cd map
+]0;minecraft@li250-48: ~/projects/scripts/mapminecraft@li250-48:~/projects/scripts/map$ ls
+]0;minecraft@li250-48: ~/projects/scripts/mapminecraft@li250-48:~/projects/scripts/map$ cd ..
+]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ls
+[0m[01;34mbackup[0m  [01;34mmap[0m  [01;32mmap_update.sh[0m  README
+[m]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ ls -la
+total 24
+drwxr-xr-x 4 minecraft minecraft 4096 2012-03-21 19:51 [0m[01;34m.[0m
+drwxr-xr-x 5 minecraft minecraft 4096 2012-03-24 07:22 [01;34m..[0m
+drwxr-xr-x 2 minecraft minecraft 4096 2012-03-21 19:50 [01;34mbackup[0m
+drwxr-xr-x 2 minecraft minecraft 4096 2012-03-21 19:51 [01;34mmap[0m
+-rwxr-xr-x 1 minecraft minecraft  183 2012-03-21 18:56 [01;32mmap_update.sh[0m
+-rw-r--r-- 1 minecraft minecraft  200 2012-03-21 18:55 README
+[m]0;minecraft@li250-48: ~/projects/scriptsminecraft@li250-48:~/projects/scripts$ cd ..
+]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ ls
+[0m[01;34mlogger[0m  [01;34mmap_generator[0m  [01;34mscripts[0m  typescript
+[m]0;minecraft@li250-48: ~/projectsminecraft@li250-48:~/projects$ cd ..
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd projects/[K[K[K[K[K[K[K[K[K[Kmaps
+bash: cdmaps: command not found
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls[K[Kcd maps/
+]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ ls
+backbone.js             [0m[01;35mcompass_lower-right.png[0m  [01;35mcontrol-bg-active.png[0m  [01;34mnether[0m               overviewer.js  [01;35msignpost_icon.png[0m    underscore.js
+baseMarkers.js          [01;35mcompass_upper-left.png[0m   [01;35mcontrol-bg.png[0m         overviewerConfig.js  [01;34moverworld[0m      [01;35msignpost.png[0m
+[01;35mcompass_lower-left.png[0m  [01;35mcompass_upper-right.png[0m  index.html             overviewer.css       regions.js     [01;35msignpost-shadow.png[0m
+[m]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ cat index.html 
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Minecraft Overviewer</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Minecraft-Overviewer 0.9.59 (ec6e625)" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+
+<link rel="stylesheet" href="overviewer.css" type="text/css" />
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+<script type="text/javascript" src="underscore.js"></script>
+<script type="text/javascript" src="backbone.js"></script>
+<script type="text/javascript" src="overviewerConfig.js"></script>
+<script type="text/javascript" src="overviewer.js"></script>
+<script type="text/javascript" src="baseMarkers.js"></script>
+
+</head>
+
+<!-- Generated at: Sat, 24 Mar 2012 08:30:57 EDT -->
+<body onload="overviewer.util.initialize()">
+  <div id="mcmap"></div>
+</body>
+</html>
+]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ mv index.html index.html [K.bk
+]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ cp index.html.bk index.html.bk [K[K[K[K[Kl
+]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ nano index.html
+[?1049h[1;32r[m(B[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m[m(B[H[2J[0;7m(B  GNU nano 2.2.2                                        File: index.html                                                                                      [3;1H[0m(B[34m<!DOCTYPE html>[4d<html>[5d<head>[7d<title>[39;49m[m(BMinecraft Overviewer[34m</title>[9d<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />[10d<meta name="generator" content="Minecraft-Overviewer 0.9.59 (ec6e625)" />[11d<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />[13d<link rel="stylesheet" href="overviewer.css" type="text/css" />[15d<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>[16d<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>[18d<script type="text/javascript" src="underscore.js"></script>[19d<script type="text/javascript" src="backbone.js"></script>[20d<script type="text/javascript" src="overviewerConfig.js"></script>[21d<script type="text/javascript" src="overviewer.js"></script>[22d<script type="text/javascript" src="baseMarkers.js"></script>[24d</head>[26d<!-- Generated at: Sat, 24 Mar 2012 08:30:57 EDT -->[27d<body onload="overviewer.util.initialize()">[28;3H<div id="mcmap"></div>[29d</body>[30;71H[39;49m[0;7m(B[ Read 28 lines ][31d^G[m(B Get Help[31;27H[0;7m(B^O[m(B WriteOut[31;53H[0;7m(B^R[m(B Read File[31;79H[0;7m(B^Y[m(B Prev Page[31;105H[0;7m(B^K[m(B Cut Text[31;131H[0;7m(B^C[m(B Cur Pos[32d[0;7m(B^X[m(B Exit[32;27H[0;7m(B^J[m(B Justify[32;53H[0;7m(B^W[m(B Where Is[32;79H[0;7m(B^V[m(B Next Page[32;105H[0;7m(B^U[m(B UnCut Text[32;131H[0;7m(B^T[m(B To Spell[3d[4d[5d[6d[7d[8d[9d[10d[11d[12d[13d[14d[15d[16d[17d[18d[19d[20d[21d[22d[23d[24d[25d[26d[27d[28d[30d[K[A7[3;30r8[30d[14S[1;32r[16;1H[34m</html>[39;49m[m(B[17d[A[A[A[13;45H[C[1;149H[0;7m(BModified[13;43H[0m(B[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[34m>[39;49m[m(B[K[14d[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C                     [K  [34m<[39;49m[m(B[34mp[39;49m[m(B[34m>[39;49m[m(Btest[34m<[39;49m[m(B[34m/[39;49m[m(B[34mp[39;49m[m(B[34m>[39;49m[m(B[30d[0;7m(BSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                                                                                                  [31;1H Y[m(B Yes[K[32d[0;7m(B N[m(B No  [32;17H[0;7m(B^C[m(B Cancel[K[30;62H[0;7m(BFile Name to Write: index.html                              [31d^G[m(B Get Help[31;40H[0;7m(BM-D[m(B DOS Format[31;79H[0;7m(BM-A[m(B Append[31;118H[0;7m(BM-B[m(B Backup File[32d[0;7m(B^C[m(B Cancel[17G         [32;40H[0;7m(BM-M[m(B Mac Format[32;79H[0;7m(BM-P[m(B Prepend[30;31H[31d[39;49m[m(B[J[1;149H[0;7m(B        [30;70H[m(B[1K [0;7m(B[ Wrote 28 lines ][m(B[K[32;158H[32;1H[?1049l[?1l>]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ ls
+backbone.js             [0m[01;35mcompass_lower-right.png[0m  [01;35mcontrol-bg-active.png[0m  index.html.bk        overviewer.css  regions.js         [01;35msignpost-shadow.png[0m
+baseMarkers.js          [01;35mcompass_upper-left.png[0m   [01;35mcontrol-bg.png[0m         [01;34mnether[0m               overviewer.js   [01;35msignpost_icon.png[0m  underscore.js
+[01;35mcompass_lower-left.png[0m  [01;35mcompass_upper-right.png[0m  index.html             overviewerConfig.js  [01;34moverworld[0m       [01;35msignpost.png[0m
+[m]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ mv [K[K[Krm index.html
+]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ mv index.html.bk index.html.bk [K[K[K[K[K
+]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ mv index.htm index.htm l[K[Kl
+]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ ls
+backbone.js             [0m[01;35mcompass_lower-right.png[0m  [01;35mcontrol-bg-active.png[0m  [01;34mnether[0m               overviewer.js  [01;35msignpost_icon.png[0m    underscore.js
+baseMarkers.js          [01;35mcompass_upper-left.png[0m   [01;35mcontrol-bg.png[0m         overviewerConfig.js  [01;34moverworld[0m      [01;35msignpost.png[0m
+[01;35mcompass_lower-left.png[0m  [01;35mcompass_upper-right.png[0m  index.html             overviewer.css       regions.js     [01;35msignpost-shadow.png[0m
+[m]0;minecraft@li250-48: ~/mapsminecraft@li250-48:~/maps$ cd ..
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ cd backup/
+]0;minecraft@li250-48: ~/backupminecraft@li250-48:~/backup$ ls
+[0m[01;31mbukkit_transition.tar[0m  servercraft.mcb  [01;31mtnt_event_end.tar[0m  [01;31mtnt_event.tar[0m
+[m]0;minecraft@li250-48: ~/backupminecraft@li250-48:~/backup$ cd ..
+]0;minecraft@li250-48: ~minecraft@li250-48:~$ ls
+[0m[01;34mbackup[0m  bk.mcb  [01;34mbukkit[0m  [01;34mmaps[0m  [01;34mobsolete_stuff[0m  [01;34mprojects[0m  README  [01;34mtnt_event[0m
+[m]0;minecraft@li250-48: ~minecraft@li250-48:~$ exit
+exit
+
+Script done on Sat 24 Mar 2012 09:58:08 PM EDT

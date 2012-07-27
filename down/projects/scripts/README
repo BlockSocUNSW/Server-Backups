@@ -1,0 +1,5 @@
+README
+-------------------
+Every script in this directory is executed by a cron job. These include
+small tasks like pushing out updates of the map, moving around things on
+the webserver and the like.

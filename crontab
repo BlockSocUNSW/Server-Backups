@@ -1,0 +1,11 @@
+# m h  dom mon dow   command
+
+#server backups
+0 8 * * * /home/minecraft/projects/scripts/backup.py
+
+#map updates
+30 8 * * * /home/minecraft/projects/scripts/map_update.sh
+
+#web  updates
+#0 8 * * * /home/minecraft/projects/scripts/www_update.sh
+
